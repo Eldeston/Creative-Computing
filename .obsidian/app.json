@@ -1,0 +1,10 @@
+{
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "livePreview": true,
+  "showInlineTitle": true,
+  "showRibbon": true,
+  "showIndentGuide": true,
+  "propertiesInDocument": "visible"
+}
