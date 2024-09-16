@@ -13,7 +13,7 @@ Revenue is lost to small content creators that depend on selling their software 
 - Service Issues - Some paid services provide services that are terrible than their pirated counterparts.
 - Financial Issues - Countries with low gross domestic product (GDP) tend to suffer most with piracy especially those in poverty.
 
-Most of the reasons why people pirate were either 2 things - service issues and financial issues. Service issues are problems that comes from the service itself. For example Netflix does not allow you to watch videos in 4K on a computer compared to on an Android TV.  Digital Rights Management (DRM) software that requires users to be online or causing performance issues. Adobe requiring 
+Most of the reasons why people pirate were either 2 things - service issues and financial issues. Service issues are problems that comes from the service itself. For example Netflix does not allow you to watch videos in 4K on a computer compared to on an Android TV.  Digital Rights Management (DRM) software that requires users to be online or causing performance issues. Adobe requiring users to allow them to use their works for artificial intelligence. Another reason is financial issues. This is especially true for people in poverty or in third world countries with low Gross Domestic Product (GDP). The list goes on.
 ## The Solution
 - Better Pricing - Products/services should be priced accordingly to the countries' inflation rate.
 - Better Service - Services should do better than their pirated counterparts.
