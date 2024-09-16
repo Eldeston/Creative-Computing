@@ -3,9 +3,9 @@
 - Old Age - Piracy is defined by sailors plundering merchant ships in the open seas.
 - Modern Age - Online piracy is defined by copying and distributing copyrighted software illegally.
 
-In the old ages, piracy is defined by sailors plundering merchant ships in the open seas. The goods would then be sold into the black market. Today in the digital world, piracy is defined by the act of copying files and distributing them illegally.
+In the old ages, piracy is defined by sailors plundering merchant ships in the open seas. The goods would then be sold into the black market. Today in the digital world, piracy is defined by the act of copying files and distributing them illegally. Ultimately, piracy in the act of stealing and piracy in the act of copying are fundamentally different.
 ## The Problem
-- Lost Revenue - Billions of dollars were lost to online piracy.
+- Lost Revenue - Billions of dollars were lost to online piracy. < Does this point matter?
 - Vulnerabilities - Many users were vulnerable to all kinds of malware and phishing.
 ## The Reason
 - Third World Countries - Countries with low gross domestic product (GDP) tend to suffer most with piracy especially those in poverty.
