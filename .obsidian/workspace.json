@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ffe3538f763c86fd",
+        "id": "9315505d793f4063",
         "type": "tabs",
         "children": [
           {
-            "id": "bdac31175edec149",
+            "id": "b6b6022bf44cfa80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Semester 01/Class 02/Narrative Writing - FlameRender Studios.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Semester 01/Class 02/Narrative Writing - FlameRender Studios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Semester 01/Class 02/Narrative Writing - FlameRender Studios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Semester 01/Class 02/Narrative Writing - FlameRender Studios.md"
+              }
             }
           },
           {
@@ -148,12 +157,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdac31175edec149",
+  "active": "b6b6022bf44cfa80",
   "lastOpenFiles": [
+    "Semester 01/Class 02/~$Lecture 2 - Digital Storytelling.pptx",
     "2024-09-16.md",
     "Semester 01/Class 02/Narrative Writing - FlameRender Studios.md",
     "Semester 01/Class 02/Expository Writing - Piracy.md",
-    "Semester 01/Class 02/~$Lecture 2 - Digital Storytelling.pptx",
     "Semester 01/Class 01/Lecture 1 - Digital Visual Design.pdf",
     "Semester 01/Class 01/Class 01 Portfolio.md",
     "Semester 01/Class 02/Brief L4 Digital Storytelling.pdf",
