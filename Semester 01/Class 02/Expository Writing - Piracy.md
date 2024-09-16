@@ -5,8 +5,10 @@
 
 In the old ages, piracy is defined by sailors plundering merchant ships in the open seas. The goods would then be sold into the black market. Today in the digital world, piracy is defined by the act of copying files and distributing them illegally. Ultimately, piracy in the act of stealing and piracy in the act of copying are fundamentally different.
 ## The Problem
-- Vulnerabilities - Many users were vulnerable to all kinds of malware and phishing.
-- 
+- Lost Revenue - Billions of dollars are lost to online piracy.
+- Vulnerabilities - Many users are vulnerable to all kinds of malware and phishing.
+
+Revenue is lost to small content creators that depend on selling their software from piracy. Controversially though, not all software are worthy and may demand ethical wisdom. Many users are also vulnerable to all kinds of malware and phishing scams
 ## The Reason
 - Third World Countries - Countries with low gross domestic product (GDP) tend to suffer most with piracy especially those in poverty.
 - Service Issues - Some paid services provide services that are terrible than their pirated counterparts.
