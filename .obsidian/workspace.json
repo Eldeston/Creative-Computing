@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77011607dae0800f",
+            "id": "3fca9639f0d37cf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 477.5
   },
   "right": {
     "id": "30cd0d9ae5a340a6",
@@ -138,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,25 +157,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77011607dae0800f",
+  "active": "bef5fff3a2fde0a1",
   "lastOpenFiles": [
     "Semester 01/Class 02/Narrative Writing - FlameRender Studios.md",
-    "Semester 01/Class 02/Class 02 Portfolio.md",
-    "Semester 01/Class 02/Brief L4 Digital Storytelling.pdf",
+    "Semester 01/Class 01/Lecture 1 - Digital Visual Design.pdf",
     "Semester 01/Class 01/Class 01 Portfolio.md",
-    "Semester 01/Class 02/Course Specification L4 Digital Storytelling.pdf",
-    "Semester 01/Class 01/Lecture - 1  DVD  L4.pdf",
-    "Semester 01/Class 03/Class 03 Portfolio.md",
-    "Semester 01/Class 02/Expository Writing - Piracy.md",
+    "Semester 01/Class 02/Brief L4 Digital Storytelling.pdf",
     "Semester 01/Class 02/~$_Lectures _ Digital Storytelling.pptx",
-    "Semester 01/Class 02/_Lectures _ Digital Storytelling.pptx",
+    "Important/Calendar of Activities - AY 2024 -2025.pdf",
+    "Important/CC L4 Cohort 1 & 2.pdf",
+    "README.md",
+    "Important/Sem 1 Morning 2024-2025 TIMETABLES.pdf",
+    "Important/Study Lab Login Credential Frem.pdf",
+    "Important",
+    "Semester 01/Class 02/Expository Writing - Piracy.md",
+    "Semester 01/Class 02/Class 02 Portfolio.md",
+    "Semester 01/Class 02/Course Specification L4 Digital Storytelling.pdf",
+    "Semester 01/Class 03/Class 03 Portfolio.md",
+    "Semester 01/Class 02/Lecture 2 - Digital Storytelling.pptx",
     "Untitled.canvas",
     "2024-09-16.md",
-    "Calendar of Activities - AY 2024 -2025.pdf",
-    "Semester 01/Class 01.md",
-    "Study Lab Login Credential Frem.pdf",
-    "Sem 1 Morning 2024-2025 TIMETABLES.pdf",
-    "Sem 1 Evening 2024-2025 TIMETABLES.pdf",
-    "Progression Policy October 2023 - Metaverse (2).pdf"
+    "Semester 01/Class 01.md"
   ]
 }

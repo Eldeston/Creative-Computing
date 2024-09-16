@@ -6,5 +6,6 @@
   "showInlineTitle": true,
   "showRibbon": true,
   "showIndentGuide": true,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "showUnsupportedFiles": true
 }
