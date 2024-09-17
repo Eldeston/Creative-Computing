@@ -4,19 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "9315505d793f4063",
+        "id": "0b8f3d00227911f3",
         "type": "tabs",
+        "dimension": 42.124105011933175,
         "children": [
           {
-            "id": "b6b6022bf44cfa80",
+            "id": "5f8b166b6f2f884b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 01/Class 02/Expository Writing - Piracy.md",
+                "file": "Semester 01/Class 04/Class 04 Portfolio.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0e81b7bb38270b90",
+        "type": "tabs",
+        "dimension": 57.875894988066825,
+        "children": [
+          {
+            "id": "a62acc3897026a4d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Semester 01/Class 01/Lecture 1 - Digital Visual Design.pdf"
               }
             }
           }
@@ -86,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 01/Class 02/Expository Writing - Piracy.md",
+                "file": "Semester 01/Class 04/Class 04 Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 01/Class 02/Expository Writing - Piracy.md",
+                "file": "Semester 01/Class 04/Class 04 Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 01/Class 02/Expository Writing - Piracy.md"
+                "file": "Semester 01/Class 04/Class 04 Portfolio.md"
               }
             }
           },
@@ -157,26 +175,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6b6022bf44cfa80",
+  "active": "5f8b166b6f2f884b",
   "lastOpenFiles": [
-    "Semester 01/Class 02/~$PIRACY.pptx",
-    "Semester 01/Class 02/PIRACY.pptx",
-    "Semester 01/Class 02/Course Specification L4 Digital Storytelling.pdf",
-    "Semester 01/Class 02/Narrative Writing - FlameRender Studios.md",
+    "Semester 01/Class 04/Pasted image 20240917102536.png",
+    "Semester 01/Class 04/Pasted image 20240917102531.png",
+    "Semester 01/Class 04/Pasted image 20240917102403.png",
+    "Semester 01/Class 04/Pasted image 20240917102247.png",
+    "Semester 01/Class 04/Class 04 Portfolio.md",
+    "Semester 01/Class 03/Class 03 Portfolio.md",
+    "Semester 01/Class 01/Class 01 Portfolio.md",
+    "Semester 01/Class 01/Lecture 1 - Digital Visual Design.pdf",
     "Semester 01/Class 02/Expository Writing - Piracy.md",
+    "Semester 01/Class 04",
+    "Semester 01/Class 02/Narrative Writing - FlameRender Studios.md",
+    "Semester 01/Class 02/Class 02 Portfolio.md",
+    "Semester 01/Class 02/Brief L4 Digital Storytelling.pdf",
+    "2024-09-17.md",
+    "Semester 01/Class 02/PIRACY~93715.tmp",
+    "Semester 01/Class 02/~$PIRACY.pptx",
+    "Semester 01/Class 02/Course Specification L4 Digital Storytelling.pdf",
+    "Brief.md",
+    "Semester 01/Class 02/PIRACY.pptx",
     "Semester 01/Class 02/~$Lecture 2 - Digital Storytelling.pptx",
     "2024-09-16.md",
-    "Semester 01/Class 01/Lecture 1 - Digital Visual Design.pdf",
-    "Semester 01/Class 01/Class 01 Portfolio.md",
-    "Semester 01/Class 02/Brief L4 Digital Storytelling.pdf",
     "Semester 01/Class 02/~$_Lectures _ Digital Storytelling.pptx",
     "Important/Calendar of Activities - AY 2024 -2025.pdf",
-    "Important/CC L4 Cohort 1 & 2.pdf",
     "README.md",
-    "Important/Sem 1 Morning 2024-2025 TIMETABLES.pdf",
-    "Important/Study Lab Login Credential Frem.pdf",
-    "Semester 01/Class 02/Class 02 Portfolio.md",
-    "Semester 01/Class 03/Class 03 Portfolio.md",
     "Untitled.canvas",
     "Semester 01/Class 01.md"
   ]

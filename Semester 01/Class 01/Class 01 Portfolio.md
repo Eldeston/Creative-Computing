@@ -1,3 +1,1 @@
-# Digital Visual Design
-## Module Intro
-## Learning Outcomes
+# Digital Visual Design 1

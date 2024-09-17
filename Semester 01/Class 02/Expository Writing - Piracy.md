@@ -24,6 +24,8 @@ So how do we counter piracy? Taking down pirates will only make more. The soluti
 ## Applications
 - Piracy should never be justified in the first place, but it should be reduced.
 - People should support their favorite creators anywhere they can afford.
+
+Piracy should never be justified in the first place, but it should be reduced. While some people think piracy is justified against ill intent companies, or companies thinking it should be strictly illegal, 
 ## Some Examples
 - Steam - Provides a great service and has accumulated a large amount of loyal gamers.
 - Apple - As much as I hate to say it, Apple has been really amazing with their security but it is not suited for developers and people with holes in their pockets.

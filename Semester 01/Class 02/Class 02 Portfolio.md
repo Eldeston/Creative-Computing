@@ -12,6 +12,9 @@ To engage and persuade the audience your idea(s).
 ## Potential Resources
 * Aaron Swartz
 * Gabe Newell
+* [[Brief L4 Digital Storytelling.pdf]]
+* [[Course Specification L4 Digital Storytelling.pdf]]
+* [[Lecture 2 - Digital Storytelling.pptx]]
 * [Plan Your Digital Story | Digital Storytelling (umn.edu)](https://digitalstory.umn.edu/students/plan)
 * [Editing Documentaries | Sir Opifex - Cuts and Tricks for Emotional Storytelling | Kriscoart (youtube.com)](https://www.youtube.com/watch?v=COFpFGOSJV0)
 # Story Ideas
@@ -32,7 +35,7 @@ To engage and persuade the audience your idea(s).
 * Eric Barone - an indie developer prodigy.
 	Singlehandedly developed Stardew Valley.
 * Ethics - Should you use artificial intelligence.
-	Should AI be used in creating easier media?
+	Should AI be used in creating easier content?
 ## Narrative
 - 
 ## Descriptive
