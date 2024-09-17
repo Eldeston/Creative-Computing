@@ -6,7 +6,7 @@
       {
         "id": "0b8f3d00227911f3",
         "type": "tabs",
-        "dimension": 42.124105011933175,
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "5f8b166b6f2f884b",
@@ -18,23 +18,6 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0e81b7bb38270b90",
-        "type": "tabs",
-        "dimension": 57.875894988066825,
-        "children": [
-          {
-            "id": "a62acc3897026a4d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester 01/Class 01/Lecture 1 - Digital Visual Design.pdf"
               }
             }
           }
@@ -177,11 +160,19 @@
   },
   "active": "5f8b166b6f2f884b",
   "lastOpenFiles": [
+    "Pasted image 20240917105544.png",
+    "Pasted image 20240917105519.png",
+    "Semester 01/Class 04/Pasted image 20240917105331.png",
+    "Semester 01/Class 04/flameRenderLogo 1.gif",
+    "Semester 01/Class 04/flameRenderLogo.mp4",
+    "Editor.avi",
+    "Semester 01/Class 04/flameRenderLogo.gif",
+    "Semester 01/Class 04/thumbnail.png",
+    "Semester 01/Class 04/Pasted image 20240917102247.png",
+    "Semester 01/Class 04/Pasted image 20240917102403.png",
+    "Semester 01/Class 04/Class 04 Portfolio.md",
     "Semester 01/Class 04/Pasted image 20240917102536.png",
     "Semester 01/Class 04/Pasted image 20240917102531.png",
-    "Semester 01/Class 04/Pasted image 20240917102403.png",
-    "Semester 01/Class 04/Pasted image 20240917102247.png",
-    "Semester 01/Class 04/Class 04 Portfolio.md",
     "Semester 01/Class 03/Class 03 Portfolio.md",
     "Semester 01/Class 01/Class 01 Portfolio.md",
     "Semester 01/Class 01/Lecture 1 - Digital Visual Design.pdf",
@@ -198,8 +189,6 @@
     "Semester 01/Class 02/PIRACY.pptx",
     "Semester 01/Class 02/~$Lecture 2 - Digital Storytelling.pptx",
     "2024-09-16.md",
-    "Semester 01/Class 02/~$_Lectures _ Digital Storytelling.pptx",
-    "Important/Calendar of Activities - AY 2024 -2025.pdf",
     "README.md",
     "Untitled.canvas",
     "Semester 01/Class 01.md"
