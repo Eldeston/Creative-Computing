@@ -25,3 +25,13 @@ Research and write down 5 types of Graphic Design
 ## 8 Types of Graphic Design
 
 ## Visual Identity
+
+## Perspective, Position, and Context Matters
+- Perspective matters
+	- Aerial Perspective
+	- Landscape Perspective
+- Position matters
+	- Golden Ratio
+	- 3x3 Grid
+
+All points together create a context in our minds that defines a story that re
