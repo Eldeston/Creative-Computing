@@ -1,4 +1,5 @@
 # Digital Visual Design 2
+[Previous Class](../Class%2001/Class%2001%20Portfolio.md)
 ## Graphic Design
 Focuses on articulating meaning for example advertisements.
 - Inform users
@@ -26,6 +27,10 @@ Research and write down 5 types of Graphic Design
 
 ## Visual Identity
 
+## Psychological Perspective
+
+## Practical Perspective
+
 ## Perspective, Position, and Context Matters
 - Perspective matters
 	- Aerial Perspective
@@ -34,4 +39,7 @@ Research and write down 5 types of Graphic Design
 	- Golden Ratio
 	- 3x3 Grid
 
-All points together create a context in our minds that defines a story that re
+All points together create a context in our minds that defines a story that resonates to the user's brain through imagination.
+
+## Website Analysis
+Factorio has a consistent and elegant theme of steampunk, technology, and chaos yet in control. I wouldn't change anything about it as it resonates with my past experience as a developer, a problem solver, and a player. The website makes me wants me to expand, solve, develop, and conquer. The factory MUST GROW!
