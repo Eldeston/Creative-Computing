@@ -17,6 +17,8 @@ Most of the reasons why people pirate were either 2 things - service issues and 
 ## The Solution
 - Better Pricing - Products/services should be priced accordingly to the countries' inflation rate.
 - Better Service - Services should do better than their pirated counterparts.
+
+So how do we counter piracy? Taking down pirates will only make more. The solution is to solve at the root of the problem.
 ## The Applications
 - Piracy should never be justified in the first place, but it should be reduced.
 - People should support their favorite creators anywhere they can afford.
