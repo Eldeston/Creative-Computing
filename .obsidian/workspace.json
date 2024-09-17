@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0b8f3d00227911f3",
+        "id": "60ff6c6d4740fe85",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "5f8b166b6f2f884b",
+            "id": "159b92845d80ee4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 01/Class 02/Expository Writing - Piracy.md",
+                "file": "Semester 01/Class 04/Class 04 Portfolio.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 563.5
   },
   "right": {
     "id": "30cd0d9ae5a340a6",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 01/Class 02/Expository Writing - Piracy.md",
+                "file": "Semester 01/Class 04/Class 04 Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 01/Class 02/Expository Writing - Piracy.md",
+                "file": "Semester 01/Class 04/Class 04 Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 01/Class 02/Expository Writing - Piracy.md"
+                "file": "Semester 01/Class 04/Class 04 Portfolio.md"
               }
             }
           },
@@ -158,33 +157,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f8b166b6f2f884b",
+  "active": "159b92845d80ee4d",
   "lastOpenFiles": [
-    "Semester 01/Class 02/Narrative Writing - FlameRender Studios.md",
+    "Semester 01/Class 04/Pasted image 20240917102247.png",
     "Semester 01/Class 04/Class 04 Portfolio.md",
+    "Semester 01/Class 04/Pasted image 20240917105519.png",
     "Pasted image 20240917105544.png",
-    "Pasted image 20240917105519.png",
+    "Semester 01/Class 04/thumbnail.png",
     "Semester 01/Class 04/Pasted image 20240917105331.png",
+    "Semester 01/Class 04/Pasted image 20240917102536.png",
+    "Semester 01/Class 04/flameRenderLogo.gif",
     "Semester 01/Class 04/flameRenderLogo 1.gif",
+    "Semester 01/Class 02/Course Specification L4 Digital Storytelling.pdf",
+    "Semester 01/Class 02/Expository Writing - Piracy.md",
+    "Semester 01/Class 02/Class 02 Portfolio.md",
+    "Semester 01/Class 02/Brief L4 Digital Storytelling.pdf",
+    "Semester 01/Class 02/Narrative Writing - FlameRender Studios.md",
     "Semester 01/Class 04/flameRenderLogo.mp4",
     "Editor.avi",
-    "Semester 01/Class 04/flameRenderLogo.gif",
-    "Semester 01/Class 04/thumbnail.png",
-    "Semester 01/Class 04/Pasted image 20240917102247.png",
     "Semester 01/Class 04/Pasted image 20240917102403.png",
-    "Semester 01/Class 04/Pasted image 20240917102536.png",
     "Semester 01/Class 04/Pasted image 20240917102531.png",
     "Semester 01/Class 03/Class 03 Portfolio.md",
     "Semester 01/Class 01/Class 01 Portfolio.md",
     "Semester 01/Class 01/Lecture 1 - Digital Visual Design.pdf",
-    "Semester 01/Class 02/Expository Writing - Piracy.md",
     "Semester 01/Class 04",
-    "Semester 01/Class 02/Class 02 Portfolio.md",
-    "Semester 01/Class 02/Brief L4 Digital Storytelling.pdf",
     "2024-09-17.md",
     "Semester 01/Class 02/PIRACY~93715.tmp",
     "Semester 01/Class 02/~$PIRACY.pptx",
-    "Semester 01/Class 02/Course Specification L4 Digital Storytelling.pdf",
     "Brief.md",
     "Semester 01/Class 02/PIRACY.pptx",
     "Semester 01/Class 02/~$Lecture 2 - Digital Storytelling.pptx",

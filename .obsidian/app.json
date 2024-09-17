@@ -7,5 +7,7 @@
   "showRibbon": true,
   "showIndentGuide": true,
   "propertiesInDocument": "visible",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }

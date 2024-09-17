@@ -12,15 +12,15 @@ Focuses on the practical usage and aesthetics for example user interface.
 ## Activity
 Research and write down 5 types of Graphic Design
 - Portfolios
-![[Pasted image 20240917102247.png]]
+![Pasted image 20240917102247](Pasted%20image%2020240917102247.png)
 - Thumbnails
-![[thumbnail.png]]
+![thumbnail](thumbnail.png)
 - Logos
-![[flameRenderLogo 1.gif]]
+![flameRenderLogo](flameRenderLogo.gif)
 - Presentations
-![[Pasted image 20240917102536.png]]
+![Pasted image 20240917102536](Pasted%20image%2020240917102536.png)
 - Banners
-![[Pasted image 20240917105544.png]]
+![Pasted image 20240917105519](Pasted%20image%2020240917105519.png)
 [Factorio - Trailer 2020 (youtube.com)](https://www.youtube.com/watch?v=J8SBp4SyvLc)
 ## 8 Types of Graphic Design
 

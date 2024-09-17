@@ -12,9 +12,9 @@ To engage and persuade the audience your idea(s).
 ## Potential Resources
 * Aaron Swartz
 * Gabe Newell
-* [[Brief L4 Digital Storytelling.pdf]]
-* [[Course Specification L4 Digital Storytelling.pdf]]
-* [[Lecture 2 - Digital Storytelling.pptx]]
+* [Brief L4 Digital Storytelling](Brief%20L4%20Digital%20Storytelling.pdf)
+* [Lecture 2 - Digital Storytelling](Lecture%202%20-%20Digital%20Storytelling.pptx)
+* [Course Specification L4 Digital Storytelling](Course%20Specification%20L4%20Digital%20Storytelling.pdf)
 * [Plan Your Digital Story | Digital Storytelling (umn.edu)](https://digitalstory.umn.edu/students/plan)
 * [Editing Documentaries | Sir Opifex - Cuts and Tricks for Emotional Storytelling | Kriscoart (youtube.com)](https://www.youtube.com/watch?v=COFpFGOSJV0)
 # Story Ideas
