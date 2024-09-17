@@ -32,7 +32,3 @@ Piracy should never be justified in the first place, but it should be reduced. W
 # Resources
 - [Online piracy - Wikipedia](https://en.wikipedia.org/wiki/Online_piracy)
 - [(24) Piracy is COMPLETELY justified: Louis tries NetFlix & remembers why - YouTube](https://www.youtube.com/watch?v=o4GZUCwVRLs)
-
-> [!WARNING]
-> This is important
-
