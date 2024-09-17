@@ -19,7 +19,7 @@ Research and write down 5 types of Graphic Design
 ![[flameRenderLogo 1.gif]]
 - Presentations
 ![[Pasted image 20240917102536.png]]
-- Advertisements
+- Banners
 ![[Pasted image 20240917105544.png]]
 [Factorio - Trailer 2020 (youtube.com)](https://www.youtube.com/watch?v=J8SBp4SyvLc)
 ## 8 Types of Graphic Design
