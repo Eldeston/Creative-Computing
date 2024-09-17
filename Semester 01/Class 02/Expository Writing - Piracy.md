@@ -1,6 +1,6 @@
-# Piracy in the Open Seas
+# Piracy in the Open Internet Seas
 ## Introduction
-Hi, my name is Frem and my penname is Eldeston. This is my view of piracy in the open 
+Hi, my name is Frem and my penname is Eldeston. This is my view of piracy in the open internet seas.
 ## Definition
 - Old Age - Piracy is defined by sailors plundering merchant ships in the open seas.
 - Modern Age - Online piracy is defined by copying and distributing copyrighted software illegally.
