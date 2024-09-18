@@ -32,22 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "01e54d1c4d66b613",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 01/02 Digital Storytelling - Ms. Tyagi/Class 05/Class 05 Portfolio.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 01/02 Digital Storytelling - Ms. Tyagi/Class 05/Class 05 Portfolio.md",
+                "file": "Semester 01/02 Digital Storytelling - Ms. Tyagi/Class 02/Class 02 Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 01/02 Digital Storytelling - Ms. Tyagi/Class 05/Class 05 Portfolio.md",
+                "file": "Semester 01/02 Digital Storytelling - Ms. Tyagi/Class 02/Class 02 Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 01/02 Digital Storytelling - Ms. Tyagi/Class 05/Class 05 Portfolio.md"
+                "file": "Semester 01/02 Digital Storytelling - Ms. Tyagi/Class 02/Class 02 Portfolio.md"
               }
             }
           },
@@ -184,15 +171,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01e54d1c4d66b613",
+  "active": "159b92845d80ee4d",
   "lastOpenFiles": [
+    "Ms. Preeti Tyagi.md",
+    "Semester 01/02 Digital Storytelling - Ms. Tyagi/Class 02/Class 02 Portfolio.md",
+    "Semester 01/Tags",
+    "Semester 01/Classes.md",
+    "Semester 01/Vocabulary.md",
+    "Semester 01/02 Digital Storytelling - Ms. Tyagi/Class 05/Class 05 Portfolio.md",
     "Important/LPCP_V1.pdf",
     "Important/LPCP_V1..pdf",
     "Important/Sem 1 Evening 2024-25 TIMETABLES.pdf",
     "Important/Sem 1 Morning 2024-25 TIMETABLES.pdf",
     "Important/Sem 1 Evening 2024-25 TIMETABLES updated.pdf",
-    "Semester 01/02 Digital Storytelling - Ms. Tyagi/Class 02/Class 02 Portfolio.md",
-    "Semester 01/02 Digital Storytelling - Ms. Tyagi/Class 05/Class 05 Portfolio.md",
     "Semester 01/02 Digital Storytelling - Ms. Tyagi/Class 02/Assesments/Narrative Writing - FlameRender Studios.md",
     "Semester 01/02 Digital Storytelling - Ms. Tyagi/Class 02/Assesments/Expository Writing - Piracy (Depracated).md",
     "Semester 01/02 Digital Storytelling - Ms. Tyagi/Class 02/Resources/~$Lecture 2 - Digital Storytelling.pptx",
@@ -201,9 +192,7 @@
     "Semester 01/03 Intro to Programming - Ms. Lavanya/Class 03/Class 03 Portfolio.md",
     "Semester 01/03 Intro to Programming - Ms. Lavanya",
     "Semester 01/01 Digital Visual Design - Mr. Subhan Ali",
-    "Semester 01/02 Digital Storytelling - Ms. Tyagi",
     "Semester 01/01 Digital Visual Design - Mr. Subhan Ali/Class 01/Class 01 Portfolio.md",
-    "Important/Sem 1 Morning 2024-2025 TIMETABLES.pdf",
     "README.md",
     "Semester 01/01 Digital Visual Design - Mr. Subhan Ali/Class 04/Assets/Pasted image 20240917102536.png",
     "Semester 01/01 Digital Visual Design - Mr. Subhan Ali/Class 04/Assets/Pasted image 20240917102247.png",

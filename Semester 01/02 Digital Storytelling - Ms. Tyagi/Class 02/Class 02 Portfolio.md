@@ -1,6 +1,6 @@
 # Digital Storytelling 1
 *- Ms. Preeti Tyagi*
-[Next Class](../Class%2005/Class%2005%20Portfolio.md)
+[[Digital Story Telling]]
 ## Introduction
 Digital Storytelling introduces a variety of media making techniques and approaches to interactivity that serve storytelling.
 
