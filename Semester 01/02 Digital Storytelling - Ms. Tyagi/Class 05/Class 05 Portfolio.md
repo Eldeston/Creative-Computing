@@ -73,6 +73,7 @@ Facebook calls them “once-a-day moments,” and for advertisers, they can serv
 > *- Clint Eastwood, American actor, director, producer, and politician*
 
 ----------------------------------------------------------------
+*This marks the end of Class 02*
 ## Intellectual Property (IP)
 Intellectual property (IP) refers to creations of the mind: inventions, literary and artistic works, and symbols, names, images, and designs used in commerce.
 - **Ethical Concerns**
