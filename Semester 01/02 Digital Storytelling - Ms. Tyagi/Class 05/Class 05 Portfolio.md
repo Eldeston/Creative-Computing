@@ -71,6 +71,8 @@ Facebook calls them “once-a-day moments,” and for advertisers, they can serv
 
 > “You can tell any story 20 different ways. The trick is to pick one and go with it.”
 > *- Clint Eastwood, American actor, director, producer, and politician*
+
+----------------------------------------------------------------
 ## Intellectual Property (IP)
 Intellectual property (IP) refers to creations of the mind: inventions, literary and artistic works, and symbols, names, images, and designs used in commerce.
 - **Ethical Concerns**
