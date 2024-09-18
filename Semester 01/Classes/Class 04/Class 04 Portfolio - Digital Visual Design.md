@@ -1,5 +1,9 @@
 # Digital Visual Design 2
 Tags: [Digital Visual Design](../../Tags/Digital%20Visual%20Design.md)
+## Resources
+- 
+----------------------------------------------------------------
+# Editor's Notes
 ## Graphic Design
 Focuses on articulating meaning for example advertisements.
 - Inform users
@@ -13,15 +17,15 @@ Focuses on the practical usage and aesthetics for example user interface.
 ## Activity
 Research and write down 5 types of Graphic Design
 - Portfolios
-![Pasted image 20240917102247](Assets/Pasted%20image%2020240917102247.png)
+![Pasted image 20240917102247](../../Library/Pasted%20image%2020240917102247.png)
 - Thumbnails
-![thumbnail](Assets/thumbnail.png)
+![thumbnail](../../Library/thumbnail.png)
 - Logos
-![flameRenderLogo](Assets/flameRenderLogo.gif)
+![flameRenderLogo](../../Library/flameRenderLogo.gif)
 - Presentations
-![Pasted image 20240917102536](Assets/Pasted%20image%2020240917102536.png)
+![Pasted image 20240917102536](../../Library/Pasted%20image%2020240917102536.png)
 - Banners
-![Pasted image 20240917105519](Assets/Pasted%20image%2020240917105519.png)
+![Pasted image 20240917105519](../../Library/Pasted%20image%2020240917105519.png)
 [Factorio - Trailer 2020 (youtube.com)](https://www.youtube.com/watch?v=J8SBp4SyvLc)
 ## 8 Types of Graphic Design
 

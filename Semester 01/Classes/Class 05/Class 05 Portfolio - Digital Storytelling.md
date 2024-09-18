@@ -1,5 +1,5 @@
 # Digital Storytelling 2
-Tags: [Digital Story Telling](../../Tags/Digital%20Story%20Telling.md)
+Tags: [Digital Storytelling](../../Tags/Digital%20Storytelling.md)
 ## Patterns in Stories
 - Overcoming the Monster
 - Rags to Riches
@@ -112,12 +112,9 @@ The work belongs completely to the owner, and no one else may use it, except for
 	- [What makes a hero? - Matthew Winkler (youtube.com)](https://www.youtube.com/watch?v=Hhk4N9A0oCA)
 	- [Editing Documentaries | Sir Opifex - Cuts and Tricks for Emotional Storytelling | Kriscoart (youtube.com)](https://www.youtube.com/watch?v=COFpFGOSJV0)
 - Documents
-	- [Brief L4 Digital Storytelling](../Class%2002/Resources/Brief%20L4%20Digital%20Storytelling.pdf)
-	- [Lecture 2 - Digital Storytelling](../Class%2002/Resources/Lecture%202%20-%20Digital%20Storytelling.pptx)
-	- [Course Specification L4 Digital Storytelling](../Class%2002/Resources/Course%20Specification%20L4%20Digital%20Storytelling.pdf)
+	- [Brief L4 Digital Storytelling](../../Library/Resources/Digital%20Storytelling/Brief%20L4%20Digital%20Storytelling.pdf)
+	- [Lecture 2 - Digital Storytelling](../../Library/Resources/Digital%20Storytelling/Lecture%202%20-%20Digital%20Storytelling.pptx)
+	- [Course Specification L4 Digital Storytelling](../../Library/Resources/Digital%20Storytelling/Course%20Specification%20L4%20Digital%20Storytelling.pdf)
 
 ----------------------------------------------------------------
-*Editor's Notes*
-
-----------------------------------------------------------------
-# Assessment 2
+# Editor's Notes

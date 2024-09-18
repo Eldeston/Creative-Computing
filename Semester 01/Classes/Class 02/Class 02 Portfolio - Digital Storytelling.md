@@ -1,5 +1,5 @@
 # Digital Storytelling 1
-Tags: [Digital Story Telling](../../Tags/Digital%20Story%20Telling.md)
+Tags: [Digital Storytelling](../../Tags/Digital%20Storytelling.md)
 ## Introduction
 Digital Storytelling introduces a variety of media making techniques and approaches to interactivity that serve storytelling.
 
@@ -85,12 +85,12 @@ This image from August 20, 2021 shows a U.S. Marine grabbing an infant over a fe
 - Videos
 	- [Editing Documentaries | Sir Opifex - Cuts and Tricks for Emotional Storytelling | Kriscoart (youtube.com)](https://www.youtube.com/watch?v=COFpFGOSJV0)
 - Documents
-	- [Brief L4 Digital Storytelling](Resources/Brief%20L4%20Digital%20Storytelling.pdf)
-	- [Lecture 2 - Digital Storytelling](Resources/Lecture%202%20-%20Digital%20Storytelling.pptx)
-	- [Course Specification L4 Digital Storytelling](Resources/Course%20Specification%20L4%20Digital%20Storytelling.pdf)
+	- [Brief L4 Digital Storytelling](../../Library/Resources/Digital%20Storytelling/Brief%20L4%20Digital%20Storytelling.pdf)
+	- [Lecture 2 - Digital Storytelling](../../Library/Resources/Digital%20Storytelling/Lecture%202%20-%20Digital%20Storytelling.pptx)
+	- [Course Specification L4 Digital Storytelling](../../Library/Resources/Digital%20Storytelling/Course%20Specification%20L4%20Digital%20Storytelling.pdf)
 
 ----------------------------------------------------------------
-*Editor's Notes*
+# Editor's Notes
 ## Structure
 Storytelling should always come in narrative form as you are describing your experience in the form of stories. Stories can come in 2 types - personal and documentary. Personal can be about others or oneself.
 ## Form
