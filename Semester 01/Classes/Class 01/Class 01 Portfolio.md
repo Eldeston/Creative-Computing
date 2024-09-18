@@ -1,6 +1,5 @@
 # Digital Visual Design 1
-*- Mr. Subhan Ali*
-[Next Class](../Class%2004/Class%2004%20Portfolio.md)
+Tags: [Digital Visual Design](../../Tags/Digital%20Visual%20Design.md)
 ## Learning Outcomes
 - Introduction to basic visual design vocabulary
 - Working knowledge of design elements & design principles, and how to use them.

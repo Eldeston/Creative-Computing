@@ -1,6 +1,5 @@
 # Digital Visual Design 2
-*- Mr. Subhan Ali*
-[Previous Class](../Class%2001/Class%2001%20Portfolio.md)
+Tags: [Digital Visual Design](../../Tags/Digital%20Visual%20Design.md)
 ## Graphic Design
 Focuses on articulating meaning for example advertisements.
 - Inform users
