@@ -16,3 +16,6 @@ Please use obsidian.md to effectively use this archive to the fullest.
 
 > "And let us not grow weary of doing good, for in due season we will reap, if we do not give up."
 > *- Galatians 6:9, diligence*
+
+# TO DO
+Pool all main subjects to one folder
