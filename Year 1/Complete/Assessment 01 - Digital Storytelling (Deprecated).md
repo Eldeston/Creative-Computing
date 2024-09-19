@@ -1,5 +1,5 @@
 # Piracy in the Open Internet Seas
-Tags: [Deprecated Notes](../Tags/Deprecated%20Notes.md)
+*Tags: [Deprecated Notes](Deprecated%20Notes.md), [Complete Assessments](Complete%20Assessments)*
 ## Introduction
 Hi, my name is Frem and my penname is Eldeston. This is my view of piracy in the open internet seas.
 ## Definition
@@ -30,6 +30,7 @@ Piracy should never be justified in the first place, but it should be reduced. W
 ## Some Examples
 - Steam - Provides a great service and has accumulated a large amount of loyal gamers.
 - Apple - As much as I hate to say it, Apple has been really amazing with their security but it is not suited for developers and people with holes in their pockets.
-# Resources
+# References
+- [Assessment 01 - Piracy (Depracated)](../Drafts/Assessment%2001%20-%20Piracy%20(Depracated).pptx)
 - [Online piracy - Wikipedia](https://en.wikipedia.org/wiki/Online_piracy)
 - [(24) Piracy is COMPLETELY justified: Louis tries NetFlix & remembers why - YouTube](https://www.youtube.com/watch?v=o4GZUCwVRLs)

@@ -1,5 +1,5 @@
 # Digital Storytelling 2
-Tags: [Digital Storytelling](../../Tags/Digital%20Storytelling.md)
+*Tags: [Digital Storytelling](Digital%20Storytelling.md)*
 ## Patterns in Stories
 - Overcoming the Monster
 - Rags to Riches
@@ -104,7 +104,7 @@ Copyright protection is **automatic** once a work is fixed in a tangible medium.
 The meaning of the circled “C” is absolute: 
 
 The work belongs completely to the owner, and no one else may use it, except for research, education, or fair comment. These exceptions mean that most educators and program leaders may use copyrighted materials for teaching, but not for works that will be sold.
-## References
+# References
 - Sites
 	- [Kurt Vonnegut on the 8 "shapes" of stories - Big Think](https://bigthink.com/high-culture/vonnegut-shapes/#rebelltitem3)
 	- [Plan Your Digital Story | Digital Storytelling (umn.edu)](https://digitalstory.umn.edu/students/plan)

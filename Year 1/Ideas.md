@@ -1,4 +1,4 @@
-### Persuasive	
+## Persuasive	
 * Apple innovation is dead.
 	- Apple innovation today is not the same as the time when Tim Cook was alive.
 * Indie games are successful.
@@ -16,3 +16,11 @@
 	Singlehandedly developed Stardew Valley.
 * Ethics - Should you use artificial intelligence.
 	Should AI be used in creating easier content?
+## Narrative
+- FlameRender Studios Founder's Documentary
+* Spending summer vacation.
+	How do you spend 104 days of summer vacation?
+- How I almost died
+- Leaving Damac Hills 2
+- The most influential person in my life
+- My experience as a programmer

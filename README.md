@@ -8,7 +8,6 @@ Please use obsidian.md to effectively use this archive to the fullest.
 	- [Digital Visual Design](Year%201/Tags/Digital%20Visual%20Design.md)
 	- [Introduction to Programming (Python)](Year%201/Tags/Introduction%20to%20Programming%20(Python).md)
 ## Quotes
-
 > "But all things should be done decently and in order."
 > *- 1 Corinthians 14:40, order*
 

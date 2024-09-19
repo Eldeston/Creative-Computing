@@ -1,5 +1,5 @@
-# Digital Visual Design N
-*Tags: [Digital Visual Design](Digital%20Visual%20Design.md)*
+# Digital Storytelling N
+*Tags: [Digital Storytelling](Digital%20Storytelling.md)*
 # References
 - 
 ----------------------------------------------------------------

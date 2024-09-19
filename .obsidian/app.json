@@ -9,6 +9,6 @@
   "propertiesInDocument": "visible",
   "showUnsupportedFiles": true,
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative",
+  "newLinkFormat": "shortest",
   "alwaysUpdateLinks": true
 }

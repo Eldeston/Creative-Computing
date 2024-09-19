@@ -1,6 +1,6 @@
 # Digital Visual Design 2
-Tags: [Digital Visual Design](../../Tags/Digital%20Visual%20Design.md)
-## References
+*Tags: [Digital Visual Design](Digital%20Visual%20Design.md)*
+# References
 - 
 ----------------------------------------------------------------
 # Editor's Notes

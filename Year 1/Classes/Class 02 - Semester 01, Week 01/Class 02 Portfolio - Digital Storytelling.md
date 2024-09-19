@@ -1,5 +1,5 @@
 # Digital Storytelling 1
-Tags: [Digital Storytelling](../../Tags/Digital%20Storytelling.md)
+*Tags: [Digital Storytelling](Digital%20Storytelling.md)*
 ## Introduction
 Digital Storytelling introduces a variety of media making techniques and approaches to interactivity that serve storytelling.
 
@@ -79,7 +79,7 @@ This image from August 20, 2021 shows a U.S. Marine grabbing an infant over a fe
 ## Six Words Story
 > “For sale: baby shoes, never worn.”
 > *- Unknown (sometimes attributed to Hemingway)*
-## References
+# References
 - Sites
 	- [Plan Your Digital Story | Digital Storytelling (umn.edu)](https://digitalstory.umn.edu/students/plan)
 - Videos
@@ -103,11 +103,3 @@ To engage and persuade the audience your idea(s).
 
 > [!NOTE]
 > Minimum word count should be **200** and the presentation length should be **less than 2 minutes.**
-## Narrative
-- FlameRender Studios Founder's Documentary
-* Spending summer vacation.
-	How do you spend 104 days of summer vacation?
-- How I almost died
-- Leaving Damac Hills 2
-- The most influential person in my life
-- My experience as a programmer

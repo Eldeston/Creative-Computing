@@ -1,5 +1,5 @@
 # Digital Visual Design 1
-Tags: [Digital Visual Design](../../Tags/Digital%20Visual%20Design.md)
+*Tags: [Digital Visual Design](Digital%20Visual%20Design.md)*
 ## Learning Outcomes
 - Introduction to basic visual design vocabulary
 - Working knowledge of design elements & design principles, and how to use them.
@@ -21,7 +21,7 @@ A discipline that combines aesthetics and functionality to communicate ideas thr
 
 > Learning transforms obstacles into opportunities. Keep growing and let your curiosity lead the way.
 > *- Nelson Mandela*
-## References
+# References
 - 
 ----------------------------------------------------------------
 # Editor's Notes
