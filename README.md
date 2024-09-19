@@ -1,5 +1,5 @@
-# Creative Computing L4
-This is an wiki repository for all my study resources for CC L4 at Metaverse Age on BathSpa.
+# Creative Computing
+This is an wiki repository for all my study resources for Creative Computing at Metaverse Age on BathSpa.
 ## About This Wiki
 Please use obsidian.md to effectively use this archive to the fullest.
 ## Index

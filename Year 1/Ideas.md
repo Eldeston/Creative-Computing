@@ -16,6 +16,7 @@
 	Singlehandedly developed Stardew Valley.
 * Ethics - Should you use artificial intelligence.
 	Should AI be used in creating easier content?
+- Imagination - It's in all of us.
 ## Narrative
 - FlameRender Studios Founder's Documentary
 * Spending summer vacation.

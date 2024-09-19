@@ -22,14 +22,10 @@ You receive a primer in digital media production, and explore a range of digital
 
 > “Storytelling is the most powerful way to put ideas into the world today.”
 > *- Robert McKee*
-
 ## Humans are hardwired for stories
 Aoccdrnig to a rscheearch, it deosn't mttaer in waht oredr the ltteers in a wrod are, the olny iprmoatnt tihng is taht the frist and lsat ltteers be at the rghit pclae. The rset can be a toatl mses and you can sitll raed it wouthit porbelm. Tihs is bcuseae the huamn mnid deos not raed ervey lteter by istlef, but the wrod as a wlohe.
 
-Human brain has the natural ability to “fill in the gaps.” This is called "imagination." God has given each one of us a unique capability to imagine.
-
-> [!NOTE]
-> There's a quote from Pilgrim's Progress movie on imagination. Imagination is one of God's characters as the Creator of the universe and we are created in His image, proving God's influence and existence on us.
+Human brain has the natural ability to “fill in the gaps.” This is called "imagination."
 ## Why do we tell stories?
 - To share experience
 - Communicate
@@ -91,6 +87,8 @@ This image from August 20, 2021 shows a U.S. Marine grabbing an infant over a fe
 
 ----------------------------------------------------------------
 # Editor's Notes
+> [!NOTE]
+> There's a quote from Pilgrim's Progress movie on imagination. Imagination is one of God's characters as the Creator of the universe and we are created in His image, proving God's influence and existence on us.
 ## Structure
 Storytelling should always come in narrative form as you are describing your experience in the form of stories. Stories can come in 2 types - personal and documentary. Personal can be about others or oneself.
 ## Form
