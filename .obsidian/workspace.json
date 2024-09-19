@@ -8,46 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1dae9986ba035c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 1/Tags/Digital Storytelling.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc047f6758cf0bf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 1/Tags/Digital Visual Design.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3c4fa3accfa92686",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 1/Tags/Introduction to Programming (Python).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fa5d403ba7480bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,9 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9de5ddbe98dbd326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 1/Classes/Class 02 - Semester 01, Week 01/Class 02 Portfolio - Digital Storytelling.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a0db54c0908a50f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 1/Ideas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Drafts/Assessment 01 - Digital Storytelling.md",
+                "file": "Year 1/Classes/Class 02 - Semester 01, Week 01/Class 02 Portfolio - Digital Storytelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Drafts/Assessment 01 - Digital Storytelling.md",
+                "file": "Year 1/Classes/Class 02 - Semester 01, Week 01/Class 02 Portfolio - Digital Storytelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1/Drafts/Assessment 01 - Digital Storytelling.md"
+                "file": "Year 1/Classes/Class 02 - Semester 01, Week 01/Class 02 Portfolio - Digital Storytelling.md"
               }
             }
           },
@@ -198,18 +185,24 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6fa5d403ba7480bf",
+  "active": "9de5ddbe98dbd326",
   "lastOpenFiles": [
-    "Year 1/Tags/Introduction to Programming (Python).md",
-    "Year 1/Tags/Digital Visual Design.md",
-    "Year 1/Drafts/Assessment 01 - Digital Storytelling (Deprecated).md",
+    "Year 1/Ideas.md",
+    "Year 1/Classes/Class 02 - Semester 01, Week 01/Class 02 Portfolio - Digital Storytelling.md",
     "Year 1/Drafts/Assessment 01 - Digital Storytelling.md",
-    "Year 1/Tags/Deprecated Notes.md",
-    "Year 1/Classes/Class 06 - Semester 01, Week 02/Class 06 Portfolio - Introduction to Programming (Python).md",
+    "Year 1/Classes/Untitled.md",
     "Year 1/Classes/Class 05 - Semester 01, Week 02/Class 05 Portfolio - Digital Storytelling.md",
+    "Year 1/Tags/Active Assesments.md",
+    "Year 1/Tags/Deprecated Notes.md",
+    "Year 1/Tags/Digital Storytelling.md",
+    "Year 1/Tags/Digital Visual Design.md",
+    "Year 1/Tags/Introduction to Programming (Python).md",
+    "README.md",
+    "Progression Policy October 2023 - Metaverse (2).pdf",
+    "Year 1/Drafts/Assessment 01 - Digital Storytelling (Deprecated).md",
+    "Year 1/Classes/Class 06 - Semester 01, Week 02/Class 06 Portfolio - Introduction to Programming (Python).md",
     "Year 1/Classes/Class 04 - Semester 01, Week 02/Class 04 Portfolio - Digital Visual Design.md",
     "Year 1/Classes/Class 03 - Semester 01, Week 01/Class 03 Portfolio - Introduction to Programming (Python).md",
-    "Year 1/Classes/Class 02 - Semester 01, Week 01/Class 02 Portfolio - Digital Storytelling.md",
     "Year 1/Classes/Class 01 - Semester 01, Week 01/Class 01 Portfolio - Digital Visual Design.md",
     "Year 1/Templates/Class N Portfolio - Introduction to Programming (Python).md",
     "Year 1/Templates/Class N Portfolio - Digital Visual Design.md",
@@ -218,18 +211,14 @@
     "Year 1/Source/Digital Visual Design",
     "Year 1/Source/Digital Storytelling",
     "Year 1/Source",
-    "Year 1/Tags/Digital Storytelling.md",
     "Year 1/Templates",
-    "Year 1/Tags/Active Assesments.md",
     "Semester 01/Assesment",
     "Year 1/Complete",
     "Semester 01/Tags/Untitled",
     "Year 1/Classes",
-    "Recording 20240918215658.webm",
     "Ms. Preeti Tyagi.md",
     "Semester 01/Classes.md",
     "Year 1/Vocabulary.md",
-    "README.md",
     "Year 1/Media/Pasted image 20240917102536.png",
     "Year 1/Media/Pasted image 20240917102247.png",
     "Year 1/Media/flameRenderLogo.gif",
