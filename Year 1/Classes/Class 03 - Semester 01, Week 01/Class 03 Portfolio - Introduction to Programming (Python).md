@@ -1,5 +1,11 @@
+---
+tags:
+  - IntroductionToProgramming
+  - Python
+date: 2024-09-12
+teacher: Ms. Lavanya Mohan
+---
 # Introduction to Programming (Python) 1
-*Tags: [Introduction to Programming (Python)](Introduction%20to%20Programming%20(Python).md)*
 ## Programming Language
 A programming language is a formal set of instructions or code that humans use to communicate with computers
 ## Unit Content

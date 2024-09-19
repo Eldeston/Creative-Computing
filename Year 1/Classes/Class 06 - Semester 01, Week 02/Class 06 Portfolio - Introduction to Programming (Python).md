@@ -1,5 +1,11 @@
+---
+tags:
+  - IntroductionToProgramming
+  - Python
+date: 2024-09-19
+teacher: Ms. Lavanya Mohan
+---
 # Introduction to Programming (Python) 2
-*Tags: [Introduction to Programming (Python)](Introduction%20to%20Programming%20(Python).md)*
 # References
 - https://www.pythoncheatsheet.org/cheatsheet/basics
 ----------------------------------------------------------------

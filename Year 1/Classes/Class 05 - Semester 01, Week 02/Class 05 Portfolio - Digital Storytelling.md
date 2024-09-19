@@ -1,3 +1,9 @@
+---
+tags:
+  - DigitalStorytelling
+date: 2024-09-18
+teacher: Ms. Preeti Tyagi
+---
 # Digital Storytelling 2
 *Tags: [Digital Storytelling](Digital%20Storytelling.md)*
 ## Patterns in Stories

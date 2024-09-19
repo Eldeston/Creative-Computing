@@ -1,5 +1,10 @@
+---
+tags:
+  - DigitalStorytelling
+date: 2024-09-11
+teacher: Ms. Preeti Tyagi
+---
 # Digital Storytelling 1
-*Tags: [Digital Storytelling](Digital%20Storytelling.md)*
 ## Introduction
 Digital Storytelling introduces a variety of media making techniques and approaches to interactivity that serve storytelling.
 

@@ -1,5 +1,10 @@
+---
+tags:
+  - DigitalVisualDesign
+date: 2024-09-17
+teacher: Mr. Subhan Ali
+---
 # Digital Visual Design 2
-*Tags: [Digital Visual Design](Digital%20Visual%20Design.md)*
 # References
 - 
 ----------------------------------------------------------------

@@ -1,5 +1,10 @@
+---
+tags:
+  - DigitalVisualDesign
+date: 2024-09-10
+teacher: Mr. Subhan Ali
+---
 # Digital Visual Design 1
-*Tags: [Digital Visual Design](Digital%20Visual%20Design.md)*
 ## Learning Outcomes
 - Introduction to basic visual design vocabulary
 - Working knowledge of design elements & design principles, and how to use them.
