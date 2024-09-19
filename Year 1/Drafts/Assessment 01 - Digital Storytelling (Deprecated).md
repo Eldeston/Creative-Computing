@@ -1,5 +1,5 @@
 # Piracy in the Open Internet Seas
-Tags: [Deprecated Notes](../../Tags/Deprecated%20Notes.md)
+Tags: [Deprecated Notes](../Tags/Deprecated%20Notes.md)
 ## Introduction
 Hi, my name is Frem and my penname is Eldeston. This is my view of piracy in the open internet seas.
 ## Definition

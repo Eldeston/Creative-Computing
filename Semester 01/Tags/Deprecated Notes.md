@@ -1,1 +1,0 @@
-- [Expository Writing - Piracy (Depracated)](Semester%2001/Assesment/Drafts/Expository%20Writing%20-%20Piracy%20(Depracated).md)

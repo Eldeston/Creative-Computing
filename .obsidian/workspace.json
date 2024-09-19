@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 01/Tags/Digital Storytelling.md",
+                "file": "Year 1/Tags/Digital Storytelling.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 01/Tags/Introduction to Programming (Python).md",
+                "file": "Year 1/Tags/Introduction to Programming (Python).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,28 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semester 01/Assesment/Drafts/Expository Writing - Piracy (Depracated).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c397d65f8f322916",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c07329064143100f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semester 01/Tags/Deprecated Notes.md",
+                "file": "Year 1/Drafts/Assessment 01 - Digital Storytelling (Deprecated).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -68,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year 1/Drafts/Assessment 01 - Digital Storytelling (Deprecated).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Year 1/Drafts/Assessment 01 - Digital Storytelling (Deprecated).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Year 1/Drafts/Assessment 01 - Digital Storytelling (Deprecated).md"
+              }
             }
           },
           {
@@ -202,44 +185,44 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c397d65f8f322916",
+  "active": "82730e187977fa07",
   "lastOpenFiles": [
-    "Semester 01/Templates/Class N Portfolio - Introduction to Programming (Python).md",
-    "Semester 01/Library/Resources/Introduction to Programming",
-    "Semester 01/Library/Resources/Digital Visual Design",
-    "Semester 01/Library/Resources/Digital Storytelling",
-    "Semester 01/Library/Resources",
-    "Semester 01/Templates/Class N Portfolio - Digital Visual Design.md",
-    "Semester 01/Templates/Class N Portfolio - Digital Story Telling.md",
-    "Semester 01/Classes/Class 06/Class 06 Portfolio - Introduction to Programming (Python).md",
-    "Semester 01/Classes/Class 05/Class 05 Portfolio - Digital Storytelling.md",
-    "Semester 01/Classes/Class 04/Class 04 Portfolio - Digital Visual Design.md",
-    "Semester 01/Classes/Class 03/Class 03 Portfolio - Introduction to Programming (Python).md",
-    "Semester 01/Classes/Class 02/Class 02 Portfolio - Digital Storytelling.md",
-    "Semester 01/Classes/Class 01/Class 01 Portfolio - Digital Visual Design.md",
-    "Semester 01/Tags/Introduction to Programming (Python).md",
-    "Semester 01/Tags/Digital Storytelling.md",
-    "Semester 01/Tags/Digital Visual Design.md",
-    "Semester 01/Templates",
-    "Semester 01/Tags/Active Assesments.md",
+    "Year 1/Drafts/Assessment 01 - Digital Storytelling.md",
+    "Year 1/Drafts/Assessment 01 - Digital Storytelling (Deprecated).md",
+    "Year 1/Tags/Deprecated Notes.md",
+    "Year 1/Classes/Class 06 - Semester 01, Week 02/Class 06 Portfolio - Introduction to Programming (Python).md",
+    "Year 1/Classes/Class 05 - Semester 01, Week 02/Class 05 Portfolio - Digital Storytelling.md",
+    "Year 1/Classes/Class 04 - Semester 01, Week 02/Class 04 Portfolio - Digital Visual Design.md",
+    "Year 1/Classes/Class 03 - Semester 01, Week 01/Class 03 Portfolio - Introduction to Programming (Python).md",
+    "Year 1/Classes/Class 02 - Semester 01, Week 01/Class 02 Portfolio - Digital Storytelling.md",
+    "Year 1/Classes/Class 01 - Semester 01, Week 01/Class 01 Portfolio - Digital Visual Design.md",
+    "Year 1/Templates/Class N Portfolio - Introduction to Programming (Python).md",
+    "Year 1/Templates/Class N Portfolio - Digital Visual Design.md",
+    "Year 1/Templates/Class N Portfolio - Digital Story Telling.md",
+    "Year 1/Source/Introduction to Programming",
+    "Year 1/Source/Digital Visual Design",
+    "Year 1/Source/Digital Storytelling",
+    "Year 1/Source",
+    "Year 1/Tags/Introduction to Programming (Python).md",
+    "Year 1/Tags/Digital Storytelling.md",
+    "Year 1/Tags/Digital Visual Design.md",
+    "Year 1/Templates",
+    "Year 1/Tags/Active Assesments.md",
     "Semester 01/Assesment",
-    "Semester 01/Assesment/Complete",
+    "Year 1/Complete",
     "Semester 01/Tags/Untitled",
-    "Semester 01/Classes",
+    "Year 1/Classes",
     "Recording 20240918215658.webm",
-    "Semester 01/Assesment/Drafts/Narrative Writing - FlameRender Studios.md",
-    "Semester 01/Assesment/Drafts/Expository Writing - Piracy (Depracated).md",
-    "Semester 01/Tags/Deprecated Notes.md",
     "Ms. Preeti Tyagi.md",
     "Semester 01/Classes.md",
-    "Semester 01/Vocabulary.md",
+    "Year 1/Vocabulary.md",
     "README.md",
-    "Semester 01/Library/Pasted image 20240917102536.png",
-    "Semester 01/Library/Pasted image 20240917102247.png",
-    "Semester 01/Library/flameRenderLogo.gif",
-    "Semester 01/Library/Pasted image 20240917105519.png",
+    "Year 1/Media/Pasted image 20240917102536.png",
+    "Year 1/Media/Pasted image 20240917102247.png",
+    "Year 1/Media/flameRenderLogo.gif",
+    "Year 1/Media/Pasted image 20240917105519.png",
     "Pasted image 20240917105544.png",
-    "Semester 01/Library/thumbnail.png",
+    "Year 1/Media/thumbnail.png",
     "Semester 01/Class 04/Pasted image 20240917105331.png",
     "Semester 01/Class 04/flameRenderLogo 1.gif",
     "Semester 01/Class 04/Pasted image 20240917102403.png",

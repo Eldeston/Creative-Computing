@@ -1,6 +1,6 @@
 # FlameRender Studios - From Papers to Shaders
 *2 Million Downloads Special Documentary*
-Tags: [Digital Storytelling](../../Tags/Digital%20Storytelling.md), [Active Assesments](../../Tags/Active%20Assesments.md)
+Tags: [Digital Storytelling](../Tags/Digital%20Storytelling.md), [Active Assesments](../Tags/Active%20Assesments.md)
 ## Introduction
 Hi, my name is Frem, I go by the penname Eldeston. I am one of the founders of **FlameRender Studios.** This is the story of how FlameRender Studios came into being from papers and drawings to lights and shadows.
 ## A Tale of Two Brothers

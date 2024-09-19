@@ -104,7 +104,7 @@ Copyright protection is **automatic** once a work is fixed in a tangible medium.
 The meaning of the circled “C” is absolute: 
 
 The work belongs completely to the owner, and no one else may use it, except for research, education, or fair comment. These exceptions mean that most educators and program leaders may use copyrighted materials for teaching, but not for works that will be sold.
-## Resources
+## References
 - Sites
 	- [Kurt Vonnegut on the 8 "shapes" of stories - Big Think](https://bigthink.com/high-culture/vonnegut-shapes/#rebelltitem3)
 	- [Plan Your Digital Story | Digital Storytelling (umn.edu)](https://digitalstory.umn.edu/students/plan)
@@ -112,9 +112,9 @@ The work belongs completely to the owner, and no one else may use it, except for
 	- [What makes a hero? - Matthew Winkler (youtube.com)](https://www.youtube.com/watch?v=Hhk4N9A0oCA)
 	- [Editing Documentaries | Sir Opifex - Cuts and Tricks for Emotional Storytelling | Kriscoart (youtube.com)](https://www.youtube.com/watch?v=COFpFGOSJV0)
 - Documents
-	- [Brief L4 Digital Storytelling](../../Library/Resources/Digital%20Storytelling/Brief%20L4%20Digital%20Storytelling.pdf)
-	- [Lecture 2 - Digital Storytelling](../../Library/Resources/Digital%20Storytelling/Lecture%202%20-%20Digital%20Storytelling.pptx)
-	- [Course Specification L4 Digital Storytelling](../../Library/Resources/Digital%20Storytelling/Course%20Specification%20L4%20Digital%20Storytelling.pdf)
+	- [Brief L4 Digital Storytelling](../../Source/Digital%20Storytelling/Brief%20L4%20Digital%20Storytelling.pdf)
+	- [Lecture 2 - Digital Storytelling](../../Source/Digital%20Storytelling/Lecture%202%20-%20Digital%20Storytelling.pptx)
+	- [Course Specification L4 Digital Storytelling](../../Source/Digital%20Storytelling/Course%20Specification%20L4%20Digital%20Storytelling.pdf)
 
 ----------------------------------------------------------------
 # Editor's Notes

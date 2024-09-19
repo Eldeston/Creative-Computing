@@ -21,7 +21,7 @@ A discipline that combines aesthetics and functionality to communicate ideas thr
 
 > Learning transforms obstacles into opportunities. Keep growing and let your curiosity lead the way.
 > *- Nelson Mandela*
-## Resources
+## References
 - 
 ----------------------------------------------------------------
 # Editor's Notes
