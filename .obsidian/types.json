@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "test": "multitext",
-    "date": "date"
+    "date": "date",
+    "teacher": "text"
   }
 }
