@@ -1,10 +1,10 @@
 ---
 tags:
   - template
-date: {{date}}
+date: 
 teacher:
 ---
-# Title
+# Assessment Name
 
 # References
 - 

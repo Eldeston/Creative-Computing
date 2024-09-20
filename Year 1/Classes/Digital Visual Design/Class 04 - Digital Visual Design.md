@@ -5,10 +5,6 @@ date: 2024-09-17
 teacher: Mr. Subhan Ali
 ---
 # Digital Visual Design 2
-# References
-- [Lecture 1 - Digital Visual Design](Lecture%201%20-%20Digital%20Visual%20Design.pdf)
-- [Assessment Brief L4 Digital Visual Design](Assessment%20Brief%20L4%20Digital%20Visual%20Design.pdf)
-- [Course Specification L4 Digital Visual Design](Course%20Specification%20L4%20Digital%20Visual%20Design.pdf)
 
 ----------------------------------------------------------------
 # Editor's Notes

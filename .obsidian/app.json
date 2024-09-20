@@ -9,7 +9,7 @@
   "propertiesInDocument": "visible",
   "showUnsupportedFiles": true,
   "useMarkdownLinks": true,
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "relative",
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Year 1/Media"
 }
