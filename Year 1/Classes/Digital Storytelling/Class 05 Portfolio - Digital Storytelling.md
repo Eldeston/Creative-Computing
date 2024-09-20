@@ -117,8 +117,8 @@ The work belongs completely to the owner, and no one else may use it, except for
 	- [What makes a hero? - Matthew Winkler (youtube.com)](https://www.youtube.com/watch?v=Hhk4N9A0oCA)
 	- [Editing Documentaries | Sir Opifex - Cuts and Tricks for Emotional Storytelling | Kriscoart (youtube.com)](https://www.youtube.com/watch?v=COFpFGOSJV0)
 - Documents
-	- [Brief L4 Digital Storytelling](Brief%20L4%20Digital%20Storytelling.pdf)
-	- [Lecture 2 - Digital Storytelling](Lecture%202%20-%20Digital%20Storytelling.pptx)
+	- [Brief L4 Digital Storytelling](Assesment%20Brief%20L4%20Digital%20Storytelling.pdf)
+	- [Lecture 2 - Digital Storytelling](Lecture%201%20-%20Digital%20Storytelling.pptx)
 	- [Course Specification L4 Digital Storytelling](Course%20Specification%20L4%20Digital%20Storytelling.pdf)
 
 ----------------------------------------------------------------

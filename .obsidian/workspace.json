@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "72cf29962350bd5d",
+        "id": "21f7f585b744f969",
         "type": "tabs",
         "children": [
           {
-            "id": "be8b08e5ac9438d8",
+            "id": "7db0bb17dfa788fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Year 1/Classes/Digital Visual Design/Class 01 Portfolio - Digital Visual Design.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 394.5
   },
   "right": {
     "id": "30cd0d9ae5a340a6",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year 1/Classes/Digital Visual Design/Class 01 Portfolio - Digital Visual Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Year 1/Classes/Digital Visual Design/Class 01 Portfolio - Digital Visual Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Year 1/Classes/Digital Visual Design/Class 01 Portfolio - Digital Visual Design.md"
+              }
             }
           },
           {
@@ -169,27 +178,28 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "be8b08e5ac9438d8",
+  "active": "7db0bb17dfa788fe",
   "lastOpenFiles": [
+    "Year 1/Classes/Digital Visual Design/Documents/Lecture 1 - Digital Visual Design.pdf",
+    "Year 1/Classes/Introduction to Programming (Python)/Documents/Course Specification L4 Intro to Programming (Python).pdf",
+    "Year 1/Classes/Introduction to Programming (Python)/Documents/~$Lecture 1 - Intro to Programming (Python).pptx",
+    "Year 1/Classes/Digital Storytelling/Documents/~$Lecture 2 - Digital Storytelling.pptx",
+    "Year 1/Classes/Digital Visual Design/Class 01 Portfolio - Digital Visual Design.md",
+    "Year 1/Classes/Digital Visual Design/Documents/Assesment Brief L4 Digital Visual Design.pdf",
+    "Year 1/Classes/Introduction to Programming (Python)/Documents/~$sessment 1 Brief (Programming Skills Portfolio)).docx",
+    "Year 1/Classes/Digital Storytelling/Documents/Assesment Brief L4 Digital Storytelling.pdf",
+    "Year 1/Classes/Digital Storytelling/Documents/Course Specification L4 Digital Storytelling.pdf",
+    "Year 1/Classes/Digital Visual Design/Documents/Course Specification L4 Digital Visual Design.pdf",
+    "Year 1/Classes/Digital Storytelling/Class 02 Portfolio - Digital Storytelling.md",
+    "Year 1/Classes/Digital Storytelling/Class 05 Portfolio - Digital Storytelling.md",
     "Year 1/Templates/Class N Portfolio - Subject Name.md",
     "Year 1/Templates/Assessment N - Subject Name.md",
     "Year 1/Complete/Assessment 01 - Digital Storytelling (Deprecated).md",
     "Year 1/CC L4 Cohort 1 & 2.pdf",
     "2024-09-20.md",
-    "Year 1/Classes/Digital Visual Design/Class 01 Portfolio - Digital Visual Design.md",
     "Year 1/Classes/Digital Visual Design/Class 04 Portfolio - Digital Visual Design.md",
-    "Year 1/Classes/Introduction to Programming (Python)/Documents/Course Specification intro to programming.pdf",
-    "Year 1/Classes/Introduction to Programming (Python)/Documents/~$sessment 1 Brief (Programming Skills Portfolio)).docx",
-    "Year 1/Classes/Digital Visual Design/Documents/Lecture 1 - Digital Visual Design.pdf",
-    "Year 1/Classes/Digital Visual Design/Documents/Assessment _ Digital Visual Design _ Portfolio 100%.docx.pdf",
-    "Year 1/Classes/Digital Storytelling/Documents/Brief L4 Digital Storytelling.pdf",
-    "Year 1/Classes/Digital Storytelling/Documents/Course Specification L4 Digital Storytelling.pdf",
     "LPCP_V1.pdf",
-    "Year 1/Classes/Introduction to Programming (Python)/Documents",
-    "Year 1/Classes/Digital Visual Design/Documents",
     "README.md",
-    "Year 1/Classes/Digital Storytelling/Class 05 Portfolio - Digital Storytelling.md",
-    "Year 1/Classes/Digital Storytelling/Class 02 Portfolio - Digital Storytelling.md",
     "Year 1/Classes/Introduction to Programming (Python)/Class 06 Portfolio - Introduction to Programming (Python).md",
     "Year 1/Classes/Introduction to Programming (Python)/Class 03 Portfolio - Introduction to Programming (Python).md",
     "Year 1/Ideas.md",
