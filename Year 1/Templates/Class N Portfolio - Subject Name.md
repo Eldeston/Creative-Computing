@@ -1,5 +1,11 @@
-# Digital Storytelling N
-*Tags: [Digital Storytelling](Digital%20Storytelling.md)*
+---
+tags:
+  - template
+date: 
+teacher:
+---
+# Subject Name N
+
 # References
 - 
 ----------------------------------------------------------------

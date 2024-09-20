@@ -1,6 +1,6 @@
 ---
 tags:
-  - DigitalStorytelling
+  - digitalStorytelling
 date: 2024-09-11
 teacher: Ms. Preeti Tyagi
 ---

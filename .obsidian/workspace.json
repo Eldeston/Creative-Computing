@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "60ff6c6d4740fe85",
+        "id": "245eb99a8f4c72f7",
         "type": "tabs",
         "children": [
           {
-            "id": "3c4fa3accfa92686",
+            "id": "540a5a087f1b2758",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Year 1/Classes/Class 01 - Semester 01, Week 01/Class 01 Portfolio - Digital Visual Design.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#template",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year 1/Classes/Class 01 - Semester 01, Week 01/Class 01 Portfolio - Digital Visual Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Year 1/Classes/Class 01 - Semester 01, Week 01/Class 01 Portfolio - Digital Visual Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +115,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Year 1/Classes/Class 01 - Semester 01, Week 01/Class 01 Portfolio - Digital Visual Design.md"
+              }
             }
           },
           {
@@ -151,11 +159,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 442.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,39 +177,42 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3c4fa3accfa92686",
+  "active": "540a5a087f1b2758",
   "lastOpenFiles": [
+    "2024-09-10.md",
     "Year 1/Classes/Class 01 - Semester 01, Week 01/Class 01 Portfolio - Digital Visual Design.md",
+    "Year 1/Tags",
+    "Year 1/Classes/Untitled",
+    "Year 1/Classes/Class 05 - Semester 01, Week 02/Class 05 Portfolio - Digital Storytelling.md",
+    "Year 1/Templates/Class N Portfolio - Subject Name.md",
+    "Year 1/Classes/Class 04 - Semester 01, Week 02/Class 04 Portfolio - Digital Visual Design.md",
+    "Year 1/Classes/Class 06 - Semester 01, Week 02/Class 06 Portfolio - Introduction to Programming (Python).md",
+    "Year 1/Complete/Assessment 01 - Digital Storytelling (Deprecated).md",
+    "Year 1/Drafts/Assessment 01 - Digital Storytelling.md",
     "Year 1/Classes/Class 03 - Semester 01, Week 01/Class 03 Portfolio - Introduction to Programming (Python).md",
     "Year 1/Classes/Class 02 - Semester 01, Week 01/Class 02 Portfolio - Digital Storytelling.md",
-    "Year 1/Classes/Class 06 - Semester 01, Week 02/Class 06 Portfolio - Introduction to Programming (Python).md",
-    "Year 1/Classes/Class 05 - Semester 01, Week 02/Class 05 Portfolio - Digital Storytelling.md",
-    "Year 1/Classes/Class 04 - Semester 01, Week 02/Class 04 Portfolio - Digital Visual Design.md",
     "README.md",
+    "Digital Storytelling.md",
+    "Year 1/Ideas.md",
+    "Year 1/Drafts/~$Assessment 01 - Piracy (Depracated).pptx",
+    "Year 1/Tags/Deprecated Notes.md",
+    "Year 1/Tags/Digital Storytelling.md",
+    "Year 1/Tags/Digital Visual Design.md",
+    "Year 1/Tags/Introduction to Programming (Python).md",
+    "Untitled.md",
+    "Year 1/Templates/Class N Portfolio - Introduction to Programming (Python).md",
+    "Year 1/Templates/Class N Portfolio - Digital Visual Design.md",
     "2024-09-19.md",
     "Year 1/Source/Introduction to Programming/Course Specification intro to programming.pdf",
     "Year 1/Source/Introduction to Programming/~$Lecture 1 - Intro to Programming (Python).pptx",
     "Year 1/Source/Introduction to Programming/~$sessment 1 Brief (Programming Skills Portfolio)).docx",
-    "Year 1/Drafts/Assessment 01 - Digital Storytelling.md",
-    "Year 1/Complete/Assessment 01 - Digital Storytelling (Deprecated).md",
-    "Year 1/Ideas.md",
-    "Year 1/Templates/Class N Portfolio - Digital Storytelling.md",
     "Year 1/Vocabulary",
     "Year 1/Vocabulary.md",
-    "Year 1/Tags/Digital Visual Design.md",
-    "Year 1/Tags/Digital Storytelling.md",
-    "Year 1/Tags/Deprecated Notes.md",
     "Year 1/Important/LPCP_V1.pdf",
     "Year 1/Important/CC L4 Cohort 1 & 2.pdf",
-    "Year 1/Templates/Class N Portfolio - Digital Visual Design.md",
-    "Year 1/Templates/Class N Portfolio - Introduction to Programming (Python).md",
-    "Year 1/Tags/Introduction to Programming (Python).md",
     "Year 1/Tags/Active Assessments.md",
-    "Year 1/Drafts/~$Assessment 01 - Piracy (Depracated).pptx",
     "Year 1/Classes/Untitled.md",
     "Progression Policy October 2023 - Metaverse (2).pdf",
-    "Year 1/Source/Introduction to Programming",
-    "Year 1/Source/Digital Visual Design",
     "Ms. Preeti Tyagi.md",
     "Semester 01/Classes.md",
     "Year 1/Media/Pasted image 20240917102536.png",
@@ -214,9 +225,6 @@
     "Semester 01/Class 04/flameRenderLogo 1.gif",
     "Semester 01/Class 04/Pasted image 20240917102403.png",
     "Semester 01/Class 04/Pasted image 20240917102531.png",
-    "2024-09-17.md",
-    "Brief.md",
-    "2024-09-16.md",
     "Untitled.canvas"
   ]
 }

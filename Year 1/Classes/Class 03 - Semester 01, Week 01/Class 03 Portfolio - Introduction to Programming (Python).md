@@ -1,7 +1,7 @@
 ---
 tags:
-  - IntroductionToProgramming
-  - Python
+  - introductionToProgramming
+  - python
 date: 2024-09-12
 teacher: Ms. Lavanya Mohan
 ---

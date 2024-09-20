@@ -1,6 +1,6 @@
 ---
 tags:
-  - DigitalVisualDesign
+  - digitalVisualDesign
 date: 2024-09-10
 teacher: Mr. Subhan Ali
 ---

@@ -2,11 +2,14 @@
 This is an wiki repository for all my study resources for Creative Computing at Metaverse Age on BathSpa.
 ## About This Wiki
 Please use obsidian.md to effectively use this archive to the fullest.
-## Index
-- Subjects
-	- [Digital Storytelling](Year%201/Tags/Digital%20Storytelling.md)
-	- [Digital Visual Design](Year%201/Tags/Digital%20Visual%20Design.md)
-	- [Introduction to Programming (Python)](Year%201/Tags/Introduction%20to%20Programming%20(Python).md)
+## Tag index
+- Core subjects
+	#digitalVisualDesign 
+	#digitalStorytelling 
+	#introductionToProgramming 
+- Others
+	#python 
+	#template 
 ## Quotes
 > "But all things should be done decently and in order."
 > *- 1 Corinthians 14:40, Order

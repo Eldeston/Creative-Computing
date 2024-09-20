@@ -8,37 +8,37 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#DigitalVisualDesign  ",
+      "query": "tag:#digitalVisualDesign  ",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "tag:#DigitalStorytelling  ",
+      "query": "tag:#digitalStorytelling  ",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     },
     {
-      "query": "tag:#IntroductionToProgramming tag:#Python ",
+      "query": "tag:#introductionToProgramming  ",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.993229166666667,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.5,
+  "centerStrength": 0,
   "repelStrength": 10,
   "linkStrength": 0.5,
   "linkDistance": 250,
-  "scale": 0.6372987299011734,
+  "scale": 0.16495755536196952,
   "close": false
 }

@@ -1,5 +1,10 @@
+---
+tags:
+  - digitalStorytelling
+date: 2024-09-19
+teacher: Ms. Preeti Tyagi
+---
 # Piracy in the Open Internet Seas
-*Tags: [Deprecated Notes](Deprecated%20Notes.md), [Complete Assessments](Complete%20Assessments)*
 ## Introduction
 Hi, my name is Frem and my penname is Eldeston. This is my view of piracy in the open internet seas.
 ## Definition
