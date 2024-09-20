@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Classes/Digital Visual Design/Class 01 Portfolio - Digital Visual Design.md",
+                "file": "Year 1/Classes/Digital Storytelling/Class 02 Portfolio - Digital Storytelling.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Classes/Digital Visual Design/Class 01 Portfolio - Digital Visual Design.md",
+                "file": "Year 1/Classes/Digital Storytelling/Class 02 Portfolio - Digital Storytelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Classes/Digital Visual Design/Class 01 Portfolio - Digital Visual Design.md",
+                "file": "Year 1/Classes/Digital Storytelling/Class 02 Portfolio - Digital Storytelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1/Classes/Digital Visual Design/Class 01 Portfolio - Digital Visual Design.md"
+                "file": "Year 1/Classes/Digital Storytelling/Class 02 Portfolio - Digital Storytelling.md"
               }
             }
           },
@@ -135,14 +135,6 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "8b6cd69bb3bc68d4",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           },
@@ -159,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,30 +172,31 @@
   },
   "active": "7db0bb17dfa788fe",
   "lastOpenFiles": [
+    "Year 1/Classes/Digital Storytelling/Assessments.md",
+    "Year 1/Drafts/Assessment 01 - Digital Storytelling.md",
+    "Year 1/Classes/Digital Storytelling/Class 02 Portfolio - Digital Storytelling.md",
+    "Year 1/Classes/Digital Storytelling/Class 05 Portfolio - Digital Storytelling.md",
+    "Year 1/Classes/Digital Visual Design/Class 01 Portfolio - Digital Visual Design.md",
+    "Year 1/Classes/Digital Visual Design/Class 04 Portfolio - Digital Visual Design.md",
+    "Year 1/Classes/Introduction to Programming (Python)/Class 06 Portfolio - Introduction to Programming (Python).md",
+    "Year 1/Classes/Introduction to Programming (Python)/Class 03 Portfolio - Introduction to Programming (Python).md",
+    "Year 1/Classes/Digital Visual Design/Documents/Assessment Brief L4 Digital Visual Design.pdf",
+    "Ideas.md",
+    "Year 1/Complete/Assessment 01 - Introduction to Programming (Python)",
+    "Year 1/CC L4 Cohort 1 & 2.pdf",
+    "Media/flameRenderLogo.gif",
+    "Important",
     "Year 1/Classes/Digital Visual Design/Documents/Lecture 1 - Digital Visual Design.pdf",
     "Year 1/Classes/Introduction to Programming (Python)/Documents/Course Specification L4 Intro to Programming (Python).pdf",
     "Year 1/Classes/Introduction to Programming (Python)/Documents/~$Lecture 1 - Intro to Programming (Python).pptx",
     "Year 1/Classes/Digital Storytelling/Documents/~$Lecture 2 - Digital Storytelling.pptx",
-    "Year 1/Classes/Digital Visual Design/Class 01 Portfolio - Digital Visual Design.md",
-    "Year 1/Classes/Digital Visual Design/Documents/Assesment Brief L4 Digital Visual Design.pdf",
     "Year 1/Classes/Introduction to Programming (Python)/Documents/~$sessment 1 Brief (Programming Skills Portfolio)).docx",
     "Year 1/Classes/Digital Storytelling/Documents/Assesment Brief L4 Digital Storytelling.pdf",
-    "Year 1/Classes/Digital Storytelling/Documents/Course Specification L4 Digital Storytelling.pdf",
-    "Year 1/Classes/Digital Visual Design/Documents/Course Specification L4 Digital Visual Design.pdf",
-    "Year 1/Classes/Digital Storytelling/Class 02 Portfolio - Digital Storytelling.md",
-    "Year 1/Classes/Digital Storytelling/Class 05 Portfolio - Digital Storytelling.md",
     "Year 1/Templates/Class N Portfolio - Subject Name.md",
     "Year 1/Templates/Assessment N - Subject Name.md",
     "Year 1/Complete/Assessment 01 - Digital Storytelling (Deprecated).md",
-    "Year 1/CC L4 Cohort 1 & 2.pdf",
     "2024-09-20.md",
-    "Year 1/Classes/Digital Visual Design/Class 04 Portfolio - Digital Visual Design.md",
-    "LPCP_V1.pdf",
     "README.md",
-    "Year 1/Classes/Introduction to Programming (Python)/Class 06 Portfolio - Introduction to Programming (Python).md",
-    "Year 1/Classes/Introduction to Programming (Python)/Class 03 Portfolio - Introduction to Programming (Python).md",
-    "Year 1/Ideas.md",
-    "Year 1/Drafts/Assessment 01 - Digital Storytelling.md",
     "Test.md",
     "2024-09-10.md",
     "Digital Storytelling.md",
@@ -216,12 +209,11 @@
     "Year 1/Templates/Class N Portfolio - Digital Visual Design.md",
     "2024-09-19.md",
     "Year 1/Vocabulary.md",
-    "Year 1/Media/Pasted image 20240917102536.png",
-    "Year 1/Media/Pasted image 20240917102247.png",
-    "Year 1/Media/flameRenderLogo.gif",
-    "Year 1/Media/Pasted image 20240917105519.png",
+    "Media/Pasted image 20240917102536.png",
+    "Media/Pasted image 20240917102247.png",
+    "Media/Pasted image 20240917105519.png",
     "Pasted image 20240917105544.png",
-    "Year 1/Media/thumbnail.png",
+    "Media/thumbnail.png",
     "Semester 01/Class 04/Pasted image 20240917105331.png",
     "Semester 01/Class 04/flameRenderLogo 1.gif",
     "Semester 01/Class 04/Pasted image 20240917102403.png",

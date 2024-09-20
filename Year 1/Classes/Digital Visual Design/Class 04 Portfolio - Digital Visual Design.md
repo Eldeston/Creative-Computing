@@ -6,7 +6,10 @@ teacher: Mr. Subhan Ali
 ---
 # Digital Visual Design 2
 # References
-- 
+- [Lecture 1 - Digital Visual Design](Lecture%201%20-%20Digital%20Visual%20Design.pdf)
+- [Assessment Brief L4 Digital Visual Design](Assessment%20Brief%20L4%20Digital%20Visual%20Design.pdf)
+- [Course Specification L4 Digital Visual Design](Course%20Specification%20L4%20Digital%20Visual%20Design.pdf)
+
 ----------------------------------------------------------------
 # Editor's Notes
 ## Graphic Design
@@ -22,15 +25,15 @@ Focuses on the practical usage and aesthetics for example user interface.
 ## Activity
 Research and write down 5 types of Graphic Design
 - Portfolios
-![Pasted image 20240917102247](../../Media/Pasted%20image%2020240917102247.png)
+![Pasted image 20240917102247](Pasted%20image%2020240917102247.png)
 - Thumbnails
-![thumbnail](../../Media/thumbnail.png)
+![thumbnail](thumbnail.png)
 - Logos
-![flameRenderLogo](../../Media/flameRenderLogo.gif)
+![flameRenderLogo](flameRenderLogo.gif)
 - Presentations
-![Pasted image 20240917102536](../../Media/Pasted%20image%2020240917102536.png)
+![Pasted image 20240917102536](Pasted%20image%2020240917102536.png)
 - Banners
-![Pasted image 20240917105519](../../Media/Pasted%20image%2020240917105519.png)
+![Pasted image 20240917105519](Pasted%20image%2020240917105519.png)
 [Factorio - Trailer 2020 (youtube.com)](https://www.youtube.com/watch?v=J8SBp4SyvLc)
 ## 8 Types of Graphic Design
 

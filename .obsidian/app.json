@@ -10,5 +10,6 @@
   "showUnsupportedFiles": true,
   "useMarkdownLinks": true,
   "newLinkFormat": "shortest",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Year 1/Media"
 }

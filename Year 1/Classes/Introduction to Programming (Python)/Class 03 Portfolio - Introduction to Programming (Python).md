@@ -38,6 +38,11 @@ A programming language is a formal set of instructions or code that humans use t
 - It's free! (open source)
 
 # References
-- https://www.pythoncheatsheet.org/cheatsheet/basics
+- Sites
+	- https://www.pythoncheatsheet.org/cheatsheet/basics
+- Documents
+	- [Assessment Brief L4 Intro to Programming (Python)](Assessment%20Brief%20L4%20Intro%20to%20Programming%20(Python).docx)
+	- [Course Specification L4 Intro to Programming (Python)](Course%20Specification%20L4%20Intro%20to%20Programming%20(Python).pdf)
+	- [Lecture 1 - Intro to Programming (Python)](Lecture%201%20-%20Intro%20to%20Programming%20(Python).pptx)
 ----------------------------------------------------------------
 # Editor's Notes
