@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Classes/Introduction to Programming (Python)/Introduction to Programming (Python) Portfolio.md",
+                "file": "Year 1/Classes/Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python) Portfolio.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 530.5
   },
   "right": {
     "id": "30cd0d9ae5a340a6",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Classes/Introduction to Programming (Python)/Introduction to Programming (Python) Portfolio.md",
+                "file": "Year 1/Classes/Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python) Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Classes/Introduction to Programming (Python)/Introduction to Programming (Python) Portfolio.md",
+                "file": "Year 1/Classes/Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python) Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1/Classes/Introduction to Programming (Python)/Introduction to Programming (Python) Portfolio.md"
+                "file": "Year 1/Classes/Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python) Portfolio.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 1/Classes/Introduction to Programming (Python)/Introduction to Programming (Python) Portfolio.md"
+                "file": "Year 1/Classes/Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python) Portfolio.md"
               }
             }
           }
@@ -176,16 +176,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "audio-recorder:Start/stop recording": false,
-      "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "3540428a44a6d6c6",
   "lastOpenFiles": [
-    "README.md",
     "Year 1/Classes/Introduction to Programming (Python)/Introduction to Programming (Python) Portfolio.md",
+    "Year 1/Classes/Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python) Portfolio.md",
+    "README.md",
     "Year 1/Classes/Introduction to Programming (Python)/Class 06 - Introduction to Programming (Python).md",
     "Year 1/Classes/Introduction to Programming (Python)/Class 03 - Introduction to Programming (Python).md",
     "Year 1/Classes/Digital Visual Design/Digital Visual Design Portfolio.md",
