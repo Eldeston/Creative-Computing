@@ -10,6 +10,10 @@ Please use obsidian.md to effectively use this archive to the fullest.
 - Others
 	#python 
 	#template 
+## Important Documents
+- [Calendar of Activities - AY 2024-2025](Important/Calendar%20of%20Activities%20-%20AY%202024-2025.pdf)
+- [LPCP_V1](Important/LPCP_V1.pdf)
+- [Progression Policy October 2023 - Metaverse](Important/Progression%20Policy%20October%202023%20-%20Metaverse.pdf)
 ## Quotes
 > "But all things should be done decently and in order."
 > *- 1 Corinthians 14:40, Order
