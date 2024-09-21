@@ -1,7 +1,7 @@
 # Creative Computing
 This is an wiki repository for all my study resources for Creative Computing at Metaverse Age on BathSpa.
 ## About This Wiki
-Please use obsidian.md to effectively use this archive to the fullest.
+Please use [Obsidian.md](https://obsidian.md/) to effectively use this archive to the fullest. This is especially true if you want to see Obsidian's graph view.
 ## Tag index
 - Core subjects
 	#digitalVisualDesign 

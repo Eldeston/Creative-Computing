@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "45705f256056474b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Digital Storytelling Portfolio.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Digital Storytelling Portfolio.md",
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of a Shader Developer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Digital Storytelling Portfolio.md",
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of a Shader Developer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Digital Storytelling Portfolio.md"
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of a Shader Developer.md"
               }
             }
           },
@@ -170,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Digital Storytelling Portfolio.md"
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of a Shader Developer.md"
               }
             }
           }
@@ -194,16 +180,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45705f256056474b",
+  "active": "bef5fff3a2fde0a1",
   "lastOpenFiles": [
-    "Idea Station/Ideas.md",
+    "2024-09-11.md",
+    "Year 1/Classes/Digital Storytelling/Class 02 - Digital Storytelling.md",
+    "README.md",
     "Year 1/Classes/Digital Storytelling/Digital Storytelling Portfolio.md",
+    "Idea Station/Ideas.md",
     "Year 1/Classes/Digital Storytelling/Class 05 - Digital Storytelling.md",
     "Year 1/Classes/Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python) Portfolio.md",
     "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of a Shader Developer.md",
     "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - Digital Storytelling.md",
-    "README.md",
-    "Year 1/Classes/Digital Storytelling/Class 02 - Digital Storytelling.md",
     "Idea Station",
     "Important/Calendar of Activities - AY 2024-2025.pdf",
     "Year 1/Classes/Digital Visual Design/Class 01 - Digital Visual Design.md",
@@ -233,7 +220,6 @@
     "Year 1/Tags/Digital Storytelling.md",
     "Year 1/Tags/Digital Visual Design.md",
     "Year 1/Tags/Introduction to Programming (Python).md",
-    "Untitled.md",
     "Media/Pasted image 20240917102536.png",
     "Media/Pasted image 20240917102247.png",
     "Media/Pasted image 20240917105519.png",
