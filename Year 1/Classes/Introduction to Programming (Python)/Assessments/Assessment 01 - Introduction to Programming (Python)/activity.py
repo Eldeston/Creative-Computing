@@ -133,7 +133,7 @@ thisIsString = "Are you a developer because you can code or you can code because
 thisIsInteger = 1984
 thisIsBoolean = True
 
-if(thisIsBoolean):
+if thisIsBoolean :
     print(thisIsString + " " + str(thisIsInteger) + ".")
 else:
     print("thisIsConditional")
