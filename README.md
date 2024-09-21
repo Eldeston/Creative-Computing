@@ -10,10 +10,18 @@ Please use obsidian.md to effectively use this archive to the fullest.
 - Others
 	#python 
 	#template 
-## Important Documents
-- [Calendar of Activities - AY 2024-2025](Important/Calendar%20of%20Activities%20-%20AY%202024-2025.pdf)
-- [LPCP_V1](Important/LPCP_V1.pdf)
-- [Progression Policy October 2023 - Metaverse](Important/Progression%20Policy%20October%202023%20-%20Metaverse.pdf)
+	#assessment 
+## Documents
+- Main Documents
+	- [Calendar of Activities - AY 2024-2025](Important/Calendar%20of%20Activities%20-%20AY%202024-2025.pdf)
+	- [LPCP_V1](Important/LPCP_V1.pdf)
+	- [Progression Policy October 2023 - Metaverse](Important/Progression%20Policy%20October%202023%20-%20Metaverse.pdf)
+- Year 1 Documents
+	- [CC L4 Cohort 1 & 2](Year%201/CC%20L4%20Cohort%201%20&%202.pdf)
+	- [Sem 1 Morning 2024-25 TIMETABLES](Year%201/Sem%201%20Morning%202024-25%20TIMETABLES.pdf)
+	- [Sem 1 Evening 2024-25 TIMETABLES](Year%201/Sem%201%20Evening%202024-25%20TIMETABLES.pdf)
+## Idea Station
+- [Ideas](Idea%20Station/Ideas.md)
 ## Quotes
 > "But all things should be done decently and in order."
 > *- 1 Corinthians 14:40, Order
@@ -23,7 +31,6 @@ Please use obsidian.md to effectively use this archive to the fullest.
 
 > "And let us not grow weary of doing good, for in due season we will reap, if we do not give up."
 > *- Galatians 6:9, Diligence*
-
 # TO DO
 - Utilize tags
 - Utilize properties

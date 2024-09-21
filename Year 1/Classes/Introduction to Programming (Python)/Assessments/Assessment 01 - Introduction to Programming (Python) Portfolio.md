@@ -2,6 +2,7 @@
 tags:
   - introductionToProgramming
   - python
+  - assessment
 date: 2024-09-20
 teacher: Ms. Lavanya Mohan
 ---
@@ -36,21 +37,14 @@ Fill in the blanks in the Python code below to output the phrase **"Coding is Co
 ### Fill in the blanks below
 
 ```python
-
 word1 =
 
 word2 =
 
 word3 =
 
-  
-
 # Use string concatenation to combine the variables and print the phrase
-
 _____(_________)
-
-  
-
 ```
 
 __________________________________________________________________________________
@@ -129,25 +123,14 @@ ________________________________________________________________________________
 Fill in the blanks in the code below so that the function hello() prints "Hello" to the console.
 
 ```python
-
-  
-
 def hello():
-
     ____  # Fill in this blank to print "Hello" to the console
 
-  
-
 def main():
-
     ____  # Fill in this blank to call the hello() function
 
-  
-
 if __name__ == "__main__":
-
     main()
-
 ```
 
 ________________________________________________________________________________________
@@ -160,3 +143,10 @@ Write a program that tests if a value is even or odd. Follow the instructions ou
 * The message returned by the function should be printed from within the main function.
 
 _________________________________________________________________________________________
+
+# Assessments 01 : From 1-10
+- [exercise1](Assessment%2001%20-%20Introduction%20to%20Programming%20(Python)/exercise1.py)
+- [exercise2](Assessment%2001%20-%20Introduction%20to%20Programming%20(Python)/exercise2.py)
+- [exercise3](Assessment%2001%20-%20Introduction%20to%20Programming%20(Python)/exercise3.py)
+- [exercise4](Assessment%2001%20-%20Introduction%20to%20Programming%20(Python)/exercise4.py)
+- [exercise5](Assessment%2001%20-%20Introduction%20to%20Programming%20(Python)/exercise5.py)
