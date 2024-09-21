@@ -11,4 +11,7 @@ Hi, my name is Frem, I go by the penname Eldeston. I am the founder of **FlameRe
 I. Papers and Drawings
 	A. Childhood
 	B. Creative Craftsmanship
-II. 
+II. Entering Dubai
+	A. 
+
+During childhood, I was not the kind of kid who is quiet
