@@ -39,3 +39,5 @@ A programming language is a formal set of instructions or code that humans use t
 
 ----------------------------------------------------------------
 # Editor's Notes
+
+[thumbnail](../../../Media/thumbnail.png)
