@@ -19,9 +19,14 @@
 - Imagination - It's in all of us.
 ## Narrative
 - FlameRender Studios Founder's Documentary
-* Spending summer vacation.
+	The foundations of FlameRender Studios
+* Spending summer vacation
 	How do you spend 104 days of summer vacation?
 - How I almost died
-- Leaving Damac Hills 2
+	How appendicitis almost took my life
+- Man's Best Friend - a Final Goodbye
+	So long, Bruce the shepsky dog
 - The most influential person in my life
+	This message is to my Dad
 - My experience as a programmer
+	Where my inspiration as a programmer came from
