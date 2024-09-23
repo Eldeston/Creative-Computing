@@ -41,5 +41,8 @@ Now it's your turn. How can you help in this day and age, where there are so man
 > “Do what you can, with what you have, where you are.”
 > *- Theodore Roosevelt, 1858-1919*
 
+> "You're always one tile short."
+> *- Anonymous, Reddit, Factorio*
+
 [Insert Biblical quotes about humility here]
 [Insert Biblical quotes about servitude here]
