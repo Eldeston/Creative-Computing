@@ -27,9 +27,22 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "abf12989c213ffee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md"
+              }
             }
           },
           {
@@ -160,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md"
+              }
             }
           }
         ],
@@ -182,11 +201,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00ed44c19a36a0c8",
+  "active": "abf12989c213ffee",
   "lastOpenFiles": [
+    "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - Digital Storytelling.md",
+    "Year 1/Classes/Digital Storytelling/Class 02 - Digital Storytelling.md",
     "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md",
     "Idea Station/Ideas.md",
-    "Year 1/Classes/Digital Storytelling/Class 02 - Digital Storytelling.md",
     "Year 1/Classes/Digital Storytelling/Class 05 - Digital Storytelling.md",
     "Important/Malpractice_Maladministration.pdf",
     "Year 1/CC L4 Cohort 1 & 2.pdf",
@@ -198,7 +218,6 @@
     "Year 1/Classes/Introduction to Programming (Python)/Class 03 - Introduction to Programming (Python).md",
     "Year 1/Classes/Digital Visual Design/Class 01 - Digital Visual Design.md",
     "Year 1/Classes/Digital Visual Design/Digital Visual Design Portfolio.md",
-    "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - Digital Storytelling.md",
     "Important/Appeals and Grievances_Complaints Policy.pdf",
     "2024-09-11.md",
     "Year 1/Classes/Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python) Portfolio.md",
