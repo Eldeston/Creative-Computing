@@ -24,19 +24,6 @@
             "id": "00ed44c19a36a0c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1c5ae6e937f9ef7",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
             }
@@ -108,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -203,10 +184,10 @@
   },
   "active": "00ed44c19a36a0c8",
   "lastOpenFiles": [
+    "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md",
     "Idea Station/Ideas.md",
     "Year 1/Classes/Digital Storytelling/Class 02 - Digital Storytelling.md",
     "Year 1/Classes/Digital Storytelling/Class 05 - Digital Storytelling.md",
-    "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md",
     "Important/Malpractice_Maladministration.pdf",
     "Year 1/CC L4 Cohort 1 & 2.pdf",
     "Year 1/Study Lab Login Credential Frem.pdf",
