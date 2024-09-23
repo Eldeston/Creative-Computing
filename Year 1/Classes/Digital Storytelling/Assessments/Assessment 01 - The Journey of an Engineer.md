@@ -9,7 +9,7 @@ teacher: Ms. Preeti Tyagi
 ## Outline
 I. Papers and Drawings
 	A. Childhood
-	B. Creative Craftsmanship
+	B. Craftsmanship
 II. The Inspiration
 	A. Minecraft
 	B. Dad
@@ -20,6 +20,17 @@ IV. See a need, fill a need
 	A. Robots (2005)
 	B. My own projects
 V. It is our turn.
+
+I. Papers and Drawings
+	A. Childhood
+	B. Craftsmanship
+II. The Inspiration
+	A. Dad
+	B. Confidence
+III. See a need, fill a need
+	A. Robots (2005)
+	B. My own projects
+IV. It is our turn.
 # Key Characters: Humility and Servitude
 ## Introduction
 Hi, my name is Frem, I go by the penname Eldeston. I am the founder of **FlameRender Studios.** This is the story of how my work as a shader developer came into being from papers and drawings to lights and shadows.
