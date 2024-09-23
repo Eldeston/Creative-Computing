@@ -11,9 +11,12 @@
             "id": "9ebbb707c086d9d1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Important/Malpractice_Maladministration.pdf"
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -34,17 +37,11 @@
             "id": "f1c5ae6e937f9ef7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 530.5
+    "width": 200
   },
   "right": {
     "id": "30cd0d9ae5a340a6",
@@ -203,10 +200,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1c5ae6e937f9ef7",
+  "active": "9ebbb707c086d9d1",
   "lastOpenFiles": [
-    "Idea Station/Ideas.md",
     "Important/Malpractice_Maladministration.pdf",
+    "Idea Station/Ideas.md",
+    "Year 1/CC L4 Cohort 1 & 2.pdf",
+    "Year 1/Study Lab Login Credential Frem.pdf",
+    "Year 1/Sem 1 Morning 2024-25 TIMETABLES.pdf",
     "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md",
     "Year 1/Classes/Digital Storytelling/Digital Storytelling Portfolio.md",
     "Important/Centre Appeal Investigation Process Flowchart.pdf",
@@ -230,9 +230,6 @@
     "Untitled.canvas",
     "Year 1/Classes/Introduction to Programming (Python)/Assessments",
     "Year 1/Classes/Digital Storytelling/Assessments",
-    "Year 1/Classes/Digital Visual Design/Documents/Assessment Brief L4 Digital Visual Design.pdf",
-    "Year 1/Classes/Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python)",
-    "Year 1/CC L4 Cohort 1 & 2.pdf",
     "Media/flameRenderLogo.gif",
     "Year 1/Deprecated/Assessment 01 - Digital Storytelling (Deprecated).md",
     "2024-09-20.md",
