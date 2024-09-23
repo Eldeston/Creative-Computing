@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idea Station/Ideas.md",
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -41,7 +41,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Class 02 - Digital Storytelling.md",
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Class 02 - Digital Storytelling.md",
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Class 02 - Digital Storytelling.md"
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md"
               }
             }
           },
@@ -177,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Class 02 - Digital Storytelling.md"
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md"
               }
             }
           }
@@ -200,12 +201,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ebbb707c086d9d1",
+  "active": "00ed44c19a36a0c8",
   "lastOpenFiles": [
+    "Idea Station/Ideas.md",
+    "Year 1/Classes/Digital Storytelling/Class 02 - Digital Storytelling.md",
     "Year 1/Classes/Digital Storytelling/Class 05 - Digital Storytelling.md",
     "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md",
     "Important/Malpractice_Maladministration.pdf",
-    "Idea Station/Ideas.md",
     "Year 1/CC L4 Cohort 1 & 2.pdf",
     "Year 1/Study Lab Login Credential Frem.pdf",
     "Year 1/Sem 1 Morning 2024-25 TIMETABLES.pdf",
@@ -218,7 +220,6 @@
     "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - Digital Storytelling.md",
     "Important/Appeals and Grievances_Complaints Policy.pdf",
     "2024-09-11.md",
-    "Year 1/Classes/Digital Storytelling/Class 02 - Digital Storytelling.md",
     "Year 1/Classes/Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python) Portfolio.md",
     "Idea Station",
     "Important/Calendar of Activities - AY 2024-2025.pdf",
