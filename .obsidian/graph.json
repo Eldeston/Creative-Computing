@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#digitalVisualDesign  ",
@@ -29,16 +29,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.993229166666667,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0,
+  "collapse-forces": true,
+  "centerStrength": 0.255208333333333,
   "repelStrength": 10,
   "linkStrength": 0.5,
   "linkDistance": 250,
-  "scale": 0.15657936271146985,
+  "scale": 0.2120773046903954,
   "close": false
 }

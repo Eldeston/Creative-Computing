@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ebbb707c086d9d1",
+            "id": "abf12989c213ffee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Class 02 - Digital Storytelling.md",
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,28 +21,32 @@
             }
           },
           {
-            "id": "00ed44c19a36a0c8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "abf12989c213ffee",
+            "id": "9ebbb707c086d9d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md",
+                "file": "Year 1/Classes/Digital Visual Design/Digital Visual Design Portfolio.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "826e9c437895ce3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 1/Classes/Digital Visual Design/Class 06 - Digital Visual Design.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +65,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -71,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "class",
+                "query": "untit",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -108,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md",
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md",
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md"
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md"
               }
             }
           },
@@ -178,7 +182,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md"
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md"
               }
             }
           }
@@ -203,21 +207,25 @@
   },
   "active": "abf12989c213ffee",
   "lastOpenFiles": [
-    "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - Digital Storytelling.md",
+    "Year 1/Classes/Digital Visual Design/Digital Visual Design Portfolio.md",
+    "Year 1/Classes/Digital Visual Design/Class 06 - Digital Visual Design.md",
+    "Templates/Assessment N - Subject Name.md",
+    "Templates/Class N Portfolio - Subject Name.md",
+    "Year 1/Classes/Digital Storytelling/Digital Storytelling Portfolio.md",
     "Year 1/Classes/Digital Storytelling/Class 02 - Digital Storytelling.md",
-    "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Journey of an Engineer.md",
-    "Idea Station/Ideas.md",
+    "Year 1/Classes/Digital Visual Design/Documents/Class 07 - Digital Visual Des.md",
     "Year 1/Classes/Digital Storytelling/Class 05 - Digital Storytelling.md",
+    "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
+    "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - Digital Storytelling.md",
+    "Idea Station/Ideas.md",
     "Important/Malpractice_Maladministration.pdf",
     "Year 1/CC L4 Cohort 1 & 2.pdf",
     "Year 1/Study Lab Login Credential Frem.pdf",
     "Year 1/Sem 1 Morning 2024-25 TIMETABLES.pdf",
-    "Year 1/Classes/Digital Storytelling/Digital Storytelling Portfolio.md",
     "Important/Centre Appeal Investigation Process Flowchart.pdf",
     "README.md",
     "Year 1/Classes/Introduction to Programming (Python)/Class 03 - Introduction to Programming (Python).md",
     "Year 1/Classes/Digital Visual Design/Class 01 - Digital Visual Design.md",
-    "Year 1/Classes/Digital Visual Design/Digital Visual Design Portfolio.md",
     "Important/Appeals and Grievances_Complaints Policy.pdf",
     "2024-09-11.md",
     "Year 1/Classes/Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python) Portfolio.md",
@@ -226,8 +234,6 @@
     "Year 1/Classes/Introduction to Programming (Python)/Introduction to Programming (Python) Portfolio.md",
     "Year 1/Classes/Introduction to Programming (Python)/Class 06 - Introduction to Programming (Python).md",
     "Year 1/Classes/Digital Visual Design/Class 04 - Digital Visual Design.md",
-    "Templates/Class N Portfolio - Subject Name.md",
-    "Templates/Assessment N - Subject Name.md",
     "Untitled.canvas",
     "Year 1/Classes/Introduction to Programming (Python)/Assessments",
     "Year 1/Classes/Digital Storytelling/Assessments",
@@ -239,7 +245,6 @@
     "Digital Storytelling.md",
     "Year 1/Tags/Deprecated Notes.md",
     "Year 1/Tags/Digital Storytelling.md",
-    "Year 1/Tags/Digital Visual Design.md",
     "Media/Pasted image 20240917102536.png",
     "Media/Pasted image 20240917102247.png",
     "Media/Pasted image 20240917105519.png",

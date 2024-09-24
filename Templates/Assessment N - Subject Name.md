@@ -6,7 +6,5 @@ teacher:
 ---
 # Assessment Name
 
-# References
-- 
 ----------------------------------------------------------------
 # Editor's Notes

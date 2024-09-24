@@ -1,10 +1,10 @@
 ---
 tags:
-  - template
-date: 
-teacher:
+  - digitalVisualDesign
+date: 2024-09-24
+teacher: Mr. Subhan Ali
 ---
-# Subject Name N
+# Digital Visual Design 3
 
 ----------------------------------------------------------------
 # Editor's Notes
