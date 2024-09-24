@@ -6,6 +6,20 @@ date: 2024-09-21
 teacher: Ms. Preeti Tyagi
 ---
 # The Beginning of an Engineer's Journey
+## What makes a story?
+A story is a spoken or written, or fictional or non-fictional event which purpose is to express a person's personal experience or an idea to another. Stories are often used to communicate very important topics in various aspects in life, whether you are living your best in life, or wrapped around in the cold arms of death.
+
+It is also a powerful tool to communicate and to relate to another person's experiences and to provoke a one's imagination.
+
+Stories can be a series of chronological events pointing towards a bigger picture that provokes an immediate response from the listening audience.
+
+> "I may not live to see our glory (I may not live to see our glory)
+> But I will gladly join the fight (but I will gladly join the fight)
+> And when our children tell our story (and when our children tell our story)
+> They'll tell the story of tonight..."
+> *- Hamilton: An American Musical, "The Story of Tonight" by Lin-Manuel, 2015*
+## Story patterns and structures
+
 ## Outline
 I. Papers and Drawings
 	A. Childhood
@@ -31,7 +45,7 @@ Along with the Dubai experience, I watched a lot of movies and my Parents were b
 ## It is our turn.
 This lead into the birth of my projects: FlameRender Studios, a creator community founded by me, Maud (Maudric, aka my brother), and UserNameGoesHere (Aiden), and Super Duper Vanilla, a shader pack created to convey and recreate the long cancelled and forgotten Super Duper Graphics pack.
 
-Now it is your turn. How can you help in this day and age where there are so many problems? In what area in YOUR life do you think you can serve someone in need? Seeing myself in this course, I want serve and fulfill other's needs - whether it be in the form of solving a physical problem, or a personal problem in someone's life. I know can never fulfil everyone's needs, but I can continue serving my friends and family in humility wherever and whenever I can do. I also hope that I can also teach others this same sense of servitude and humility.
+Now it is your turn. How can you help in this day and age where there are so many problems? What area in YOUR life do you think you can serve someone in need? Seeing myself in this course, I want serve and fulfill other's needs - whether it be in the form of solving a physical problem, or a personal problem in someone's life. I know can never fulfil everyone's needs, but I can continue serving my friends and family in humility wherever and whenever I can do. I also hope that I can also teach others this same sense of servitude and humility.
 
 > "See a need, fill a need."
 > *- Robots, 2005*
