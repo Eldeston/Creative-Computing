@@ -57,7 +57,7 @@ Our brain connects dots (facts/incidents) and “creates” more than what actua
 
 “Story” and “narrative” mean the same thing. “Narrative” is simply a more academic term than “story.” In a story, causality is involved in some way (along the lines: A leads to B, B leads to C, C leads to D, etc).
 ## Myths
-A myth is a traditional story without an author that is usually intended to teach a lesson, explain one of the many mysteries of life, explain a phenomenon of nature & describe the customs, institutions, or religious rites of a people
+A myth is a traditional story without an author that is usually intended to teach a lesson, explain one of the many mysteries of life, explain a phenomenon of nature & describe the customs, institutions, or religious rites of a people.
 
 - **Achilles**
 	As an infant Achilles' mother dipped him into the River Styx, which made him invulnerable everywhere but the heel by which she held him. For ten years Achilles was a great hero in the Trojan War for the Greeks. But in the end, Paris, son of the Trojan king, fatally wounded Achilles in the heel.
@@ -85,7 +85,7 @@ This image from August 20, 2021 shows a U.S. Marine grabbing an infant over a fe
 # Editor's Notes
 
 > [!NOTE]
-> There's a quote from Pilgrim's Progress movie on imagination. Imagination is one of God's characters as the Creator of the universe and we are created in His image, proving God's influence and existence on us.
+> There's a quote from Pilgrim's Progress movie on imagination. Imagination is one of God's characters as the Creator of the universe and we are created in His image, proving that we are image bearers of God and His proof of existence through us.
 ## Structure
 Storytelling should always come in narrative form as you are describing your experience in the form of stories. Stories can come in 2 types - personal and documentary. Personal can be about others or oneself.
 ## Form

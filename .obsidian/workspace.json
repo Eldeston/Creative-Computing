@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Class 02 - Digital Storytelling.md",
+                "file": "Year 1/Classes/Digital Storytelling/Class 05 - Digital Storytelling.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
+                "file": "Year 1/Classes/Digital Storytelling/Class 05 - Digital Storytelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
+                "file": "Year 1/Classes/Digital Storytelling/Class 05 - Digital Storytelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md"
+                "file": "Year 1/Classes/Digital Storytelling/Class 05 - Digital Storytelling.md"
               }
             }
           },
@@ -169,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md"
+                "file": "Year 1/Classes/Digital Storytelling/Class 05 - Digital Storytelling.md"
               }
             }
           }
@@ -192,11 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abf12989c213ffee",
+  "active": "aa3edcdc923baee8",
   "lastOpenFiles": [
-    "Year 1/Classes/Digital Storytelling/Class 02 - Digital Storytelling.md",
     "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
     "Year 1/Classes/Digital Storytelling/Class 05 - Digital Storytelling.md",
+    "Year 1/Classes/Digital Storytelling/Class 02 - Digital Storytelling.md",
     "Year 1/Classes/Digital Visual Design/Digital Visual Design Portfolio.md",
     "Year 1/Classes/Digital Visual Design/Class 01 - Digital Visual Design.md",
     "Year 1/Classes/Digital Visual Design/Class 06 - Digital Visual Design.md",
