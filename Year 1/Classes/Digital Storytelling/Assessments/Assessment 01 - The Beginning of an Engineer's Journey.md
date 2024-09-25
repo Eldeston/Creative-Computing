@@ -7,11 +7,11 @@ teacher: Ms. Preeti Tyagi
 ---
 # The Beginning of an Engineer's Journey
 ## What makes a story?
-A story is a spoken or written, or fictional or non-fictional event which purpose is to express a person's personal experience or an idea to another. Stories are often used to communicate very important topics in various aspects in life, whether you are living your best in life, or wrapped around in the cold arms of death.
+A story is a spoken or written, or fictional or non-fictional event which purpose is to express a person's personal experience or an idea to others. Stories are often used to effectively communicate very important topics in various aspects in life, whether you are delivering justice to the people, or destroying the lives of everyone. Having a loving family, or rejecting an outcast. Living out your best in life, or wrapped around in the cold arms of death. Taking revenge to those who offended you, or forgiving to those who ask for your forgiveness.
 
-It is also a powerful tool to communicate and to relate to another person's experiences and to provoke a one's imagination.
+Storytelling is a powerful tool used to communicate and to relate to another person's experiences and to provoke another person's imagination. Mankind's capability for imagination is a supernatural gift unique to us only.
 
-Stories can be a series of chronological events pointing towards a bigger picture that provokes an immediate response from the listening audience.
+Stories can be a series of chronological events pointing towards a bigger picture that provokes an immediate response from the listening audience. The immediate response causes the person to criticize their philosophical values and always result in a final resolution.
 
 > "I may not live to see our glory (I may not live to see our glory)
 > But I will gladly join the fight (but I will gladly join the fight)
