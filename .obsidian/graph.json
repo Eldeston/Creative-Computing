@@ -11,7 +11,7 @@
       "query": "tag:#portfolio  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 16711808
       }
     },
     {
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 0.5,
   "linkDistance": 250,
-  "scale": 0.33277534496778793,
+  "scale": 0.18297369553602535,
   "close": false
 }

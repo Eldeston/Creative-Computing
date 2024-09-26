@@ -1,10 +1,10 @@
 ---
 tags:
   - incomplete
-date: 2024-09-25
-teacher: Mr. Subhan Ali
+date: 2024-09-26
+teacher: Ms. Lavanya Mohan
 ---
-# Digital Visual Design 3
+# Introduction to Programming (Python) 3
 
 ----------------------------------------------------------------
 # Editor's Notes

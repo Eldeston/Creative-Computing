@@ -1,7 +1,7 @@
 ---
 tags:
   - complete
-date: 
+date: 2024-09-24
 teacher:
 ---
 # Digital Storytelling 3
