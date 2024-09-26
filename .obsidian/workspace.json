@@ -11,11 +11,25 @@
             "id": "32184f412d52cdf5",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "Year 1/Classes/Introduction to Programming (Python)/Introduction to Programming (Python) Portfolio.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acdd8bf7e0d9242c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year 1/Classes/Introduction to Programming (Python)/Introduction to Programming (Python) Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Year 1/Classes/Introduction to Programming (Python)/Introduction to Programming (Python) Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Year 1/Classes/Introduction to Programming (Python)/Introduction to Programming (Python) Portfolio.md"
+              }
             }
           },
           {
@@ -146,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Year 1/Classes/Introduction to Programming (Python)/Introduction to Programming (Python) Portfolio.md"
+              }
             }
           }
         ],
@@ -168,42 +188,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32184f412d52cdf5",
+  "active": "acdd8bf7e0d9242c",
   "lastOpenFiles": [
-    "Year 1/Classes/Digital Storytelling/Digital Storytelling Portfolio.md",
+    "Year 1/Classes/Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python) Portfolio.md",
     "README.md",
-    "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
-    "Year 1/Classes/Digital Storytelling/Class 02 - Digital Storytelling.md",
-    "Year 1/Classes/Digital Storytelling/Class 08 - Digital Storytelling.md",
-    "Media/Picture1.png",
-    "Year 1/Classes/Digital Storytelling/Class 05 - Digital Storytelling.md",
-    "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - Digital Storytelling.md",
-    "Year 1/Classes/Digital Storytelling/Documents/~$Lecture 1 - Digital Storytelling.pptx",
-    "Year 1/Classes/Digital Visual Design/Class 07 - Digital Visual Design.md",
+    "Year 1/Classes/Digital Storytelling/Digital Storytelling Portfolio.md",
     "Year 1/Classes/Digital Visual Design/Digital Visual Design Portfolio.md",
-    "Year 1/Classes/Digital Visual Design/Class 01 - Digital Visual Design.md",
-    "Templates/Assessment N - Subject Name.md",
+    "Year 1/Classes/Introduction to Programming (Python)/Introduction to Programming (Python) Portfolio.md",
     "Templates/Class N Portfolio - Subject Name.md",
+    "Media/Picture1.png",
+    "Year 1/Deprecated/~$Assessment 01 - Piracy (Depracated).pptx",
+    "Year 1/Deprecated/FlameRender Studios - From Papers to Shaders (Deprecated).md",
+    "Year 1/Deprecated/Piracy in the Open Internet Seas (Deprecated).md",
+    "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
+    "Year 1/Classes/Introduction to Programming (Python)/Class 03 - Introduction to Programming (Python).md",
+    "Year 1/Classes/Digital Storytelling/Class 02 - Digital Storytelling.md",
+    "Year 1/Classes/Digital Storytelling/Class 05 - Digital Storytelling.md",
+    "Year 1/Classes/Digital Storytelling/Class 08 - Digital Storytelling.md",
+    "Year 1/Classes/Digital Visual Design/Class 01 - Digital Visual Design.md",
+    "Year 1/Classes/Digital Visual Design/Class 04 - Digital Visual Design.md",
+    "Year 1/Classes/Digital Visual Design/Class 07 - Digital Visual Design.md",
+    "Year 1/Classes/Introduction to Programming (Python)/Class 06 - Introduction to Programming (Python).md",
+    "Templates/Assessment N - Subject Name.md",
     "Year 1/Classes/Digital Visual Design/Documents/Class 07 - Digital Visual Des.md",
+    "Year 1/Classes/Digital Storytelling/Documents/~$Lecture 1 - Digital Storytelling.pptx",
     "Idea Station/Ideas.md",
     "Important/Malpractice_Maladministration.pdf",
     "Year 1/CC L4 Cohort 1 & 2.pdf",
     "Year 1/Study Lab Login Credential Frem.pdf",
     "Year 1/Sem 1 Morning 2024-25 TIMETABLES.pdf",
     "Important/Centre Appeal Investigation Process Flowchart.pdf",
-    "Year 1/Classes/Introduction to Programming (Python)/Class 03 - Introduction to Programming (Python).md",
     "Important/Appeals and Grievances_Complaints Policy.pdf",
     "2024-09-11.md",
-    "Year 1/Classes/Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python) Portfolio.md",
     "Idea Station",
     "Important/Calendar of Activities - AY 2024-2025.pdf",
-    "Year 1/Classes/Introduction to Programming (Python)/Introduction to Programming (Python) Portfolio.md",
-    "Year 1/Classes/Introduction to Programming (Python)/Class 06 - Introduction to Programming (Python).md",
-    "Year 1/Classes/Digital Visual Design/Class 04 - Digital Visual Design.md",
     "Untitled.canvas",
-    "Year 1/Classes/Introduction to Programming (Python)/Assessments",
     "Media/flameRenderLogo.gif",
-    "Year 1/Deprecated/Assessment 01 - Digital Storytelling (Deprecated).md",
     "2024-09-20.md",
     "Test.md",
     "2024-09-10.md",

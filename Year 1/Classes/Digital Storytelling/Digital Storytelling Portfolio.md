@@ -1,6 +1,6 @@
 ---
 tags:
-  - digitalStorytelling
+  - portfolio
 date: 2024-09-20
 teacher: Ms. Preeti Tyagi
 ---
@@ -9,7 +9,7 @@ teacher: Ms. Preeti Tyagi
 - [Class 05 - Digital Storytelling](Class%2005%20-%20Digital%20Storytelling.md)
 - [Class 08 - Digital Storytelling](Class%2008%20-%20Digital%20Storytelling.md)
 # Assessments
-- [Assessment 01 - Digital Storytelling](Assessments/Assessment%2001%20-%20Digital%20Storytelling.md)
+- [Assessment 01 - The Beginning of an Engineer's Journey](Assessments/Assessment%2001%20-%20The%20Beginning%20of%20an%20Engineer's%20Journey.md)
 # References
 - Sites
 	- [Kurt Vonnegut on the 8 "shapes" of stories - Big Think](https://bigthink.com/high-culture/vonnegut-shapes/#rebelltitem3)

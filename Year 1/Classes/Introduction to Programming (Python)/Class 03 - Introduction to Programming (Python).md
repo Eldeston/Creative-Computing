@@ -1,7 +1,6 @@
 ---
 tags:
-  - introductionToProgramming
-  - python
+  - incomplete
 date: 2024-09-12
 teacher: Ms. Lavanya Mohan
 ---
@@ -39,5 +38,3 @@ A programming language is a formal set of instructions or code that humans use t
 
 ----------------------------------------------------------------
 # Editor's Notes
-
-[thumbnail](../../../Media/thumbnail.png)

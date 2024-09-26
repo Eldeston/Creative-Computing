@@ -1,8 +1,7 @@
 ---
 tags:
-  - introductionToProgramming
-  - python
   - assessment
+  - incomplete
 date: 2024-09-20
 teacher: Ms. Lavanya Mohan
 ---

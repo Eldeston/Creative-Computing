@@ -1,6 +1,7 @@
 ---
 tags:
-  - digitalStorytelling
+  - assessment
+  - incomplete
 date: 2024-09-19
 teacher: Ms. Preeti Tyagi
 ---
@@ -36,6 +37,6 @@ Piracy should never be justified in the first place, but it should be reduced. W
 - Steam - Provides a great service and has accumulated a large amount of loyal gamers.
 - Apple - As much as I hate to say it, Apple has been really amazing with their security but it is not suited for developers and people with holes in their pockets.
 # References
-- [Assessment 01 - Piracy (Depracated)](Assessment%2001%20-%20Piracy%20(Depracated).pptx)
+- [Assessment 01 - Piracy (Depracated)](Piracy%20in%20the%20Open%20Internet%20Seas%20(Deprecated).pptx)
 - [Online piracy - Wikipedia](https://en.wikipedia.org/wiki/Online_piracy)
 - [(24) Piracy is COMPLETELY justified: Louis tries NetFlix & remembers why - YouTube](https://www.youtube.com/watch?v=o4GZUCwVRLs)

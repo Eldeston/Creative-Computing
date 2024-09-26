@@ -1,7 +1,6 @@
 ---
 tags:
-  - introductionToProgramming
-  - python
+  - "#portfolio"
 date: 2024-09-20
 teacher: Ms. Lavanya Mohan
 ---
@@ -9,8 +8,7 @@ teacher: Ms. Lavanya Mohan
 - [Class 03 - Introduction to Programming (Python)](Class%2003%20-%20Introduction%20to%20Programming%20(Python).md)
 - [Class 06 - Introduction to Programming (Python)](Class%2006%20-%20Introduction%20to%20Programming%20(Python).md)
 # Assessments
-- Python coding
-	- 
+- [Assessment 01 - Introduction to Programming (Python) Portfolio](Assessments/Assessment%2001%20-%20Introduction%20to%20Programming%20(Python)%20Portfolio.md)
 # References
 - Sites
 	- https://www.pythoncheatsheet.org/cheatsheet/basics

@@ -1,6 +1,6 @@
 ---
 tags:
-  - template
+  - complete
 date: 
 teacher:
 ---

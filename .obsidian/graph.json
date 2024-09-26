@@ -1,31 +1,38 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#digitalVisualDesign  ",
+      "query": "tag:#portfolio  ",
       "color": {
         "a": 1,
         "rgb": 16711680
       }
     },
     {
-      "query": "tag:#digitalStorytelling  ",
+      "query": "tag:#template",
+      "color": {
+        "a": 1,
+        "rgb": 9079434
+      }
+    },
+    {
+      "query": "file:README",
       "color": {
         "a": 1,
         "rgb": 16711680
       }
     },
     {
-      "query": "tag:#introductionToProgramming  ",
+      "query": "tag:#assessment ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 16744448
       }
     }
   ],
@@ -34,11 +41,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.993229166666667,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.255208333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
   "repelStrength": 10,
   "linkStrength": 0.5,
   "linkDistance": 250,
-  "scale": 0.2120773046903954,
+  "scale": 0.33277534496778793,
   "close": false
 }
