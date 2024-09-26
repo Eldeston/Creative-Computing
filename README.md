@@ -2,7 +2,7 @@
 This is an wiki repository for all my study resources for Creative Computing at Metaverse Age on BathSpa.
 ## About This Wiki
 Please use [Obsidian.md](https://obsidian.md/) to effectively use this archive to the fullest. This is especially true if you want to see Obsidian's graph view.
-## Documents
+# Documents
 - Main Documents
 	- [Calendar of Activities - AY 2024-2025](Important/Calendar%20of%20Activities%20-%20AY%202024-2025.pdf)
 	- [LPCP_V1](Important/LPCP_V1.pdf)
@@ -15,7 +15,7 @@ Please use [Obsidian.md](https://obsidian.md/) to effectively use this archive t
 	- [CC L4 Cohort 1 & 2](Year%201/CC%20L4%20Cohort%201%20&%202.pdf)
 	- [Sem 1 Morning 2024-25 TIMETABLES](Year%201/Sem%201%20Morning%202024-25%20TIMETABLES.pdf)
 	- [Sem 1 Evening 2024-25 TIMETABLES](Year%201/Sem%201%20Evening%202024-25%20TIMETABLES.pdf)
-## Main Portfolio
+# Main Portfolio
 - [Digital Visual Design Portfolio](Year%201/Classes/Digital%20Visual%20Design/Digital%20Visual%20Design%20Portfolio.md)
 - [Digital Storytelling Portfolio](Year%201/Classes/Digital%20Storytelling/Digital%20Storytelling%20Portfolio.md)
 - [Introduction to Programming (Python) Portfolio](Year%201/Classes/Introduction%20to%20Programming%20(Python)/Introduction%20to%20Programming%20(Python)%20Portfolio.md)
@@ -28,7 +28,8 @@ Discontinued or scrapped ideas.
 - [Assessment N - Subject Name](Templates/Assessment%20N%20-%20Subject%20Name.md)
 ## Idea Station
 - [Ideas](Idea%20Station/Ideas.md) 
-## Quotes
+# Quotes
+
 > "But all things should be done decently and in order."
 > *- 1 Corinthians 14:40, Order
 

@@ -8,6 +8,9 @@ teacher: Ms. Lavanya Mohan
 - [Class 03 - Introduction to Programming (Python)](Class%2003%20-%20Introduction%20to%20Programming%20(Python).md)
 - [Class 06 - Introduction to Programming (Python)](Class%2006%20-%20Introduction%20to%20Programming%20(Python).md)
 - [Class 09 - Introduction to Programming (Python)](Class%2009%20-%20Introduction%20to%20Programming%20(Python).md)
+# Activities
+- [activity06](Assessments/Assessment%2001%20-%20Introduction%20to%20Programming%20(Python)/activity06.py)
+- [activity09](Assessments/Assessment%2001%20-%20Introduction%20to%20Programming%20(Python)/activity09.py)
 # Assessments
 - [Assessment 01 - Introduction to Programming (Python) Portfolio](Assessments/Assessment%2001%20-%20Introduction%20to%20Programming%20(Python)%20Portfolio.md) - Oct 25
 # References

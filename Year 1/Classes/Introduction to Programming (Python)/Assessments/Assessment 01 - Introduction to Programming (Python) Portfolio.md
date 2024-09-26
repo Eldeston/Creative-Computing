@@ -149,3 +149,4 @@ ________________________________________________________________________________
 - [exercise3](Assessment%2001%20-%20Introduction%20to%20Programming%20(Python)/exercise3.py)
 - [exercise4](Assessment%2001%20-%20Introduction%20to%20Programming%20(Python)/exercise4.py)
 - [exercise5](Assessment%2001%20-%20Introduction%20to%20Programming%20(Python)/exercise5.py)
+- [exercise6](Assessment%2001%20-%20Introduction%20to%20Programming%20(Python)/exercise6.py)
