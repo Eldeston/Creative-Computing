@@ -7,7 +7,7 @@ teacher: Mr. Subhan Ali
 # Classes
 - [Class 01 - Digital Visual Design](Class%2001%20-%20Digital%20Visual%20Design.md)
 - [Class 04 - Digital Visual Design](Class%2004%20-%20Digital%20Visual%20Design.md)
-- [Class 06 - Digital Visual Design](Class%2006%20-%20Digital%20Visual%20Design.md)
+- [Class 07 - Digital Visual Design](Class%2007%20-%20Digital%20Visual%20Design.md)
 # Assessments
 - Upcoming assessment next week
 # References

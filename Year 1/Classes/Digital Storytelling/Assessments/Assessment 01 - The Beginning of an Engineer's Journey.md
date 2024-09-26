@@ -19,7 +19,11 @@ Stories can be a series of chronological events pointing towards a bigger pictur
 > They'll tell the story of tonight..."
 > *- Hamilton: An American Musical, "The Story of Tonight" by Lin-Manuel, 2015*
 ## Story patterns and structures
-Stories always come in narrative form. Stories can be structured as a personal documentary about how someone very important to you influenced your life or a personal testimony in your entire life. Stories can be written as fiction in chronological order each building up and pointing towards a bigger picture which purpose is to teach a valuable lesson in their life or asks where are you or what you are doing in your life.
+Stories always come in narrative form. Stories can be structured as a personal documentary about how someone very important to you influenced or inspired your life or a personal testimony of a very important event in your life. 
+
+Stories can be written as fiction or non-fiction in chronological order each building up and pointing towards a bigger picture which purpose is to teach a valuable lesson in their life or asks where are you or what you are doing in your life given the current situation you are in. This is commonly used in fictional stories such as fairy tales, epics, and legends. It is also used in inspirational non-fictional movies such as Hacksaw Ridge (2016) whose story is about Desmond Doss exercising and displaying servitude in World War 2 as a medic even in suffering, never using a weapon and even helping out Japanese enemies (as prisoners of war).
+
+Stories will always display or exercise multiple key characters such as humility, leadership, or mercy. Stories often project the author's philosophical views, exposing their understanding of the world and how it is. As the reader or listener is exposed to these views, an immediate response is provoked, evaluating their philosophical values.
 ## Outline
 I. Papers and Drawings
 	A. Childhood
@@ -56,5 +60,5 @@ Now it is your turn. How can you help in this day and age where there are so man
 > "You're always one tile short."
 > *- Anonymous, Reddit, Factorio*
 
-[Insert Biblical quotes about humility here]
-[Insert Biblical quotes about servitude here]
+[Biblical quotes on Humility]
+[Biblical quotes on Servitude]

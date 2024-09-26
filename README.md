@@ -25,10 +25,7 @@ Please use [Obsidian.md](https://obsidian.md/) to effectively use this archive t
 	- [Sem 1 Morning 2024-25 TIMETABLES](Year%201/Sem%201%20Morning%202024-25%20TIMETABLES.pdf)
 	- [Sem 1 Evening 2024-25 TIMETABLES](Year%201/Sem%201%20Evening%202024-25%20TIMETABLES.pdf)
 ## Idea Station
-- [Ideas](Idea%20Station/Ideas.md)
-
-- [ ] test
- 
+- [Ideas](Idea%20Station/Ideas.md) 
 ## Quotes
 > "But all things should be done decently and in order."
 > *- 1 Corinthians 14:40, Order
@@ -43,3 +40,5 @@ Please use [Obsidian.md](https://obsidian.md/) to effectively use this archive t
 - Utilize properties
 - Pool all main subjects to one folder
 - Rename class notes according to calendar date
+
+https://bathspa.ac.ae/internship-portal/
