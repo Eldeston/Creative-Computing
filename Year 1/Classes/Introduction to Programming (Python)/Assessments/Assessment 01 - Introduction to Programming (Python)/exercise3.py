@@ -2,6 +2,8 @@
 
 # Note that we are using a consistent name format for all variables, known as camelCase.
 
+# WARNING WARNING NEED TO REDO THIS EXERCISE
+
 # Initialize full name as a string
 fullName = "Frem Fredric Baring Patalinghug"
 # Intialize hometown as a string
