@@ -12,5 +12,6 @@ teacher: Mr. Subhan Ali
 - Figma Assignments
 # References
 - [Lecture 1 - Digital Visual Design](Documents/Lecture%201%20-%20Digital%20Visual%20Design.pdf)
+- [Lecture 2 - Digital Visual Design](Documents/Lecture%202%20-%20Digital%20Visual%20Design.pdf)
 - [Assessment Brief L4 Digital Visual Design](Documents/Assessment%20Brief%20L4%20Digital%20Visual%20Design.pdf)
 - [Course Specification L4 Digital Visual Design](Documents/Course%20Specification%20L4%20Digital%20Visual%20Design.pdf)
