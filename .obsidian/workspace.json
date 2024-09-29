@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Classes/Digital Visual Design/Digital Visual Design Portfolio.md",
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "untit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Classes/Digital Visual Design/Digital Visual Design Portfolio.md",
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Classes/Digital Visual Design/Digital Visual Design Portfolio.md",
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1/Classes/Digital Visual Design/Digital Visual Design Portfolio.md"
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 1/Classes/Digital Visual Design/Digital Visual Design Portfolio.md"
+                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md"
               }
             }
           }
@@ -195,8 +195,8 @@
   },
   "active": "385456fa797c16bb",
   "lastOpenFiles": [
-    "README.md",
     "Year 1/Classes/Digital Visual Design/Digital Visual Design Portfolio.md",
+    "README.md",
     "Year 1/Classes/Digital Visual Design/Class 04 - Digital Visual Design.md",
     "Year 1/Classes/Digital Visual Design/Documents/Lecture 2 - Digital Visual Design.pdf",
     "Year 1/Classes/Digital Visual Design/Documents/Assessment 1 Brief (Programming Skills Portfolio)) (1).docx",
