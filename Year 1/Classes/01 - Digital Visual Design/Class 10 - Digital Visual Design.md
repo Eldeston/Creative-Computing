@@ -1,10 +1,10 @@
 ---
 tags:
-  - incomplete
-date: 2024-09-25
-teacher: Mr. Subhan Ali
+  - template
+date: 
+teacher:
 ---
-# Digital Visual Design 3
+# Digital Visual Design 4
 
 ----------------------------------------------------------------
 # Editor's Notes

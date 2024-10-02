@@ -16,9 +16,9 @@ Please use [Obsidian.md](https://obsidian.md/) to effectively use this archive t
 	- [Sem 1 Morning 2024-25 TIMETABLES](Year%201/Sem%201%20Morning%202024-25%20TIMETABLES.pdf)
 	- [Sem 1 Evening 2024-25 TIMETABLES](Year%201/Sem%201%20Evening%202024-25%20TIMETABLES.pdf)
 # Main Portfolio
-- [Digital Visual Design Portfolio](Year%201/Classes/Digital%20Visual%20Design/Digital%20Visual%20Design%20Portfolio.md)
-- [Digital Storytelling Portfolio](Year%201/Classes/Digital%20Storytelling/Digital%20Storytelling%20Portfolio.md)
-- [Introduction to Programming (Python) Portfolio](Year%201/Classes/Introduction%20to%20Programming%20(Python)/Introduction%20to%20Programming%20(Python)%20Portfolio.md)
+- [Digital Visual Design Portfolio](Year%201/Classes/01%20-%20Digital%20Visual%20Design/Digital%20Visual%20Design%20Portfolio.md)
+- [Digital Storytelling Portfolio](Year%201/Classes/02%20-%20Digital%20Storytelling/Digital%20Storytelling%20Portfolio.md)
+- [Introduction to Programming (Python) Portfolio](Year%201/Classes/03%20-%20Introduction%20to%20Programming%20(Python)/Introduction%20to%20Programming%20(Python)%20Portfolio.md)
 ## Deprecated
 Discontinued or scrapped ideas.
 - [Piracy in the Open Internet Seas (Deprecated)](Year%201/Deprecated/Piracy%20in%20the%20Open%20Internet%20Seas%20(Deprecated).md)

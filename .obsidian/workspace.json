@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "16fce9b7e7a4a48a",
+        "id": "1986414d1834e258",
         "type": "tabs",
         "children": [
           {
-            "id": "32184f412d52cdf5",
+            "id": "d6c1b370fdabd370",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "385456fa797c16bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 200
   },
   "right": {
     "id": "30cd0d9ae5a340a6",
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -193,29 +168,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "385456fa797c16bb",
+  "active": "d6c1b370fdabd370",
   "lastOpenFiles": [
-    "Year 1/Classes/Digital Visual Design/Digital Visual Design Portfolio.md",
+    "Year 1/Classes/01 - Digital Visual Design/Digital Visual Design Portfolio.md",
+    "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Portfolio.md",
     "README.md",
-    "Year 1/Classes/Digital Visual Design/Class 04 - Digital Visual Design.md",
-    "Year 1/Classes/Digital Visual Design/Documents/Lecture 2 - Digital Visual Design.pdf",
+    "Year 1/Classes/01 - Digital Visual Design/Class 04 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 07 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture 2 - Digital Visual Design.pdf",
+    "Year 1/Classes/01 - Digital Visual Design/Class 10 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 01 - Digital Visual Design.md",
+    "Year 1/Classes/02 - Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
     "Year 1/Classes/Digital Visual Design/Documents/Assessment 1 Brief (Programming Skills Portfolio)) (1).docx",
     "Year 1/Classes/Digital Visual Design/Documents/Lecture - 2  DVD  L4.pdf",
-    "Year 1/Classes/Digital Visual Design/Class 07 - Digital Visual Design.md",
-    "Year 1/Classes/Introduction to Programming (Python)/Class 09 - Introduction to Programming (Python).md",
+    "Year 1/Classes/03 - Introduction to Programming (Python)/Class 09 - Introduction to Programming (Python).md",
     "Year 1/Deprecated/Piracy in the Open Internet Seas (Deprecated).md",
     "Year 1/Deprecated/FlameRender Studios - From Papers to Shaders (Deprecated).md",
-    "Year 1/Classes/Introduction to Programming (Python)/Introduction to Programming (Python) Portfolio.md",
-    "Year 1/Classes/Introduction to Programming (Python)/Class 06 - Introduction to Programming (Python).md",
-    "Year 1/Classes/Introduction to Programming (Python)/Class 03 - Introduction to Programming (Python).md",
-    "Year 1/Classes/Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python) Portfolio.md",
-    "Year 1/Classes/Digital Visual Design/Class 01 - Digital Visual Design.md",
-    "Year 1/Classes/Digital Storytelling/Digital Storytelling Portfolio.md",
-    "Year 1/Classes/Digital Storytelling/Class 08 - Digital Storytelling.md",
-    "Year 1/Classes/Digital Storytelling/Class 05 - Digital Storytelling.md",
-    "Year 1/Classes/Digital Storytelling/Class 02 - Digital Storytelling.md",
-    "Year 1/Classes/Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
-    "Year 1/Classes/Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python)/exercise6.py",
+    "Year 1/Classes/03 - Introduction to Programming (Python)/Introduction to Programming (Python) Portfolio.md",
+    "Year 1/Classes/03 - Introduction to Programming (Python)/Class 06 - Introduction to Programming (Python).md",
+    "Year 1/Classes/03 - Introduction to Programming (Python)/Class 03 - Introduction to Programming (Python).md",
+    "Year 1/Classes/03 - Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python) Portfolio.md",
+    "Year 1/Classes/02 - Digital Storytelling/Class 08 - Digital Storytelling.md",
+    "Year 1/Classes/02 - Digital Storytelling/Class 05 - Digital Storytelling.md",
+    "Year 1/Classes/02 - Digital Storytelling/Class 02 - Digital Storytelling.md",
+    "Year 1/Classes/03 - Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python)/exercise6.py",
     "Templates/Class N Portfolio - Subject Name.md",
     "Media/Picture1.png",
     "Year 1/Deprecated/~$Assessment 01 - Piracy (Depracated).pptx",
@@ -232,7 +208,6 @@
     "Media/flameRenderLogo.gif",
     "2024-09-20.md",
     "Test.md",
-    "2024-09-10.md",
     "Media/Pasted image 20240917102536.png",
     "Media/Pasted image 20240917102247.png",
     "Media/Pasted image 20240917105519.png",

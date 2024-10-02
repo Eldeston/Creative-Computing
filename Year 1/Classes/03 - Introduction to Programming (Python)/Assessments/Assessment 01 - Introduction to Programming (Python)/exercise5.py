@@ -7,7 +7,17 @@
 import sys
 
 # Announce program.
-print("================================ \n\nWelcome to the \"Days O' Month Counter\" program! \nTo enter advanced mode, type \"Advanced.\" \nTo exit the program, just type \"Exit.\" \n\n================================")
+print(
+    """
+        ================================================================
+        
+        Welcome to the \"Days O' Month Counter\" program!
+        To enter advanced mode, type \"Advanced.\"
+        To exit the program, just type \"Exit.\"
+        
+        ================================================================
+    """
+)
 
 # Day calendar dictionary. Contains the number of days each month has.
 dayCalendar = {
