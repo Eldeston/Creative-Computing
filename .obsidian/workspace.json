@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Portfolio.md"
+              }
             }
           },
           {
@@ -160,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Portfolio.md"
+              }
             }
           }
         ],
