@@ -34,7 +34,7 @@ biography = {
 
 # Note that I am using the same dictionary. This is because the variables initialized are not constants. It does however replace the previous initialized data assigned to the variables.
 
-# Finally, do the same thing as the last
+# Finally, do the same print message as the last
 print(
     f"""
     Your name is {biography["fullName"]}.

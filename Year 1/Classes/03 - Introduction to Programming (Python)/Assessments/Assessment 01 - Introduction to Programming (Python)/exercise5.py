@@ -9,13 +9,13 @@ import sys
 # Announce program.
 print(
     """
-        ================================================================
+================================================================
         
-        Welcome to the \"Days O' Month Counter\" program!
-        To enter advanced mode, type \"Advanced.\"
-        To exit the program, just type \"Exit.\"
+        Welcome to the "Days O' Month Counter" program!
+        To enter advanced mode, type "Advanced."
+        To exit the program, just type "Exit."
         
-        ================================================================
+================================================================
     """
 )
 
