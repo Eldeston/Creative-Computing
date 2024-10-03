@@ -1,58 +1,22 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#portfolio  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711808
-      }
-    },
-    {
-      "query": "tag:#template",
-      "color": {
-        "a": 1,
-        "rgb": 9079434
-      }
-    },
-    {
-      "query": "file:README",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "tag:#assessment ",
-      "color": {
-        "a": 1,
-        "rgb": 9175295
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
-      }
-    }
-  ],
-  "collapse-display": false,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.993229166666667,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.5,
-  "repelStrength": 20,
-  "linkStrength": 0.5,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.18297369553602535,
+  "scale": 0.11660890377043259,
   "close": false
 }

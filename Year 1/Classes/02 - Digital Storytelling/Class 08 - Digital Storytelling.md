@@ -2,7 +2,7 @@
 tags:
   - complete
 date: 2024-09-24
-teacher:
+teacher: Ms. Preeti Tyagi
 ---
 # Digital Storytelling 3
 ## 5 Elements of Digital Storytelling
@@ -64,7 +64,7 @@ Creative Commons (CC) is a non-profit organization devoted to expanding the rang
 
 Creative Commons (CC) is less rigid than traditional copyright, in which all rights are reserved, using the expression “some rights reserved.”
 
-![Picture1](../../../Media/Picture1.png)
+![Picture1](../../../../Media/Picture1.png)
 
 ## Public Domain
 Public Domain are works that for one reason or another are not covered by copyright and are ordinarily free for all to use.

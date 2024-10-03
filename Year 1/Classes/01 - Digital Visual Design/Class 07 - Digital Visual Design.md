@@ -7,6 +7,5 @@ teacher: Mr. Subhan Ali
 # Digital Visual Design 3
 ## Composition Activity
 
-
 ----------------------------------------------------------------
 # Editor's Notes

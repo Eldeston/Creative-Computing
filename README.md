@@ -2,6 +2,8 @@
 This is an wiki repository for all my study resources for Creative Computing at Metaverse Age on BathSpa.
 ## About This Wiki
 Please use [Obsidian.md](https://obsidian.md/) to effectively use this archive to the fullest. This is especially true if you want to see Obsidian's graph view.
+## To Students
+While this wiki's other purpose is to help others, **NO PLAGIARISM** or I will personally sue you. To be safe, do not click on anything involving assessments that contain my work, thank you.
 # Documents
 - Main Documents
 	- [Calendar of Activities - AY 2024-2025](Important/Calendar%20of%20Activities%20-%20AY%202024-2025.pdf)
@@ -18,7 +20,7 @@ Please use [Obsidian.md](https://obsidian.md/) to effectively use this archive t
 # Main Portfolio
 - [Digital Visual Design Portfolio](Year%201/Classes/01%20-%20Digital%20Visual%20Design/Digital%20Visual%20Design%20Portfolio.md)
 - [Digital Storytelling Portfolio](Year%201/Classes/02%20-%20Digital%20Storytelling/Digital%20Storytelling%20Portfolio.md)
-- [Introduction to Programming (Python) Portfolio](Year%201/Classes/03%20-%20Introduction%20to%20Programming%20(Python)/Introduction%20to%20Programming%20(Python)%20Portfolio.md)
+- [Intro to Programming (Python) Portfolio](Year%201/Classes/03%20-%20Intro%20to%20Programming%20(Python)/Intro%20to%20Programming%20(Python)%20Portfolio.md)
 ## Deprecated
 Discontinued or scrapped ideas.
 - [Piracy in the Open Internet Seas (Deprecated)](Year%201/Deprecated/Piracy%20in%20the%20Open%20Internet%20Seas%20(Deprecated).md)
@@ -26,12 +28,12 @@ Discontinued or scrapped ideas.
 ## Templates
 - [Class N Portfolio - Subject Name](Templates/Class%20N%20Portfolio%20-%20Subject%20Name.md)
 - [Assessment N - Subject Name](Templates/Assessment%20N%20-%20Subject%20Name.md)
-## Idea Station
-- [Ideas](Idea%20Station/Ideas.md) 
+## Ideas Station
+- [Ideas](Ideas.md)
 # Quotes
 
 > "But all things should be done decently and in order."
-> *- 1 Corinthians 14:40, Order
+> *- 1 Corinthians 14:40, Order*
 
 > "For everything there is a season, and a time for every matter under heaven:"
 > *- Ecclesiastes 3:1, Punctual*
@@ -44,4 +46,5 @@ Discontinued or scrapped ideas.
 - Pool all main subjects to one folder
 - Rename class notes according to calendar date
 
+## Internship
 https://bathspa.ac.ae/internship-portal/

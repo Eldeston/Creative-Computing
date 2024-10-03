@@ -2,8 +2,7 @@
 tags:
   - complete
 date: 2024-09-10
-teacher:
-  - Mr. Subhan Ali
+teacher: Mr. Subhan Ali
 ---
 # Digital Visual Design 1
 ## Learning Outcomes

@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1986414d1834e258",
+        "id": "8dcf35fa99e4a825",
         "type": "tabs",
         "children": [
           {
-            "id": "d6c1b370fdabd370",
+            "id": "529e6a76b610085e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Portfolio.md",
+                "file": "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Intro to Programming (Python) Portfolio.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "9786a3bcb878b84e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 200
   },
   "right": {
     "id": "30cd0d9ae5a340a6",
@@ -95,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Portfolio.md",
+                "file": "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Intro to Programming (Python) Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Portfolio.md",
+                "file": "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Intro to Programming (Python) Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Portfolio.md"
+                "file": "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Intro to Programming (Python) Portfolio.md"
               }
             }
           },
@@ -165,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Portfolio.md"
+                "file": "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Intro to Programming (Python) Portfolio.md"
               }
             }
           }
@@ -174,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,43 +178,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9786a3bcb878b84e",
+  "active": "529e6a76b610085e",
   "lastOpenFiles": [
-    "Year 1/Classes/03 - Introduction to Programming (Python)/Introduction to Programming (Python) Portfolio.md",
-    "Year 1/Classes/01 - Digital Visual Design/Digital Visual Design Portfolio.md",
-    "Year 1/Classes/03 - Introduction to Programming (Python)/Assessments/~$ercise 1 (program).docx",
-    "Year 1/Classes/03 - Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python) Portfolio.md",
-    "Year 1/Classes/03 - Introduction to Programming (Python)/Class 12 - Introduction to Programming (Python).md",
-    "Year 1/Classes/03 - Introduction to Programming (Python)/Class 09 - Introduction to Programming (Python).md",
-    "Year 1/Classes/03 - Introduction to Programming (Python)/Class 06 - Introduction to Programming (Python).md",
-    "Year 1/Classes/03 - Introduction to Programming (Python)/Class 03 - Introduction to Programming (Python).md",
-    "Year 1/Classes/02 - Digital Storytelling/Class 11 - Digital Storytelling.md",
-    "Year 1/Classes/02 - Digital Storytelling/Class 08 - Digital Storytelling.md",
-    "Year 1/Classes/01 - Digital Visual Design/Class 07 - Digital Visual Design.md",
-    "Year 1/Classes/01 - Digital Visual Design/Class 10 - Digital Visual Design.md",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Intro to Programming (Python) Portfolio.md",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Class 12 - Intro to Programming (Python).md",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Class 09 - Intro to Programming (Python).md",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Class 06 - Intro to Programming (Python).md",
     "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Portfolio.md",
-    "Year 1/Classes/02 - Digital Storytelling/Documents/~$Lecture 1 - Digital Storytelling.pptx",
+    "Year 1/Classes/02 - Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
+    "Year 1/Classes/01 - Digital Visual Design/Digital Visual Design Portfolio.md",
+    "Year 1/Classes/01 - Digital Visual Design/Documents/Assessment Brief L4 Digital Visual Design.pdf",
+    "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture 2 - Digital Visual Design.pdf",
+    "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture 3 - Digital Visual Design.pdf",
+    "Year 1/Classes/01 - Digital Visual Design/Class 10 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 07 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 04 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 01 - Digital Visual Design.md",
+    "README.md",
+    "Ideas.md",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Documents/Lecture 3 - Intro to Programming (Python).pptx",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Documents/Lecture 2 - Intro to Programming (Python).pptx",
+    "Year 1/Classes/03 - Introduction to Programming (Python)/Documents/~$Lecture 1 - Intro to Programming (Python).pptx",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Documents/Course Specification L4 Intro to Programming (Python).pdf",
+    "Year 1/Classes/03 - Introduction to Programming (Python)/Assessments/~$sessment 01 - Coversheet.docx",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Coversheet.docx",
+    "Year 1/coversheet.docx",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Intro to Programming (Python) Portfolio.md",
+    "Year 1/Classes/02 - Digital Storytelling/Class 08 - Digital Storytelling.md",
+    "Year 1/Classes/02 - Digital Storytelling/Class 11 - Digital Storytelling.md",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Class 03 - Intro to Programming (Python).md",
     "Year 1/Classes/02 - Digital Storytelling/Class 05 - Digital Storytelling.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 02 - Digital Storytelling.md",
-    "Year 1/Classes/01 - Digital Visual Design/Class 01 - Digital Visual Design.md",
-    "Year 1/Classes/01 - Digital Visual Design/Class 04 - Digital Visual Design.md",
-    "README.md",
-    "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture 2 - Digital Visual Design.pdf",
-    "Year 1/Classes/02 - Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
-    "Year 1/Classes/Digital Visual Design/Documents/Assessment 1 Brief (Programming Skills Portfolio)) (1).docx",
-    "Year 1/Classes/Digital Visual Design/Documents/Lecture - 2  DVD  L4.pdf",
     "Year 1/Deprecated/Piracy in the Open Internet Seas (Deprecated).md",
     "Year 1/Deprecated/FlameRender Studios - From Papers to Shaders (Deprecated).md",
-    "Year 1/Classes/03 - Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python)/exercise6.py",
     "Templates/Class N Portfolio - Subject Name.md",
     "Media/Picture1.png",
-    "Year 1/Deprecated/~$Assessment 01 - Piracy (Depracated).pptx",
     "Templates/Assessment N - Subject Name.md",
     "Year 1/Classes/Digital Visual Design/Documents/Class 07 - Digital Visual Des.md",
-    "Year 1/Classes/Digital Storytelling/Documents/~$Lecture 1 - Digital Storytelling.pptx",
-    "Idea Station/Ideas.md",
-    "Important/Malpractice_Maladministration.pdf",
-    "Year 1/CC L4 Cohort 1 & 2.pdf",
     "2024-09-11.md",
     "Untitled.canvas",
     "Media/flameRenderLogo.gif",

@@ -10,11 +10,13 @@ teacher: Mr. Subhan Ali
 - [Class 07 - Digital Visual Design](Class%2007%20-%20Digital%20Visual%20Design.md)
 - [Class 10 - Digital Visual Design](Class%2010%20-%20Digital%20Visual%20Design.md)
 # Assessments
-- Figma Assignments
+- Figma Assignments - Unknown date
+	- https://sway.cloud.microsoft/lFyDxoFeoL86vMIC?ref=Link
 # References
 - Documents
 	- [Lecture 1 - Digital Visual Design](Documents/Lecture%201%20-%20Digital%20Visual%20Design.pdf)
 	- [Lecture 2 - Digital Visual Design](Documents/Lecture%202%20-%20Digital%20Visual%20Design.pdf)
+	- [Lecture 3 - Digital Visual Design](Documents/Lecture%203%20-%20Digital%20Visual%20Design.pdf)
 	- [Assessment Brief L4 Digital Visual Design](Documents/Assessment%20Brief%20L4%20Digital%20Visual%20Design.pdf)
 	- [Course Specification L4 Digital Visual Design](Documents/Course%20Specification%20L4%20Digital%20Visual%20Design.pdf)
 - Sites

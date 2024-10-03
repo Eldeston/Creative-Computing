@@ -11,5 +11,5 @@
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Year 1/Media"
+  "attachmentFolderPath": "./"
 }

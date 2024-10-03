@@ -144,9 +144,9 @@ Write a program that tests if a value is even or odd. Follow the instructions ou
 _________________________________________________________________________________________
 
 # Assessments 01 : From 1-10
-- [exercise1](Assessment%2001%20-%20Introduction%20to%20Programming%20(Python)/exercise1.py)
-- [exercise2](Assessment%2001%20-%20Introduction%20to%20Programming%20(Python)/exercise2.py)
-- [exercise3](Assessment%2001%20-%20Introduction%20to%20Programming%20(Python)/exercise3.py)
-- [exercise4](Assessment%2001%20-%20Introduction%20to%20Programming%20(Python)/exercise4.py)
-- [exercise5](Assessment%2001%20-%20Introduction%20to%20Programming%20(Python)/exercise5.py)
-- [exercise6](Assessment%2001%20-%20Introduction%20to%20Programming%20(Python)/exercise6.py)
+- [exercise1](exercise1.py)
+- [exercise2](exercise2.py)
+- [exercise3](exercise3.py)
+- [exercise4](exercise4.py)
+- [exercise5](exercise5.py)
+- [exercise6](exercise6.py)

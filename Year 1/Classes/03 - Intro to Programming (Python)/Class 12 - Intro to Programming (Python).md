@@ -2,7 +2,7 @@
 tags:
   - incomplete
 date: 2024-10-03
-teacher:
+teacher: Ms. Lavanya Mohan
 ---
 # Introduction to Programming (Python) 4
 
