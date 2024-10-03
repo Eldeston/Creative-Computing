@@ -32,7 +32,14 @@
       "query": "tag:#assessment ",
       "color": {
         "a": 1,
-        "rgb": 16744448
+        "rgb": 9175295
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
       }
     }
   ],
@@ -42,10 +49,10 @@
   "nodeSizeMultiplier": 0.993229166666667,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0,
+  "centerStrength": 0.5,
   "repelStrength": 20,
-  "linkStrength": 1,
+  "linkStrength": 0.5,
   "linkDistance": 250,
-  "scale": 0.047360667917616193,
+  "scale": 0.18297369553602535,
   "close": false
 }

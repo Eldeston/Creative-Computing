@@ -22,3 +22,4 @@ teacher: Ms. Lavanya Mohan
 	- [Assessment Brief L4 Intro to Programming (Python)](Documents/Assessment%20Brief%20L4%20Intro%20to%20Programming%20(Python).docx)
 	- [Course Specification L4 Intro to Programming (Python)](Documents/Course%20Specification%20L4%20Intro%20to%20Programming%20(Python).pdf)
 	- [Lecture 1 - Intro to Programming (Python)](Documents/Lecture%201%20-%20Intro%20to%20Programming%20(Python).pptx)
+	- [Exercise 1 (program)](Assessments/Exercise%201%20(program).docx)

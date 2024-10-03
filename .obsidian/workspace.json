@@ -24,30 +24,12 @@
             "id": "9786a3bcb878b84e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 1/Classes/03 - Introduction to Programming (Python)/Introduction to Programming (Python) Portfolio.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8571014576e84325",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 1/Classes/03 - Introduction to Programming (Python)/Class 12 - Introduction to Programming (Python).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 357.5
   },
   "right": {
     "id": "30cd0d9ae5a340a6",
@@ -113,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Classes/03 - Introduction to Programming (Python)/Class 12 - Introduction to Programming (Python).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Classes/03 - Introduction to Programming (Python)/Class 12 - Introduction to Programming (Python).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Year 1/Classes/03 - Introduction to Programming (Python)/Class 12 - Introduction to Programming (Python).md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Year 1/Classes/03 - Introduction to Programming (Python)/Class 12 - Introduction to Programming (Python).md"
-              }
+              "state": {}
             }
           }
         ],
@@ -192,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,13 +181,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8571014576e84325",
+  "active": "9786a3bcb878b84e",
   "lastOpenFiles": [
+    "Year 1/Classes/03 - Introduction to Programming (Python)/Introduction to Programming (Python) Portfolio.md",
+    "Year 1/Classes/01 - Digital Visual Design/Digital Visual Design Portfolio.md",
+    "Year 1/Classes/03 - Introduction to Programming (Python)/Assessments/~$ercise 1 (program).docx",
+    "Year 1/Classes/03 - Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python) Portfolio.md",
+    "Year 1/Classes/03 - Introduction to Programming (Python)/Class 12 - Introduction to Programming (Python).md",
     "Year 1/Classes/03 - Introduction to Programming (Python)/Class 09 - Introduction to Programming (Python).md",
     "Year 1/Classes/03 - Introduction to Programming (Python)/Class 06 - Introduction to Programming (Python).md",
     "Year 1/Classes/03 - Introduction to Programming (Python)/Class 03 - Introduction to Programming (Python).md",
-    "Year 1/Classes/03 - Introduction to Programming (Python)/Class 12 - Introduction to Programming (Python).md",
-    "Year 1/Classes/03 - Introduction to Programming (Python)/Introduction to Programming (Python) Portfolio.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 11 - Digital Storytelling.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 08 - Digital Storytelling.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 07 - Digital Visual Design.md",
@@ -223,7 +201,6 @@
     "Year 1/Classes/02 - Digital Storytelling/Class 02 - Digital Storytelling.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 01 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 04 - Digital Visual Design.md",
-    "Year 1/Classes/01 - Digital Visual Design/Digital Visual Design Portfolio.md",
     "README.md",
     "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture 2 - Digital Visual Design.pdf",
     "Year 1/Classes/02 - Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
@@ -231,7 +208,6 @@
     "Year 1/Classes/Digital Visual Design/Documents/Lecture - 2  DVD  L4.pdf",
     "Year 1/Deprecated/Piracy in the Open Internet Seas (Deprecated).md",
     "Year 1/Deprecated/FlameRender Studios - From Papers to Shaders (Deprecated).md",
-    "Year 1/Classes/03 - Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python) Portfolio.md",
     "Year 1/Classes/03 - Introduction to Programming (Python)/Assessments/Assessment 01 - Introduction to Programming (Python)/exercise6.py",
     "Templates/Class N Portfolio - Subject Name.md",
     "Media/Picture1.png",
@@ -242,11 +218,9 @@
     "Idea Station/Ideas.md",
     "Important/Malpractice_Maladministration.pdf",
     "Year 1/CC L4 Cohort 1 & 2.pdf",
-    "Year 1/Study Lab Login Credential Frem.pdf",
     "2024-09-11.md",
     "Untitled.canvas",
     "Media/flameRenderLogo.gif",
-    "2024-09-20.md",
     "Media/Pasted image 20240917102536.png",
     "Media/Pasted image 20240917102247.png",
     "Media/Pasted image 20240917105519.png",
