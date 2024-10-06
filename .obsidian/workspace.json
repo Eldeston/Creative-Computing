@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,6 +181,10 @@
   },
   "active": "529e6a76b610085e",
   "lastOpenFiles": [
+    "Ideas.md",
+    "Templates/Class N Portfolio - Subject Name.md",
+    "Templates/Assessment N - Subject Name.md",
+    "README.md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Intro to Programming (Python) Portfolio.md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Intro to Programming (Python) Portfolio.md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Class 12 - Intro to Programming (Python).md",
@@ -195,8 +200,6 @@
     "Year 1/Classes/01 - Digital Visual Design/Class 07 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 04 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 01 - Digital Visual Design.md",
-    "README.md",
-    "Ideas.md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Documents/Lecture 3 - Intro to Programming (Python).pptx",
     "Year 1/Classes/03 - Intro to Programming (Python)/Documents/Lecture 2 - Intro to Programming (Python).pptx",
     "Year 1/Classes/03 - Introduction to Programming (Python)/Documents/~$Lecture 1 - Intro to Programming (Python).pptx",
@@ -211,9 +214,7 @@
     "Year 1/Classes/02 - Digital Storytelling/Class 02 - Digital Storytelling.md",
     "Year 1/Deprecated/Piracy in the Open Internet Seas (Deprecated).md",
     "Year 1/Deprecated/FlameRender Studios - From Papers to Shaders (Deprecated).md",
-    "Templates/Class N Portfolio - Subject Name.md",
     "Media/Picture1.png",
-    "Templates/Assessment N - Subject Name.md",
     "Year 1/Classes/Digital Visual Design/Documents/Class 07 - Digital Visual Des.md",
     "2024-09-11.md",
     "Untitled.canvas",
