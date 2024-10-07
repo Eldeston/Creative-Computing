@@ -1,6 +1,6 @@
 {
   "readableLineLength": false,
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "showLineNumber": true,
   "livePreview": true,
   "showInlineTitle": true,

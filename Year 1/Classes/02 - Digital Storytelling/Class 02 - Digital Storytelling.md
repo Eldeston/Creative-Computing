@@ -92,9 +92,3 @@ Storytelling should always come in narrative form as you are describing your exp
 Comes in images, video, audio, and text forms. Examples such as slideshows and videos fit this criteria.
 ## Purpose
 To engage and persuade the audience your idea(s).
-
-----------------------------------------------------------------
-# Assessment 1
-
-> [!NOTE]
-> Minimum word count should be **200** and the presentation length should be **less than 2 minutes.**

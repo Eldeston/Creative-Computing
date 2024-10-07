@@ -5,6 +5,7 @@ date: 2024-09-17
 teacher: Mr. Subhan Ali
 ---
 # Digital Visual Design 2
+
 ## Graphic Design
 Graphic design is a craft where professionals create visual content to communicate messages. Graphic design uses visual compositions to solve problems and communicate ideas through typography, imagery, color and form.
 ## Graphic Design vs Visual Design
@@ -122,14 +123,6 @@ Research and write down 5 types of Graphic Design
 - Banners
 ![Pasted image 20240917105519](Pasted%20image%2020240917105519.png)
 [Factorio - Trailer 2020 (youtube.com)](https://www.youtube.com/watch?v=J8SBp4SyvLc)
-## 8 Types of Graphic Design
-
-## Visual Identity
-
-## Psychological Perspective
-
-## Practical Perspective
-
 ## Perspective, Position, and Context Matters
 - Perspective matters
 	- Aerial Perspective

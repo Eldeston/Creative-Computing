@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8dcf35fa99e4a825",
+        "id": "82089c191280f3f6",
         "type": "tabs",
         "children": [
           {
-            "id": "529e6a76b610085e",
+            "id": "d620ff4b8f23ad1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
+                "file": "Year 1/Classes/02 - Digital Storytelling/Class 05 - Digital Storytelling.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
+                "file": "Year 1/Classes/02 - Digital Storytelling/Class 05 - Digital Storytelling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
+                "file": "Year 1/Classes/02 - Digital Storytelling/Class 05 - Digital Storytelling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md"
+                "file": "Year 1/Classes/02 - Digital Storytelling/Class 05 - Digital Storytelling.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md"
+                "file": "Year 1/Classes/02 - Digital Storytelling/Class 05 - Digital Storytelling.md"
               }
             }
           }
@@ -179,27 +179,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "529e6a76b610085e",
+  "active": "d620ff4b8f23ad1f",
   "lastOpenFiles": [
-    "README.md",
-    "Ideas.md",
-    "Templates/Class N Portfolio - Subject Name.md",
-    "Templates/Assessment N - Subject Name.md",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Intro to Programming (Python) Portfolio.md",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Intro to Programming (Python).md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Intro to Programming (Python) Portfolio.md",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Class 12 - Intro to Programming (Python).md",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Class 09 - Intro to Programming (Python).md",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Class 03 - Intro to Programming (Python).md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Class 06 - Intro to Programming (Python).md",
-    "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Portfolio.md",
-    "Year 1/Classes/02 - Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Class 09 - Intro to Programming (Python).md",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Class 12 - Intro to Programming (Python).md",
     "Year 1/Classes/01 - Digital Visual Design/Digital Visual Design Portfolio.md",
-    "Year 1/Classes/01 - Digital Visual Design/Documents/Assessment Brief L4 Digital Visual Design.pdf",
-    "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture 2 - Digital Visual Design.pdf",
-    "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture 3 - Digital Visual Design.pdf",
     "Year 1/Classes/01 - Digital Visual Design/Class 10 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 07 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 04 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 01 - Digital Visual Design.md",
+    "Year 1/Classes/02 - Digital Storytelling/Class 02 - Digital Storytelling.md",
+    "Year 1/Classes/02 - Digital Storytelling/Class 11 - Digital Storytelling.md",
+    "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Portfolio.md",
+    "Year 1/Classes/02 - Digital Storytelling/Class 08 - Digital Storytelling.md",
+    "Year 1/Classes/02 - Digital Storytelling/Class 05 - Digital Storytelling.md",
+    "Year 1/Classes/01 - Digital Visual Design/Assessments/Lines/Frame 06.png",
+    "Year 1/Classes/01 - Digital Visual Design/Assessments/Lines/Frame 05.png",
+    "Year 1/Classes/01 - Digital Visual Design/Assessments/Lines/Frame 04.png",
+    "Year 1/Classes/01 - Digital Visual Design/Assessments/Lines/Frame 03.png",
+    "Year 1/Classes/01 - Digital Visual Design/Assessments/Lines/Frame 02.png",
+    "Year 1/Classes/01 - Digital Visual Design/Assessments/Lines/Frame 01.png",
+    "Year 1/Classes/01 - Digital Visual Design/Assessments/Lines/Frame 07.png",
+    "Year 1/Classes/01 - Digital Visual Design/Assessments/Lines/Frame 08.png",
+    "Year 1/Classes/01 - Digital Visual Design/Assessments/Lines/Frame 09.png",
+    "Year 1/Classes/01 - Digital Visual Design/Assessments/Lines/Frame 10.png",
+    "Year 1/Classes/02 - Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
+    "README.md",
+    "Ideas.md",
+    "Templates/Class N Portfolio - Subject Name.md",
+    "Templates/Assessment N - Subject Name.md",
+    "Year 1/Classes/01 - Digital Visual Design/Documents/Assessment Brief L4 Digital Visual Design.pdf",
+    "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture 2 - Digital Visual Design.pdf",
+    "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture 3 - Digital Visual Design.pdf",
     "Year 1/Classes/03 - Intro to Programming (Python)/Documents/Lecture 3 - Intro to Programming (Python).pptx",
     "Year 1/Classes/03 - Intro to Programming (Python)/Documents/Lecture 2 - Intro to Programming (Python).pptx",
     "Year 1/Classes/03 - Introduction to Programming (Python)/Documents/~$Lecture 1 - Intro to Programming (Python).pptx",
@@ -207,25 +222,10 @@
     "Year 1/Classes/03 - Introduction to Programming (Python)/Assessments/~$sessment 01 - Coversheet.docx",
     "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Coversheet.docx",
     "Year 1/coversheet.docx",
-    "Year 1/Classes/02 - Digital Storytelling/Class 08 - Digital Storytelling.md",
-    "Year 1/Classes/02 - Digital Storytelling/Class 11 - Digital Storytelling.md",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Class 03 - Intro to Programming (Python).md",
-    "Year 1/Classes/02 - Digital Storytelling/Class 05 - Digital Storytelling.md",
-    "Year 1/Classes/02 - Digital Storytelling/Class 02 - Digital Storytelling.md",
     "Year 1/Deprecated/Piracy in the Open Internet Seas (Deprecated).md",
     "Year 1/Deprecated/FlameRender Studios - From Papers to Shaders (Deprecated).md",
-    "Media/Picture1.png",
     "Year 1/Classes/Digital Visual Design/Documents/Class 07 - Digital Visual Des.md",
     "2024-09-11.md",
-    "Untitled.canvas",
-    "Media/flameRenderLogo.gif",
-    "Media/Pasted image 20240917102536.png",
-    "Media/Pasted image 20240917102247.png",
-    "Media/Pasted image 20240917105519.png",
-    "Pasted image 20240917105544.png",
-    "Media/thumbnail.png",
-    "Semester 01/Class 04/Pasted image 20240917105331.png",
-    "Semester 01/Class 04/flameRenderLogo 1.gif",
-    "Semester 01/Class 04/Pasted image 20240917102403.png"
+    "Untitled.canvas"
   ]
 }

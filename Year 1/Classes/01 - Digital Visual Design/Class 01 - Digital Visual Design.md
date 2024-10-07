@@ -5,6 +5,7 @@ date: 2024-09-10
 teacher: Mr. Subhan Ali
 ---
 # Digital Visual Design 1
+
 ## Learning Outcomes
 - Introduction to basic visual design vocabulary
 - Working knowledge of design elements & design principles, and how to use them.

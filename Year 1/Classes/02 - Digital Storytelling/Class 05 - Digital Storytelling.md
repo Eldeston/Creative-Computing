@@ -48,10 +48,11 @@ Facebook calls them “once-a-day moments,” and for advertisers, they can serv
 - One study found that a painting became 11% more valuable when the artist’s story was featured below it. 
 - Small businesses with ethically-made, locally-sourced products can actually increase the perceived value of the products by featuring the story of the workers engaged in the production.
 ## Digital Storytelling
-- Storytelling
-	Telling or writing of stories. An ancient art form and a valuable form of human expression. Storytelling should always come in narrative form as you are describing your experience in the form of stories.
-- Digital
-	Computer-based tools, content and delivery.
+**Storytelling**
+Telling or writing of stories. An ancient art form and a valuable form of human expression. Storytelling should always come in narrative form as you are describing your experience in the form of stories.
+
+**Digital**
+Computer-based tools, content and delivery.
 
 > “Digital Storytelling is the modern expression of the ancient art of storytelling.”
 > *- Barrett, 2007*
