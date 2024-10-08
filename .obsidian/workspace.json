@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Classes/01 - Digital Visual Design/Class 01 - Digital Visual Design.md",
-                "mode": "preview",
+                "file": "Year 1/Classes/01 - Digital Visual Design/Digital Visual Design Portfolio.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38692a36fcac358b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 1/Classes/01 - Digital Visual Design/Class 11 - Digital Visual Design.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Classes/01 - Digital Visual Design/Class 01 - Digital Visual Design.md",
+                "file": "Year 1/Classes/01 - Digital Visual Design/Class 11 - Digital Visual Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Classes/01 - Digital Visual Design/Class 01 - Digital Visual Design.md",
+                "file": "Year 1/Classes/01 - Digital Visual Design/Class 11 - Digital Visual Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1/Classes/01 - Digital Visual Design/Class 01 - Digital Visual Design.md"
+                "file": "Year 1/Classes/01 - Digital Visual Design/Class 11 - Digital Visual Design.md"
               }
             }
           },
@@ -156,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 1/Classes/01 - Digital Visual Design/Class 01 - Digital Visual Design.md"
+                "file": "Year 1/Classes/01 - Digital Visual Design/Class 11 - Digital Visual Design.md"
               }
             }
           }
@@ -179,13 +193,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71e608d7ab32bc77",
+  "active": "38692a36fcac358b",
   "lastOpenFiles": [
-    "Year 1/Classes/01 - Digital Visual Design/Class 04 - Digital Visual Design.md",
-    "Year 1/Classes/01 - Digital Visual Design/Class 07 - Digital Visual Design.md",
-    "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture 3 - Digital Visual Design.pdf",
-    "Year 1/Classes/01 - Digital Visual Design/Class 10 - Digital Visual Design.md",
+    "README.md",
+    "Media/thumbnail.png",
+    "Media/Picture1.png",
+    "Media/Pasted image 20240917105519.png",
+    "Media/Pasted image 20240917102536.png",
+    "Media/Pasted image 20240917102247.png",
+    "Media/flameRenderLogo.gif",
+    "Year 1/Classes/01 - Digital Visual Design/Class 11 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Digital Visual Design Portfolio.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 07 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 10 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 01 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 04 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture 3 - Digital Visual Design.pdf",
     "Year 1/Classes/02 - Digital Storytelling/Class 08 - Digital Storytelling.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 11 - Digital Storytelling.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 05 - Digital Storytelling.md",
@@ -195,21 +218,13 @@
     "Year 1/Classes/03 - Intro to Programming (Python)/Class 06 - Intro to Programming (Python).md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Class 09 - Intro to Programming (Python).md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Class 12 - Intro to Programming (Python).md",
-    "Year 1/Classes/01 - Digital Visual Design/Class 01 - Digital Visual Design.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 02 - Digital Storytelling.md",
     "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Portfolio.md",
     "Year 1/Classes/01 - Digital Visual Design/Assessments/Lines/Frame 06.png",
     "Year 1/Classes/01 - Digital Visual Design/Assessments/Lines/Frame 05.png",
     "Year 1/Classes/01 - Digital Visual Design/Assessments/Lines/Frame 04.png",
     "Year 1/Classes/01 - Digital Visual Design/Assessments/Lines/Frame 03.png",
-    "Year 1/Classes/01 - Digital Visual Design/Assessments/Lines/Frame 02.png",
-    "Year 1/Classes/01 - Digital Visual Design/Assessments/Lines/Frame 01.png",
-    "Year 1/Classes/01 - Digital Visual Design/Assessments/Lines/Frame 07.png",
-    "Year 1/Classes/01 - Digital Visual Design/Assessments/Lines/Frame 08.png",
-    "Year 1/Classes/01 - Digital Visual Design/Assessments/Lines/Frame 09.png",
-    "Year 1/Classes/01 - Digital Visual Design/Assessments/Lines/Frame 10.png",
     "Year 1/Classes/02 - Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
-    "README.md",
     "Ideas.md",
     "Templates/Class N Portfolio - Subject Name.md",
     "Templates/Assessment N - Subject Name.md",
@@ -225,7 +240,6 @@
     "Year 1/Deprecated/Piracy in the Open Internet Seas (Deprecated).md",
     "Year 1/Deprecated/FlameRender Studios - From Papers to Shaders (Deprecated).md",
     "Year 1/Classes/Digital Visual Design/Documents/Class 07 - Digital Visual Des.md",
-    "2024-09-11.md",
     "Untitled.canvas"
   ]
 }
