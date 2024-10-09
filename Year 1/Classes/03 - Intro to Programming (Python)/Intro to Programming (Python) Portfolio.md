@@ -20,6 +20,7 @@ teacher: Ms. Lavanya Mohan
 # References
 - Sites
 	- https://www.pythoncheatsheet.org/cheatsheet/basics
+	- [Sololearn: Learn to Code](https://www.sololearn.com/en/learn/courses/python-introduction)
 - Documents
 	- [Course Specification L4 Intro to Programming (Python)](Documents/Course%20Specification%20L4%20Intro%20to%20Programming%20(Python).pdf)
 	- [Lecture 1 - Intro to Programming (Python)](Documents/Lecture%201%20-%20Intro%20to%20Programming%20(Python).pptx)
