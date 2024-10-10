@@ -9,7 +9,7 @@ teacher: Mr. Subhan Ali
 - [Class 04 - Digital Visual Design](Class%2004%20-%20Digital%20Visual%20Design.md)
 - [Class 07 - Digital Visual Design](Class%2007%20-%20Digital%20Visual%20Design.md)
 - [Class 10 - Digital Visual Design](Class%2010%20-%20Digital%20Visual%20Design.md)
-- [Class 11 - Digital Visual Design](Class%2011%20-%20Digital%20Visual%20Design.md)
+- [Class 13 - Digital Visual Design](Class%2013%20-%20Digital%20Visual%20Design.md)
 # Assessments
 - Figma Assignments - Unknown date
 	- https://sway.cloud.microsoft/lFyDxoFeoL86vMIC?ref=Link
