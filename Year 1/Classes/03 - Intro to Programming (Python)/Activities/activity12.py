@@ -1,4 +1,4 @@
-# -------- Age Checker --------
+# -------- Activity 12 --------
 
 # Used for sys.exit()
 import sys

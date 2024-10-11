@@ -9,6 +9,7 @@ teacher: Ms. Lavanya Mohan
 - [Class 06 - Intro to Programming (Python)](Class%2006%20-%20Intro%20to%20Programming%20(Python).md)
 - [Class 09 - Intro to Programming (Python)](Class%2009%20-%20Intro%20to%20Programming%20(Python).md)
 - [Class 12 - Intro to Programming (Python)](Class%2012%20-%20Intro%20to%20Programming%20(Python).md)
+- [Class 15 - Intro to Programming (Python)](Class%2015%20-%20Intro%20to%20Programming%20(Python).md)
 # Activities
 - [activity06](Activities/activity06.py)
 - [activity09](Activities/activity09.py)
@@ -27,3 +28,12 @@ teacher: Ms. Lavanya Mohan
 	- [Lecture 2 - Intro to Programming (Python)](Documents/Lecture%202%20-%20Intro%20to%20Programming%20(Python).pptx)
 	- [Lecture 3 - Intro to Programming (Python)](Documents/Lecture%203%20-%20Intro%20to%20Programming%20(Python).pptx)
 	- [Exercise 1 (program)](Activities/Exercise%201%20(program).docx)
+# Certificate
+**Certificate Link**
+https://www.sololearn.com/certificates/CC-NSTMQVWM
+
+**Certificate Document**
+[Solo Learn Python Certificate](Documents/Solo%20Learn%20Python%20Certificate.pdf)
+
+**Certificate Image**
+![Solo Learn Python Certificate](Documents/Solo%20Learn%20Python%20Certificate.jpg)
