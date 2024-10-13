@@ -6,20 +6,20 @@ teacher: Mr. Subhan Ali
 ---
 # Digital Visual Design 2
 
-## Graphic Design
+# Graphic Design
 Graphic design is a craft where professionals create visual content to communicate messages. Graphic design uses visual compositions to solve problems and communicate ideas through typography, imagery, color and form.
-## Graphic Design vs Visual Design
-### Graphic Design
+# Graphic Design vs Visual Design
+## Graphic Design
 Meanings & Communication
 - Inform users
 - Attract users
 - Entice users
 - Inspire users
-### Visual Design
+## Visual Design
 Usability & Aesthetic Appeal
 - Support users use a product or service most efficiently
 - Make the stay pleasant and comfortable
-## 8 types of Graphic Design
+# 8 types of Graphic Design
 - Visual identity
 - Marketing & advertising
 - User interface
@@ -61,7 +61,7 @@ Environmental graphic design visually connects people to places to improve their
 **Example:** Wayfinding signs in airports guide people using simple, clear visuals.
 ## Art and illustration
 Artists and illustrators create original artwork that take a number of forms, from fine art to decoration to storytelling illustrations.
-## User Interface
+# User Interface
 A user interface (UI) is how a user interacts with a device or application. UI design is the process of designing interfaces to make them easy to use and provide a user-friendly experience.
 ## ‘Thoughts on Graphic Position’
 A piece of theoretical design research by Brazilian graphic designer Nei Valente.
@@ -69,7 +69,7 @@ A piece of theoretical design research by Brazilian graphic designer Nei Valente
 Nei created a survey to discover how people subconsciously ascribe meaning to positioning of elements, even with no distinguishing visual information beyond where a square is located on the page – and the results will be of interest whether your an artist or UX designer.
 
 **‘Thoughts on Graphic Position’** study is an important evidence for us to acknowledge the power of the most subtle graphic clues, capable of generating subtle or explicit meanings across users.
-## What are Visual Aesthetics?
+# What are Visual Aesthetics?
 An artistically beautiful or pleasing appearance.
 
 The term “visual” indicates concentration on the visual sense, which is the central human sense, occupying almost half the brain.
@@ -88,7 +88,7 @@ Designers use this perspective to create visuals that evoke specific emotional r
 This perspective focuses on the functionality and usability of a design. Design elements are used not just for aesthetics but to serve a clear purpose, ensuring the design is user-friendly and practical in real-world applications.
 
 **Example:** Airbnb’s website design balances beauty and usability, with an intuitive layout that guides users seamlessly through the booking process.
-## Theories
+# Theories
 **Positive Effect Mediation Theory** *by Norman*
 Visually pleasant systems induce positive emotions in users, leading to a supportive cognitive state, finally resulting in better performance with them.
 
@@ -100,16 +100,6 @@ Aesthetically attractive systems naturally attract and motivate the users, and c
 
 ----------------------------------------------------------------
 # Editor's Notes
-## Graphic Design
-Focuses on articulating meaning for example advertisements.
-- Inform users
-- Attract users
-- Entice users
-- Inspire users
-## Visual Design
-Focuses on the practical usage and aesthetics for example user interface.
-- Support users use a product or service most efficiently
-- Make the stay pleasant and comfortable
 ## Activity
 Research and write down 5 types of Graphic Design
 - Portfolios

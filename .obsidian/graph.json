@@ -5,31 +5,31 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file:README",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 15662848
       }
     },
     {
-      "query": "file:\"Digital Visual Design Portfolio\"",
+      "query": "file:\"Digital Visual Design Index\"",
       "color": {
         "a": 1,
         "rgb": 16711680
       }
     },
     {
-      "query": "file:\"Digital Storytelling Portfolio\"",
+      "query": "file:\"Digital Storytelling Index\"",
       "color": {
         "a": 1,
         "rgb": 16711680
       }
     },
     {
-      "query": "file:\"Intro to Programming (Python) Portfolio\"",
+      "query": "file:\"Intro to Programming (Python) Index\"",
       "color": {
         "a": 1,
         "rgb": 16711680

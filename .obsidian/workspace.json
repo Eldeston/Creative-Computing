@@ -11,13 +11,8 @@
             "id": "b9f1ba7e59860dea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -181,15 +170,15 @@
   },
   "active": "b9f1ba7e59860dea",
   "lastOpenFiles": [
-    "Year 1/Classes/01 - Digital Visual Design/Class 10 - Digital Visual Design.md",
-    "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
-    "Year 1/Classes/01 - Digital Visual Design/Class 07 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Digital Visual Design Index.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 04 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 01 - Digital Visual Design.md",
-    "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Portfolio.md",
-    "Year 1/Classes/01 - Digital Visual Design/Digital Visual Design Portfolio.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 10 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 07 - Digital Visual Design.md",
+    "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Intro to Programming (Python).md",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Intro to Programming (Python) Portfolio.md",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Intro to Programming (Python) Index.md",
     "Year 1/Classes/02 - Digital Storytelling/Documents/Elements Of Digital Storytelling.pptx",
     "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture 4 - Digital Visual Design.pdf",
     "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture - 4  DVD  L4.pdf",
