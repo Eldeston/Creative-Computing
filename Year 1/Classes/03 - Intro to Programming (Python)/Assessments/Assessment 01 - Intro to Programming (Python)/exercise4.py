@@ -29,9 +29,16 @@ if attempt == 0 :
 # If the user guessed correctly, display remaining attempts.
 else: print("Congratulations! You are correct! You guessed in", str(attempt), "attempt(s).")
 
-# -------- Advanced Requirements --------
+# ---------------- Advanced Requirements ----------------
 
 # NOW LETS GET THIS PARTY STARTED
+# Announce beginning of advanced requirements
+print(
+    f"""
+---------------- Advanced Requirements ----------------
+    """
+)
+
 # Announce a new game
 print("Let's play another game! You have 10 attempts. Your answers will be case insensitive.")
 
@@ -46,8 +53,8 @@ cities = ["Japan", "Philippines", "South Korea", "Russia", "France"]
 # Initialize another list for capitals
 capitals = ["Tokyo", "Manilla", "Seoul", "Moscow", "Paris"]
 
-# zip() allows to iterate over several iterables in parallel.
-# Which in this case iterates city to cities and capital to capitals
+# zip() allows to iterate over several lists in parallel.
+# In this case iterates city to cities and capital to capitals
 for city, capital in zip(cities, capitals) :
     while attempt != 0 :
         # Ask user the question for input
@@ -57,12 +64,19 @@ for city, capital in zip(cities, capitals) :
         # We will use str.lower() to transform BOTH strings to lower case. We do not need to check for every posible case sensitive string which is rather time consuming and inefficient.
         # Great hack, not gonna lie
         if userAnswer.lower() == capital.lower() :
+            # Announce correct answer
             print("You are correct!")
+            # Break loop and continue to the next question
             break
-        # Otherwise, we tell the user their answer is arong and how many attempts they have left. For display reasons, we subtract 1.
-        else : print("Your answer", userAnswer, "is wrong. You have", str(attempt - 1), "attempts.")
 
+        # Otherwise, we tell the user their answer is arong and how many attempts they have left.
+        # We do not need to use an else statement as the loop is designed to break if the correct answer is used
+
+        # Take away 1 attempt
         attempt -= 1
+
+        # Announce the statement
+        print("Your answer", userAnswer, "is wrong. You have", str(attempt), "attempts.")
 
 # Check if user has 0 attempts. Display game over message. There is no need to exit Python as this is the end of the line.
 if attempt == 0 : print("You lost all 10 attempts. \nGAME OVER! \nRun this program to try again!")

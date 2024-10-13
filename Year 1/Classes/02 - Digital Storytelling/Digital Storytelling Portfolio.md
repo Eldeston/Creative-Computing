@@ -26,3 +26,4 @@ teacher: Ms. Preeti Tyagi
 - [Lecture 1 - Digital Storytelling](Documents/Lecture%201%20-%20Digital%20Storytelling.pptx)
 - [Assessment Brief L4 Digital Storytelling](Documents/Assesment%20Brief%20L4%20Digital%20Storytelling.pdf)
 - [Course Specification L4 Digital Storytelling](Documents/Course%20Specification%20L4%20Digital%20Storytelling.pdf)
+- [Elements Of Digital Storytelling](Documents/Elements%20Of%20Digital%20Storytelling.pptx)

@@ -13,5 +13,5 @@ word3 = "cool."
 # Use string concatenation to combine the variables and print the phrase
 print(word1 + " " + word2 + " " + word3)
 
-# Alternatively, I can use comma instead ","
+# Alternatively, print() accepts multiple arguments to combine them into a single string with spaces in between
 print(word1, word2, word3)

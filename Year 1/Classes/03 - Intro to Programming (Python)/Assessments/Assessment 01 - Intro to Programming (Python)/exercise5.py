@@ -35,7 +35,7 @@ dayCalendar = {
     "December" : 31
 }
 
-# Month number dictionary. It acts as a look up table (LUT) so you would not need to do additional calculations like with lists like listName[numberInput - 1].
+# Month number dictionary. It acts as a look up table (LUT) so you would not need to do additional calculations like remapping list IDs listName[numberInput - 1].
 monthCalendar = {
     1 : "January",
     2 : "Febuary",
@@ -59,8 +59,8 @@ secondInput = False
 # Default number is 1
 userInput1 = "1"
 
-# For this one, I experimented using flow control functions after discovering how loops work in Python.
-# Keep loop running until user exits.
+# For this one, I experimented using more flow control functions after discovering how loops work in Python.
+# Keep loop running until user exits
 while True :
     # Automagically turn every user input lower case.
     userInput0 = input("Enter month number between 1-12. ").lower()
@@ -68,7 +68,7 @@ while True :
     # Second input if advanced mode is enabled
     if advancedMode : userInput1 = input("Enter year number between 0-10000. ").lower()
 
-    # Editor's Note: It would be much simpler if I use some kind of loop for an infinite amount of user inputs
+    # Editor's Note: It would be much simpler if I use some kind of loop for an infinite amount of user inputs. You might catch me doing this in later exercises.
 
     # If the input is "exit," say goodbye and exit program.
     if "exit" in (userInput0, userInput1) :
@@ -89,8 +89,8 @@ while True :
         year = int(userInput1)
 
         # Call me pessimistic but I don't think humankind is gonna live that long.
-        # range() generates a list from 0-10000. Optionally, you can change the increment.
-        if year in range(0, 10000) :
+        # range() generates a list from -10000 to 10000. Optionally, you can change the increment.
+        if year in range(-10000, 10000) :
             if year % 4 == 0 : dayCalendar["Febuary"] = 29
             else : dayCalendar["Febuary"] = 28
 

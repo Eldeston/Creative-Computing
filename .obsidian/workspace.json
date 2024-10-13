@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0a6c36b56c8ffa62",
+        "id": "ef8de29fa411bff0",
         "type": "tabs",
         "children": [
           {
-            "id": "cd7d21207076213a",
+            "id": "b9f1ba7e59860dea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Classes/03 - Intro to Programming (Python)/Intro to Programming (Python) Portfolio.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b056c592de27d0b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Intro to Programming (Python).md",
+                "file": "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 581.5
   },
   "right": {
     "id": "30cd0d9ae5a340a6",
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Intro to Programming (Python).md",
+                "file": "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Intro to Programming (Python).md",
+                "file": "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Intro to Programming (Python).md"
+                "file": "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md"
               }
             }
           },
@@ -170,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Intro to Programming (Python).md"
+                "file": "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md"
               }
             }
           }
@@ -193,10 +179,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b056c592de27d0b4",
+  "active": "b9f1ba7e59860dea",
   "lastOpenFiles": [
-    "Year 1/Classes/03 - Intro to Programming (Python)/Class 15 - Intro to Programming (Python).md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 10 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 07 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 04 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 01 - Digital Visual Design.md",
+    "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Portfolio.md",
+    "Year 1/Classes/01 - Digital Visual Design/Digital Visual Design Portfolio.md",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Intro to Programming (Python).md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Intro to Programming (Python) Portfolio.md",
+    "Year 1/Classes/02 - Digital Storytelling/Documents/Elements Of Digital Storytelling.pptx",
+    "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture 4 - Digital Visual Design.pdf",
+    "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture - 4  DVD  L4.pdf",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Class 15 - Intro to Programming (Python).md",
     "Year 1/Classes/02 - Digital Storytelling/Class 11 - Digital Storytelling.md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Documents/Solo Learn Python Certificate.jpg",
     "Year 1/Classes/03 - Intro to Programming (Python)/Documents/df876144-8b14-44ab-9705-862e04851891.jpg",
@@ -205,28 +202,20 @@
     "Year 1/Classes/03 - Intro to Programming (Python)/Activities/activity15.py",
     "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/~$sessment Brief L4 Intro to Programming (Python).docx",
     "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/~$sessment 01 - Coversheet.docx",
-    "Year 1/Classes/01 - Digital Visual Design/Class 01 - Digital Visual Design.md",
     "README.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 14 - Digital Storytelling.md",
     "Media/Picture5.png",
     "Media/Picture4.png",
     "Media/Picture3.png",
     "Media/Picture2.png",
-    "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Portfolio.md",
     "Year 1/Classes/02 - Digital Storytelling/Documents/~$Lecture 1 - Digital Storytelling.pptx",
-    "Year 1/Classes/01 - Digital Visual Design/Digital Visual Design Portfolio.md",
-    "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
     "Media/thumbnail.png",
     "Media/Picture1.png",
     "Media/Pasted image 20240917105519.png",
     "Media/Pasted image 20240917102536.png",
-    "Year 1/Classes/01 - Digital Visual Design/Class 07 - Digital Visual Design.md",
-    "Year 1/Classes/01 - Digital Visual Design/Class 10 - Digital Visual Design.md",
-    "Year 1/Classes/01 - Digital Visual Design/Class 04 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture 3 - Digital Visual Design.pdf",
     "Year 1/Classes/02 - Digital Storytelling/Class 08 - Digital Storytelling.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 05 - Digital Storytelling.md",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Intro to Programming (Python).md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Class 03 - Intro to Programming (Python).md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Class 06 - Intro to Programming (Python).md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Class 09 - Intro to Programming (Python).md",
@@ -236,11 +225,7 @@
     "Ideas.md",
     "Templates/Class N Portfolio - Subject Name.md",
     "Templates/Assessment N - Subject Name.md",
-    "Year 1/Classes/01 - Digital Visual Design/Documents/Assessment Brief L4 Digital Visual Design.pdf",
-    "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture 2 - Digital Visual Design.pdf",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Documents/Lecture 3 - Intro to Programming (Python).pptx",
     "Year 1/Deprecated/Piracy in the Open Internet Seas (Deprecated).md",
-    "Year 1/Deprecated/FlameRender Studios - From Papers to Shaders (Deprecated).md",
     "Untitled.canvas"
   ]
 }
