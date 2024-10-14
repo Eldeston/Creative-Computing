@@ -5,7 +5,7 @@ date: 2024-10-09
 teacher: Ms. Preeti Tyagi
 ---
 # Digital Storytelling 5
-## Photography
+# Photography
 The great pictures just stop time. They capture something that did not continue. It just was then, and that was the perfect moment. It wasn’t the moment before. It wasn’t the moment after. It was that moment.
 ## Basics of Photography
 **Cornerstones of a “Great Exposure”**
@@ -25,7 +25,7 @@ The great pictures just stop time. They capture something that did not continue.
 - Rule of thirds
 - Leading lines
 - Fill the frame
-### Honorable Mentions
+## Honorable Mentions
 - Golden angle
 - Centered and symmetrical
 - Patterns and textures

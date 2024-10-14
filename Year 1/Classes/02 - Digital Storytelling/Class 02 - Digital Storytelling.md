@@ -5,11 +5,11 @@ date: 2024-09-11
 teacher: Ms. Preeti Tyagi
 ---
 # Digital Storytelling 1
-## Introduction
+# Introduction
 Digital Storytelling introduces a variety of media making techniques and approaches to interactivity that serve storytelling.
 
 You receive a primer in digital media production, and explore a range of digital narratives (e.g. web-based stories, alternative reality games, animated explainer videos) that are designed to inform, persuade or entertain.
-## Module Objectives
+# Module Objectives
 - Your journey from a “consumer” to a “maker.”
 - From “Working” artifacts to “Wow” artifacts.
 - Exploration of the thought process, tools, skills, and techniques to achieve them.
@@ -27,23 +27,23 @@ You receive a primer in digital media production, and explore a range of digital
 
 > “Storytelling is the most powerful way to put ideas into the world today.”
 > *- Robert McKee*
-## Humans are hardwired for stories
+# Humans are hardwired for stories
 Aoccdrnig to a rscheearch, it deosn't mttaer in waht oredr the ltteers in a wrod are, the olny iprmoatnt tihng is taht the frist and lsat ltteers be at the rghit pclae. The rset can be a toatl mses and you can sitll raed it wouthit porbelm. Tihs is bcuseae the huamn mnid deos not raed ervey lteter by istlef, but the wrod as a wlohe.
 
 Human brain has the natural ability to “fill in the gaps.” This is called "imagination."
-## Why do we tell stories?
+# Why do we tell stories?
 - To share experience
 - Communicate
 - Find meaning
 - Entertain
-## Professional Context
+# Professional Context
 - Communicating Ideas & Concepts
 - Insights & empathy
 - Brand Development
 - Content Development
 - Marketing & Advertising
 - Social Innovation
-## Stories around us
+# Stories around us
 > “For a given audience, a story is a sequence of content, anchored on a problem, which engages that audience with emotion and meaning.”
 > *- Bryan Alexander*
 

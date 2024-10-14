@@ -5,7 +5,7 @@ date: 2024-09-25
 teacher: Mr. Subhan Ali
 ---
 # Digital Visual Design 3
-## Composition Activity - Dots
+# Composition Activity - Dots
 Use only 10 dots (circles) for the first 3 compositions in strict black and white. Then use any amount for the rest of the compositions.
 ![Frame 01](Assessments/Dots/Frame%2001.png)
 ![Frame 02](Assessments/Dots/Frame%2002.png)
@@ -19,7 +19,7 @@ Copy the previous 5 compositions and color them ensuring the object's color is n
 ![Frame 08](Assessments/Dots/Frame%2008.png)
 ![Frame 09](Assessments/Dots/Frame%2009.png)
 ![Frame 10](Assessments/Dots/Frame%2010.png)
-## Composition Activity - Lines
+# Composition Activity - Lines
 Use only 10 lines for the first 3 compositions in strict black and white. Then use any amount for the rest of the compositions.
 ![Frame 01](Assessments/Lines/Frame%2001.png)
 ![Frame 02](Assessments/Lines/Frame%2002.png)

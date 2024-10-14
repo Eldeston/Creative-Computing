@@ -5,7 +5,7 @@ date: 2024-09-18
 teacher: Ms. Preeti Tyagi
 ---
 # Digital Storytelling 2
-## Patterns in Stories
+# Patterns in Stories
 - Overcoming the Monster
 - Rags to Riches
 - The Quest
@@ -17,7 +17,7 @@ teacher: Ms. Preeti Tyagi
 A story with a 3 act structure consists of a beginning, crisis, and resolution.
 ## The “ONE DAY” factor
 The day before and after the character takes on a turning point.
-## Commercial Storytelling
+# Commercial Storytelling
 For most of their existence, TV commercials have been like, **“Hey, buy this product! It’s faster, cheaper, more efficient!”**
 
 Then, around 2012, we saw an increase in commercials that tell stories.
@@ -47,7 +47,7 @@ Facebook calls them “once-a-day moments,” and for advertisers, they can serv
 
 - One study found that a painting became 11% more valuable when the artist’s story was featured below it. 
 - Small businesses with ethically-made, locally-sourced products can actually increase the perceived value of the products by featuring the story of the workers engaged in the production.
-## Digital Storytelling
+# Digital Storytelling
 **Storytelling**
 Telling or writing of stories. An ancient art form and a valuable form of human expression. Storytelling should always come in narrative form as you are describing your experience in the form of stories.
 

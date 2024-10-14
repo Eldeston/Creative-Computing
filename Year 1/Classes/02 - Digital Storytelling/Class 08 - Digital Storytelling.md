@@ -5,7 +5,7 @@ date: 2024-09-24
 teacher: Ms. Preeti Tyagi
 ---
 # Digital Storytelling 3
-## 5 Elements of Digital Storytelling
+# 5 Elements of Digital Storytelling
 - Structure
 	Linear | Side-Branches | Non-Linear
 - Assets
@@ -19,7 +19,7 @@ teacher: Ms. Preeti Tyagi
 
 > “You can tell any story 20 different ways. The trick is to pick one and go with it.”
 > *- Clint Eastwood, American actor, director, producer, and politician*
-## Intellectual Property (IP)
+# Intellectual Property (IP)
 Intellectual property (IP) refers to creations of the mind: inventions, literary and artistic works, and symbols, names, images, and designs used in commerce.
 
 **Ethical Concerns**
