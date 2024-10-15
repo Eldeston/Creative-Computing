@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md",
+                "file": "Year 1/Classes/03 - Intro to Programming (Python)/Class 06 - Intro to Programming (Python).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md",
+                "file": "Year 1/Classes/03 - Intro to Programming (Python)/Class 06 - Intro to Programming (Python).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md",
+                "file": "Year 1/Classes/03 - Intro to Programming (Python)/Class 06 - Intro to Programming (Python).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md"
+                "file": "Year 1/Classes/03 - Intro to Programming (Python)/Class 06 - Intro to Programming (Python).md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md"
+                "file": "Year 1/Classes/03 - Intro to Programming (Python)/Class 06 - Intro to Programming (Python).md"
               }
             }
           }
@@ -165,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,19 +180,22 @@
   },
   "active": "b9f1ba7e59860dea",
   "lastOpenFiles": [
+    "Year 1/Classes/03 - Intro to Programming (Python)/Class 03 - Intro to Programming (Python).md",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Class 06 - Intro to Programming (Python).md",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Class 09 - Intro to Programming (Python).md",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Class 12 - Intro to Programming (Python).md",
+    "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 14 - Digital Storytelling.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 11 - Digital Storytelling.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 08 - Digital Storytelling.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 05 - Digital Storytelling.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 02 - Digital Storytelling.md",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Class 03 - Intro to Programming (Python).md",
     "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Digital Visual Design Index.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 10 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 07 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 04 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 01 - Digital Visual Design.md",
-    "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Intro to Programming (Python).md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Intro to Programming (Python) Index.md",
     "Year 1/Classes/02 - Digital Storytelling/Documents/Elements Of Digital Storytelling.pptx",
@@ -218,9 +220,6 @@
     "Media/Pasted image 20240917105519.png",
     "Media/Pasted image 20240917102536.png",
     "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture 3 - Digital Visual Design.pdf",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Class 06 - Intro to Programming (Python).md",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Class 09 - Intro to Programming (Python).md",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Class 12 - Intro to Programming (Python).md",
     "Year 1/Classes/02 - Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
     "Ideas.md",
     "Templates/Class N Portfolio - Subject Name.md",

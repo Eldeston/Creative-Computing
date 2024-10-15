@@ -5,9 +5,9 @@ date: 2024-09-12
 teacher: Ms. Lavanya Mohan
 ---
 # Introduction to Programming (Python) 1
-## Programming Language
+# Programming Language
 A programming language is a formal set of instructions or code that humans use to communicate with computers
-## Unit Content
+# Unit Content
 - Logic & Algorithmic thinking
 - Version control basics
 - Data Types
@@ -19,7 +19,7 @@ A programming language is a formal set of instructions or code that humans use t
 - Tuples, Sets
 - Arrays
 - Functions (passing in, returning out)
-## Python
+# Python
 - First developed in the late 1980s by Guido van Rossum
 - First public release(USENET)-Feb 1991
 - Python.org website 1996 or 1997
