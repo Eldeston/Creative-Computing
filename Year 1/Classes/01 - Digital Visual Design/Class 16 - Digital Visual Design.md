@@ -1,14 +1,10 @@
 ---
 tags:
   - incomplete
-date: 2024-10-01
+date: 2024-10-15
 teacher: Mr. Subhan Ali
 ---
-# Digital Visual Design 4
-
-# Composition Activity - Shapes
-
-# Composition Activity - Websites
+# Digital Visual Design 6
 
 ----------------------------------------------------------------
 # Editor's Notes
