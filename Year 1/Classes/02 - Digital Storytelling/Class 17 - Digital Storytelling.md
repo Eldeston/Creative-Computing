@@ -55,3 +55,38 @@ All group images & videos should be included in all individual SWAY Portfolio ap
 
 ----------------------------------------------------------------
 # Editor's Notes
+# Videography Script
+## References
+- Metaverse Videos
+- [mid90s end scene (youtube.com)](https://www.youtube.com/watch?v=MMi3oCqhnF4)
+- [About Us – Metaverse Age Training Institute](https://metaverseage.ae/about-us/)
+## Specifications
+- iPhone X Camera - Kelvin
+- Samsung A52 - Deniz
+## Outline
+I. Welcome
+	A. About us
+	B. Services
+II. Courses
+	A. Creative Computing
+	B. Psychology
+	C. Business Management
+III. Inside
+	A. Classrooms
+	B. Offices
+## Key Styles
+**Camera**
+- Parallax
+- Rotation
+
+**Locations**
+- MATI Office 1
+- MATI Office 2
+- Hallway
+
+**Style**
+- Student perspective
+- Short testimonies
+- Cinematic / Vlog / Commercial
+## Script
+Metaverse Age Training Institute is an approved and permitted institution by Knowledge Human Development Authority Dubai - United Arab Emirates. It is a training institute that aims to reshape the typical and the conventional learning in response to the current needs of the modern world.

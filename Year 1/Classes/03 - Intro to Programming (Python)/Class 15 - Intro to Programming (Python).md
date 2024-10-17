@@ -1,12 +1,13 @@
 ---
 tags:
-  - template
-date: 
-teacher:
+  - incomplete
+date: 2024-10-10
+teacher: Ms. Lavanya Mohan
 ---
 # Intro to Programming (Python) 5
 
-## Lists and Dictionaries
+# Lists
+# Dictionaries
 
 ----------------------------------------------------------------
 # Editor's Notes

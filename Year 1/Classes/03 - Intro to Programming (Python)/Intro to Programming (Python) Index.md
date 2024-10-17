@@ -10,6 +10,7 @@ teacher: Ms. Lavanya Mohan
 - [Class 09 - Intro to Programming (Python)](Class%2009%20-%20Intro%20to%20Programming%20(Python).md)
 - [Class 12 - Intro to Programming (Python)](Class%2012%20-%20Intro%20to%20Programming%20(Python).md)
 - [Class 15 - Intro to Programming (Python)](Class%2015%20-%20Intro%20to%20Programming%20(Python).md)
+- [Class 18 - Intro to Programming (Python)](Class%2018%20-%20Intro%20to%20Programming%20(Python).md)
 # Activities
 - [activity06](Activities/activity06.py)
 - [activity09](Activities/activity09.py)
