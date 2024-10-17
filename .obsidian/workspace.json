@@ -8,64 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a66b39738d8d4cb",
+            "id": "c4a8162ff8c77c1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Class 17 - Digital Storytelling.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 17 - Digital Storytelling"
+              "title": "README"
             }
           },
           {
-            "id": "6a521391aa9b186f",
+            "id": "28d9e55e3ef38dfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Classes/03 - Intro to Programming (Python)/Class 18 - Intro to Programming (Python).md",
+                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Portfolio.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 18 - Intro to Programming (Python)"
+              "title": "Digital Storytelling Portfolio"
             }
           },
           {
-            "id": "dc1baabaa6be972e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
-          },
-          {
-            "id": "22f403e787eacb19",
+            "id": "4ae00aff9362e909",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md",
+                "file": "Year 1/Classes/03 - Intro to Programming (Python)/Intro to Programming (Python) Portfolio.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Digital Storytelling Index"
+              "title": "Intro to Programming (Python) Portfolio"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Class 17 - Digital Storytelling.md",
+                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Class 17 - Digital Storytelling"
+              "title": "Backlinks for Digital Storytelling Index"
             }
           },
           {
@@ -156,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Class 17 - Digital Storytelling.md",
+                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Class 17 - Digital Storytelling"
+              "title": "Outgoing links from Digital Storytelling Index"
             }
           },
           {
@@ -183,10 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Class 17 - Digital Storytelling.md"
+                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Class 17 - Digital Storytelling"
+              "title": "Outline of Digital Storytelling Index"
             }
           },
           {
@@ -219,10 +206,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Class 17 - Digital Storytelling.md"
+                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Class 17 - Digital Storytelling"
+              "title": "File properties for Digital Storytelling Index"
             }
           }
         ],
@@ -230,8 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,37 +227,42 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "dc1baabaa6be972e",
+  "active": "c4a8162ff8c77c1e",
   "lastOpenFiles": [
+    "Ideas.md",
+    "README.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 16 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Digital Visual Design Index.md",
+    "Year 1/Classes/01 - Digital Visual Design/Digital Visual Design Portfolio.md",
+    "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Portfolio.md",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Intro to Programming (Python) Portfolio.md",
+    "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Intro to Programming (Python) Index.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 10 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 07 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 04 - Digital Visual Design.md",
+    "Year 1/Classes/02 - Digital Storytelling/Class 17 - Digital Storytelling.md",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Class 18 - Intro to Programming (Python).md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Class 06 - Intro to Programming (Python).md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Class 03 - Intro to Programming (Python).md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Class 15 - Intro to Programming (Python).md",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Class 18 - Intro to Programming (Python).md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Activities/activity18.py",
     "Year 1/Classes/03 - Intro to Programming (Python)/Class 09 - Intro to Programming (Python).md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Class 12 - Intro to Programming (Python).md",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Intro to Programming (Python) Index.md",
-    "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md",
-    "Year 1/Classes/02 - Digital Storytelling/Class 17 - Digital Storytelling.md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/vendingMachine.py",
     "Year 1/Classes/02 - Digital Storytelling/Class 14 - Digital Storytelling.md",
     "Year 1/Classes/02 - Digital Storytelling/Documents/~$Lecture 1 - Digital Storytelling.pptx",
-    "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture 4 - Digital Visual Design.pdf",
-    "Year 1/Classes/01 - Digital Visual Design/Digital Visual Design Index.md",
-    "Year 1/Classes/01 - Digital Visual Design/Class 10 - Digital Visual Design.md",
-    "Year 1/Classes/01 - Digital Visual Design/Class 07 - Digital Visual Design.md",
-    "Year 1/Classes/01 - Digital Visual Design/Class 16 - Digital Visual Design.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 11 - Digital Storytelling.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 08 - Digital Storytelling.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 05 - Digital Storytelling.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 02 - Digital Storytelling.md",
-    "Year 1/Classes/01 - Digital Visual Design/Class 04 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 01 - Digital Visual Design.md",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Intro to Programming (Python).md",
     "Year 1/Classes/02 - Digital Storytelling/Documents/Elements Of Digital Storytelling.pptx",
     "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture - 4  DVD  L4.pdf",
     "Year 1/Classes/03 - Intro to Programming (Python)/Documents/Solo Learn Python Certificate.jpg",
@@ -280,7 +271,6 @@
     "Year 1/Classes/03 - Intro to Programming (Python)/Documents/c393db2a-a837-4fda-93f9-21db6593c822.pdf",
     "Year 1/Classes/03 - Intro to Programming (Python)/Activities/activity15.py",
     "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/~$sessment Brief L4 Intro to Programming (Python).docx",
-    "README.md",
     "Media/Picture5.png",
     "Media/Picture4.png",
     "Media/Picture3.png",
@@ -289,8 +279,6 @@
     "Media/Picture1.png",
     "Media/Pasted image 20240917105519.png",
     "Media/Pasted image 20240917102536.png",
-    "Year 1/Classes/02 - Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
-    "Ideas.md",
     "Untitled.canvas"
   ]
 }

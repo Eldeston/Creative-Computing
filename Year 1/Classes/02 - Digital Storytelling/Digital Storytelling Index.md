@@ -1,9 +1,12 @@
 ---
 tags:
-  - portfolio
+  - index
 date: 2024-09-20
 teacher: Ms. Preeti Tyagi
 ---
+# Portfolio
+- [Digital Storytelling Portfolio](Digital%20Storytelling%20Portfolio.md)
+- https://sway.cloud.microsoft/bg9NjMGhsy5K3uEe?ref=Link
 # Classes
 - [Class 02 - Digital Storytelling](Class%2002%20-%20Digital%20Storytelling.md)
 - [Class 05 - Digital Storytelling](Class%2005%20-%20Digital%20Storytelling.md)
@@ -13,7 +16,6 @@ teacher: Ms. Preeti Tyagi
 - [Class 17 - Digital Storytelling](Class%2017%20-%20Digital%20Storytelling.md)
 # Assessments
 - [Assessment 01 - The Beginning of an Engineer's Journey](Assessments/Assessment%2001%20-%20The%20Beginning%20of%20an%20Engineer's%20Journey.md) - Sep 29
-	- https://sway.cloud.microsoft/bg9NjMGhsy5K3uEe?ref=Link
 # References
 **Sites**
 - [Kurt Vonnegut on the 8 "shapes" of stories - Big Think](https://bigthink.com/high-culture/vonnegut-shapes/#rebelltitem3)

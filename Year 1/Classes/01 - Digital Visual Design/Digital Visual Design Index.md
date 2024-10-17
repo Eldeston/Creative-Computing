@@ -1,9 +1,12 @@
 ---
 tags:
-  - portfolio
+  - index
 date: 2024-09-20
 teacher: Mr. Subhan Ali
 ---
+# Portfolio
+- [Digital Visual Design Portfolio](Digital%20Visual%20Design%20Portfolio.md)
+- https://sway.cloud.microsoft/lFyDxoFeoL86vMIC?ref=Link
 # Classes
 - [Class 01 - Digital Visual Design](Class%2001%20-%20Digital%20Visual%20Design.md)
 - [Class 04 - Digital Visual Design](Class%2004%20-%20Digital%20Visual%20Design.md)
@@ -13,7 +16,6 @@ teacher: Mr. Subhan Ali
 - [Class 16 - Digital Visual Design](Class%2016%20-%20Digital%20Visual%20Design.md)
 # Assessments
 - Figma Assignments - Unknown date
-	- https://sway.cloud.microsoft/lFyDxoFeoL86vMIC?ref=Link
 # References
 **Documents**
 - [Lecture 1 - Digital Visual Design](Documents/Lecture%201%20-%20Digital%20Visual%20Design.pdf)

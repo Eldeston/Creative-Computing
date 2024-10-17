@@ -14,13 +14,13 @@ The great pictures just stop time. They capture something that did not continue.
 - Alignments 
 - Intent
 
-![Picture2](../../../Media/Picture2.png)
+![Picture2](../../../../Media/Picture2.png)
 ## Aperature
-![Picture3](../../../Media/Picture3.png)
+![Picture3](../../../../Media/Picture3.png)
 ## Shutter
-![Picture4](../../../Media/Picture4.png)
+![Picture4](../../../../Media/Picture4.png)
 ## Iso
-![Picture5](../../../Media/Picture5.png)
+![Picture5](../../../../Media/Picture5.png)
 ## Compositions
 - Rule of thirds
 - Leading lines

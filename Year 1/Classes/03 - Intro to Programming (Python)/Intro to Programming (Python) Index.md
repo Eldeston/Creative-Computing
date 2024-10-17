@@ -1,9 +1,11 @@
 ---
 tags:
-  - "#portfolio"
+  - index
 date: 2024-09-20
 teacher: Ms. Lavanya Mohan
 ---
+# Portfolio
+- [Intro to Programming (Python) Portfolio](Intro%20to%20Programming%20(Python)%20Portfolio.md)
 # Classes
 - [Class 03 - Intro to Programming (Python)](Class%2003%20-%20Intro%20to%20Programming%20(Python).md)
 - [Class 06 - Intro to Programming (Python)](Class%2006%20-%20Intro%20to%20Programming%20(Python).md)
