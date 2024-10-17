@@ -13,30 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
+                "file": "Year 1/Classes/02 - Digital Storytelling/Class 14 - Digital Storytelling.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ef46d88d7a6f298",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "22f403e787eacb19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "fb6fc291a0809866",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e3284022a23e42f5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture 4 - Digital Visual Design.pdf"
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "30cd0d9ae5a340a6",
@@ -103,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,9 +173,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -196,21 +195,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a66b39738d8d4cb",
+  "active": "8ef46d88d7a6f298",
   "lastOpenFiles": [
-    "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture 4 - Digital Visual Design.pdf",
+    "Year 1/Classes/03 - Intro to Programming (Python)/Intro to Programming (Python) Index.md",
+    "Year 1/Classes/02 - Digital Storytelling/Class 17 - Digital Storytelling.md",
+    "Year 1/Classes/02 - Digital Storytelling/Class 14 - Digital Storytelling.md",
+    "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md",
+    "Year 1/Classes/02 - Digital Storytelling/Documents/~$Lecture 1 - Digital Storytelling.pptx",
     "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
+    "Year 1/Classes/01 - Digital Visual Design/Documents/Lecture 4 - Digital Visual Design.pdf",
     "Year 1/Classes/01 - Digital Visual Design/Digital Visual Design Index.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 10 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 07 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 16 - Digital Visual Design.md",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Intro to Programming (Python) Index.md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Class 06 - Intro to Programming (Python).md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Class 03 - Intro to Programming (Python).md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Class 09 - Intro to Programming (Python).md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Class 12 - Intro to Programming (Python).md",
-    "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md",
-    "Year 1/Classes/02 - Digital Storytelling/Class 14 - Digital Storytelling.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 11 - Digital Storytelling.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 08 - Digital Storytelling.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 05 - Digital Storytelling.md",
@@ -233,7 +234,6 @@
     "Media/Picture4.png",
     "Media/Picture3.png",
     "Media/Picture2.png",
-    "Year 1/Classes/02 - Digital Storytelling/Documents/~$Lecture 1 - Digital Storytelling.pptx",
     "Media/thumbnail.png",
     "Media/Picture1.png",
     "Media/Pasted image 20240917105519.png",
@@ -242,7 +242,6 @@
     "Year 1/Classes/02 - Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
     "Ideas.md",
     "Templates/Class N Portfolio - Subject Name.md",
-    "Templates/Assessment N - Subject Name.md",
     "Untitled.canvas"
   ]
 }
