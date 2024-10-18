@@ -48,6 +48,6 @@ Discontinued or scrapped ideas.
 - Utilize tags
 - Utilize properties
 - Pool all main subjects to one folder
-- Rename class notes according to calendar date
+- Make a consistent naming format for all files
 ## Internship
 https://bathspa.ac.ae/internship-portal/
