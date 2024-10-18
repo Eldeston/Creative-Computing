@@ -18,6 +18,7 @@ teacher: Ms. Lavanya Mohan
 - [activity09](Activities/activity09.py)
 - [activity12](Activities/activity12.py)
 - [activity15](Activities/activity15.py)
+- [activity18](Activities/activity18.py)
 # Assessments
 - [Assessment 01 - Intro to Programming (Python)](Assessments/Assessment%2001%20-%20Intro%20to%20Programming%20(Python)/Assessment%2001%20-%20Intro%20to%20Programming%20(Python).md) - Oct 25
 	- [Assessment Brief L4 Intro to Programming (Python)](Assessments/Assessment%2001%20-%20Intro%20to%20Programming%20(Python)/Assessment%20Brief%20L4%20Intro%20to%20Programming%20(Python).docx)

@@ -7,7 +7,8 @@ print(
 Vending Machine
 Version 1.0
 
-Insert amount or type "exit" to close program
+Insert amount, or type "payment" to enter item selection.
+Type "exit" to close program.
 
 ----------------------------------------------------------------
     """

@@ -17,10 +17,6 @@ While this wiki's other purpose is to help others, **NO PLAGIARISM** or I will p
 	- [CC L4 Cohort 1 & 2](Year%201/CC%20L4%20Cohort%201%20&%202.pdf)
 	- [Sem 1 Morning 2024-25 TIMETABLES](Year%201/Sem%201%20Morning%202024-25%20TIMETABLES.pdf)
 	- [Sem 1 Evening 2024-25 TIMETABLES](Year%201/Sem%201%20Evening%202024-25%20TIMETABLES.pdf)
-# Portfolios
-- [Digital Visual Design Portfolio](Year%201/Classes/01%20-%20Digital%20Visual%20Design/Digital%20Visual%20Design%20Portfolio.md)
-- [Digital Storytelling Portfolio](Year%201/Classes/02%20-%20Digital%20Storytelling/Digital%20Storytelling%20Portfolio.md)
-- [Intro to Programming (Python) Portfolio](Year%201/Classes/03%20-%20Intro%20to%20Programming%20(Python)/Intro%20to%20Programming%20(Python)%20Portfolio.md)
 # Index
 - [Digital Visual Design Index](Year%201/Classes/01%20-%20Digital%20Visual%20Design/Digital%20Visual%20Design%20Index.md)
 - [Digital Storytelling Index](Year%201/Classes/02%20-%20Digital%20Storytelling/Digital%20Storytelling%20Index.md)
