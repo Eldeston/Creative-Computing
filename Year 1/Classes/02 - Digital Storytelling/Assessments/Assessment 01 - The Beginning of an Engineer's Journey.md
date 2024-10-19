@@ -5,8 +5,7 @@ tags:
 date: 2024-09-21
 teacher: Ms. Preeti Tyagi
 ---
-# The Beginning of an Engineer's Journey
-## What makes a story?
+# What makes a story?
 A story is a spoken or written, or fictional or non-fictional event which purpose is to express a person's personal experience or an idea to others. Stories are often used to effectively communicate very important topics in various aspects in life, whether you are delivering justice to the people, or destroying the lives of everyone. Having a loving family, or rejecting an outcast. Living out your best in life, or wrapped around in the cold arms of death. Taking revenge to those who offended you, or forgiving to those who ask for your forgiveness.
 
 Storytelling is a powerful tool used to communicate and to share empathy with another person about their experiences and to provoke the person's imagination. Mankind's capability for imagination is a supernatural gift that is unique to us only which inspiration stems from.
@@ -18,12 +17,16 @@ Stories can be a series of chronological events pointing towards a bigger pictur
 > And when our children tell our story (and when our children tell our story)
 > They'll tell the story of tonight..."
 > *- Hamilton: An American Musical, "The Story of Tonight" by Lin-Manuel, 2015*
-## Story patterns and structures
+# Story patterns and structures
 Stories always come in narrative form. Stories can be structured as a personal documentary about how someone very important to you influenced or inspired your life or a personal testimony of a very important event in your life. 
 
 Stories can be written as fiction or non-fiction in chronological order each building up and pointing towards a bigger picture which purpose is to teach a valuable lesson in their life or asks where are you or what you are doing in your life given the current situation you are in. This is commonly used in fictional stories such as fairy tales, epics, and legends. It is also used in inspirational non-fictional movies such as Hacksaw Ridge (2016) whose story is about Desmond Doss exercising and displaying servitude in World War 2 as a medic even in suffering, never using a weapon and even helping out Japanese enemies (as prisoners of war).
 
 Stories will always display or exercise multiple key characters such as humility, leadership, or mercy. Stories often project the author's philosophical views, exposing their understanding of the world and how it is. As the reader or listener is exposed to these views, an immediate response is provoked, evaluating their philosophical values.
+# The Beginning of an Engineer's Journey
+
+> [!info]
+> Key Characters: Humility and Servitude
 ## Outline
 I. Papers and Drawings
 	A. Childhood
@@ -37,7 +40,6 @@ III. See a need, fill a need
 IV. It is our turn.
 	A. The Birth of FlameRender Studios
 	B. Where are you now?
-# Key Characters: Humility and Servitude
 ## Introduction
 Hi, my name is Frem, I go by the penname Eldeston. I am the founder of **FlameRender Studios.** This is the story of how my work as a shader developer came into being from papers and drawings to lights and shadows.
 ## Papers and Drawings
