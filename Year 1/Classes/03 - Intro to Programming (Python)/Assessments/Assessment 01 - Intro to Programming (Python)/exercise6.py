@@ -7,20 +7,48 @@
 import sys
 
 # Announce program.
-print("================================ \n\nWelcome to \"Stark Industries Archive!\" \nPlease enter the correct password to access your account \nTo exit the program, just type \"Exit.\" \n\n================================")
+print(
+    """
+================================
 
-# Create a dictionary of users
-users = {
-    "\"Tony\" Stark" : "iAmIronMan",
-    "Loki Laufeyson" : "forAllTimeAlways",
-    "Thor Odinson" : "xXgodOfThunderXx",
-    "Steve Rogers" : "peggyCarter1945"
-}
+Welcome to "Stark Industries!" 
+Please enter the correct password to access your account
+To exit the program, just type "Exit."
 
-while True :
-    userInput = input("Enter a password to sign in with one of the accounts: ")
+================================
+    """
+)
 
-    if userInput in users.values() :
-        print(f"Welcome back, {users[userInput]}.")
+# Define password
+passWord = "iAmIronMan"
 
-    print("Invalid password.")
+attemptCount = 5
+currentAttempt = 0
+
+while currentAttempt < attemptCount :
+    userInput = input()
+
+    if userInput == passWord : break
+
+    currentAttempt += 1
+
+    print(
+        f"""
+Your password is incorrect.
+Current attempts: {currentAttempt}
+        """
+    )
+
+if currentAttempt == attemptCount : print(attemptCount, "attempts has been reached. Closing program.")
+else :
+    print(
+        """
+================================
+
+J.A.R.V.I.S.
+
+Welcome home, Mr. Stark.
+
+================================
+        """
+    )

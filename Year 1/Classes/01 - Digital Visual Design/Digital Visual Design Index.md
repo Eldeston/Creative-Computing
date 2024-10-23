@@ -14,6 +14,7 @@ teacher: Mr. Subhan Ali
 - [Class 10 - Digital Visual Design](Class%2010%20-%20Digital%20Visual%20Design.md)
 - [Class 13 - Digital Visual Design](Class%2013%20-%20Digital%20Visual%20Design.md)
 - [Class 16 - Digital Visual Design](Class%2016%20-%20Digital%20Visual%20Design.md)
+- [Class 19 - Digital Visual Design](Class%2019%20-%20Digital%20Visual%20Design.md)
 # Assessments
 - Figma Assignments - Unknown date
 # References
