@@ -64,16 +64,15 @@ All group images & videos should be included in all individual SWAY Portfolio ap
 - iPhone X Camera - Kelvin
 - Samsung A52 - Deniz
 ## Outline
-I. Welcome
-	A. About us
-	B. Services
-II. Courses
-	A. Creative Computing
-	B. Psychology
-	C. Business Management
-III. Inside
-	A. Classrooms
-	B. Offices
+I. Introduction
+	A. Vince (Main protagonist)
+	B. Shots of Vince walking to Metaverse
+		- Hallway shots
+		- Stair shots
+II. Campus
+	A. Office 1
+	B. Office 2
+	C. Classrooms
 ## Key Styles
 **Camera**
 - Parallax
@@ -88,5 +87,12 @@ III. Inside
 - Student perspective
 - Short testimonies
 - Cinematic / Vlog / Commercial
-## Script
-Metaverse Age Training Institute is an approved and permitted institution by Knowledge Human Development Authority Dubai - United Arab Emirates. It is a training institute that aims to reshape the typical and the conventional learning in response to the current needs of the modern world.
+## Timeline
+1. Vince entering MATI
+2. Vince entering stairs
+3. Vince entering hallways
+4. TITLE SCREEEN
+5. Vince entering Office 1
+6. Vince entering Office 2
+7. Vince entering Classroom
+8. Vince entering Gaming room

@@ -21,18 +21,18 @@ print(
 
 # Day calendar dictionary. Contains the number of days each month has.
 dayCalendar = {
-    "January" : 31,
-    "Febuary" : 28,
-    "March" : 31,
-    "April" : 30,
-    "May" : 31,
-    "June" : 30,
-    "July" : 31,
-    "August" : 31,
-    "September" : 30,
-    "October" : 31,
-    "November" : 30,
-    "December" : 31
+    1 : 31,
+    2 : 28,
+    3 : 31,
+    4 : 30,
+    5 : 31,
+    6 : 30,
+    7 : 31,
+    8 : 31,
+    9 : 30,
+    10 : 31,
+    11 : 30,
+    12 : 31
 }
 
 # Month number dictionary. It acts as a look up table (LUT) so you would not need to do additional calculations like remapping list IDs listName[numberInput - 1].
@@ -51,58 +51,30 @@ monthCalendar = {
     12 : "December"
 }
 
-# Advanced mode setting disabled by default.
-advancedMode = False
-
-# Second input check to rerun the loop
-secondInput = False
-# Default number is 1
-userInput1 = "1"
-
 # For this one, I experimented using more flow control functions after discovering how loops work in Python.
 # Keep loop running until user exits
 while True :
     # Automagically turn every user input lower case.
-    userInput0 = input("Enter month number between 1-12. ").lower()
-
-    # Second input if advanced mode is enabled
-    if advancedMode : userInput1 = input("Enter year number between 0-10000. ").lower()
-
-    # Editor's Note: It would be much simpler if I use some kind of loop for an infinite amount of user inputs. You might catch me doing this in later exercises.
+    userInput = input("Enter month number between 1-12. ").lower()
 
     # If the input is "exit," say goodbye and exit program.
-    if "exit" in (userInput0, userInput1) :
+    if "exit" == userInput :
         print("Goodbye and have a nice day!")
         sys.exit()
 
-    # If the input is "advanced," enable or disable advanced mode
-    if "advanced" in (userInput0, userInput1) :
-        # This allows us to "switch" between True and False
-        advancedMode = not advancedMode
-        # Display status
-        print("Advanced mode: ", advancedMode)
-        # Go back to the start of the loop
-        continue
-
-    # Enables advanced mode features such as adjusting for leap year
-    if userInput1.isdigit() and advancedMode :
-        year = int(userInput1)
-
-        # Call me pessimistic but I don't think humankind is gonna live that long.
-        # range() generates a list from -10000 to 10000. Optionally, you can change the increment.
-        if year in range(-10000, 10000) :
-            if year % 4 == 0 : dayCalendar["Febuary"] = 29
-            else : dayCalendar["Febuary"] = 28
-
     # Here is the core of the program. First check if it is a digit with isdigit().
-    if userInput0.isdigit() :
+    if userInput.isdigit() :
         # Use a look up table what month is referred to the number input
-        month = monthCalendar[int(userInput0)]
+        monthNumber = int(userInput)
 
         # Check if month exists in day calendar
-        if month in dayCalendar :
+        if monthNumber in monthCalendar.keys() :
+            # Ask if it is a leap year. Change the day count accordingly.
+            if monthNumber == 2 and input("Is it a leap year?").lower() == "yes" : dayCalendar[2] == 29
+            else : dayCalendar[2] == 28
+    
             # Display month and days in that month and jump back to the beginning of the loop
-            print("The number of days in", month, "is", dayCalendar[month], "days.")
+            print("The number of days in", monthCalendar[monthNumber], "is", dayCalendar[monthNumber], "days.")
             continue
 
     # Should all conditions are avoided, it will display invalid input

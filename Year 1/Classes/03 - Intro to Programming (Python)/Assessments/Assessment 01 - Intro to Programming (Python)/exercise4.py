@@ -48,14 +48,14 @@ attempt = 10
 # I will say however, coding this is rather difficult to get if you don't know everything.
 # Thanks to my previous experience with programming (namely with shader programs in C syntax), the time has been cut down to find the functions I need.
 
-# Initialize a list for defining cities
-cities = ["Japan", "Philippines", "South Korea", "Russia", "France"]
+# Initialize a list for defining countries
+countries = ["Ukraine", "Switzerland", "Kazakhstan", "Russia", "France"]
 # Initialize another list for capitals
-capitals = ["Tokyo", "Manilla", "Seoul", "Moscow", "Paris"]
+capitals = ["Kyiv", "Bern", "Seoul", "Astana", "Paris"]
 
 # zip() allows to iterate over several lists in parallel.
-# In this case iterates city to cities and capital to capitals
-for city, capital in zip(cities, capitals) :
+# In this case iterates city to countries and capital to capitals
+for city, capital in zip(countries, capitals) :
     while attempt != 0 :
         # Ask user the question for input
         userAnswer = input("What is the capital of " + city + "? ")
