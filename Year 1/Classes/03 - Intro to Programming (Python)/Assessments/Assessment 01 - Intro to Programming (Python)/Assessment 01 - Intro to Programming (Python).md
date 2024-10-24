@@ -149,3 +149,7 @@ ________________________________________________________________________________
 - [exercise4](exercise4.py)
 - [exercise5](exercise5.py)
 - [exercise6](exercise6.py)
+- [exercise7](exercise7.py)
+- [exercise8](exercise8.py)
+- [exercise9](exercise9.py)
+- [exercise10](exercise10.py)
