@@ -34,7 +34,7 @@ else: print("Congratulations! You are correct! You guessed in", str(attempt), "a
 # NOW LETS GET THIS PARTY STARTED
 # Announce beginning of advanced requirements
 print(
-    f"""
+    """
 ---------------- Advanced Requirements ----------------
     """
 )
