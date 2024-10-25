@@ -143,13 +143,13 @@ Write a program that tests if a value is even or odd. Follow the instructions ou
 
 _________________________________________________________________________________________
 # Assessments 01 : From 1-10
-- [exercise1](exercise1.py)
-- [exercise2](exercise2.py)
-- [exercise3](exercise3.py)
-- [exercise4](exercise4.py)
-- [exercise5](exercise5.py)
-- [exercise6](exercise6.py)
-- [exercise7](exercise7.py)
-- [exercise8](exercise8.py)
-- [exercise9](exercise9.py)
-- [exercise10](exercise10.py)
+- [exercise1](Exercise%2001.py)
+- [exercise2](Exercise%2002.py)
+- [exercise3](Exercise%2003.py)
+- [exercise4](Exercise%2004.py)
+- [exercise5](Exercise%2005.py)
+- [exercise6](Exercise%2006.py)
+- [exercise7](Exercise%2007.py)
+- [exercise8](Exercise%2008.py)
+- [exercise9](Exercise%2009.py)
+- [exercise10](Exercise%2010.py)

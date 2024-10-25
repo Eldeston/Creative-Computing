@@ -20,26 +20,37 @@ To exit the program, just type "Exit."
 )
 
 # Define password
-passWord = "iAmIronMan"
+passWord = "12345"
 
+# Define attempt count
 attemptCount = 5
+# Define current attempt (will be used later for the loop to work)
 currentAttempt = 0
 
+# While current attempts remain below the attempt count, run the loop
 while currentAttempt < attemptCount :
+    # Ask for user input, this time not using a prompt
     userInput = input()
 
+    # If the user inputs the correct password, break loop
     if userInput == passWord : break
 
+    # Otherwise, add one failed attempt
     currentAttempt += 1
 
+    # Announce incorrect password
     print(
         f"""
-Your password is incorrect.
+{userInput} is incorrect.
 Current attempts: {currentAttempt}
         """
     )
 
-if currentAttempt == attemptCount : print(attemptCount, "attempts has been reached. Closing program.")
+# If the current attempt equals attempt count, announce maximum attempts reached and close program
+if currentAttempt == attemptCount :
+    print(attemptCount, "attempts has been reached. Closing program.")
+    sys.exit()
+# Otherwise, announce program welcome and continue with the program
 else :
     print(
         """
