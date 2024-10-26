@@ -6,8 +6,7 @@ date: 2024-09-20
 teacher: Ms. Lavanya Mohan
 ---
 # Assessment 1 - Programming Skills Portfolio
-*[CodeLab1--A1-10-exercises-/Programming-Skills--Portfolio--Python-main/README.md at main · lavanand/CodeLab1--A1-10-exercises- (github.com)](https://github.com/lavanand/CodeLab1--A1-10-exercises-/blob/main/Programming-Skills--Portfolio--Python-main/README.md)*
-*Editor's Note: This file has been heavily formatted for the purpose of using Obsidian.md effectively for the sake of readability. The above is the original file.*
+*[CodeLab1--A1-10-exercises-/Programming-Skills--Portfolio--Python-main/README.md at main · lavanand/CodeLab1--A1-10-exercises- (github.com)](https://github.com/lavanand/CodeLab1--A1-10-exercises-/blob/main/Programming-Skills--Portfolio--Python-main/README.md)* *Editor's Note: This file has been heavily formatted for the purpose of using Obsidian.md effectively for the sake of readability. The above is the original file.*
 
 Your task is to develop solutions to a series of coding exercises that will test your knowledge of the fundamental programming techniques introduced through the course of the module. These exercises complement the content delivered in class each week and allow you to put into practice what you have learned.
 
