@@ -11,15 +11,10 @@
             "id": "c9b5d717465bd8b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 1/Classes/02 - Digital Storytelling/Class 02 - Digital Storytelling.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Class 02 - Digital Storytelling"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -205,13 +200,16 @@
   },
   "active": "c9b5d717465bd8b4",
   "lastOpenFiles": [
+    "Year 1/Classes/02 - Digital Storytelling/Class 20 - Digital Storytelling.md",
+    "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md",
+    "Year 1/Classes/01 - Digital Visual Design/Class 07 - Digital Visual Design.md",
+    "Year 1/Classes/02 - Digital Storytelling/Class 02 - Digital Storytelling.md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Class 03 - Intro to Programming (Python).md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Intro to Programming (Python).md",
     "Untitled.canvas",
     "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/~$sessment 01 - Coversheet.docx",
     "README.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 10 - Digital Visual Design.md",
-    "Year 1/Classes/01 - Digital Visual Design/Class 07 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 16 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 04 - Digital Visual Design.md",
@@ -221,7 +219,6 @@
     "Year 1/Classes/02 - Digital Storytelling/Class 11 - Digital Storytelling.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 08 - Digital Storytelling.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 05 - Digital Storytelling.md",
-    "Year 1/Classes/02 - Digital Storytelling/Class 02 - Digital Storytelling.md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Coversheet~52228.tmp",
     "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Coversheet~4E84C.tmp",
     "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Coversheet~4058D.tmp",
@@ -232,9 +229,7 @@
     "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Coversheet~C195D.tmp",
     "Year 1/Classes/03 - Intro to Programming (Python)/Class 18 - Intro to Programming (Python).md",
     "Year 1/Classes/03 - Intro to Programming (Python)/Documents/Solo Learn Python Certificate.jpg",
-    "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md",
     "Untitled Kanban.md",
-    "Year 1/Classes/02 - Digital Storytelling/Class 20 - Digital Storytelling.md",
     "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Portfolio.md",
     "Year 1/Classes/02 - Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 19 - Digital Visual Design.md",
