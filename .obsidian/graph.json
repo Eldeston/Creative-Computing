@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "file:\"Intro to Programming (Python) Index\"",
+      "query": "file:\"Intro to Python Index\"",
       "color": {
         "a": 1,
         "rgb": 16711680

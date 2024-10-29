@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8c0bcbb2dddb6be5",
+        "id": "0e15f44fca32e9f9",
         "type": "tabs",
         "children": [
           {
-            "id": "c9b5d717465bd8b4",
+            "id": "d5a0c505830b0110",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Year 1/Classes/01 - Digital Visual Design/Digital Visual Design Portfolio.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Digital Visual Design Portfolio"
             }
           }
         ]
@@ -73,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 200
   },
   "right": {
     "id": "30cd0d9ae5a340a6",
@@ -198,17 +203,18 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "c9b5d717465bd8b4",
+  "active": "d5a0c505830b0110",
   "lastOpenFiles": [
+    "Year 1/Classes/03 - Intro to Python/Intro to Python Index.md",
+    "README.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 20 - Digital Storytelling.md",
     "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Index.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 07 - Digital Visual Design.md",
     "Year 1/Classes/02 - Digital Storytelling/Class 02 - Digital Storytelling.md",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Class 03 - Intro to Programming (Python).md",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Intro to Programming (Python).md",
+    "Year 1/Classes/03 - Intro to Python/Class 03 - Intro to Python.md",
+    "Year 1/Classes/03 - Intro to Python/Assessments/Assessment 01 - Intro to Python/Assessment 01 - Intro to Python.md",
     "Untitled.canvas",
     "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/~$sessment 01 - Coversheet.docx",
-    "README.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 10 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 16 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
@@ -222,19 +228,18 @@
     "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Coversheet~52228.tmp",
     "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Coversheet~4E84C.tmp",
     "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Coversheet~4058D.tmp",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Intro to Programming (Python) Index.md",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Activities/activity21.py",
+    "Year 1/Classes/03 - Intro to Python/Activities/activity21.py",
     "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Coversheet~D24C2.tmp",
     "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Coversheet~CF17D.tmp",
     "Year 1/Classes/03 - Intro to Programming (Python)/Assessments/Assessment 01 - Intro to Programming (Python)/Assessment 01 - Coversheet~C195D.tmp",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Class 18 - Intro to Programming (Python).md",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Documents/Solo Learn Python Certificate.jpg",
+    "Year 1/Classes/03 - Intro to Python/Class 18 - Intro to Python.md",
+    "Year 1/Classes/03 - Intro to Python/Documents/Solo Learn Python Certificate.jpg",
     "Untitled Kanban.md",
     "Year 1/Classes/02 - Digital Storytelling/Digital Storytelling Portfolio.md",
     "Year 1/Classes/02 - Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
     "Year 1/Classes/01 - Digital Visual Design/Class 19 - Digital Visual Design.md",
     "Year 1/Classes/01 - Digital Visual Design/Digital Visual Design Index.md",
-    "Year 1/Classes/03 - Intro to Programming (Python)/Class 06 - Intro to Programming (Python).md",
+    "Year 1/Classes/03 - Intro to Python/Class 06 - Intro to Python.md",
     "Year 1/CC L4 Cohort 1 & 2.pdf",
     "Year 1/Sem 1 Evening 2024-25 TIMETABLES.pdf",
     "Year 1/Classes/03 - Intro to Programming (Python)/Documents/df876144-8b14-44ab-9705-862e04851891.jpg",

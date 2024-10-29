@@ -20,7 +20,7 @@ While this wiki's other purpose is to help others, **NO PLAGIARISM** or I will p
 # Index
 - [Digital Visual Design Index](Year%201/Classes/01%20-%20Digital%20Visual%20Design/Digital%20Visual%20Design%20Index.md)
 - [Digital Storytelling Index](Year%201/Classes/02%20-%20Digital%20Storytelling/Digital%20Storytelling%20Index.md)
-- [Intro to Programming (Python) Index](Year%201/Classes/03%20-%20Intro%20to%20Programming%20(Python)/Intro%20to%20Programming%20(Python)%20Index.md)
+- [Intro to Python Index](Year%201/Classes/03%20-%20Intro%20to%20Python/Intro%20to%20Python%20Index.md)
 ## Deprecated
 Discontinued or scrapped ideas.
 - [Piracy in the Open Internet Seas (Deprecated)](Year%201/Deprecated/Piracy%20in%20the%20Open%20Internet%20Seas%20(Deprecated).md)
