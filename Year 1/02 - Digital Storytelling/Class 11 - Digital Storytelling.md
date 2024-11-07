@@ -47,5 +47,6 @@ teacher: Ms. Preeti Tyagi
 ----------------------------------------------------------------
 # Editor's Notes
 Story explanation used:
-- **The Golden Touch** - Strongly inspired from the story of Midas.
+- **The Golden Touch** - The story, "The Golden Touch," is strongly inspired from the story of King Midas which originated from a Greek myth. "The Golden Touch," while only a part of Midas' entire story, mostly ends with Midas cursing Dionysus, the god who gave him the gift of the golden touch. For my version, I chose a more depressing story ending with his daughter turned into gold to emphasize the consequences of his actions.
+
 There came a king named Midas, who ruled Phrygia and has his wants were unlimited. He sought for treasure more than anything and pursued to become the richest. He then discovered a demigod who could grant him any wish. He asked that everything his hands touch be made gold. He then came home and touched the pink roses in his daughter's garden and it turned into solid gold. He commanded his servants to prepare a feast to celebrate his newfound powers. As the feast began, he could not eat the food he touches because it turned into gold. When his daughter approached him and touched his hands she too turned into gold. He mourned for his daughter and cursed his gift. He sought for the demigod to take his gift away from him, but could not find him no longer. Alas his grief encumbered him, and he himself turned into gold.

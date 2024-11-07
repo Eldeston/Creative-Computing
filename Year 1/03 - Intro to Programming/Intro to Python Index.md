@@ -13,14 +13,16 @@ teacher: Ms. Lavanya Mohan
 - [Class 12 - Intro to Python](Class%2012%20-%20Intro%20to%20Python.md)
 - [Class 15 - Intro to Python](Class%2015%20-%20Intro%20to%20Python.md)
 - [Class 18 - Intro to Python](Class%2018%20-%20Intro%20to%20Python.md)
-- Class 21 - Intro to Python postponed due to Fresher's Party
-- [Class 24 - Intro to Python](Class%2024%20-%20Intro%20to%20Python.md)
+- [Class 21 - Intro to Python](Class%2021%20-%20Intro%20to%20Python.md)
+- Class 24 - Intro to Python postponed due to Fresher's Party
+- [Class 27 - Intro to Python](Class%2027%20-%20Intro%20to%20Python.md)
 # Activities
-- [activity06](Activities/activity06.py)
-- [activity09](Activities/activity09.py)
-- [activity12](Activities/activity12.py)
-- [activity15](Activities/activity15.py)
-- [activity18](Activities/activity18.py)
+- [activity06](Activity/Activity%2001%20-%20Intro%20to%20Python/activity06.py)
+- [activity09](Activity/Activity%2001%20-%20Intro%20to%20Python/activity09.py)
+- [activity12](Activity/Activity%2001%20-%20Intro%20to%20Python/activity12.py)
+- [activity15](Activity/Activity%2001%20-%20Intro%20to%20Python/activity15.py)
+- [activity18](Activity/Activity%2001%20-%20Intro%20to%20Python/activity18.py)
+- [activity21](Activity/Activity%2001%20-%20Intro%20to%20Python/activity21.py)
 # Assessments
 - [Assessment 01 - Intro to Python](Assessments/Assessment%2001%20-%20Intro%20to%20Python/Assessment%2001%20-%20Intro%20to%20Python.md) - Oct 25
 	- [Assessment Brief L4 Intro to Programming (Python)](Assessments/Assessment%2001%20-%20Intro%20to%20Python/Assessment%20Brief%20L4%20Intro%20to%20Python.docx)
@@ -34,7 +36,7 @@ teacher: Ms. Lavanya Mohan
 	- [Lecture 1 - Intro to Programming (Python)](Documents/Lecture%201%20-%20Intro%20to%20Python.pptx)
 	- [Lecture 2 - Intro to Programming (Python)](Documents/Lecture%202%20-%20Intro%20to%20Python.pptx)
 	- [Lecture 3 - Intro to Programming (Python)](Documents/Lecture%203%20-%20Intro%20to%20Python.pptx)
-	- [Exercise 1 (program)](Activities/Exercise%201%20(program).docx)
+	- [Exercise 1 (program)](Activity/Activity%2001%20-%20Intro%20to%20Python/Exercise%201%20(program).docx)
 # Certificate
 **Certificate Link**
 https://www.sololearn.com/certificates/CC-NSTMQVWM

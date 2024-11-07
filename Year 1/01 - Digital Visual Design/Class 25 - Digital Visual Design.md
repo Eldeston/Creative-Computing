@@ -1,11 +1,10 @@
 ---
 tags:
   - incomplete
-date: 2024-10-03
-teacher: Ms. Lavanya Mohan
+date: 2024-11-05
+teacher: Mr. Subhan Ali
 ---
-# Introduction to Programming (Python) 4
-# Conditionals
+# Digital Visual Design 9
 
 ----------------------------------------------------------------
 # Editor's Notes

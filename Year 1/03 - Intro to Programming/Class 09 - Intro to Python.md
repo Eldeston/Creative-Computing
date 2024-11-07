@@ -1,10 +1,11 @@
 ---
 tags:
   - incomplete
-date: 2024-10-30
-teacher: Ms. Preeti Tyagi
+date: 2024-09-26
+teacher: Ms. Lavanya Mohan
 ---
-# Digital Storytelling 8
+# Intro to Python 3
+# Operators
 
 ----------------------------------------------------------------
 # Editor's Notes

@@ -65,7 +65,7 @@ The work belongs completely to the owner, and no one else may use it, except for
 Creative Commons (CC) is a non-profit organization devoted to expanding the range of creative works available for others to build upon legally and to share.
 
 Creative Commons (CC) is less rigid than traditional copyright, in which all rights are reserved, using the expression “some rights reserved.”
-![Picture1](../../../../Media/Picture1.png)
+![[../../../../Media/Picture1.png]]
 ## Public Domain
 Public Domain are works that for one reason or another are not covered by copyright and are ordinarily free for all to use.
 - Type of work not protected under copyright or patent/trademark.

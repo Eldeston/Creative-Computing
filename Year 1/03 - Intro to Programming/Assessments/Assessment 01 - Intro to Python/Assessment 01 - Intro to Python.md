@@ -6,7 +6,9 @@ date: 2024-09-20
 teacher: Ms. Lavanya Mohan
 ---
 # Assessment 1 - Programming Skills Portfolio
-*[CodeLab1--A1-10-exercises-/Programming-Skills--Portfolio--Python-main/README.md at main · lavanand/CodeLab1--A1-10-exercises- (github.com)](https://github.com/lavanand/CodeLab1--A1-10-exercises-/blob/main/Programming-Skills--Portfolio--Python-main/README.md)* *Editor's Note: This file has been heavily formatted for the purpose of using Obsidian.md effectively for the sake of readability. The above is the original file.*
+*Editor's Note: This file has been heavily formatted for the purpose of using Obsidian.md effectively for the sake of readability. The above is the original file.*
+
+**Link:** *[CodeLab1--A1-10-exercises-/Programming-Skills--Portfolio--Python-main/README.md at main · lavanand/CodeLab1--A1-10-exercises-](https://github.com/lavanand/CodeLab1--A1-10-exercises-/blob/main/Programming-Skills--Portfolio--Python-main/README.md)*
 
 Your task is to develop solutions to a series of coding exercises that will test your knowledge of the fundamental programming techniques introduced through the course of the module. These exercises complement the content delivered in class each week and allow you to put into practice what you have learned.
 
@@ -29,7 +31,7 @@ Have you saved your exercises to the correct location and made appropriate use o
 with descriptive messages)
 ## Extended Learning - 65 marks (~20%)
 Independent study is a crucial element of university study and helps solidify and extend learning. Additional marks are available for the completion of the following online course:
-[Introduction to Python](https://www.sololearn.com/en/learn/courses/python-introduction)
+[Intro to Python](https://www.sololearn.com/en/learn/courses/python-introduction)
 ## Exercise 1: Coding is Cool- 10 Marks
 Fill in the blanks in the Python code below to output the phrase **"Coding is Cool"** to the console using variables and string concatenation.
 ### Fill in the blanks below
@@ -142,13 +144,13 @@ Write a program that tests if a value is even or odd. Follow the instructions ou
 
 _________________________________________________________________________________________
 # Assessments 01 : From 1-10
-- [exercise1](Exercise%2001.py)
-- [exercise2](Exercise%2002.py)
-- [exercise3](Exercise%2003.py)
-- [exercise4](Exercise%2004.py)
-- [exercise5](Exercise%2005.py)
-- [exercise6](Exercise%2006.py)
-- [exercise7](Exercise%2007.py)
-- [exercise8](Exercise%2008.py)
-- [exercise9](Exercise%2009.py)
-- [exercise10](Exercise%2010.py)
+- [[Exercise 01.py|exercise1]]
+- [[Exercise 02.py|exercise2]]
+- [[Exercise 03.py|exercise3]]
+- [[Exercise 04.py|exercise4]]
+- [[Exercise 05.py|exercise5]]
+- [[Exercise 06.py|exercise6]]
+- [[Exercise 07.py|exercise7]]
+- [[Exercise 08.py|exercise8]]
+- [[Exercise 09.py|exercise9]]
+- [[Exercise 10.py|exercise10]]

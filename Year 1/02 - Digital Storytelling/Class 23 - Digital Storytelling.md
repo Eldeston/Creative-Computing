@@ -1,13 +1,11 @@
 ---
 tags:
   - incomplete
-date: 2024-10-10
-teacher: Ms. Lavanya Mohan
+date: 2024-10-30
+teacher: Ms. Preeti Tyagi
 ---
-# Intro to Programming (Python) 5
-
-# Lists
-# Dictionaries
+# Digital Storytelling 8
+Something about videography.
 
 ----------------------------------------------------------------
 # Editor's Notes

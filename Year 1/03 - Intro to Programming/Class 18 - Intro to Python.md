@@ -4,7 +4,7 @@ tags:
 date: 2024-10-17
 teacher: Ms. Lavanya Mohan
 ---
-# Intro to Programming (Python) 6
+# Intro to Python 6
 # Loops
 ## While
 ## For

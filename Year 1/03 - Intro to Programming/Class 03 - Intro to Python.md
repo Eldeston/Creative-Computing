@@ -4,7 +4,7 @@ tags:
 date: 2024-09-12
 teacher: Ms. Lavanya Mohan
 ---
-# Introduction to Programming (Python) 1
+# Intro to Python 1
 # Programming Language
 A programming language is a formal set of instructions or code that humans use to communicate with computers
 # Unit Content
