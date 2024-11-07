@@ -32,10 +32,10 @@ teacher: Ms. Lavanya Mohan
 	- https://www.pythoncheatsheet.org/cheatsheet/basics
 	- [Sololearn: Learn to Code](https://www.sololearn.com/en/learn/courses/python-introduction)
 - Documents
-	- [Course Specification L4 Intro to Programming (Python)](Documents/Course%20Specification%20L4%20Intro%20to%20Python.pdf)
-	- [Lecture 1 - Intro to Programming (Python)](Documents/Lecture%201%20-%20Intro%20to%20Python.pptx)
-	- [Lecture 2 - Intro to Programming (Python)](Documents/Lecture%202%20-%20Intro%20to%20Python.pptx)
-	- [Lecture 3 - Intro to Programming (Python)](Documents/Lecture%203%20-%20Intro%20to%20Python.pptx)
+	- [Course Specification L4 Intro to Python](Documents/Course%20Specification%20L4%20Intro%20to%20Python.pdf)
+	- [Lecture 1 - Intro to Python](Documents/Lecture%201%20-%20Intro%20to%20Python.pptx)
+	- [Lecture 2 - Intro to Python](Documents/Lecture%202%20-%20Intro%20to%20Python.pptx)
+	- [Lecture 3 - Intro to Python](Documents/Lecture%203%20-%20Intro%20to%20Python.pptx)
 	- [Exercise 1 (program)](Activity/Activity%2001%20-%20Intro%20to%20Python/Exercise%201%20(program).docx)
 # Certificate
 **Certificate Link**

@@ -26,13 +26,14 @@ Query languages, used to store large amounts of data.
 - Oracle
 # DB Browser SQLite
 SQLite commands.
-1. insert
-2. update
-3. delete
-4. select
-
 ```SQLite
 select * from metaverse;
+
+insert into metaverse(name, age, city) values("Frem", 20, "Sharjah");
+
+update metaverse set name = "Maudric", age = 20, city = "Sharjah", where id = 1;
+
+delete from metaverse where id = 1;
 ```
 
 ----------------------------------------------------------------
