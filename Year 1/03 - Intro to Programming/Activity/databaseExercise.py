@@ -20,7 +20,7 @@ Welcome to Metaverse database, type "Exit," or enter the following commands:
 )
 
 while True :
-    userInput = input("Enter a digit")
+    userInput = input("Enter a digit: ")
 
     if userInput == "exit" :
         print("Goodbye and have a nice day!")
@@ -33,7 +33,7 @@ while True :
     if userInput == "2" :
         print("Insert data")
         name = input("Enter first name: ")
-        age = input("Enter age: ")
+        age = int(input("Enter age: "))
         city = input("Enter city: ")
         insertData(name, age, city)
         continue
