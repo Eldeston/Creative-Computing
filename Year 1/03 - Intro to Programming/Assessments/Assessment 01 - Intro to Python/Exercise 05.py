@@ -3,9 +3,6 @@
 # We gather here today to take refuge from exercise4.py which devastatingly took a lot of time.
 # We shall TAKE BACK WHAT IS OURS.
 
-# For sys.exit()
-import sys
-
 # Announce program.
 print(
     """
@@ -60,7 +57,7 @@ while True :
     # If the input is "exit," say goodbye and exit program.
     if "exit" == userInput :
         print("Goodbye and have a nice day!")
-        sys.exit()
+        quit()
 
     # Here is the core of the program. First check if it is a digit with isdigit().
     if userInput.isdigit() :

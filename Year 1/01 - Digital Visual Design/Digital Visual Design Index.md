@@ -17,6 +17,7 @@ teacher: Mr. Subhan Ali
 - [Class 19 - Digital Visual Design](Class%2019%20-%20Digital%20Visual%20Design.md)
 - [Class 22 - Digital Visual Design](Class%2022%20-%20Digital%20Visual%20Design.md)
 - [Class 25 - Digital Visual Design](Class%2025%20-%20Digital%20Visual%20Design.md)
+- [Class 28 - Digital Visual Design](Class%2028%20-%20Digital%20Visual%20Design.md)
 # Assessments
 - Figma Assignments - Unknown date
 # References

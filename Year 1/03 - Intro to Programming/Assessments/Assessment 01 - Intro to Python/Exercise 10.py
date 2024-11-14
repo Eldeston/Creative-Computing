@@ -1,8 +1,5 @@
 # -------- Exercise 10 --------
 
-# For sys.exit()
-import sys
-
 # Create a new function checking if the number is odd
 def isOdd(x) :
     # Convert input to integer
@@ -20,7 +17,7 @@ def main() :
         # The user input is first converted to lowercase then checks if it contains the string "exit"
         if userInput.lower() == "exit" :
             print("Goodbye and have a nice day!")
-            sys.exit()
+            quit()
 
         # Check if the input is not a digit
         if not userInput.isdigit() :

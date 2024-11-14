@@ -1,5 +1,3 @@
-import sys
-
 print(
     """
 ----------------------------------------------------------------
@@ -33,7 +31,7 @@ while True :
         userInput = input()
 
         if userInput.lower() == "exit" :
-            sys.exit()
+            quit()
 
         if userInput.lower() == "payment" :
             break
@@ -60,7 +58,7 @@ Choose an Item:
         )
 
         if userInput.lower() == "exit" :
-            sys.exit()
+            quit()
         
         if not userInput.isdigit() :
             print("Invalid input.")

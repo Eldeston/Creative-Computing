@@ -25,15 +25,26 @@ Query languages, used to store large amounts of data.
 - MySQL
 - Oracle
 # DB Browser SQLite
-SQLite commands.
+SQLite common commands.
 ```SQLite
 select * from metaverse;
 
 insert into metaverse(name, age, city) values("Frem", 20, "Sharjah");
 
-update metaverse set name = "Maudric", age = 20, city = "Sharjah", where id = 1;
+update metaverse set name = "Maudric", age = 20, city = "Sharjah" where id = 1;
 
 delete from metaverse where id = 1;
+```
+
+Integer - Can contain whole number values
+Text - Can contain strings
+Blob - Can contain media
+Real -  Can contain floating point values
+Numeric - Can contain either real or integer values
+
+This selects only the lists of names
+```SQLite
+SELECT name FROM metaverse;
 ```
 
 ----------------------------------------------------------------

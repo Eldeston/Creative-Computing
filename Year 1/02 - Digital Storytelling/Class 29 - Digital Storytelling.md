@@ -49,7 +49,9 @@ The word file cover sheet complete with all the requirements:
 
 ----------------------------------------------------------------
 # Editor's Notes
-
+- [Twine Cookbook](https://twinery.org/cookbook/index.html)
+- [SugarCube v2 Documentation](https://www.motoslave.net/sugarcube/2/docs/#introduction)
+# Script
 Once upon a time, a young boy named Jack lived with his family in a poor residence. One day, Jack's father decided that Jack should make a profit by selling their vegetables in the main city. So Jack took the vegetables and went his way to the main city riding the family mule. Jack arrived at the city and began putting his vegetables on sale. Unfortunately, Jack did not make profit from his sales, and was disappointed.
 
 Then, a mysterious man came to him and asked if he could acquire his mule. Jack refused to offer his mule with no price. The mysterious man offered 3 small beans and said it has certain magical properties. Jack easily bought his claim and thought he could make a fortune with these beans and accepted. He then traded the family mule for a measly 3 "magic" beans.

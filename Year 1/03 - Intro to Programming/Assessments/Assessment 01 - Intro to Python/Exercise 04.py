@@ -1,8 +1,5 @@
 # -------- Exercise 4 --------
 
-# For using sys.exit()
-import sys
-
 # Announce the game
 print("Let's play a game! You have 3 attempts. Your answers will be case sensitive.")
 
@@ -22,10 +19,10 @@ while attempt != 0 :
     # If user is wrong, take away 1 attempt. This line is ignored when break is used.
     attempt -= 1
 
-# Check if user has 0 attempts. Display game over message and exit Python with sys.exit().
+# Check if user has 0 attempts. Display game over message and exit Python with quit().
 if attempt == 0 :
     print("You lost all 3 attempts. \nGAME OVER! \nRun this program to try again!")
-    sys.exit()
+    quit()
 # If the user guessed correctly, display remaining attempts.
 else: print("Congratulations! You are correct! You guessed in", str(attempt), "attempt(s).")
 

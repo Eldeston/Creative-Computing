@@ -1,8 +1,5 @@
 # -------- Activity 12 --------
 
-# Used for sys.exit()
-import sys
-
 # Announce program
 print(
     """
@@ -28,7 +25,7 @@ while True :
     if userInput.lower() == "exit" :
         # Announce and exit program
         print("Goodbye and have a nice day!")
-        sys.exit()
+        quit()
 
     # Checks if the string does not contain a digit
     if not userInput.isdigit() :
@@ -45,7 +42,7 @@ while True :
     if userInputInt < ageRequirement :
         # Announce the user is not eligible for college admission and exit program
         print("You are not eligible for college admission.")
-        sys.exit()
+        quit()
     else :
         # Otherwise, announce the user is eligible and break the loop
         print("You are eligible for college admission.")
@@ -72,7 +69,7 @@ while True :
     if userInput.lower() == "exit" :
         # Announce and exit program
         print("Goodbye and have a nice day!")
-        sys.exit()
+        quit()
 
     # Checks if the string does not contain a digit
     if not userInput.isdigit() :
@@ -121,7 +118,7 @@ while True :
     if userInput.lower() == "exit" :
         # Announce and exit program
         print("Goodbye and have a nice day!")
-        sys.exit()
+        quit()
 
     # Checks if the string does not contain a digit
     if not userInput.isdigit() :
@@ -183,7 +180,7 @@ while True :
         if userInput.lower() == "exit" :
             # Announce and exit program
             print("Goodbye and have a nice day!")
-            sys.exit()
+            quit()
 
         # Checks if the string does not contain a digit
         if not userInput.isdigit() :

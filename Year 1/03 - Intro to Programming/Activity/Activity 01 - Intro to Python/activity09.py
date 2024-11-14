@@ -1,8 +1,5 @@
 # -------- Arithmetic Operator --------
 
-# For sys.exit()
-import sys
-
 # Announce program
 print("================================ \n\nArithmetic Operator v3.0 **Premium Edition** \nTo enter numerical mode, enter \"Numerical\" \nTo enter logical mode, enter \"Logic\" \nTo enter bitwise mode, enter \"Bitwise\" \nTo exit, enter \"Exit.\" \n\n================================")
 
@@ -34,7 +31,7 @@ while True :
         # If the input is "exit," say goodbye and exit program.
         if userInputs[i].lower() == "exit" :
             print("Goodbye and have a nice day!")
-            sys.exit()
+            quit()
         
         # If the input is "logic," set switch mode to 0 and announce and jump to the start of the loop.
         if userInputs[i].lower() == "numeric" :

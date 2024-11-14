@@ -1,8 +1,5 @@
 # -------- Exercise 8 --------
 
-# For sys.exit()
-import sys
-
 userList = ["Jake", "Zac", "Ian", "Ron", "Sam", "Dave"]
 
 # Announce program
@@ -30,7 +27,7 @@ while True :
     # If the input is "Exit," say goodbye and exit program.
     if userInput == "Exit" :
         print("Goodbye and have a nice day!")
-        sys.exit()
+        quit()
 
     # Check if user input is in the list
     if userInput in userList :

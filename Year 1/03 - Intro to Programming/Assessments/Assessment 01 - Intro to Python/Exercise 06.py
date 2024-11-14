@@ -3,9 +3,6 @@
 # With new knowledge of dictionaries, I have gained a far higher power
 # LET'S ACE THIS EXERCISE!
 
-# For sys.exit()
-import sys
-
 # Announce program.
 print(
     """
@@ -49,7 +46,7 @@ Current attempts: {currentAttempt}
 # If the current attempt equals attempt count, announce maximum attempts reached and close program
 if currentAttempt == attemptCount :
     print(attemptCount, "attempts has been reached. Closing program.")
-    sys.exit()
+    quit()
 # Otherwise, announce program welcome and continue with the program
 else :
     print(

@@ -16,6 +16,7 @@ teacher: Ms. Lavanya Mohan
 - [Class 21 - Intro to Python](Class%2021%20-%20Intro%20to%20Python.md)
 - Class 24 - Intro to Python postponed due to Fresher's Party
 - [Class 27 - Intro to Python](Class%2027%20-%20Intro%20to%20Python.md)
+- [Class 30 - Intro to Python](Class%2030%20-%20Intro%20to%20Python.md)
 # Activities
 - [activity06](Activity/Activity%2001%20-%20Intro%20to%20Python/activity06.py)
 - [activity09](Activity/Activity%2001%20-%20Intro%20to%20Python/activity09.py)
