@@ -2,7 +2,7 @@
 import sqlite3
 
 # Access database via variable
-sqliteDB = sqlite3.connect("metaverse.db")
+sqliteDB = sqlite3.connect("Year 1/03 - Intro to Programming/Activity/metaverse.db")
 
 # Announce program
 print(

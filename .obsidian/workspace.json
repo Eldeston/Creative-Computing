@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +205,13 @@
   },
   "active": "00c4d9a781ae6ce4",
   "lastOpenFiles": [
+    "Year 1/01 - Digital Visual Design/Class 25 - Digital Visual Design.md",
+    "Year 1/01 - Digital Visual Design/Class 28 - Digital Visual Design.md",
     "Year 1/01 - Digital Visual Design/Digital Visual Design Index.md",
+    "Year 1/01 - Digital Visual Design/Class 22 - Digital Visual Design.md",
+    "Year 1/01 - Digital Visual Design/Class 19 - Digital Visual Design.md",
+    "Year 1/01 - Digital Visual Design/Class 16 - Digital Visual Design.md",
+    "Year 1/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
     "Year 1/01 - Digital Visual Design/Digital Visual Design Portfolio.md",
     "Year 1/03 - Intro to Programming/Class 27 - Intro to Python.md",
     "Year 1/03 - Intro to Programming/Class 30 - Intro to Python.md",
@@ -212,7 +219,6 @@
     "Year 1/02 - Digital Storytelling/Digital Storytelling Index.md",
     "Year 1/03 - Intro to Programming/Assessments/vendingMachine.py",
     "Year 1/02 - Digital Storytelling/Class 29 - Digital Storytelling.md",
-    "Year 1/01 - Digital Visual Design/Class 28 - Digital Visual Design.md",
     "Year 1/02 - Digital Storytelling/Digital Storytelling Portfolio.md",
     "Year 1/03 - Intro to Programming/Intro to Python Portfolio.md",
     "Deprecated/Piracy in the Open Internet Seas (Deprecated).md",
@@ -221,12 +227,7 @@
     "Year 1/02 - Digital Storytelling/Documents/~$Lecture 1 - Digital Storytelling.pptx",
     "Year 1/02 - Digital Storytelling/Class 23 - Digital Storytelling.md",
     "Year 1/02 - Digital Storytelling/Class 20 - Digital Storytelling.md",
-    "Year 1/01 - Digital Visual Design/Class 25 - Digital Visual Design.md",
     "Year 1/01 - Digital Visual Design/Class 10 - Digital Visual Design.md",
-    "Year 1/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
-    "Year 1/01 - Digital Visual Design/Class 16 - Digital Visual Design.md",
-    "Year 1/01 - Digital Visual Design/Class 19 - Digital Visual Design.md",
-    "Year 1/01 - Digital Visual Design/Class 22 - Digital Visual Design.md",
     "Year 1/01 - Digital Visual Design/Class 07 - Digital Visual Design.md",
     "Year 1/01 - Digital Visual Design/Class 04 - Digital Visual Design.md",
     "Year 1/01 - Digital Visual Design/Class 01 - Digital Visual Design.md",
