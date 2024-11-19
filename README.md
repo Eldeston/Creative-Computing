@@ -43,6 +43,7 @@ Discontinued or scrapped ideas.
 # TO DO
 - Utilize tags
 - Utilize properties
+- Research CS50
 - Pool all main subjects to one folder
 - Make a consistent naming format for all files
 ## Internship
