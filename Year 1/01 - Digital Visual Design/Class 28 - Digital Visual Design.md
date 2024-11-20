@@ -1,6 +1,6 @@
 ---
 tags:
-  - incomplete
+  - complete
 date: 2024-11-12
 teacher: Mr. Subhan Ali
 ---

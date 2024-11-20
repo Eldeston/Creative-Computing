@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e95032d0db1ec40a",
+        "id": "a29cb433e8a27dcd",
         "type": "tabs",
         "children": [
           {
-            "id": "00c4d9a781ae6ce4",
+            "id": "355fe20a938ff4e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -203,12 +198,23 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "00c4d9a781ae6ce4",
+  "active": "355fe20a938ff4e2",
   "lastOpenFiles": [
-    "Year 1/03 - Intro to Programming/Class 30 - Intro to Python.md",
-    "Year 1/01 - Digital Visual Design/Class 28 - Digital Visual Design.md",
-    "Year 1/01 - Digital Visual Design/Class 25 - Digital Visual Design.md",
+    "Year 1/02 - Digital Storytelling/Digital Storytelling Index.md",
+    "Year 1/02 - Digital Storytelling/Class 32 - Digital Storytelling.md",
     "Year 1/01 - Digital Visual Design/Digital Visual Design Index.md",
+    "Year 1/01 - Digital Visual Design/Class 31 - Digital Visual Design.md",
+    "Year 1/01 - Digital Visual Design/Class 28 - Digital Visual Design.md",
+    "README.md",
+    "Year 1/02 - Digital Storytelling/Documents/Twine.pptx",
+    "Year 1/01 - Digital Visual Design/Documents/Lecture 7 - Digital Visual Design.pdf",
+    "Year 1/01 - Digital Visual Design/Documents/Lecture 6 - Digital Visual Design.pdf",
+    "Year 1/01 - Digital Visual Design/Documents/Lecture 5 - Digital Visual Design.pdf",
+    "Year 1/01 - Digital Visual Design/Documents/Lecture - 5  DVD  L4.pdf",
+    "Year 1/01 - Digital Visual Design/Documents/Lecture - 7  DVD  L4.pdf",
+    "Year 1/01 - Digital Visual Design/Documents/Lecture - 6  DVD  L4.pdf",
+    "Year 1/03 - Intro to Programming/Class 30 - Intro to Python.md",
+    "Year 1/01 - Digital Visual Design/Class 25 - Digital Visual Design.md",
     "Year 1/01 - Digital Visual Design/Class 22 - Digital Visual Design.md",
     "Year 1/01 - Digital Visual Design/Class 19 - Digital Visual Design.md",
     "Year 1/01 - Digital Visual Design/Class 16 - Digital Visual Design.md",
@@ -216,7 +222,6 @@
     "Year 1/01 - Digital Visual Design/Digital Visual Design Portfolio.md",
     "Year 1/03 - Intro to Programming/Class 27 - Intro to Python.md",
     "Year 1/03 - Intro to Programming/Intro to Python Index.md",
-    "Year 1/02 - Digital Storytelling/Digital Storytelling Index.md",
     "Year 1/03 - Intro to Programming/Assessments/vendingMachine.py",
     "Year 1/02 - Digital Storytelling/Class 29 - Digital Storytelling.md",
     "Year 1/02 - Digital Storytelling/Digital Storytelling Portfolio.md",
@@ -230,19 +235,9 @@
     "Year 1/01 - Digital Visual Design/Class 10 - Digital Visual Design.md",
     "Year 1/01 - Digital Visual Design/Class 07 - Digital Visual Design.md",
     "Year 1/01 - Digital Visual Design/Class 04 - Digital Visual Design.md",
-    "Year 1/01 - Digital Visual Design/Class 01 - Digital Visual Design.md",
-    "Year 1/02 - Digital Storytelling/Class 05 - Digital Storytelling.md",
-    "Year 1/02 - Digital Storytelling/Assessments/Assessment 01 - The Beginning of an Engineer's Journey.md",
     "Untitled.canvas",
     "metaverse.db",
-    "Year 1/03 - Intro to Programming/Activity/databaseExercise.py",
-    "Year 1/03 - Intro to Programming/Activity/metaverse.sqbpro",
-    "Year 1/03 - Intro to Programming/Activity/metaverse.db-journal",
-    "Year 1/03 - Intro to Programming/Activity/metaverse.db",
-    "Year 1/03 - Intro to Programming/Activity/Activity 01 - Intro to Python/~$ercise 1 (program).docx",
-    "Year 1/03 - Intro to Programming/Activity/Activity 01 - Intro to Python",
     "Media/flameRenderLogo.gif",
-    "Year 1/Classes/03 - Intro to Python/Assessments/Assessment 01 - Intro to Python/~$sessment Brief L4 Intro to Python.docx",
     "Year 1/03 - Intro to Programming/Documents/Solo Learn Python Certificate.jpg",
     "Year 1/Classes/03 - Intro to Programming (Python)/Documents/df876144-8b14-44ab-9705-862e04851891.jpg",
     "Media/Picture5.png",
