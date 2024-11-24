@@ -1,6 +1,6 @@
 ---
 tags:
-  - template
+  - incomplete
 date: 2024-11-20
 teacher: Ms. Preeti Tyagi
 ---
