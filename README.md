@@ -46,5 +46,7 @@ Discontinued or scrapped ideas.
 - Research CS50
 - Pool all main subjects to one folder
 - Make a consistent naming format for all files
-## Internship
-https://bathspa.ac.ae/internship-portal/
+# Important Links
+[Internship Portal - Bath Spa University RAK](https://bathspa.ac.ae/internship-portal/)
+[Metaverseage Learning Studio: Log in to the site](https://mls.metaverseage.ae/login/index.php)
+[Bring your goals into focus | edX](https://www.edx.org/)

@@ -25,6 +25,7 @@ teacher: Ms. Preeti Tyagi
 **Sites**
 - [Kurt Vonnegut on the 8 "shapes" of stories - Big Think](https://bigthink.com/high-culture/vonnegut-shapes/#rebelltitem3)
 - [Plan Your Digital Story | Digital Storytelling (umn.edu)](https://digitalstory.umn.edu/students/plan)
+- [SugarCube v2 Documentation](https://www.motoslave.net/sugarcube/2/docs/#introduction)
 
 **Videos**
 - [What makes a hero? - Matthew Winkler (youtube.com)](https://www.youtube.com/watch?v=Hhk4N9A0oCA)
