@@ -12,66 +12,68 @@ Type "exit" to close program.
     """
 )
 
-itemPrice = {
-    "Coca Cola" : "3",
-    "Pepsi" : "3",
-    "Water" : "1"
-}
+itemList = [
+    {
+        "Item Name" : "Coca Cola",
+        "Item Count" : 10,
+        "Item Price" : 3
+    },
 
-itemCount = {
-    "Coca Cola" : "5",
-    "Pepsi" : "5",
-    "Water" : "5"
-}
+    {
+        "Item Name" : "Pepsi",
+        "Item Count" : 10,
+        "Item Price" : 3
+    },
 
-itemId = {
-    "0" : "Coca Cola",
-    "1" : "Pepsi",
-    "2" : "Water"
-}
-
-amount = 0
-
-selections = [
-    ""
+    {
+        "Item Name" : "Water",
+        "Item Count" : 10,
+        "Item Price" : 1
+    }
 ]
 
+def displayItems() :
+    iterate = 0
+
+    for itemData in itemList :
+        print(f"ID: {iterate}, Item Data: {itemData}")
+
+        iterate += 1
+
+def getItemID(cart) :
+    while True :
+        userInput = input(
+            """
+Enter item ID to make your selection(s).
+Or type "Check out" to proceed to purchase or to skip this section.
+            """)
+        
+        if userInput.lower() == "check out" : return
+
+        if userInput.isdigit() : continue
+
+        cart.append(int(userInput))
+
+def getPurchase(cash) :
+    while True :
+        userInput = input(
+            """
+Enter cash amount.
+Or type "Check out" to proceed to purchase or to skip this section.
+            """)
+
+        if userInput.lower() == "check out" : return
+
+        if userInput.isdigit() : continue
+
+        cart.append(int(userInput))
+
 while True :
-    while True :
-        userInput = input(
-            """
-Please enter the id of your item. Type \"Purchase\" to proceed to purchase, or type \"Exit\" to exit program:
-            """
-        )
+    displayItems()
 
-        if userInput.lower() == "exit" :
-            quit()
-        
-        if userInput.lower() == "purchase" :
-            break
+    userCash = 0.0
+    userCart = []
 
-        if userInput in itemId.keys() :
-            currentSelection = itemId[userInput]
-            selections.append(currentSelection)
-            print(currentSelection, "added.")
-            continue
+    getItemID(userCart)
 
-        print("Invalid input.")
-    
-    while True :
-        userInput = input(
-            """
-Please enter current amount. Type \"Confirm\" to proceed to purchase, type \"reset\" to reset program, or type \"Exit\" to exit program:
-            """
-        )
-
-        if userInput.lower() == "exit" :
-            quit()
-        
-        if userInput.lower() == "reset" :
-            break
-        
-        if userInput.lower() == "confirm" :
-            break
-
-        print("Invalid input.")
+    getPurchase(userCash)
