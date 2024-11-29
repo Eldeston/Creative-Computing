@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"a10275fcbccc4a45","x":-320,"y":-380,"width":320,"height":80,"type":"text","text":"# Start"},
+		{"id":"502cb3f485dd6405","type":"text","text":"```python\nuserInput = input().lower\n```","x":-320,"y":-60,"width":320,"height":80},
+		{"id":"6be6540b8a72db1a","type":"text","text":"```python\nif userinput == \"exit\"\n```","x":-320,"y":100,"width":320,"height":80},
+		{"id":"712f9e1ea63a83a6","type":"text","text":"```python\nif userinput == \"purchase\"\n```","x":-320,"y":260,"width":320,"height":80},
+		{"id":"b1e464bef63c4c75","type":"text","text":"```python\nprint(\"Invalid input\")\n```","x":-320,"y":420,"width":320,"height":80},
+		{"id":"eabef68a8af4bdc4","type":"text","text":"# End","x":-320,"y":580,"width":320,"height":80},
+		{"id":"3f1bdb8b50d12416","type":"text","text":"```python\nwhile True:\n```","x":-320,"y":-220,"width":320,"height":80},
+		{"id":"55e0ed2e1434b6fe","x":160,"y":-380,"width":320,"height":80,"type":"text","text":"```python\ndiplayStock()\n```"},
+		{"id":"99f017f0cfd61018","type":"text","text":"```python\ninsertCash()\n```","x":160,"y":-220,"width":320,"height":80}
+	],
+	"edges":[
+		{"id":"a81c76dfde4aa15b","fromNode":"a10275fcbccc4a45","fromSide":"bottom","toNode":"3f1bdb8b50d12416","toSide":"top"},
+		{"id":"ddc872b3fdd6607d","fromNode":"3f1bdb8b50d12416","fromSide":"bottom","toNode":"502cb3f485dd6405","toSide":"top"},
+		{"id":"6771418b25c12663","fromNode":"502cb3f485dd6405","fromSide":"bottom","toNode":"6be6540b8a72db1a","toSide":"top"},
+		{"id":"c3e7e2446cc497fe","fromNode":"6be6540b8a72db1a","fromSide":"bottom","toNode":"712f9e1ea63a83a6","toSide":"top"},
+		{"id":"f856f6d7273f3abd","fromNode":"712f9e1ea63a83a6","fromSide":"bottom","toNode":"b1e464bef63c4c75","toSide":"top"},
+		{"id":"d21c4bc95be71bc4","fromNode":"b1e464bef63c4c75","fromSide":"bottom","toNode":"3f1bdb8b50d12416","toSide":"left"},
+		{"id":"75c94194d0957d85","fromNode":"6be6540b8a72db1a","fromSide":"right","toNode":"eabef68a8af4bdc4","toSide":"top"},
+		{"id":"81acf1ad079053df","fromNode":"712f9e1ea63a83a6","fromSide":"right","toNode":"55e0ed2e1434b6fe","toSide":"left"}
+	]
+}

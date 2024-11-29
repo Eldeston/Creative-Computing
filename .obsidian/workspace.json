@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a29cb433e8a27dcd",
+        "id": "d292367b33d9870f",
         "type": "tabs",
         "children": [
           {
-            "id": "355fe20a938ff4e2",
+            "id": "8ad7dc9d501a2cad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1/03 - Intro to Programming/Class 36 - Intro to Python.md",
+                "file": "Year 1/03 - Intro to Programming/Class 27 - Intro to Python.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class 36 - Intro to Python"
+              "title": "Class 27 - Intro to Python"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 638.5
   },
   "right": {
     "id": "30cd0d9ae5a340a6",
@@ -203,8 +203,19 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "355fe20a938ff4e2",
+  "active": "8ad7dc9d501a2cad",
   "lastOpenFiles": [
+    "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/vendingMachineStock.sqbpro",
+    "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/vendingMachineStock.db-journal",
+    "Year 1/03 - Intro to Programming/Class 30 - Intro to Python.md",
+    "Year 1/03 - Intro to Programming/Class 33 - Intro to Python.md",
+    "Year 1/03 - Intro to Programming/Class 27 - Intro to Python.md",
+    "Year 1/03 - Intro to Programming/Class 36 - Intro to Python.md",
+    "Year 1/03 - Intro to Programming/Assessments/Untitled.canvas",
+    "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/Untitled.canvas",
+    "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/vendingMachine.py",
+    "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python",
+    "Year 1/03 - Intro to Programming/Assessments/playground.py",
     "Year 1/03 - Intro to Programming/Activity/textFileData.txt",
     "Year 1/03 - Intro to Programming/Activity/textFileData.md",
     "Year 1/03 - Intro to Programming/Activity/programMAXXER.py",
@@ -213,15 +224,9 @@
     "Year 1/03 - Intro to Programming/Activity/areaOfCircle.py",
     "Year 1/03 - Intro to Programming/Assessments/fileHandling.py",
     "Year 1/03 - Intro to Programming/Assessments/textFileData.md",
-    "Year 1/03 - Intro to Programming/Assessments/exceptionHandling.py",
-    "Year 1/03 - Intro to Programming/Assessments/areaOfCircle.py",
     "Year 1/03 - Intro to Programming/Intro to Python Index.md",
-    "Year 1/03 - Intro to Programming/Class 36 - Intro to Python.md",
     "Year 1/01 - Digital Visual Design/Digital Visual Design Index.md",
     "Year 1/02 - Digital Storytelling/Digital Storytelling Index.md",
-    "Year 1/03 - Intro to Programming/Class 33 - Intro to Python.md",
-    "Year 1/03 - Intro to Programming/Class 30 - Intro to Python.md",
-    "Year 1/01 - Digital Visual Design/Documents/Lecture 7 - Digital Visual Design.pdf",
     "Year 1/02 - Digital Storytelling/Class 35 - Digital Storytelling.md",
     "Year 1/01 - Digital Visual Design/Class 34 - Digital Visual Design.md",
     "Year 1/02 - Digital Storytelling/Class 32 - Digital Storytelling.md",
@@ -230,14 +235,11 @@
     "README.md",
     "Year 1/01 - Digital Visual Design/Digital Visual Design Portfolio.md",
     "Year 1/01 - Digital Visual Design/Class 28 - Digital Visual Design.md",
-    "Year 1/02 - Digital Storytelling/Documents/Twine.pptx",
-    "Year 1/01 - Digital Visual Design/Documents/Lecture 6 - Digital Visual Design.pdf",
     "Year 1/01 - Digital Visual Design/Class 25 - Digital Visual Design.md",
     "Year 1/01 - Digital Visual Design/Class 22 - Digital Visual Design.md",
     "Year 1/01 - Digital Visual Design/Class 19 - Digital Visual Design.md",
     "Year 1/01 - Digital Visual Design/Class 16 - Digital Visual Design.md",
     "Year 1/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
-    "Year 1/03 - Intro to Programming/Class 27 - Intro to Python.md",
     "Year 1/02 - Digital Storytelling/Digital Storytelling Portfolio.md",
     "Year 1/03 - Intro to Programming/Intro to Python Portfolio.md",
     "Deprecated/Piracy in the Open Internet Seas (Deprecated).md",
