@@ -11,17 +11,15 @@
             "id": "8ad7dc9d501a2cad",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/Untitled.canvas",
-                "viewState": {
-                  "x": 107.80140618785828,
-                  "y": 200.6880039798726,
-                  "zoom": -0.8888888549804688
-                }
+                "file": "Year 1/02 - Digital Storytelling/Class 26 - Digital Storytelling.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Class 26 - Digital Storytelling"
             }
           },
           {
@@ -70,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:template",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,10 +217,23 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "8ad7dc9d501a2cad",
+  "active": "bef5fff3a2fde0a1",
   "lastOpenFiles": [
-    "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/flowchart.canvas",
+    "Year 1/02 - Digital Storytelling/Assessments/Assessment 02/Embers_[_YTBMP3.org_].mp3",
+    "Year 1/02 - Digital Storytelling/Assessments/Assessment 02/Untitled",
+    "Year 1/02 - Digital Storytelling/Assessments/Assessment 01",
+    "Year 1/02 - Digital Storytelling/Assessments/Assessment 02",
+    "Year 1/02 - Digital Storytelling/Class 29 - Digital Storytelling.md",
+    "Year 1/02 - Digital Storytelling/Class 32 - Digital Storytelling.md",
+    "Year 1/02 - Digital Storytelling/Class 35 - Digital Storytelling.md",
+    "Year 1/02 - Digital Storytelling/Class 38 - Digital Storytelling.md",
+    "Year 1/01 - Digital Visual Design/Class 34 - Digital Visual Design.md",
+    "Year 1/01 - Digital Visual Design/Class 31 - Digital Visual Design.md",
+    "Year 1/01 - Digital Visual Design/Digital Visual Design Index.md",
+    "Year 1/03 - Intro to Programming/Intro to Python Index.md",
+    "Year 1/01 - Digital Visual Design/Class 37 - Digital Visual Design.md",
     "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/Untitled.canvas",
+    "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/flowchart.canvas",
     "Year 1/03 - Intro to Programming/Class 36 - Intro to Python.md",
     "Year 1/03 - Intro to Programming/Class 27 - Intro to Python.md",
     "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/vendingMachineStock.sqbpro",
@@ -237,18 +247,8 @@
     "Year 1/03 - Intro to Programming/Activity/textFileData.txt",
     "Year 1/03 - Intro to Programming/Activity/textFileData.md",
     "Year 1/03 - Intro to Programming/Activity/programMAXXER.py",
-    "Year 1/03 - Intro to Programming/Activity/fileHandling.py",
-    "Year 1/03 - Intro to Programming/Activity/exceptionHandling.py",
-    "Year 1/03 - Intro to Programming/Activity/areaOfCircle.py",
     "Year 1/03 - Intro to Programming/Assessments/textFileData.md",
-    "Year 1/03 - Intro to Programming/Intro to Python Index.md",
-    "Year 1/01 - Digital Visual Design/Digital Visual Design Index.md",
     "Year 1/02 - Digital Storytelling/Digital Storytelling Index.md",
-    "Year 1/02 - Digital Storytelling/Class 35 - Digital Storytelling.md",
-    "Year 1/01 - Digital Visual Design/Class 34 - Digital Visual Design.md",
-    "Year 1/02 - Digital Storytelling/Class 32 - Digital Storytelling.md",
-    "Year 1/02 - Digital Storytelling/Class 29 - Digital Storytelling.md",
-    "Year 1/01 - Digital Visual Design/Class 31 - Digital Visual Design.md",
     "README.md",
     "Year 1/01 - Digital Visual Design/Digital Visual Design Portfolio.md",
     "Year 1/01 - Digital Visual Design/Class 28 - Digital Visual Design.md",
@@ -258,8 +258,6 @@
     "Year 1/01 - Digital Visual Design/Class 16 - Digital Visual Design.md",
     "Year 1/01 - Digital Visual Design/Class 13 - Digital Visual Design.md",
     "Year 1/02 - Digital Storytelling/Digital Storytelling Portfolio.md",
-    "Year 1/03 - Intro to Programming/Intro to Python Portfolio.md",
-    "Deprecated/Piracy in the Open Internet Seas (Deprecated).md",
     "Untitled.canvas",
     "Media/flameRenderLogo.gif",
     "Year 1/03 - Intro to Programming/Documents/Solo Learn Python Certificate.jpg",

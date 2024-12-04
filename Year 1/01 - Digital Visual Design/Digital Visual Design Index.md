@@ -20,6 +20,7 @@ teacher: Mr. Subhan Ali
 - [Class 28 - Digital Visual Design](Class%2028%20-%20Digital%20Visual%20Design.md)
 - [Class 31 - Digital Visual Design](Class%2031%20-%20Digital%20Visual%20Design.md)
 - [Class 34 - Digital Visual Design](Class%2034%20-%20Digital%20Visual%20Design.md)
+- Class 37 - Digital Visual Design (postponed due to International Day)
 # Assessments
 - Figma Assignments - Unknown date
 # References

@@ -1,11 +1,11 @@
 ---
 tags:
   - incomplete
-date: 2024-11-20
+date: 2024-12-04
 teacher: Ms. Preeti Tyagi
 ---
-# Digital Storytelling 11
-Twine
+# Digital Storytelling 13
+stop motion, yay
 
 ----------------------------------------------------------------
 # Editor's Notes
