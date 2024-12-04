@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/flowchart.canvas",
+                "file": "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/Untitled.canvas",
                 "viewState": {
-                  "x": 316.48268625393496,
-                  "y": 147.20251836306403,
-                  "zoom": -0.26353893286844754
+                  "x": 107.80140618785828,
+                  "y": 200.6880039798726,
+                  "zoom": -0.8888888549804688
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "flowchart"
+              "title": "Untitled"
             }
           },
           {
@@ -39,8 +39,7 @@
               "title": "Class 36 - Intro to Python"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,15 +220,16 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "30d84918472ead1e",
+  "active": "8ad7dc9d501a2cad",
   "lastOpenFiles": [
     "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/flowchart.canvas",
+    "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/Untitled.canvas",
+    "Year 1/03 - Intro to Programming/Class 36 - Intro to Python.md",
     "Year 1/03 - Intro to Programming/Class 27 - Intro to Python.md",
     "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/vendingMachineStock.sqbpro",
     "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/vendingMachineStock.db-journal",
     "Year 1/03 - Intro to Programming/Class 30 - Intro to Python.md",
     "Year 1/03 - Intro to Programming/Class 33 - Intro to Python.md",
-    "Year 1/03 - Intro to Programming/Class 36 - Intro to Python.md",
     "Year 1/03 - Intro to Programming/Assessments/Untitled.canvas",
     "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/vendingMachine.py",
     "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python",

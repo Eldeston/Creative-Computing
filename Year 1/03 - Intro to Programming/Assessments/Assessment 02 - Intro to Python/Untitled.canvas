@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"a25949c58d4ca5ef","type":"text","text":"# Start Of Program","x":-400,"y":-520,"width":360,"height":80},
+		{"id":"b9f112eb33d2cb06","type":"text","text":"# User Input","x":-400,"y":-200,"width":360,"height":80},
+		{"id":"712d7c676b477b16","type":"text","text":"# While True","x":-400,"y":-360,"width":360,"height":80},
+		{"id":"62fb19b3d67b2f8f","type":"text","text":"# Input Is Exit","x":-400,"y":-40,"width":360,"height":80},
+		{"id":"e2bfa5029d9d382b","type":"text","text":"# Input Is Insert","x":-400,"y":120,"width":360,"height":80},
+		{"id":"78d746df677a0b5a","type":"text","text":"# Input Is Purchase","x":-400,"y":280,"width":360,"height":80},
+		{"id":"ed4b580ac59d8284","type":"text","text":"# Invalid Input","x":-400,"y":440,"width":360,"height":80},
+		{"id":"98a29b7c7e0d9330","type":"text","text":"# Beginning Of Function","x":160,"y":-520,"width":360,"height":80},
+		{"id":"0d408149c2b5bea6","type":"text","text":"# User Input","x":160,"y":-360,"width":360,"height":80},
+		{"id":"679c0027a6a20e6c","type":"text","text":"# Input Is Not Digit","x":160,"y":-200,"width":360,"height":80},
+		{"id":"55e51fcd6eacce0f","type":"text","text":"# Action Input Cash","x":160,"y":-40,"width":360,"height":80},
+		{"id":"e6aa8df5857623f5","type":"text","text":"# End Of Loop","x":-400,"y":600,"width":360,"height":80},
+		{"id":"a8860f0703500715","type":"text","text":"# End Of Program","x":-400,"y":760,"width":360,"height":80},
+		{"id":"0360251c78559d3f","type":"text","text":"# End Of Function","x":160,"y":120,"width":360,"height":80}
+	],
+	"edges":[
+		{"id":"da98fa63b4ea1d0d","fromNode":"a25949c58d4ca5ef","fromSide":"bottom","toNode":"712d7c676b477b16","toSide":"top"},
+		{"id":"ded71127663c217e","fromNode":"712d7c676b477b16","fromSide":"bottom","toNode":"b9f112eb33d2cb06","toSide":"top"},
+		{"id":"32b70a9870634f2e","fromNode":"e2bfa5029d9d382b","fromSide":"bottom","toNode":"78d746df677a0b5a","toSide":"top"},
+		{"id":"ecf3d5b202c9c985","fromNode":"78d746df677a0b5a","fromSide":"bottom","toNode":"ed4b580ac59d8284","toSide":"top"},
+		{"id":"e29a75ea78397e82","fromNode":"b9f112eb33d2cb06","fromSide":"bottom","toNode":"62fb19b3d67b2f8f","toSide":"top"},
+		{"id":"d5cb1ed5ed34fca5","fromNode":"62fb19b3d67b2f8f","fromSide":"bottom","toNode":"e2bfa5029d9d382b","toSide":"top"},
+		{"id":"0bebb4290b889eb0","fromNode":"e2bfa5029d9d382b","fromSide":"right","toNode":"98a29b7c7e0d9330","toSide":"left"},
+		{"id":"ade984db4b1b0675","fromNode":"62fb19b3d67b2f8f","fromSide":"right","toNode":"a8860f0703500715","toSide":"right"},
+		{"id":"2786ce8e4a70811c","fromNode":"98a29b7c7e0d9330","fromSide":"bottom","toNode":"0d408149c2b5bea6","toSide":"top"},
+		{"id":"f10b563564e1e89c","fromNode":"0d408149c2b5bea6","fromSide":"bottom","toNode":"679c0027a6a20e6c","toSide":"top"},
+		{"id":"cd177e39eec8f3d6","fromNode":"679c0027a6a20e6c","fromSide":"left","toNode":"e2bfa5029d9d382b","toSide":"right"},
+		{"id":"7430764217d26fba","fromNode":"679c0027a6a20e6c","fromSide":"bottom","toNode":"55e51fcd6eacce0f","toSide":"top"},
+		{"id":"51bcef76e719ec54","fromNode":"ed4b580ac59d8284","fromSide":"bottom","toNode":"e6aa8df5857623f5","toSide":"top"},
+		{"id":"1ba48d4018254716","fromNode":"e6aa8df5857623f5","fromSide":"left","toNode":"712d7c676b477b16","toSide":"left"},
+		{"id":"511db72945d51b5b","fromNode":"55e51fcd6eacce0f","fromSide":"bottom","toNode":"0360251c78559d3f","toSide":"top"},
+		{"id":"580a4a46e47970e0","fromNode":"0360251c78559d3f","fromSide":"bottom","toNode":"e2bfa5029d9d382b","toSide":"right"}
+	]
+}

@@ -513,7 +513,7 @@ Receipt history: {len(userReceipt)}
         # Announce program exit
         print("\nGoodbye and have a nice day!")
         # Announce ejecting cash
-        loadingAnimation(f"\nEjecting {userCash}...", shortDuration)
+        loadingAnimation(f"\nEjecting AED {userCash}...", shortDuration)
         # Wait for a small duration
         loadingAnimation("\nExiting interface...", shortDuration)
         # Exit program
