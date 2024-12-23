@@ -18,10 +18,18 @@ userCash = 0.0
 # Declare store cash
 machineProfit = 0.0
 
+# Declare authors for logging
+user = "User"
+admin = "Admin"
+system = "System"
+
+# Declare password (case sensitive)
+password = "nahIdWin"
+
 # Declare user reciept
 userReceipt = []
 # Declare receipt history
-machineHistory = []
+systemLog = []
 
 # Declare item stock
 itemStock = [
@@ -58,7 +66,7 @@ itemStock = [
 def clearConsole() :
     # If display console is enabled
     if displayConsole : return
-    # Check if the OS is Linux and use "clear instead"
+    # Check if the OS is Linux and use "clear" instead
     os.system("cls" if os.name == "nt" else "clear")
 
 # Text animation function
@@ -119,29 +127,45 @@ def inputToFloat(prompt = "") :
 def inputLower(prompt = "") :
     return input(prompt).lower()
 
+# ---------------------------------------------------------------- # Debug Functions # ---------------------------------------------------------------- #
+
+# Log system action function
+def logAction(author = system, log = "Logged action") :
+    # Access systemLog as a global variable
+    global systemLog
+
+    # Log action as list to system log
+    systemLog += [author + ": " + log]
+
 # ---------------------------------------------------------------- # Admin Functions # ---------------------------------------------------------------- #
 
 # Withdraw profit function
-def withdrawProfit() :
+def withdrawInterface() :
     # Access machineProfit as a global variable
     global machineProfit
 
-    # Announce withdrawal
-    loadingAnimation(f"Withdrawing AED {machineProfit}...")
+    # Log action as Admin
+    logAction(admin, "Withdrawing profits.")
 
-    # Set profit to 0.0
+    # Announce withdrawal
+    loadingAnimation(f"\nWithdrawing AED {machineProfit}...")
+
+    # Set profit to 0.0 (because obviously this is just a program and we can't really emulate ejecting cash)
     machineProfit = 0.0
 
     # Announce stock successfuly added
     print("\nProfits successfully withdrawn.")
 
-# Add stock
-def addStock() :
+# Add stock interface
+def addInterface() :
     # Access itemStock as a global variable
     global itemStock
 
+    # Log action as Admin
+    logAction(admin, "Adding stock.")
+
     # Enter item name
-    userItemName = input("Enter item name: ")
+    userItemName = input("\nEnter item name: ")
 
     # Enter item stock
     userItemStock = inputToInteger("\nEnter item stock: ")
@@ -162,9 +186,12 @@ def addStock() :
     print("\nStock successfuly added.")
 
 # Remove stock
-def removeStock() :
+def removeInterface() :
     # Access itemStock as a global variable
     global itemStock
+
+    # Log action as Admin
+    logAction(admin, "Removing stock.")
 
     # Enter item index
     itemIndex = inputToInteger("\nEnter item stock: ")
@@ -175,34 +202,65 @@ def removeStock() :
     # Announce stock successfuly added
     print("\nStock successfuly removed.")
 
-# Machine history function
-def viewHistory() :
-    # Access machineHistory as a global variable
-    global machineHistory
+# Password interface function
+def passwordInterface() :
+    # Access password as a global variable
+    global password
 
-    # Get machineHistory length
-    receiptLength = len(machineHistory)
+    # Log action as Admin
+    logAction(admin, "Changing password.")
 
-    # Check if recentReceipt is empty
-    if receiptLength == 0 :
-        # Announce recentReceipt is empty
-        print("History is empty.")
+    # Enter old password
+    userInput = input("\nEnter old password (case sensitive): ")
+
+    # If password is incorrect
+    if not userInput == password :
+        # Announce incorrect password
+        print("\nIncorrect password.")
         # Exit function
         return
-    
+
+    # Enter new password
+    password = input("\nEnter new password (case sensitive): ")
+
+    # Announce password successfuly changes
+    print("\nPassword successfuly changed.")
+
+# Logs interface function
+def logsInterface() :
+    # Access systemLog as a global variable
+    global systemLog
+
+    # Log action as Admin
+    logAction(admin, "Viewing history.")
+
+    # Get systemLog length
+    logLength = len(systemLog)
+
+    # Check if systemLog is empty
+    if logLength == 0 :
+        # Announce systemLog is empty
+        print("\nLog is empty.")
+        # Exit function
+        return
+
+    # Print new line for interface formatting sake,
+    # print() by default prints a newline if the parameters are empty
+    print()
+
     # This makes sure the loading bar will stop at a specified duration
     # timeStep / timeLength = 1 / iterations
     # timeStep = timeLength / iterations
-    timeStep = shortDuration / receiptLength
-    
-    # Show machineHistory in a loop
-    for index in range(receiptLength) :
-        print(machineHistory[index])
+    timeStep = shortDuration / logLength
+
+    # Show systemLog in a loop
+    for index in range(logLength) :
+        print(systemLog[index])
         # Wait until specified duration
         time.sleep(timeStep)
-    
+
     # Ask user to enter to continue
-    textAnimation("\nPress enter to continue...")
+    textAnimation("\nPress enter key to continue...")
     # This is for responding to prompt
     input()
 
@@ -210,9 +268,16 @@ def viewHistory() :
 
 # Admin interface function
 def adminInterface() :
-    # Access machineHistory as a global variable
-    global machineHistory
+    # Access machineProfit as a global variable
+    global machineProfit
 
+    # Access systemLog as a global variable
+    global systemLog
+
+    # Log action as Admin
+    logAction(admin, "Interface accessed.")
+
+    # Run under an infnite loop until interface exit
     while True :
         # Clear current console
         clearConsole()
@@ -226,10 +291,10 @@ def adminInterface() :
  / ___ / /_/ / / / / / / / / / /  _/ // / / / /_/  __/ /  / __/ /_/ / /__/  __/
 /_/  |_\__,_/_/ /_/ /_/_/_/ /_/  /___/_/ /_/\__/\___/_/  /_/  \__,_/\___/\___/ 
 
-----------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
 
 Machine profits: AED {machineProfit}
-Machine history: {len(machineHistory)}
+Machine history: {len(systemLog)}
             """
             )
 
@@ -237,7 +302,7 @@ Machine history: {len(machineHistory)}
         displayStock()
 
         # Display available user options and ask user for input
-        textAnimation("\nType \"Withdraw\" to withdraw profits, \"Add\" to add new stock, \"Remove\" to remove stock, \"History\" to view history, or \"Exit\" to exit interface.\n")
+        textAnimation("\nType \"Withdraw\" to withdraw profits, \"Add\" to add new stock, \"Remove\" to remove stock, \"Logs\" to view logs, or \"Exit\" to exit interface.\n")
 
         # Set output string to all lowercase allowing for all selections will be case insensitive
         userInput = inputLower()
@@ -245,11 +310,9 @@ Machine history: {len(machineHistory)}
         # Check if user types "withdraw"
         if userInput == "withdraw" :
             # Announce withdrawing profits
-            print("Withdrawing profits...\n")
-            # Record withdrawing profits
-            machineHistory += ["Admin: withdrawing profits."]
-            # Withdraw profit
-            withdrawProfit()
+            print("\nWithdrawing profits...")
+            # Enter withdraw interface
+            withdrawInterface()
             # Wait for a small duration
             loadingAnimation("\nLoading interface...", shortDuration)
             # Reset loop
@@ -258,11 +321,9 @@ Machine history: {len(machineHistory)}
         # Check if user types "add"
         if userInput == "add" :
             # Announce adding stock
-            print("Adding stock...\n")
-            # Record adding stock
-            machineHistory += ["Admin: adding stock."]
-            # Add stock
-            addStock()
+            print("\nAdding stock...")
+            # Enter add interface
+            addInterface()
             # Wait for a small duration
             loadingAnimation("\nLoading interface...", shortDuration)
             # Reset loop
@@ -271,54 +332,54 @@ Machine history: {len(machineHistory)}
         # Check if user types "remove"
         if userInput == "remove" :
             # Announce removing stock
-            print("Removing stock...\n")
-            # Record adding stock
-            machineHistory += ["Admin: removing stock."]
-            # Remove stock
-            removeStock()
+            print("\nRemoving stock...")
+            # Enter remove interface
+            removeInterface()
             # Wait for a small duration
             loadingAnimation("\nLoading interface...", shortDuration)
             # Reset loop
             continue
-    
-        # Check if user types "history"
-        if userInput == "history" :
-            # Announce viewing history
-            print("Viewing history...\n")
-            # Record viewing history
-            machineHistory += ["Admin: viewing history."]
-            # View history
-            viewHistory()
+
+        # Check if user types "password"
+        if userInput == "password" :
+            # Announce changing password
+            print("\nChanging password...")
+            # Enter password interface
+            passwordInterface()
             # Wait for a small duration
             loadingAnimation("\nLoading interface...", shortDuration)
+            # Reset loop
+            continue
+
+        # Check if user types "history"
+        if userInput == "logs" :
+            # Announce viewing history
+            print("\nViewing logs...")
+            # Enter history interface
+            logsInterface()
             # Reset loop
             continue
 
         # Check if user types "exit"
         if userInput == "exit" :
             # Announce exiting interface
-            print("Exiting interface...")
-            # Record exiting interface
-            machineHistory += ["Admin: exiting interface."]
+            print("\nExiting interface...")
             # Exit function
             return
 
-# Admin mode function
+# Admin access function
 def adminAccess() :
-    # Access machineHistory as a global variable
-    global machineHistory
-
     # Case sensitive input
-    userInput = input("Enter password: ")
+    userInput = input("\nEnter password (case sensitive): ")
 
     # Check if password is correct
-    if userInput == "nahIdWin" :
+    if userInput == password :
         # Announce access grants
         print("\nAccess granted.")
-        # Record admin access
-        machineHistory += ["Admin interface accessed."]
         # Enter admin interface
         adminInterface()
+        # Log action as Admin
+        logAction(admin, "Exiting interface.")
         # Exit function
         return
     
@@ -330,7 +391,7 @@ def adminAccess() :
 # Display stock function
 def displayStock() :
     # Display top header
-    print("----------------------------------------------------------------\n")
+    print("--------------------------------------------------------------------------------------------------------------------------------\n")
  
     # Display current stock using a loop
     for index, properties in enumerate(itemStock) :
@@ -340,31 +401,38 @@ def displayStock() :
         time.sleep(0.0625)
 
     # Display bottom header
-    print("\n----------------------------------------------------------------")
+    print("\n--------------------------------------------------------------------------------------------------------------------------------")
 
-# Insert cash function
-def insertCash() :
+# Deposit interface function
+def depositInterface() :
     # Access userCash as a global variable
     global userCash
+
     # Access userReceipt as a global variable
     global userReceipt
 
+    # Log action as User
+    logAction(user, "Depositing cash.")
+
     # Ask user cash input
-    userInput = inputToFloat("Enter cash:\n")
+    userInput = inputToFloat("\nEnter cash: ")
 
     # Insert cash
     userCash += userInput
 
     # Make a recent receipt
-    recentReceipt = f"Inserted AED {userInput}."
+    recentReceipt = f"Deposited AED {userInput}."
     # Record recent receipt as list
     userReceipt += [recentReceipt]
 
-    # Announce amount inserted
-    print(recentReceipt)
+    # Log action as User
+    logAction(user, recentReceipt)
 
-# Purchase stock function
-def purchaseStock() :
+    # Announce amount deposited
+    print("\n" + recentReceipt)
+
+# Purchase interface function
+def purchaseInterface() :
     # Access userCash as a global variable
     global userCash
     # Access machineProfit as a global variable
@@ -372,62 +440,77 @@ def purchaseStock() :
 
     # Access userReceipt as a global variable
     global userReceipt
-    # Access machineHistory as a global variable
-    global machineHistory
 
-    # Ask user item ID input
-    itemID = inputToInteger("Enter item ID: ")
+    # Log action as User
+    logAction(user, "Purchasing items.")
 
-    # Check if item ID does not exists
-    if itemID not in range(len(itemStock)) :
-        # Announce item ID does not exist
-        print("\nItem ID does not exist.")
-        # Exit function
-        return
+    # Run under an infnite loop until interface exit
+    while True :
+        # Ask user item ID input
+        itemID = inputToInteger("\nEnter item ID: ")
 
-    # Ask user stock amount
-    stock = inputToInteger("\nEnter item amount: ")
+        # Check if item ID does not exists
+        if itemID not in range(len(itemStock)) :
+            # Announce item ID does not exist
+            print("\nItem ID does not exist.")
+            # Reset loop
+            continue
 
-    # Check if item stock is insufficient
-    if itemStock[itemID]["Stock"] < stock :
-        # Announce insufficient item stock
-        print("\nInsufficient item stock.")
-        # Exit function
-        return
+        # Ask user stock amount
+        stock = inputToInteger("\nEnter item amount: ")
 
-    # Calculate total price by multiplying item price and stock
-    totalPrice = itemStock[itemID]["Price"] * stock
+        # Check if item stock is insufficient
+        if itemStock[itemID]["Stock"] < stock :
+            # Announce insufficient item stock
+            print("\nInsufficient item stock.")
+            # Reset loop
+            continue
 
-    # Check if the user has insufficient funds.
-    if totalPrice > userCash :
-        # Announce insufficient cash
-        print("\nInsufficient cash.")
-        # Exit function
-        return
+        # Calculate total price by multiplying item price and stock
+        totalPrice = itemStock[itemID]["Price"] * stock
 
-    # If all checks are valid, subtract current cash by total price
-    userCash -= totalPrice
-    # Add total price to storePrice
-    machineProfit += totalPrice
+        # Check if the user has insufficient funds.
+        if totalPrice > userCash :
+            # Announce insufficient cash
+            print("\nInsufficient cash.")
+            # Reset loop
+            continue
 
-    # Subtract current stock by stock requested
-    itemStock[itemID]["Stock"] -= stock
+        # If all checks are valid, subtract current cash by total price
+        userCash -= totalPrice
+        # Add total price to storePrice
+        machineProfit += totalPrice
 
-    # Make a recent receipt
-    recentReceipt = f"Purchased {stock} {itemStock[itemID]["Name"]} for AED {totalPrice}."
+        # Subtract current stock by stock requested
+        itemStock[itemID]["Stock"] -= stock
 
-    # Record recent receipt as list
-    userReceipt += [recentReceipt]
-    # Record recent receipt for history
-    machineHistory += [recentReceipt]
+        # Make a recent receipt
+        recentReceipt = f"Purchased {stock} {itemStock[itemID]["Name"]} for AED {totalPrice}."
 
-    # Announce recent receipt
-    print("\n" + recentReceipt)
+        # Record recent receipt as list
+        userReceipt += [recentReceipt]
 
-# Show receipt function
-def showReceipt() :
+        # Log action as User
+        logAction(user, recentReceipt)
+
+        # Announce recent receipt
+        print("\n" + recentReceipt)
+
+        # Ask if user wants to continue or press enter key to exit interface
+        userInput = inputLower("\nType \"Continue\" to continue making purchases or press enter key to exit interface...")
+
+        # Check if user types anything but continue
+        if not userInput == "continue" :
+            # Exit function
+            return
+
+# Receipt interface function
+def receiptInterface() :
     # Access userReceipt as a global variable
     global userReceipt
+
+    # Log action as User
+    logAction(user, "Viewing receipt.")
 
     # Get userReceipt length
     receiptLength = len(userReceipt)
@@ -435,9 +518,13 @@ def showReceipt() :
     # Check if recentReceipt is empty
     if receiptLength == 0 :
         # Announce recentReceipt is empty
-        print("Receipt is empty.")
+        print("\nReceipt is empty.")
         # Exit function
         return
+    
+    # Print new line for interface formatting sake,
+    # print() by default prints a newline if the parameters are empty
+    print()
 
     # This makes sure the loading bar will stop at a specified duration
     # timeStep / timeLength = 1 / iterations
@@ -451,13 +538,23 @@ def showReceipt() :
         time.sleep(timeStep)
     
     # Ask user to enter to continue
-    input("\nPress enter to continue...")
+    loadingAnimation("\nPress enter key to continue...")
     # This is for responding to prompt
     input()
 
 # ---------------------------------------------------------------- # Vending Machine Interface # ---------------------------------------------------------------- #
 
+# User interface function (otherwise known as the core of the program)
 def userInterface() :
+    # Access userCash as a global variable
+    global userCash
+
+    # Access userReceipt as a global variable
+    global userReceipt
+
+    # Log action as User
+    logAction(user, "Interface accessed.")
+
     # Run under an infnite loop until program exit
     while True :
         # Clear current console
@@ -466,14 +563,13 @@ def userInterface() :
         # Display user interface
         print(
             f"""
-
     __  ___      _          ____      __            ____              
    /  |/  /___ _(_)___     /  _/___  / /____  _____/ __/___ _________ 
   / /|_/ / __ `/ / __ \    / // __ \/ __/ _ \/ ___/ /_/ __ `/ ___/ _ \\
  / /  / / /_/ / / / / /  _/ // / / / /_/  __/ /  / __/ /_/ / /__/  __/
 /_/  /_/\__,_/_/_/ /_/  /___/_/ /_/\__/\___/_/  /_/  \__,_/\___/\___/ 
 
-----------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
 
 Current cash: AED {userCash}
 Receipt history: {len(userReceipt)}
@@ -484,17 +580,17 @@ Receipt history: {len(userReceipt)}
         displayStock()
 
         # Display available user options and ask user for input
-        textAnimation("\nType \"Insert\" to insert cash, \"Purchase\" to purchase items, \"Receipt\" to open receipt, or \"Exit\" to exit machine.\n")
+        textAnimation("\nType \"Deposit\" to deposit cash, \"Purchase\" to purchase items, \"Receipt\" to open receipt, or \"Exit\" to exit machine.\n")
 
         # Set output string to all lowercase allowing for all selections will be case insensitive
         userInput = inputLower()
 
-        # Check if user types "Insert"
-        if userInput == "insert" :
-            # Announce inserting cash
-            print("\nInserting cash...\n")
-            # Insert cash
-            insertCash()
+        # Check if user types "Deposit"
+        if userInput == "deposit" :
+            # Announce depositing cash
+            print("\nDepositing cash...")
+            # Enter deposit interface
+            depositInterface()
             # Wait for a small duration
             loadingAnimation("\nLoading interface...", shortDuration)
             # Reset loop
@@ -503,9 +599,9 @@ Receipt history: {len(userReceipt)}
         # Check if user types "Purchase"
         if userInput == "purchase" :
             # Announce purchasing items
-            print("\nPurchasing items...\n")
-            # Purchase stock
-            purchaseStock()
+            print("\nPurchasing items...")
+            # Enter purchase interface
+            purchaseInterface()
             # Wait for a small duration
             loadingAnimation("\nLoading interface...", shortDuration)
             # Reset loop
@@ -514,17 +610,17 @@ Receipt history: {len(userReceipt)}
         # Check if user types "Receipt"
         if userInput == "receipt" :
             # Announce opening reciept
-            print("\nOpening receipt...\n")
-            # Open reciept
-            showReceipt()
+            print("\nOpening receipt...")
+            # Enter reciept interface
+            receiptInterface()
             # Reset loop
             continue
 
-        # Check if user types "Admin"
-        if userInput == "admin" :
-            # Announce admin enabled
-            print("\nAdmin enabled...\n")
-            # Admin access
+        # Check if user types admin
+        if userInput == admin :
+            # Announce accessing admin
+            print("\nAccessing admin...")
+            # Enter admin access
             adminAccess()
             # Wait for a small duration
             loadingAnimation("\nLoading interface...", shortDuration)
@@ -539,15 +635,18 @@ Receipt history: {len(userReceipt)}
             loadingAnimation(f"\nEjecting AED {userCash}...", shortDuration)
             # Wait for a small duration
             loadingAnimation("\nExiting interface...", shortDuration)
-            # Exit program
-            quit()
+            # Exit function, usually I'd use quit() to exit program immediately but this is for the sake logging user actions
+            return
         
         # If for some reason all inputs are not one of the above, announce invalid input
         print("\nInvalid input.")
         # Wait for a small duration
         loadingAnimation("\nLoading interface...", shortDuration)
 
-# ---------------------------------------------------------------- # Program Core # ---------------------------------------------------------------- #
+# ---------------------------------------------------------------- # Program Main # ---------------------------------------------------------------- #
+
+# Log action as System
+logAction(system, "Booting system.")
 
 # Clear current console
 clearConsole()
@@ -555,7 +654,7 @@ clearConsole()
 # Announce program via text animation
 textAnimation(
     """
-----------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
 
  ▄█    █▄     ▄████████ ███▄▄▄▄   ████████▄   ▄█  ███▄▄▄▄      ▄██████▄         ▄▄▄▄███▄▄▄▄      ▄████████  ▄████████    ▄█    █▄     ▄█  ███▄▄▄▄      ▄████████ 
 ███    ███   ███    ███ ███▀▀▀██▄ ███   ▀███ ███  ███▀▀▀██▄   ███    ███      ▄██▀▀▀███▀▀▀██▄   ███    ███ ███    ███   ███    ███   ███  ███▀▀▀██▄   ███    ███ 
@@ -568,7 +667,7 @@ textAnimation(
 
 Version 3.0, by Eldeston
 
-----------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
     """
 )
 
@@ -578,11 +677,24 @@ loadingAnimation("\nBooting machine...", normalDuration)
 # Core of the program
 userInterface()
 
+# Log action as User
+logAction(user, "Exiting interface.")
+
+# Log action as System
+logAction(system, "Shutting down.")
+
 # NOTE TO SELF:
-# - [ ] Instead of using a menu selection at the start, make a flexible text detection based triggers
-# - [ ] Ask user if they want to make a second purchase
-# - [ ] Implement multiple categories of items
-# - [x] Implement a secret trigger to access admin commands:
+# - [ ] Improve code formatting
+# - [ ] Implement accessibility settings
+# - [ ] Implement optional aliases for options
+# - [ ] Implement recommendation system using existing dictionary
+# - [ ] Implement multiple categories of items using lists or dictionary
+#
+# - [x] Implement a basic user interface
+# - [x] Ask user if they want to make a second purchase or implement an entire interface dedicated to purchasing additional items
+
+# - [x] Implement a secret trigger to access admin interface:
 #   - [x] Admin command to add new items
 #   - [x] Admin command to remove items
 #   - [x] Admin command to withdraw profits
+#   - [x] Admin command to change password
