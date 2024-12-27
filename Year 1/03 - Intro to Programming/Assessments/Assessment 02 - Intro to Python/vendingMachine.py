@@ -31,34 +31,45 @@ userReceipt = []
 # Declare receipt history
 systemLog = []
 
-# Declare item stock
-itemStock = [
-    {
-        "Name" : "Coca Cola",
-        "Stock" : 16,
-        "Price" : 3.0
-    },
-    {
-        "Name" : "Pepsi",
-        "Stock" : 16,
-        "Price" : 3.0
-    },
-    {
-        "Name" : "Miranda",
-        "Stock" : 16,
-        "Price" : 3.0
-    },
-    {
-        "Name" : "Fanta",
-        "Stock" : 16,
-        "Price" : 3.0
-    },
-    {
-        "Name" : "Water",
-        "Stock" : 16,
-        "Price" : 1.0
-    }
-]
+# Declare item stock as a dictionary
+# Divide data into separate categories containing a list of items
+itemStock = {
+    "Drinks" : [
+        {
+            "Name" : "Coca Cola",
+            "Stock" : 16,
+            "Price" : 3.0
+        },
+        {
+            "Name" : "Pepsi",
+            "Stock" : 16,
+            "Price" : 3.0
+        },
+        {
+            "Name" : "Miranda",
+            "Stock" : 16,
+            "Price" : 3.0
+        },
+        {
+            "Name" : "Fanta",
+            "Stock" : 16,
+            "Price" : 3.0
+        },
+        {
+            "Name" : "Water",
+            "Stock" : 16,
+            "Price" : 1.0
+        }
+    ],
+
+    "Snacks" : [
+
+    ],
+
+    "Candy" : [
+
+    ]
+}
 
 # ---------------------------------------------------------------- # Display Functions # ---------------------------------------------------------------- #
 
@@ -136,6 +147,21 @@ def logAction(author = system, log = "Logged action") :
 
     # Log action as list to system log
     systemLog += [author + ": " + log]
+
+# Display stock function
+def displayStock() :
+    # Display top header
+    print("--------------------------------------------------------------------------------------------------------------------------------\n")
+ 
+    # Display current stock using a loop
+    for index, properties in enumerate(itemStock) :
+        # Display item properties
+        print(f"ID: {index}, Name: {properties["Name"]}, Stock: {properties["Stock"]}, Price: {properties["Price"]}")
+        # Wait for a set amount of time
+        time.sleep(0.0625)
+
+    # Display bottom header
+    print("\n--------------------------------------------------------------------------------------------------------------------------------")
 
 # ---------------------------------------------------------------- # Admin Functions # ---------------------------------------------------------------- #
 
@@ -387,21 +413,6 @@ def adminAccess() :
     print("\nAccess denied.")
 
 # ---------------------------------------------------------------- # Vending Machine Functions # ---------------------------------------------------------------- #
-
-# Display stock function
-def displayStock() :
-    # Display top header
-    print("--------------------------------------------------------------------------------------------------------------------------------\n")
- 
-    # Display current stock using a loop
-    for index, properties in enumerate(itemStock) :
-        # Display item properties
-        print(f"ID: {index}, Name: {properties["Name"]}, Stock: {properties["Stock"]}, Price: {properties["Price"]}")
-        # Wait for a set amount of time
-        time.sleep(0.0625)
-
-    # Display bottom header
-    print("\n--------------------------------------------------------------------------------------------------------------------------------")
 
 # Deposit interface function
 def depositInterface() :
@@ -685,16 +696,21 @@ logAction(system, "Shutting down.")
 
 # NOTE TO SELF:
 # - [ ] Improve code formatting
-# - [ ] Implement accessibility settings
 # - [ ] Implement optional aliases for options
 # - [ ] Implement recommendation system using existing dictionary
 # - [ ] Implement multiple categories of items using lists or dictionary
-#
+
 # - [x] Implement a basic user interface
 # - [x] Ask user if they want to make a second purchase or implement an entire interface dedicated to purchasing additional items
+
+# - [ ] Implement accessibility features
+#   - [ ] Keyboard navigation
+#   - [ ] Text to speech
+#   - [ ] Sound queues
 
 # - [x] Implement a secret trigger to access admin interface:
 #   - [x] Admin command to add new items
 #   - [x] Admin command to remove items
 #   - [x] Admin command to withdraw profits
+#   - [x] Admin command to view system log
 #   - [x] Admin command to change password
