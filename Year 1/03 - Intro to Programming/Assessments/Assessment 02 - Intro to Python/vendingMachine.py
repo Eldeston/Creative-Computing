@@ -3,12 +3,13 @@ import os
 # Import time, used to time animations and utilize delays
 import time
 
-# ---------------------------------------------------------------- # Debugging Settings # ---------------------------------------------------------------- #
+# -------------------------------- # Debugging Settings # -------------------------------- #
 
 # Display console
 displayConsole = False
 
 # Define common durations
+# This determines the length of animations
 longDuration = 8
 normalDuration = 4
 shortDuration = 2
@@ -31,52 +32,48 @@ userReceipt = []
 # Declare receipt history
 systemLog = []
 
-# Declare item stock as a dictionary
-# Divide data into separate categories containing a list of items
-itemStock = {
-    "Drinks" : [
-        {
-            "Name" : "Coca Cola",
-            "Stock" : 16,
-            "Price" : 3.0
-        },
-        {
-            "Name" : "Pepsi",
-            "Stock" : 16,
-            "Price" : 3.0
-        },
-        {
-            "Name" : "Miranda",
-            "Stock" : 16,
-            "Price" : 3.0
-        },
-        {
-            "Name" : "Fanta",
-            "Stock" : 16,
-            "Price" : 3.0
-        },
-        {
-            "Name" : "Water",
-            "Stock" : 16,
-            "Price" : 1.0
-        }
-    ],
+# Declare item stock as a list
+# Each list contains a dictionary defining the properties of the item's name, stock, and price
+itemStock = [
+    {
+        "Name" : "Coca Cola",
+        "Stock" : 16,
+        "Price" : 3.0
+    },
+    {
+        "Name" : "Pepsi",
+        "Stock" : 16,
+        "Price" : 3.0
+    },
+    {
+        "Name" : "Miranda",
+        "Stock" : 16,
+        "Price" : 3.0
+    },
+    {
+        "Name" : "Fanta",
+        "Stock" : 16,
+        "Price" : 3.0
+    },
+    {
+        "Name" : "Mountain Dew",
+        "Stock" : 16,
+        "Price" : 3.0
+    },
+    {
+        "Name" : "Water",
+        "Stock" : 16,
+        "Price" : 1.0
+    }
+]
 
-    "Snacks" : [
-
-    ],
-
-    "Candy" : [
-
-    ]
-}
-
-# ---------------------------------------------------------------- # Display Functions # ---------------------------------------------------------------- #
+# -------------------------------- # Display Functions # -------------------------------- #
 
 # Clear console function
 def clearConsole() :
     # If display console is enabled
     if displayConsole : return
+
     # Check if the OS is Linux and use "clear" instead
     os.system("cls" if os.name == "nt" else "clear")
 
@@ -84,10 +81,12 @@ def clearConsole() :
 def textAnimation(prompt = "Loading...", duration = shortDuration) :
     # Find the number of iterations based on the length of the string
     iterations = len(prompt)
+
     # This makes sure the loading bar will stop at a specified duration
     # timeStep / timeLength = 1 / iterations
     # timeStep = timeLength / iterations
     timeStep = duration / iterations
+
     # Run loop through set iterations
     for iterations in range(iterations) :
         # Loop through the prompt and iterate
@@ -102,7 +101,7 @@ def loadingAnimation(prompt = "Loading...", duration = shortDuration, iterations
     # Reuse text animation as a loading bar because I'm lazy lol
     textAnimation("████████████████████████████████████████████████████████████████", duration)
 
-# ---------------------------------------------------------------- # Common Functions # ---------------------------------------------------------------- #
+# -------------------------------- # Common Functions # -------------------------------- #
 
 # Input to integer function, default input argument set to ""
 def inputToInteger(prompt = "") :
@@ -138,7 +137,7 @@ def inputToFloat(prompt = "") :
 def inputLower(prompt = "") :
     return input(prompt).lower()
 
-# ---------------------------------------------------------------- # Debug Functions # ---------------------------------------------------------------- #
+# -------------------------------- # Debug Functions # -------------------------------- #
 
 # Log system action function
 def logAction(author = system, log = "Logged action") :
@@ -163,7 +162,7 @@ def displayStock() :
     # Display bottom header
     print("\n--------------------------------------------------------------------------------------------------------------------------------")
 
-# ---------------------------------------------------------------- # Admin Functions # ---------------------------------------------------------------- #
+# -------------------------------- # Admin Functions # -------------------------------- #
 
 # Withdraw profit function
 def withdrawInterface() :
@@ -290,7 +289,7 @@ def logsInterface() :
     # This is for responding to prompt
     input()
 
-# ---------------------------------------------------------------- # Admin Interface # ---------------------------------------------------------------- #
+# -------------------------------- # Admin Interface # -------------------------------- #
 
 # Admin interface function
 def adminInterface() :
@@ -412,7 +411,7 @@ def adminAccess() :
     # Announce invalid password and exit
     print("\nAccess denied.")
 
-# ---------------------------------------------------------------- # Vending Machine Functions # ---------------------------------------------------------------- #
+# -------------------------------- # Vending Machine Functions # -------------------------------- #
 
 # Deposit interface function
 def depositInterface() :
@@ -496,7 +495,7 @@ def purchaseInterface() :
         itemStock[itemID]["Stock"] -= stock
 
         # Make a recent receipt
-        recentReceipt = f"Purchased {stock} {itemStock[itemID]["Name"]} for AED {totalPrice}."
+        recentReceipt = f"Dispensed {stock} {itemStock[itemID]["Name"]} for AED {totalPrice} with AED {userCash} left in deposit."
 
         # Record recent receipt as list
         userReceipt += [recentReceipt]
@@ -553,7 +552,7 @@ def receiptInterface() :
     # This is for responding to prompt
     input()
 
-# ---------------------------------------------------------------- # Vending Machine Interface # ---------------------------------------------------------------- #
+# -------------------------------- # Vending Machine Interface # -------------------------------- #
 
 # User interface function (otherwise known as the core of the program)
 def userInterface() :
@@ -654,7 +653,7 @@ Receipt history: {len(userReceipt)}
         # Wait for a small duration
         loadingAnimation("\nLoading interface...", shortDuration)
 
-# ---------------------------------------------------------------- # Program Main # ---------------------------------------------------------------- #
+# -------------------------------- # Program Main # -------------------------------- #
 
 # Log action as System
 logAction(system, "Booting system.")
@@ -667,15 +666,12 @@ textAnimation(
     """
 --------------------------------------------------------------------------------------------------------------------------------
 
- ▄█    █▄     ▄████████ ███▄▄▄▄   ████████▄   ▄█  ███▄▄▄▄      ▄██████▄         ▄▄▄▄███▄▄▄▄      ▄████████  ▄████████    ▄█    █▄     ▄█  ███▄▄▄▄      ▄████████ 
-███    ███   ███    ███ ███▀▀▀██▄ ███   ▀███ ███  ███▀▀▀██▄   ███    ███      ▄██▀▀▀███▀▀▀██▄   ███    ███ ███    ███   ███    ███   ███  ███▀▀▀██▄   ███    ███ 
-███    ███   ███    █▀  ███   ███ ███    ███ ███▌ ███   ███   ███    █▀       ███   ███   ███   ███    ███ ███    █▀    ███    ███   ███▌ ███   ███   ███    █▀  
-███    ███  ▄███▄▄▄     ███   ███ ███    ███ ███▌ ███   ███  ▄███             ███   ███   ███   ███    ███ ███         ▄███▄▄▄▄███▄▄ ███▌ ███   ███  ▄███▄▄▄     
-███    ███ ▀▀███▀▀▀     ███   ███ ███    ███ ███▌ ███   ███ ▀▀███ ████▄       ███   ███   ███ ▀███████████ ███        ▀▀███▀▀▀▀███▀  ███▌ ███   ███ ▀▀███▀▀▀     
-███    ███   ███    █▄  ███   ███ ███    ███ ███  ███   ███   ███    ███      ███   ███   ███   ███    ███ ███    █▄    ███    ███   ███  ███   ███   ███    █▄  
-███    ███   ███    ███ ███   ███ ███   ▄███ ███  ███   ███   ███    ███      ███   ███   ███   ███    ███ ███    ███   ███    ███   ███  ███   ███   ███    ███ 
- ▀██████▀    ██████████  ▀█   █▀  ████████▀  █▀    ▀█   █▀    ████████▀        ▀█   ███   █▀    ███    █▀  ████████▀    ███    █▀    █▀    ▀█   █▀    ██████████ 
-
+ _    __               ___                __  ___           __    _          
+| |  / /__  ____  ____/ (_)___  ____ _   /  |/  /___ ______/ /_  (_)___  ___ 
+| | / / _ \/ __ \/ __  / / __ \/ __ `/  / /|_/ / __ `/ ___/ __ \/ / __ \/ _ \\
+| |/ /  __/ / / / /_/ / / / / / /_/ /  / /  / / /_/ / /__/ / / / / / / /  __/
+|___/\___/_/ /_/\__,_/_/_/ /_/\__, /  /_/  /_/\__,_/\___/_/ /_/_/_/ /_/\___/ 
+                             /____/
 Version 3.0, by Eldeston
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -694,19 +690,10 @@ logAction(user, "Exiting interface.")
 # Log action as System
 logAction(system, "Shutting down.")
 
-# NOTE TO SELF:
-# - [ ] Improve code formatting
-# - [ ] Implement optional aliases for options
-# - [ ] Implement recommendation system using existing dictionary
-# - [ ] Implement multiple categories of items using lists or dictionary
-
+# IMPLEMENTED CHANGES:
+# - [x] Improved code formatting
 # - [x] Implement a basic user interface
 # - [x] Ask user if they want to make a second purchase or implement an entire interface dedicated to purchasing additional items
-
-# - [ ] Implement accessibility features
-#   - [ ] Keyboard navigation
-#   - [ ] Text to speech
-#   - [ ] Sound queues
 
 # - [x] Implement a secret trigger to access admin interface:
 #   - [x] Admin command to add new items
@@ -714,3 +701,13 @@ logAction(system, "Shutting down.")
 #   - [x] Admin command to withdraw profits
 #   - [x] Admin command to view system log
 #   - [x] Admin command to change password
+
+# DISCONTINUED CHANGES
+# - [ ] Implement optional aliases for options
+# - [ ] Implement recommendation system using existing dictionary
+# - [ ] Implement multiple categories of items using lists or dictionary
+
+# - [ ] Implement accessibility features
+#   - [ ] Keyboard navigation
+#   - [ ] Text to speech
+#   - [ ] Sound queues

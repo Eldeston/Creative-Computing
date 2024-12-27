@@ -20,6 +20,7 @@ teacher: Ms. Lavanya Mohan
 - [Class 33 - Intro to Python](Class%2033%20-%20Intro%20to%20Python.md)
 - [Class 36 - Intro to Python](Class%2036%20-%20Intro%20to%20Python.md)
 - Class 39 - Intro to Python (postponed due to International Day)
+- Class 44 - Intro to Python (postponed due to Christmas Party)
 # Activities
 - [activity06](Activity/Activity%2001%20-%20Intro%20to%20Python/activity06.py)
 - [activity09](Activity/Activity%2001%20-%20Intro%20to%20Python/activity09.py)

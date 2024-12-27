@@ -1,10 +1,11 @@
 ---
 tags:
-  - incomplete
-date: 2024-12-10
-teacher: Mr. Subhan Ali
+  - template
+date: 
+teacher:
 ---
-# Digital Visual Design 13
+# Digital Visual Design 14
+[What are the Gestalt Principles? — updated 2024 | IxDF](https://www.interaction-design.org/literature/topics/gestalt-principles
 
 ----------------------------------------------------------------
 # Editor's Notes
