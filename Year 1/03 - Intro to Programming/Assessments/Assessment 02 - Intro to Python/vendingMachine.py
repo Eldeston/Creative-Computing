@@ -327,13 +327,13 @@ Machine history: {len(systemLog)}
         displayStock()
 
         # Display available user options and ask user for input
-        textAnimation("\nType \"Withdraw\" to withdraw profits, \"Add\" to add new stock, \"Remove\" to remove stock, \"Logs\" to view logs, or \"Exit\" to exit interface.\n")
+        textAnimation("\nType \"Withdraw/W\" to withdraw profits, \"Add/A\" to add new stock, \"Remove/R\" to remove stock, \"Logs/L\" to view logs, or \"Exit/E\" to exit interface.\n")
 
         # Set output string to all lowercase allowing for all selections will be case insensitive
         userInput = inputLower()
 
         # Check if user types "withdraw"
-        if userInput == "withdraw" :
+        if userInput in ("withdraw", "w") :
             # Announce withdrawing profits
             print("\nWithdrawing profits...")
             # Enter withdraw interface
@@ -344,7 +344,7 @@ Machine history: {len(systemLog)}
             continue
 
         # Check if user types "add"
-        if userInput == "add" :
+        if userInput in ("add", "a") :
             # Announce adding stock
             print("\nAdding stock...")
             # Enter add interface
@@ -355,7 +355,7 @@ Machine history: {len(systemLog)}
             continue
 
         # Check if user types "remove"
-        if userInput == "remove" :
+        if userInput in ("remove", "r") :
             # Announce removing stock
             print("\nRemoving stock...")
             # Enter remove interface
@@ -366,7 +366,7 @@ Machine history: {len(systemLog)}
             continue
 
         # Check if user types "password"
-        if userInput == "password" :
+        if userInput in ("password", "p") :
             # Announce changing password
             print("\nChanging password...")
             # Enter password interface
@@ -377,7 +377,7 @@ Machine history: {len(systemLog)}
             continue
 
         # Check if user types "history"
-        if userInput == "logs" :
+        if userInput in ("logs", "l") :
             # Announce viewing history
             print("\nViewing logs...")
             # Enter history interface
@@ -386,7 +386,7 @@ Machine history: {len(systemLog)}
             continue
 
         # Check if user types "exit"
-        if userInput == "exit" :
+        if userInput in ("exit", "e") :
             # Announce exiting interface
             print("\nExiting interface...")
             # Exit function
@@ -590,13 +590,13 @@ Receipt history: {len(userReceipt)}
         displayStock()
 
         # Display available user options and ask user for input
-        textAnimation("\nType \"Deposit\" to deposit cash, \"Purchase\" to purchase items, \"Receipt\" to open receipt, or \"Exit\" to exit machine.\n")
+        textAnimation("\nType \"Deposit/D\" to deposit cash, \"Purchase/P\" to purchase items, \"Receipt/R\" to open receipt, or \"Exit/E\" to exit machine.\n")
 
         # Set output string to all lowercase allowing for all selections will be case insensitive
         userInput = inputLower()
 
         # Check if user types "Deposit"
-        if userInput == "deposit" :
+        if userInput in ("deposit", "d") :
             # Announce depositing cash
             print("\nDepositing cash...")
             # Enter deposit interface
@@ -607,7 +607,7 @@ Receipt history: {len(userReceipt)}
             continue
 
         # Check if user types "Purchase"
-        if userInput == "purchase" :
+        if userInput in ("purchase", "p") :
             # Announce purchasing items
             print("\nPurchasing items...")
             # Enter purchase interface
@@ -618,7 +618,7 @@ Receipt history: {len(userReceipt)}
             continue
 
         # Check if user types "Receipt"
-        if userInput == "receipt" :
+        if userInput in ("receipt", "r") :
             # Announce opening reciept
             print("\nOpening receipt...")
             # Enter reciept interface
@@ -627,7 +627,7 @@ Receipt history: {len(userReceipt)}
             continue
 
         # Check if user types admin
-        if userInput == admin :
+        if userInput in ("admin", "a") :
             # Announce accessing admin
             print("\nAccessing admin...")
             # Enter admin access
@@ -638,11 +638,13 @@ Receipt history: {len(userReceipt)}
             continue
 
         # Check if user types "Exit"
-        if userInput == "exit" :
+        if userInput in ("exit", "e") :
             # Announce program exit
             print("\nGoodbye and have a nice day!")
             # Announce ejecting cash
             loadingAnimation(f"\nEjecting AED {userCash}...", shortDuration)
+            # Make a new line in console
+            print()
             # Wait for a small duration
             loadingAnimation("\nExiting interface...", shortDuration)
             # Exit function, usually I'd use quit() to exit program immediately but this is for the sake logging user actions
@@ -678,6 +680,12 @@ Version 3.0, by Eldeston
     """
 )
 
+# Ask user for their name
+user = input("\nEnter username: ")
+
+# Log action as User
+logAction(user, f"Logged in as {user}.")
+
 # Wait for a small duration
 loadingAnimation("\nBooting machine...", normalDuration)
 
@@ -691,8 +699,9 @@ logAction(user, "Exiting interface.")
 logAction(system, "Shutting down.")
 
 # IMPLEMENTED CHANGES:
-# - [x] Improved code formatting
+# - [x] Code formatting
 # - [x] Implement a basic user interface
+# - [x] Implement optional aliases for options
 # - [x] Ask user if they want to make a second purchase or implement an entire interface dedicated to purchasing additional items
 
 # - [x] Implement a secret trigger to access admin interface:
@@ -703,7 +712,6 @@ logAction(system, "Shutting down.")
 #   - [x] Admin command to change password
 
 # DISCONTINUED CHANGES
-# - [ ] Implement optional aliases for options
 # - [ ] Implement recommendation system using existing dictionary
 # - [ ] Implement multiple categories of items using lists or dictionary
 
