@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d292367b33d9870f",
+        "id": "2d712c28140cad62",
         "type": "tabs",
         "children": [
           {
-            "id": "30d84918472ead1e",
+            "id": "87277777e150d5b3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Year 1/01 - Digital Visual Design/Documents/Lecture 08 - Digital Visual Design.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture 08 - Digital Visual Design"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -199,19 +197,19 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "30d84918472ead1e",
+  "active": "bef5fff3a2fde0a1",
   "lastOpenFiles": [
+    "Year 1/01 - Digital Visual Design/Documents/Lecture 04 - Digital Visual Design.pdf",
+    "Year 1/01 - Digital Visual Design/Documents/Lecture 07 - Digital Visual Design.pdf",
     "Year 1/01 - Digital Visual Design/Documents/Lecture 09 - Digital Visual Design.pdf",
+    "Year 1/01 - Digital Visual Design/Documents/Lecture 08 - Digital Visual Design.pdf",
+    "Year 1/01 - Digital Visual Design/Documents/Lecture 03 - Digital Visual Design.pdf",
+    "Year 1/01 - Digital Visual Design/Documents/Lecture 02 - Digital Visual Design.pdf",
+    "Year 1/01 - Digital Visual Design/Documents/Lecture 01 - Digital Visual Design.pdf",
+    "Year 1/01 - Digital Visual Design/Documents/Lecture 06 - Digital Visual Design.pdf",
+    "Year 1/01 - Digital Visual Design/Documents/Lecture 05 - Digital Visual Design.pdf",
     "Year 1/01 - Digital Visual Design/Documents/Lecture 12 - Digital Visual Design.pdf",
     "Year 1/01 - Digital Visual Design/Documents/Lecture 11 - Digital Visual Design.pdf",
-    "Year 1/01 - Digital Visual Design/Documents/Lecture 10 - Digital Visual Design.pdf",
-    "Year 1/01 - Digital Visual Design/Documents/Lecture 08 - Digital Visual Design.pdf",
-    "Year 1/01 - Digital Visual Design/Documents/Lecture 07 - Digital Visual Design.pdf",
-    "Year 1/01 - Digital Visual Design/Documents/Lecture 06 - Digital Visual Design.pdf",
-    "Year 1/01 - Digital Visual Design/Documents/Lecture 03 - Digital Visual Design.pdf",
-    "Year 1/02 - Digital Storytelling/Documents/~$Lecture 1 - Digital Storytelling.pptx",
-    "Year 1/01 - Digital Visual Design/Documents/Lecture 04 - Digital Visual Design.pdf",
-    "Year 1/01 - Digital Visual Design/Documents/Lecture 05 - Digital Visual Design.pdf",
     "Year 1/03 - Intro to Programming/Intro to Python Index.md",
     "Year 1/03 - Intro to Programming/Class 33 - Intro to Python.md",
     "Year 1/03 - Intro to Programming/Class 36 - Intro to Python.md",
