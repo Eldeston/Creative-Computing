@@ -698,6 +698,24 @@ logAction(user, "Exiting interface.")
 # Log action as System
 logAction(system, "Shutting down.")
 
+# BASIC STRUCTURE
+# - [x] Booting animation
+# - [x] User sign in
+# - [x] User interface
+#    - [x] Deposit cash
+#    - [x] Purchase items
+#    - [x] View receipt
+#    - [x] Admin access (Hidden from the user)
+#       - [x] Enter password
+#       - [x] Admin interface
+#          - [x] Withdraw profits
+#          - [x] Add stock
+#          - [x] Remove stock
+#          - [x] Change password
+#          - [x] Check logs
+#          - [x] Exit interface
+#    - [x] Exit interface
+
 # IMPLEMENTED CHANGES:
 # - [x] Code formatting
 # - [x] Implement a basic user interface
