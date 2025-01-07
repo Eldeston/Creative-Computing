@@ -415,6 +415,9 @@ def adminAccess() :
 
 # Deposit interface function
 def depositInterface() :
+    # Access user as a global variable
+    global user
+
     # Access userCash as a global variable
     global userCash
 
@@ -443,6 +446,9 @@ def depositInterface() :
 
 # Purchase interface function
 def purchaseInterface() :
+    # Access user as a global variable
+    global user
+
     # Access userCash as a global variable
     global userCash
     # Access machineProfit as a global variable
@@ -516,6 +522,9 @@ def purchaseInterface() :
 
 # Receipt interface function
 def receiptInterface() :
+    # Access user as a global variable
+    global user
+
     # Access userReceipt as a global variable
     global userReceipt
 
@@ -556,6 +565,9 @@ def receiptInterface() :
 
 # User interface function (otherwise known as the core of the program)
 def userInterface() :
+    # Access user as a global variable
+    global user
+
     # Access userCash as a global variable
     global userCash
 
@@ -642,7 +654,7 @@ Receipt history: {len(userReceipt)}
             # Announce program exit
             print("\nGoodbye and have a nice day!")
             # Announce ejecting cash
-            loadingAnimation(f"\nEjecting AED {userCash}...", shortDuration)
+            loadingAnimation(f"\nDispensing AED {userCash} for {user}...", shortDuration)
             # Make a new line in console
             print()
             # Wait for a small duration
@@ -657,15 +669,19 @@ Receipt history: {len(userReceipt)}
 
 # -------------------------------- # Program Main # -------------------------------- #
 
-# Log action as System
-logAction(system, "Booting system.")
+# Core function
+def mainSystem() :
+    # Access user as a global variable
+    global user
 
-# Clear current console
-clearConsole()
+    # Run under an infnite loop until program exit
+    while True :
+        # Clear current console
+        clearConsole()
 
-# Announce program via text animation
-textAnimation(
-    """
+        # Announce program via text animation
+        textAnimation(
+        """
 --------------------------------------------------------------------------------------------------------------------------------
 
  _    __               ___                __  ___           __    _          
@@ -677,23 +693,45 @@ textAnimation(
 Version 3.0, by Eldeston
 
 --------------------------------------------------------------------------------------------------------------------------------
-    """
-)
+        """
+        )
 
-# Ask user for their name
-user = input("\nEnter username: ")
+        # Ask user for their name
+        userInput = input("\nEnter username or enter a digit to exit.\n")
 
-# Log action as User
-logAction(user, f"Logged in as {user}.")
+        # If user input is 0, exit funciton
+        if userInput.isdigit() :
+            # Exit function
+            return
 
-# Wait for a small duration
-loadingAnimation("\nBooting machine...", normalDuration)
+        # Set user as userInput
+        user = userInput
+
+        # Wait for a small duration
+        loadingAnimation(f"\nLogging in as {user}...", shortDuration)
+
+        # Log action as User
+        logAction(user, f"Logged in as {user}.")
+
+        # Load user interface
+        userInterface()
+
+        # Wait for a small duration
+        loadingAnimation(f"\n{user} is logging out...", shortDuration)
+
+        # Log action as System
+        logAction(user, f"{user} logged out.")
+
+# -------------------------------- # Program Main # -------------------------------- #
+
+# Log action as System
+logAction(system, "Booting system.")
 
 # Core of the program
-userInterface()
+mainSystem()
 
 # Log action as User
-logAction(user, "Exiting interface.")
+logAction(user, "Exiting main interface.")
 
 # Log action as System
 logAction(system, "Shutting down.")
@@ -705,7 +743,7 @@ logAction(system, "Shutting down.")
 #    - [x] Deposit cash
 #    - [x] Purchase items
 #    - [x] View receipt
-#    - [x] Admin access (Hidden from the user)
+#    - [x] Admin access (Hidden from user)
 #       - [x] Enter password
 #       - [x] Admin interface
 #          - [x] Withdraw profits
@@ -716,8 +754,9 @@ logAction(system, "Shutting down.")
 #          - [x] Exit interface
 #    - [x] Exit interface
 
-# IMPLEMENTED CHANGES:
+# OTHER IMPLEMENTED CHANGES:
 # - [x] Code formatting
+# - [x] Exception handling
 # - [x] Implement a basic user interface
 # - [x] Implement optional aliases for options
 # - [x] Ask user if they want to make a second purchase or implement an entire interface dedicated to purchasing additional items
