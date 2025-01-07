@@ -513,7 +513,7 @@ def purchaseInterface() :
         print("\n" + recentReceipt)
 
         # Ask if user wants to continue or press enter key to exit interface
-        userInput = inputLower("\nType \"Continue\" to continue making purchases or press enter key to exit interface...")
+        userInput = inputLower("\nType \"Continue\" to continue making purchases or press enter key to exit interface...\n")
 
         # Check if user types anything but continue
         if not userInput == "continue" :
@@ -739,20 +739,22 @@ logAction(system, "Shutting down.")
 # BASIC STRUCTURE
 # - [x] Booting animation
 # - [x] User sign in
-# - [x] User interface
-#    - [x] Deposit cash
-#    - [x] Purchase items
-#    - [x] View receipt
-#    - [x] Admin access (Hidden from user)
-#       - [x] Enter password
-#       - [x] Admin interface
-#          - [x] Withdraw profits
-#          - [x] Add stock
-#          - [x] Remove stock
-#          - [x] Change password
-#          - [x] Check logs
-#          - [x] Exit interface
-#    - [x] Exit interface
+# - [x] Main system
+#     - [x] User interface
+#         - [x] Deposit cash
+#         - [x] Purchase items
+#         - [x] View receipt
+#         - [x] Admin access (Secret trigger)
+#             - [x] Enter password
+#             - [x] Admin interface
+#                 - [x] Withdraw profits
+#                 - [x] Add stock
+#                 - [x] Remove stock
+#                 - [x] Change password
+#                 - [x] Check logs
+#                 - [x] Exit admin interface
+#         - [x] Exit user interface
+#     - [x] Exit main system
 
 # OTHER IMPLEMENTED CHANGES:
 # - [x] Code formatting
