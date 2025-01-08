@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d712c28140cad62",
+        "id": "c268044cb75bf6d4",
         "type": "tabs",
         "children": [
           {
-            "id": "87277777e150d5b3",
+            "id": "eb3e2585d7bce237",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -197,10 +197,13 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "87277777e150d5b3",
+  "active": "b959631496e7c4b5",
   "lastOpenFiles": [
-    "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/Assessment 02 - Coversheet~A4AB5.tmp",
+    "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/~$sessment 02 - Coversheet.docx",
+    "Year 1/02 - Digital Storytelling/Assessments/Assessment 02/tree.jpg",
     "Year 1/02 - Digital Storytelling/Documents/~$Lecture 1 - Digital Storytelling.pptx",
+    "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/~$sessment 02 Brief - Intro to Python L4.docx",
+    "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/Assessment 02 - Coversheet~A4AB5.tmp",
     "Year 1/02 - Digital Storytelling/Assessments/Assessment 02/sky island.jpg",
     "Year 1/02 - Digital Storytelling/Assessments/Assessment 02/rural.png",
     "Year 1/02 - Digital Storytelling/Assessments/Assessment 02/fire.jpg",
@@ -210,14 +213,11 @@
     "Year 1/02 - Digital Storytelling/Assessments/Assessment 02/OIP.jpg",
     "Year 1/02 - Digital Storytelling/Assessments/Assessment 02/5onx0CU.png",
     "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/Assessment 02 - Coversheet~4668A.tmp",
-    "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/~$sessment 02 - Coversheet.docx",
-    "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/~$sessment 02 Brief - Intro to Python L4.docx",
     "Year 1/01 - Digital Visual Design/Documents/Lecture 03 - Digital Visual Design.pdf",
     "Year 1/01 - Digital Visual Design/Documents/Lecture 04 - Digital Visual Design.pdf",
     "Year 1/01 - Digital Visual Design/Documents/Lecture 07 - Digital Visual Design.pdf",
     "Year 1/01 - Digital Visual Design/Documents/Lecture 09 - Digital Visual Design.pdf",
     "Year 1/01 - Digital Visual Design/Documents/Lecture 08 - Digital Visual Design.pdf",
-    "Year 1/01 - Digital Visual Design/Documents/Lecture 02 - Digital Visual Design.pdf",
     "Year 1/03 - Intro to Programming/Intro to Python Index.md",
     "Year 1/03 - Intro to Programming/Class 33 - Intro to Python.md",
     "Year 1/03 - Intro to Programming/Class 36 - Intro to Python.md",
@@ -247,7 +247,6 @@
     "Year 1/01 - Digital Visual Design/Digital Visual Design Portfolio.md",
     "Year 1/01 - Digital Visual Design/Class 28 - Digital Visual Design.md",
     "Untitled.canvas",
-    "Media/flameRenderLogo.gif",
-    "Year 1/03 - Intro to Programming/Documents/Solo Learn Python Certificate.jpg"
+    "Media/flameRenderLogo.gif"
   ]
 }
