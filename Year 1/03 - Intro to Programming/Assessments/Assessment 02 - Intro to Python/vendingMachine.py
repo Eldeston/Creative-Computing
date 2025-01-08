@@ -444,8 +444,8 @@ def depositInterface() :
     # Announce amount deposited
     print("\n" + recentReceipt)
 
-# Purchase interface function
-def purchaseInterface() :
+# Buy interface function
+def buyInterface() :
     # Access user as a global variable
     global user
 
@@ -458,7 +458,7 @@ def purchaseInterface() :
     global userReceipt
 
     # Log action as User
-    logAction(user, "Purchasing items.")
+    logAction(user, "Buying items.")
 
     # Run under an infnite loop until interface exit
     while True :
@@ -513,10 +513,10 @@ def purchaseInterface() :
         print("\n" + recentReceipt)
 
         # Ask if user wants to continue or press enter key to exit interface
-        userInput = inputLower("\nType \"Continue\" to continue making purchases or press enter key to exit interface...\n")
+        userInput = inputLower("\nType \"Continue/C\" to continue making purchases or press enter key to exit interface...")
 
         # Check if user types anything but continue
-        if not userInput == "continue" :
+        if not userInput in ("continue", "c") :
             # Exit function
             return
 
@@ -557,7 +557,7 @@ def receiptInterface() :
         time.sleep(timeStep)
     
     # Ask user to enter to continue
-    loadingAnimation("\nPress enter key to continue...")
+    textAnimation("\nPress enter key to continue...")
     # This is for responding to prompt
     input()
 
@@ -602,7 +602,7 @@ Receipt history: {len(userReceipt)}
         displayStock()
 
         # Display available user options and ask user for input
-        textAnimation("\nType \"Deposit/D\" to deposit cash, \"Purchase/P\" to purchase items, \"Receipt/R\" to open receipt, or \"Exit/E\" to exit machine.\n")
+        textAnimation("\nType \"Deposit/D\" to deposit cash, \"Buy/B\" to buy items, \"Receipt/R\" to open receipt, or \"Exit/E\" to exit machine.\n")
 
         # Set output string to all lowercase allowing for all selections will be case insensitive
         userInput = inputLower()
@@ -618,12 +618,12 @@ Receipt history: {len(userReceipt)}
             # Reset loop
             continue
 
-        # Check if user types "Purchase"
-        if userInput in ("purchase", "p") :
-            # Announce purchasing items
-            print("\nPurchasing items...")
-            # Enter purchase interface
-            purchaseInterface()
+        # Check if user types "Buy"
+        if userInput in ("buy", "b") :
+            # Announce buying items
+            print("\nBuying items...")
+            # Enter buy interface
+            buyInterface()
             # Wait for a small duration
             loadingAnimation("\nLoading interface...", shortDuration)
             # Reset loop
@@ -654,7 +654,7 @@ Receipt history: {len(userReceipt)}
             # Announce program exit
             print("\nGoodbye and have a nice day!")
             # Announce ejecting cash
-            loadingAnimation(f"\nDispensing AED {userCash} for {user}...", shortDuration)
+            textAnimation(f"\nDispensing AED {userCash} for {user}...", shortDuration)
             # Make a new line in console
             print()
             # Wait for a small duration
@@ -690,7 +690,7 @@ def mainSystem() :
 | |/ /  __/ / / / /_/ / / / / / /_/ /  / /  / / /_/ / /__/ / / / / / / /  __/
 |___/\___/_/ /_/\__,_/_/_/ /_/\__, /  /_/  /_/\__,_/\___/_/ /_/_/_/ /_/\___/ 
                              /____/
-Version 3.0, by Eldeston
+Version 4.0, by Eldeston
 
 --------------------------------------------------------------------------------------------------------------------------------
         """
@@ -742,7 +742,7 @@ logAction(system, "Shutting down.")
 # - [x] Main system
 #     - [x] User interface
 #         - [x] Deposit cash
-#         - [x] Purchase items
+#         - [x] Buy items
 #         - [x] View receipt
 #         - [x] Admin access (Secret trigger)
 #             - [x] Enter password
@@ -761,7 +761,7 @@ logAction(system, "Shutting down.")
 # - [x] Exception handling
 # - [x] Implement a basic user interface
 # - [x] Implement optional aliases for options
-# - [x] Ask user if they want to make a second purchase or implement an entire interface dedicated to purchasing additional items
+# - [x] Ask user if they want to make a second buy or implement an entire interface dedicated to buying additional items
 
 # - [x] Implement a secret trigger to access admin interface:
 #   - [x] Admin command to add new items
