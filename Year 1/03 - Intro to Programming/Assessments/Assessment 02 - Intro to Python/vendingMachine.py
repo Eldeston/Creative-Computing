@@ -27,7 +27,7 @@ system = "System"
 # Declare password (case sensitive)
 password = "nahIdWin"
 
-# Declare user reciept
+# Declare user receipt
 userReceipt = []
 # Declare receipt history
 systemLog = []
