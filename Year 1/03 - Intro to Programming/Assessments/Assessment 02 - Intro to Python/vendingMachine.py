@@ -538,6 +538,10 @@ def receiptInterface() :
     if receiptLength == 0 :
         # Announce recentReceipt is empty
         print("\nReceipt is empty.")
+        # Ask user to enter to continue
+        textAnimation("\nPress enter key to continue...")
+        # This is for responding to prompt
+        input()
         # Exit function
         return
     
@@ -674,6 +678,12 @@ def mainSystem() :
     # Access user as a global variable
     global user
 
+    # Access user as a global variable
+    global userCash
+
+    # Access user as a global variable
+    global userReceipt
+
     # Run under an infnite loop until program exit
     while True :
         # Clear current console
@@ -715,6 +725,11 @@ Version 4.0, by Eldeston
 
         # Load user interface
         userInterface()
+
+        # Set user cash to 0
+        userCash = 0.0
+        # Empty receipt
+        userReceipt = []
 
         # Wait for a small duration
         loadingAnimation(f"\n{user} is logging out...", shortDuration)
