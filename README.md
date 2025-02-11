@@ -14,13 +14,13 @@ While this wiki's other purpose is to help others, **NO PLAGIARISM** or I will p
 	- [Appeals and Grievances_Complaints Policy](Important/Appeals%20and%20Grievances_Complaints%20Policy.pdf)
 	- [Academic Honesty Policy](Important/Academic%20Honesty%20Policy.pdf)
 - Year 1 Documents
-	- [CC L4 Cohort 1 & 2](Year%201%20-%20Semester%201/CC%20L4%20Cohort%201%20&%202.pdf)
+	- [CC L4 Cohort 1 & 2](Year%201%20-%20CC%20L4%20Cohort%201%20&%202.pdf)
 	- [Sem 1 Morning 2024-25 TIMETABLES](Year%201%20-%20Semester%201/Sem%201%20Morning%202024-25%20TIMETABLES.pdf)
 	- [Sem 1 Evening 2024-25 TIMETABLES](Year%201%20-%20Semester%201/Sem%201%20Evening%202024-25%20TIMETABLES.pdf)
 # Index
-- [Digital Visual Design Index](Year%201%20-%20Semester%201/01%20-%20Digital%20Visual%20Design/Digital%20Visual%20Design%20Index.md)
-- [Digital Storytelling Index](Year%201%20-%20Semester%201/02%20-%20Digital%20Storytelling/Digital%20Storytelling%20Index.md)
-- [Intro to Python Index](Year%201%20-%20Semester%201/03%20-%20Intro%20to%20Programming/Intro%20to%20Python%20Index.md)
+- [Digital Visual Design Index](Year%201%20-%20Semester%201/1%20-%20Digital%20Visual%20Design/Digital%20Visual%20Design%20Index.md)
+- [Digital Storytelling Index](Year%201%20-%20Semester%201/2%20-%20Digital%20Storytelling/Digital%20Storytelling%20Index.md)
+- [Intro to Python Index](Year%201%20-%20Semester%201/3%20-%20Intro%20to%20Programming/Intro%20to%20Python%20Index.md)
 ## Deprecated
 Discontinued or scrapped ideas.
 - [Piracy in the Open Internet Seas (Deprecated)](Deprecated/Piracy%20in%20the%20Open%20Internet%20Seas%20(Deprecated).md)
