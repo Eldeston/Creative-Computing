@@ -50,3 +50,4 @@ Discontinued or scrapped ideas.
 [Internship Portal - Bath Spa University RAK](https://bathspa.ac.ae/internship-portal/)
 [Metaverseage Learning Studio: Log in to the site](https://mls.metaverseage.ae/login/index.php)
 [Bring your goals into focus | edX](https://www.edx.org/)
+[w3schools.com](https://www.w3schools.com/)
