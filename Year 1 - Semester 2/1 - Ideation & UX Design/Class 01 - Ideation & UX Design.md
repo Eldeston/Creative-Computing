@@ -4,7 +4,7 @@ tags:
 date: 2025-02-10
 teacher: Mr. Subhan Ali
 ---
-# UI, UX Design 1
+# Ideation & UX Design 1
 # Ideation & UX Design
 The aim of this module is to expose the full design cycle, from initial idea generation and analysis, audience research and user profiling, through interface design (across device types) and prototype development, to testing, evaluation, and iteration.
 ## Ideation
