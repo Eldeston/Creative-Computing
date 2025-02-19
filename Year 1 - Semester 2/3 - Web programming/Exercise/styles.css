@@ -1,8 +1,15 @@
 *{
     background-color : black;
-    font-family : "JetBrains Mono";
+    font-family : "Cascadia Mono";
+    color : white;
 }
 
-body{
-    color : white
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.window{
+    margin-left: 10%;
+    margin-right: 10%;
 }
