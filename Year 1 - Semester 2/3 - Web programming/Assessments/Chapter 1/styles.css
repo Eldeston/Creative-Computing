@@ -1,0 +1,29 @@
+/* This is a comment */
+/* This selects and styles all elements */
+*{
+    background-color: black;
+    font-family: "Cascadia Mono";
+    color: white;
+}
+
+/* Make common custom style for divs */
+code{
+    color: orange;
+}
+
+/* Make common custom style for divs */
+.window{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+/* Make common custom style for tables */
+.tableStyle{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Make common custom style for headers */
+.headerStyle{
+    color: yellow;
+}

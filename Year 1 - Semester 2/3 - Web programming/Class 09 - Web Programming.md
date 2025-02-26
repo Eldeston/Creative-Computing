@@ -1,11 +1,12 @@
 ---
 tags:
   - incomplete
-date: 2025-02-19
+date: 2025-02-26
 teacher: Ms. Lavanya Mohan
 ---
-# Web Programming 2
-## Ordered lists, and unordered lists
+# Web Programming 3
+## Comments
+## Linked images
 
 ----------------------------------------------------------------
 # Editor's Notes
