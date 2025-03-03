@@ -6,24 +6,29 @@
     color: white;
 }
 
-/* Make common custom style for divs */
+/* Set a common style for all <pre> */
+pre{
+    color: grey;
+}
+
+/* Set a common style for all <code> */
 code{
     color: orange;
 }
 
-/* Make common custom style for divs */
+/* Make common custom style for <div> */
 .window{
     margin-left: 20%;
     margin-right: 20%;
 }
 
-/* Make common custom style for tables */
+/* Make common custom style for <table> */
 .tableStyle{
     margin-left: auto;
     margin-right: auto;
 }
 
-/* Make common custom style for headers */
+/* Make common custom style for <h1> */
 .headerStyle{
     color: yellow;
 }
