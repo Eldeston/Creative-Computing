@@ -1,14 +1,13 @@
 /* This is a comment */
 /* This selects and styles all elements */
 *{
-    background-color: black;
     font-family: "Cascadia Mono";
     color: white;
 }
 
-/* Set a common style for all <pre> */
-pre{
-    color: grey;
+/* Set a common style for <body> */
+body{
+    background-color: rgb(10, 10, 15);
 }
 
 /* Set a common style for all <code> */
@@ -16,10 +15,28 @@ code{
     color: orange;
 }
 
+/* Set a common style for all <img> */
+img{
+    border-radius: 16px;
+}
+
+/* Set a common style for all <iframe> */
+iframe{
+    border-radius: 16px;
+}
+
 /* Make common custom style for <div> */
 .window{
     margin-left: 20%;
     margin-right: 20%;
+
+    padding: 32px;
+
+    border-radius: 16px;
+
+    box-shadow: 0px 4px 8px black;
+
+    background-color: rgb(20, 20, 25);
 }
 
 /* Make common custom style for <table> */
