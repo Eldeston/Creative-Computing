@@ -42,7 +42,7 @@ iframe{
 
 /* Make change custom style for <div> on hover */
 .window:hover{
-    box-shadow: 0px 4px 8px black, 0px 0px 64px rgb(20, 20, 45) inset;
+    box-shadow: 0px 4px 8px black, 0px 0px 64px rgb(20, 20, 50) inset;
 }
 
 /* Make common custom style for <table> */
