@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Class 12 - Web Programming"
             }
+          },
+          {
+            "id": "7ae853dd80161d3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 1 - Semester 2/1 - Ideation & UX Design/Class 13 - Ideation & UX Design.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Class 13 - Ideation & UX Design"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,17 +238,18 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "2873457ee931ad10",
+  "active": "7ae853dd80161d3f",
   "lastOpenFiles": [
+    "Year 1 - Semester 2/1 - Ideation & UX Design/Class 10 - Ideation & UX Design.md",
+    "Year 1 - Semester 2/1 - Ideation & UX Design/Class 13 - Ideation & UX Design.md",
+    "Year 1 - Semester 2/3 - Web programming/Class 12 - Web Programming.md",
     "Year 1 - Semester 2/3 - Web programming/Assessments/Chapter 1/UndertaleSoundtrack55.mp3",
     "Year 1 - Semester 2/3 - Web programming/Assessments/Chapter 1/toby fox - UNDERTALE Soundtrack - 55 Can You Really Call This A Hotel, I Didn't Receive A Mint On My Pillow Or Anything.mp3",
     "Year 1 - Semester 2/3 - Web programming/Class 09 - Web Programming.md",
-    "Year 1 - Semester 2/3 - Web programming/Class 12 - Web Programming.md",
     "Year 1 - Semester 2/2 - Creative Coding/Class 11 - Creative Coding.md",
     "Year 1 - Semester 2/2 - Creative Coding/Class 08 - Creative Coding.md",
     "Year 1 - Semester 2/2 - Creative Coding/Creative Coding Index.md",
     "Year 1 - Semester 2/2 - Creative Coding/Class 05 - Creative Coding.md",
-    "Year 1 - Semester 2/1 - Ideation & UX Design/Class 10 - Ideation & UX Design.md",
     "Year 1 - Semester 2/2 - Creative Coding/Class 02 - Creative Coding.md",
     "Year 1 - Semester 2/1 - Ideation & UX Design/Activities/IdeaSession 1.md",
     "Year 1 - Semester 2/1 - Ideation & UX Design/Class 07 - Ideation & UX Design.md",
@@ -243,7 +269,6 @@
     "Year 1 - Semester 2/3 - Web programming/Web Programming Portfolio.md",
     "Year 1 - Semester 2/3 - Web programming/Exercise",
     "Year 1 - Semester 2/2 - Creative Coding/Documents/Creative Coding  23-24 - Module Guide.pdf",
-    "Year 1 - Semester 2/2 - Creative Coding/Documents/Creative Coding  23-24 - Module Guide.docx.pdf",
     "Year 1 - Semester 2/1 - Ideation & UX Design/Ideation & UX Design Index.md",
     "Year 1 - Semester 1/1 - Digital Visual Design/Digital Visual Design Index.md",
     "Year 1 - Semester 2/1 - Ideation & UX Design/Ideation & UX Design Portfolio.md",
