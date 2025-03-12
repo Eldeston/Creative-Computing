@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1 - Semester 2/2 - Creative Coding/Class 14 - Creative Coding.md",
+                "file": "Year 1 - Semester 2/3 - Web programming/Class 15 - Web Programming.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Class 14 - Creative Coding"
+              "title": "Class 15 - Web Programming"
             }
           }
         ],
@@ -240,8 +240,13 @@
   },
   "active": "7ae853dd80161d3f",
   "lastOpenFiles": [
-    "Year 1 - Semester 2/1 - Ideation & UX Design/Class 13 - Ideation & UX Design.md",
+    "Year 1 - Semester 2/3 - Web programming/Assessments/Chapter 2/Chapter 2.html",
+    "Year 1 - Semester 2/3 - Web programming/Assessments/Chapter 2/Chapter 1.html",
+    "Year 1 - Semester 2/3 - Web programming/Assessments/Chapter 2/styles.css",
+    "Year 1 - Semester 2/3 - Web programming/Assessments/Chapter 2",
     "Year 1 - Semester 2/2 - Creative Coding/Class 14 - Creative Coding.md",
+    "Year 1 - Semester 2/3 - Web programming/Class 15 - Web Programming.md",
+    "Year 1 - Semester 2/1 - Ideation & UX Design/Class 13 - Ideation & UX Design.md",
     "Year 1 - Semester 2/1 - Ideation & UX Design/Class 10 - Ideation & UX Design.md",
     "Year 1 - Semester 2/3 - Web programming/Class 12 - Web Programming.md",
     "Year 1 - Semester 2/3 - Web programming/Assessments/Chapter 1/UndertaleSoundtrack55.mp3",
@@ -264,17 +269,13 @@
     "Year 1 - Semester 2/2 - Creative Coding/Creative Coding Portfolio.md",
     "Year 1 - Semester 2/1 - Ideation & UX Design/Activities/Divergent & Convergent Thinking.md",
     "Year 1 - Semester 2/1 - Ideation & UX Design/Class 04 - Ideation & UX Design.md",
-    "Year 1 - Semester 2/1 - Ideation & UX Design/Activities",
     "Year 1 - Semester 2/1 - Ideation & UX Design/Class 01 - Ideation & UX Design.md",
     "Year 1 - Semester 2/3 - Web programming/Web Programming Index.md",
     "Year 1 - Semester 2/3 - Web programming/Web Programming Portfolio.md",
-    "Year 1 - Semester 2/3 - Web programming/Exercise",
-    "Year 1 - Semester 2/2 - Creative Coding/Documents/Creative Coding  23-24 - Module Guide.pdf",
     "Year 1 - Semester 2/1 - Ideation & UX Design/Ideation & UX Design Index.md",
     "Year 1 - Semester 1/1 - Digital Visual Design/Digital Visual Design Index.md",
     "Year 1 - Semester 2/1 - Ideation & UX Design/Ideation & UX Design Portfolio.md",
     "Year 1 - Semester 1/1 - Digital Visual Design/Class 01 - Digital Visual Design.md",
-    "Year 1 - Semester 2/Untitled.md",
     "Year 1 - Semester 1/2 - Digital Storytelling/Assessments/Assessment 02/blood.jpg",
     "Year 1 - Semester 1/2 - Digital Storytelling/Assessments/Assessment 02/house.png",
     "Year 1 - Semester 1/2 - Digital Storytelling/Assessments/Assessment 02/emeralds.png",
@@ -285,7 +286,6 @@
     "Year 1 - Semester 1/2 - Digital Storytelling/Assessments/Assessment 02/fire.jpg",
     "Year 1 - Semester 1/2 - Digital Storytelling/Assessments/Assessment 02/village.png",
     "Year 1/02 - Digital Storytelling/Assessments/Assessment 02/ss1_1297854.jpg",
-    "Year 1 - Semester 1/3 - Intro to Programming/Intro to Python Index.md",
     "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/Untitled.canvas",
     "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/flowchart.canvas",
     "Year 1/03 - Intro to Programming/Assessments/Untitled.canvas",
