@@ -6,5 +6,7 @@ teacher: Ms. Lavanya Mohan
 ---
 # Web Programming 6
 
+# JavaScript
+
 ----------------------------------------------------------------
 # Editor's Notes
