@@ -1,0 +1,45 @@
+<!-- This is a comment -->
+<!-- This is file is an HTML exercise -->
+
+<!-- Declares document type -->
+<!DOCTYPE html>
+<!-- Root element of this page -->
+<html lang="en">
+    <!-- Contains meta information of this page -->
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <style>
+            #calculator{
+                width: 500px; 
+                height: 250px;
+                border: 2px solid black;
+                margin: auto; 
+                margin-top:100px;
+            }
+        </style>
+
+        <!-- Sets page title, can be seen in your browser tab -->
+        <title>
+            Vat Converter
+        </title>
+    </head>
+
+    <body>
+        <div id="calculator">
+            <center>
+                <br>
+                <label style="margin-top:50px;">Amount</label>
+                <br>
+                <br>
+                <input type="number" placeholder="Enter Amount" oninput="vatConvert(this.value)" onchange="vatConvert(this.value)">
+                <p>Vat 5%: <span id="vat5"></span></p>
+                <br>
+                <p>Vat 10%: <span id="vat10"></span></p>
+            </center>
+        </div>
+    </body>
+
+    <script src="vatFunction.js"></script>
+</html>
