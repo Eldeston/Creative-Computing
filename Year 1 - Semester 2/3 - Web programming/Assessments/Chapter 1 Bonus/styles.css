@@ -27,37 +27,6 @@ iframe{
     border-radius: 16px;
 }
 
-/* Make common custom style for <navigationBar> */
-.navigationBar{
-    width: 100%;
-
-    padding: 16px 0 16px 0;
-
-    text-align: center;
-
-    background-color: rgb(20, 20, 25);
-
-    box-shadow: 0px 4px 8px black;
-
-    position: fixed;
-
-    top: 0;
-}
-
-.navigationBar a{
-    padding: 16px 4% 16px 4%;
-    font-size: 200%;
-    text-decoration: none;
-    transition: 0.5s;
-}
-
-.navigationBar a:hover{
-    border: 1px;
-    border-style: solid;
-    background-color: green;
-    border-color: greenyellow;
-}
-
 /* Make common custom style for <div> */
 .window{
     margin: 16px 20%;
@@ -86,31 +55,4 @@ iframe{
 /* Make common custom style for <h1> */
 .headerStyle{
     color: yellow;
-
-    text-align: center;
-}
-
-.buttonBasic{
-    background-color: rgb(20, 40, 25);
-
-    border: 1px;
-
-    display: flex;
-
-    margin: 16px auto;
-
-    border-style: solid;
-
-    border-color: green;
-
-    padding: 4px 4% 4px 4%;
-
-    transition: 0.5s;
-}
-
-.buttonBasic:hover{
-    background-color: green;
-    border-color: greenyellow;
-
-    cursor: pointer;
 }

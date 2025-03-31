@@ -12,11 +12,6 @@ body{
     margin: 0%;
 }
 
-/* Set a common style for all <code> */
-code{
-    color: orange;
-}
-
 /* Set a common style for all <img> */
 img{
     border-radius: 16px;
@@ -29,8 +24,7 @@ iframe{
 
 /* Make common custom style for <div> */
 .window{
-    margin-left: 20%;
-    margin-right: 20%;
+    margin: 16px 20%;
 
     padding: 32px;
 
