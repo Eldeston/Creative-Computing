@@ -44,8 +44,3 @@ iframe{
 .window:hover{
     box-shadow: 0px 4px 8px black, 0px 0px 64px rgb(20, 20, 50) inset;
 }
-
-/* Make common custom style for <h1> */
-.headerStyle{
-    color: yellow;
-}
