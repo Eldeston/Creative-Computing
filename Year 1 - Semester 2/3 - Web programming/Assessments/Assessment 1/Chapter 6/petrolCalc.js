@@ -2,8 +2,8 @@
 document.addEventListener('DOMContentLoaded', function(){
     // Get information from input and buttons adn store in variables
     // Use constants to save memory
-    const costPerLiterInput = document.getElementById('costPerLiter');
-    const litersPurchasedInput = document.getElementById('liters');
+    const literCost = document.getElementById('costPerLiter');
+    const liters = document.getElementById('liters');
     const calculateButton = document.getElementById('calculateButton');
     const totalCostDisplay = document.getElementById('totalCost');
     
@@ -13,8 +13,8 @@ document.addEventListener('DOMContentLoaded', function(){
     // Calculates the total cost of petrol from input and updates the result to the display
     function calculateTotalCost(){
         // Get values from inputs and convert them to floats
-        const costPerLiter = parseFloat(costPerLiterInput.value);
-        const litersPurchased = parseFloat(litersPurchasedInput.value);
+        const costPerLiter = parseFloat(literCost.value);
+        const litersPurchased = parseFloat(liters.value);
         
         // Calculate total cost
         const totalCost = costPerLiter * litersPurchased;
