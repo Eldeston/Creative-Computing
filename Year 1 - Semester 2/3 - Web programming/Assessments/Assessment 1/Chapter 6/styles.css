@@ -46,6 +46,7 @@ button{
     border: 1px;
     border-style: solid;
     border-color: green;
+    border-radius: 16px;
 
     padding: 4px 4% 4px 4%;
 
@@ -84,4 +85,20 @@ iframe{
 /* Make change custom style for <div> on hover */
 .window:hover{
     box-shadow: 4px 4px 8px rgb(0, 0, 0, 1), -4px -4px 8px rgb(255, 255, 255, 0.125), 0px 0px 64px rgb(20, 20, 90);
+}
+
+.result{
+    border-radius: 16px;
+    background-color: rgb(255, 255, 255, 0.0625);
+
+    padding: 16px;
+
+    box-shadow: 4px 4px 8px rgb(0, 0, 0, 1), -4px -4px 8px rgb(255, 255, 255, 0.125);
+
+    transition: 0.5s;
+}
+
+/* Make change custom style for <div> on hover */
+.result:hover{
+    box-shadow: 4px 4px 8px rgb(0, 0, 0, 1), -4px -4px 8px rgb(255, 255, 255, 0.125), 0px 0px 64px rgb(20, 90, 20);
 }

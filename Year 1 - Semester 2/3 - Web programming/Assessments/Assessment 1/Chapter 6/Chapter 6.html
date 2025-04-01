@@ -25,19 +25,21 @@
             <!-- Label -->
             <label>Cost per liter</label>
             <!-- Number input with min value, step size, and default value -->
-            <input type="number" id="cost-per-liter" value="1.72" step="0.01" min="0">
+            <input type="number" id="costPerLiter" value="1.72" step="0.01" min="0">
 
             <!-- Label -->
             <label>Liters</label>
             <!-- Number input with min value, step size, and default value -->
-            <input type="number" id="liter" value="0" step="0.01" min="0">
+            <input type="number" id="liters" value="0.00" step="0.01" min="0">
 
             <!-- Button to trigger calculation -->
-            <button id="calculate-btn">Calculate Total</button>
+            <button id="calculateButton">Calculate Total</button>
 
             <br>
 
-            <label>Petrol Price: <span id="price"></span></label>
+            <div class="result">
+                <label>Petrol Price: <span id="totalCost"></span></label>
+            </div>
         </div>
     </body>
 
