@@ -1,3 +1,8 @@
+:root{
+    --darkBackGround: rgb(10, 10, 15);
+    --darkForeGround: rgb(20, 20, 25);
+}
+
 /* This is a comment */
 /* This selects and styles all elements */
 *{
@@ -7,7 +12,7 @@
 
 /* Set a common style for <body> */
 body{
-    background-color: rgb(10, 10, 15);
+    background-color: var(--darkBackGround);
 
     margin: 0%;
 }
@@ -35,7 +40,7 @@ iframe{
 
     text-align: center;
 
-    background-color: rgb(20, 20, 25);
+    background-color: var(--darkForeGround);
 
     box-shadow: 0px 4px 8px black;
 
@@ -60,21 +65,20 @@ iframe{
 
 /* Make common custom style for <div> */
 .window{
-    margin: 16px 20%;
+    border-radius: 16px;
+    background-color: var(--darkForeGround);
 
+    margin: 32px 20%;
     padding: 32px;
 
-    border-radius: 16px;
-    background-color: rgb(20, 20, 25);
-
-    box-shadow: 0px 4px 8px black;
+    box-shadow: 4px 4px 8px rgb(0, 0, 0, 1), -4px -4px 8px rgb(255, 255, 255, 0.125);
 
     transition: 0.5s;
 }
 
 /* Make change custom style for <div> on hover */
 .window:hover{
-    box-shadow: 0px 4px 8px black, 0px 0px 64px rgb(20, 20, 50) inset;
+    box-shadow: 4px 4px 8px rgb(0, 0, 0, 1), -4px -4px 8px rgb(255, 255, 255, 0.125), 0px 0px 64px rgb(20, 20, 90);
 }
 
 /* Make common custom style for <table> */

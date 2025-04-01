@@ -1,38 +1,48 @@
 body{
     font-family: Arial;
     font-weight: 400;
+    font-size: x-large;
 
     margin: 0%;
 }
 
 header{
-    font-family: Tahoma;
+    font-family: Tahoma, sans-serif;
     font-weight: 700;
-    text-decoration: underline;
-    font-size: xx-large;
+    font-size: 100%;
 
+    text-decoration: underline;
     text-align: center;
+
+    padding: 1%;
 }
 
 h1{
     font-family: Tahoma;
     font-weight: 700;
+    
     text-decoration: underline;
-    font-size: xx-large;
 }
 
 nav{
-    margin: 2%;
-
     text-align: center;
+
+    padding-bottom: 1%;
+}
+
+nav a{
+    text-decoration: none;
+
+    color: white;
+
+    margin: 0 1%;
 }
 
 main{
-    margin: 2%;
-}
+    display: flex;
+    flex-direction: row;
 
-td{
-    padding: 2%;
+    width: 100%;
 }
 
 footer{
@@ -40,6 +50,10 @@ footer{
     color: white;
 
     text-align: center;
+}
+
+.content{
+    margin: 1%;
 }
 
 .mainBar{
@@ -50,49 +64,12 @@ footer{
 .sideBar{
     background-color: #172d67;
     color: white;
+    padding: 2%;
+
+    margin: 1% 0;
 }
 
-.mainContainer{
-    display: grid;
-    grid-template-areas:
-        "header header"
-        "menu content"
-        "footer footer";
-    grid-template-columns: 1fr 3fr;
-    gap: 5px;
-    /* padding: 5px; */
-}
-
-.mainContainer > header{
-    font-family: Tahoma;
-    font-weight: 700;
-    text-decoration: underline;
-    font-size: xx-large;
-
-    text-align: center;
-}
-
-.mainContainer > menu{
-    font-family: Tahoma;
-    font-weight: 700;
-    text-decoration: underline;
-    font-size: xx-large;
-
-    text-align: center;
-}
-
-.mainContainer > content{
-    font-family: Tahoma;
-    font-weight: 700;
-    text-decoration: underline;
-    font-size: xx-large;
-
-    text-align: center;
-}
-
-.mainContainer > footer{
-    background-color: #8c15e9;
-    color: white;
-
-    text-align: center;
+.imageRow{
+    display: flex;
+    flex-direction: row;
 }
