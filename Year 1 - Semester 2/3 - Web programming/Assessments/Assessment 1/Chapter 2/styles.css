@@ -1,0 +1,120 @@
+:root{
+    --darkBackGround: rgb(10, 10, 15);
+    --darkForeGround: rgb(20, 20, 25);
+}
+
+/* This is a comment */
+/* This selects and styles all elements */
+*{
+    font-family: "Cascadia Mono";
+    color: white;
+}
+
+/* Set a common style for <body> */
+body{
+    background-color: var(--darkBackGround);
+
+    margin: 0%;
+}
+
+/* Set a common style for all <code> */
+code{
+    color: orange;
+}
+
+/* Set a common style for all <img> */
+img{
+    border-radius: 16px;
+}
+
+/* Set a common style for all <iframe> */
+iframe{
+    border-radius: 16px;
+}
+
+/* Make common custom style for <navigationBar> */
+.navigationBar{
+    width: 100%;
+
+    padding: 16px 0 16px 0;
+
+    text-align: center;
+
+    background-color: var(--darkForeGround);
+
+    box-shadow: 0px 4px 8px black;
+
+    position: fixed;
+
+    top: 0;
+}
+
+.navigationBar a{
+    padding: 16px 4% 16px 4%;
+    font-size: 200%;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.navigationBar a:hover{
+    border: 1px;
+    border-style: solid;
+    background-color: green;
+    border-color: greenyellow;
+}
+
+/* Make common custom style for <div> */
+.window{
+    border-radius: 16px;
+    background-color: var(--darkForeGround);
+
+    margin: 32px 20%;
+    padding: 32px;
+
+    box-shadow: 4px 4px 8px rgb(0, 0, 0, 1), -4px -4px 8px rgb(255, 255, 255, 0.125);
+
+    transition: 0.5s;
+}
+
+/* Make change custom style for <div> on hover */
+.window:hover{
+    box-shadow: 4px 4px 8px rgb(0, 0, 0, 1), -4px -4px 8px rgb(255, 255, 255, 0.125), 0px 0px 64px rgb(20, 20, 90);
+}
+
+/* Make common custom style for <table> */
+.tableStyle{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Make common custom style for <h1> */
+.headerStyle{
+    color: yellow;
+
+    text-align: center;
+}
+
+.buttonBasic{
+    background-color: rgb(20, 40, 25);
+
+    border: 1px;
+
+    display: flex;
+
+    margin: 16px auto;
+
+    border-style: solid;
+
+    border-color: green;
+
+    padding: 4px 4% 4px 4%;
+
+    transition: 0.5s;
+}
+
+.buttonBasic:hover{
+    background-color: green;
+    border-color: greenyellow;
+
+    cursor: pointer;
+}
