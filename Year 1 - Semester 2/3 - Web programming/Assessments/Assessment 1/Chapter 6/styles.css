@@ -30,6 +30,8 @@ input{
 
     padding: 8px;
 
+    width: 100%;
+
     margin: 16px 0;
 
     display: block;
@@ -48,7 +50,9 @@ button{
     border-color: green;
     border-radius: 16px;
 
-    padding: 4px 4% 4px 4%;
+    padding: 8px 16px;
+
+    width: 100%;
 
     transition: 0.5s;
 }
@@ -91,7 +95,7 @@ iframe{
     border-radius: 16px;
     background-color: rgb(255, 255, 255, 0.0625);
 
-    padding: 16px;
+    padding: 8px 16px;
 
     box-shadow: 4px 4px 8px rgb(0, 0, 0, 1), -4px -4px 8px rgb(255, 255, 255, 0.125);
 

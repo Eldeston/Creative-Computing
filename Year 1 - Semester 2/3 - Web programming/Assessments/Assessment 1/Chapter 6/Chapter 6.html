@@ -19,29 +19,35 @@
 
     <!-- Main content -->
     <body>
+        <!-- This tag defines a div that uses a custom class -->
         <div class="window">
+            <!-- This tag defines a header -->
             <h1>Petrol Calculator:</h1>
 
-            <!-- Label -->
-            <label>Cost per liter</label>
-            <!-- Number input with min value, step size, and default value -->
+            <!-- This tag defines a paragraph -->
+            <p>Cost per liter</p>
+            <!-- This tag defines a number input with min value, step size, and default value -->
             <input type="number" id="costPerLiter" value="1.72" step="0.01" min="0">
 
-            <!-- Label -->
-            <label>Liters</label>
-            <!-- Number input with min value, step size, and default value -->
+            <!-- This tag defines a paragraph -->
+            <p>Liters</p>
+            <!-- This tag defines a number input with min value, step size, and default value -->
             <input type="number" id="liters" value="0.00" step="0.01" min="0">
 
             <!-- Button to trigger calculation -->
             <button id="calculateButton">Calculate Total</button>
 
+            <!-- This tag defines a break tag -->
             <br>
 
+            <!-- This tag defines a div that uses a custom class -->
             <div class="result">
-                <label>Petrol Price: <span id="totalCost"></span></label>
+                <!-- This tag defines a paragraph -->
+                <p>Petrol Price: <span id="totalCost"></span></p>
             </div>
         </div>
     </body>
 
+    <!-- This tag defines a script tag that loads a backend which is JavaScript -->
     <script src="petrolCalc.js"></script>
 </html>
