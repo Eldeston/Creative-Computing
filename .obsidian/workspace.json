@@ -11,12 +11,24 @@
             "id": "4b3fe48f66e6ac5a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Year 1 - CC L4 Cohort 1 & 2.pdf"
+                "file": "Year 1 - Semester 2/2 - Creative Coding/Class 23 - Creative Coding.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Year 1 - CC L4 Cohort 1 & 2"
+              "icon": "lucide-file",
+              "title": "Class 23 - Creative Coding"
             }
           }
         ]
@@ -203,6 +215,10 @@
   },
   "active": "4b3fe48f66e6ac5a",
   "lastOpenFiles": [
+    "Year 1 - Semester 2/1 - Ideation & UX Design/Class 22 - Ideation & UX Design 8.md",
+    "Year 1 - Semester 2/1 - Ideation & UX Design/Class 19 - Ideation & UX Design.md",
+    "Year 1 - Semester 2/2 - Creative Coding/Class 23 - Creative Coding.md",
+    "Year 1 - CC L4 Cohort 1 & 2.pdf",
     "Year 1 - Semester 2/3 - Web programming/Assessments/Assessment 1/snippets.css",
     "Year 1 - Semester 2/3 - Web programming/Assessments/Assessment 1/Assessment 1.docx",
     "Year 1 - Semester 2/3 - Web programming/Assessments/Assessment 1/Chapter 6/styles.css",
@@ -215,8 +231,6 @@
     "Year 1 - Semester 2/3 - Web programming/Assessments/Assessment 1/Chapter 4/motherBoard.jpeg",
     "Year 1 - Semester 2/3 - Web programming/Assessments/Assessment 1/Chapter 4/codeVSCode.jpeg",
     "Year 1 - Semester 2/3 - Web programming/Assessments/Assessment 1/Chapter 4/Chapter 4.html",
-    "Year 1 - Semester 2/3 - Web programming/Assessments/Assessment 1/Chapter 4",
-    "Year 1 - Semester 2/3 - Web programming/Assessments/Assessment 1/Chapter 3 Bonus/bonusStyle.css",
     "Year 1 - Semester 2/3 - Web programming/Assessments/Assessment 1/Chapter 3/eldeston2.png",
     "Year 1 - Semester 2/3 - Web programming/Assessments/Assessment 1/Chapter 3/eldeston1.png",
     "Year 1 - Semester 2/3 - Web programming/Assessments/Assessment 1/Chapter 3/eldeston0.png",
@@ -235,7 +249,6 @@
     "Year 1 - Semester 2/3 - Web programming/Class 21 - Web Programming.md",
     "Year 1 - Semester 2/3 - Web programming/Class 18 - Web Programming.md",
     "Year 1 - Semester 2/2 - Creative Coding/Class 20 - Creative Coding.md",
-    "Year 1 - Semester 2/1 - Ideation & UX Design/Class 19 - Ideation & UX Design.md",
     "Year 1 - Semester 2/1 - Ideation & UX Design/Class 16 - Ideation & UX Design.md",
     "Year 1 - Semester 2/1 - Ideation & UX Design/Untitled.md",
     "Year 1 - Semester 2/2 - Creative Coding/Class 17 - Creative Coding.md",
@@ -248,7 +261,6 @@
     "Year 1 - Semester 2/2 - Creative Coding/Creative Coding Index.md",
     "Year 1 - Semester 2/2 - Creative Coding/Class 05 - Creative Coding.md",
     "Year 1 - Semester 2/2 - Creative Coding/Class 02 - Creative Coding.md",
-    "Year 1 - Semester 2/1 - Ideation & UX Design/Activities/IdeaSession 1.md",
     "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/Untitled.canvas",
     "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/flowchart.canvas",
     "Year 1/03 - Intro to Programming/Assessments/Untitled.canvas",
