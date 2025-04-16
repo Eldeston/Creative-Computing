@@ -1,0 +1,36 @@
+:root{
+    --darkBackGround: rgb(15, 15, 15);
+    --foreGround: rgb(255, 255, 255, 0.125);
+}
+
+@font-face{
+    font-family: 'JetBrains';
+    src: url(Assets/JetBrainsMono-Regular.ttf);
+}
+
+body{
+    font-family: 'JetBrains';
+
+    background-color: var(--darkBackGround);
+
+    margin: 0%;
+}
+
+h1, p{
+    color: white;
+}
+
+.banner{
+    margin: 0 256px;
+}
+
+.window{
+    background-color: var(--foreGround);
+
+    margin: 64px 256px;
+    padding: 32px;
+
+    border-radius: 16px;
+
+    box-shadow: 4px 4px 4px rgb(0, 0, 0, 0.125), -4px -4px 4px rgb(255, 255, 255, 0.125);
+}
