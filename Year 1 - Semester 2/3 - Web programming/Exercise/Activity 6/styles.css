@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body{
+    padding: 0;
+    margin: 0;
+
+    font-family: 'PT Sans';
+    font-weight: 512;
+
+    background-color: #e3edf5;
+}
+
+.logo{
+    display: block;
+
+    margin: 128px auto 128px;
+}
+
+.navBar{
+    padding: 32px;
+    margin: 0;
+
+    box-shadow: -8px -8px 8px rgb(255, 255, 255, 0.5), 8px 8px 8px rgb(0, 15, 45, 0.25);
+
+    background-color: #e3edf5;
+
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+/* Navigation bar links styling */
+.navBar a{
+    color: rgb(90, 90, 120);
+
+    text-decoration: none;
+    margin: 32px;
+    font-size: 16px;
+}
+
+.windowOut{
+    padding: 32px;
+    margin: 32px;
+
+    border-radius: 16px;
+
+    box-shadow: -8px -8px 8px rgb(255, 255, 255, 0.5), 8px 8px 8px rgb(0, 15, 45, 0.25);
+}
+
+.windowIn{
+    padding: 32px;
+    margin: 32px;
+
+    border-radius: 16px;
+
+    box-shadow: -8px -8px 8px rgb(255, 255, 255, 0.5) inset, 8px 8px 8px rgb(0, 15, 45, 0.25) inset;
+}
+
+.window p{
+    color: rgb(90, 90, 120);
+}
+
+.button{
+    background-image: linear-gradient(to right, #77A1D3 0%, #79CBCA  51%, #77A1D3  100%)
+}
+
+.button{
+    margin: 0 32px;
+    padding: 15px 45px;
+
+    text-align: center;
+
+    transition: 0.5s;
+    background-size: 200% auto;
+
+    color: white;
+    box-shadow: -8px -8px 8px rgb(255, 255, 255, 0.5), 8px 8px 8px rgb(0, 120, 180, 0.25);
+
+    border-radius: 16px;
+    border-style: none;
+
+    font-family: 'PT Sans';
+    font-weight: 512;
+}
+
+.button:hover{
+    background-position: right center;
+    color: #fff;
+    text-decoration: none;
+}
+
+.button:active{
+    box-shadow: -8px -8px 8px rgb(255, 255, 255, 0.5) inset, 8px 8px 8px rgb(0, 120, 180, 0.25) inset;
+}
