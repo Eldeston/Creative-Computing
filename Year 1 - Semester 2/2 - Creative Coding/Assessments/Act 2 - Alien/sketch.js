@@ -2,7 +2,6 @@ function setup(){
   createCanvas(512, 512);
 }
 
-
 function mix(valueX, valueY, mixA){
   return (valueY - valueX) * mixA + valueX;
 }

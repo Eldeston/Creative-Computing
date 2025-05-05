@@ -1,0 +1,53 @@
+<!-- This is a comment -->
+<!-- This file is an HTML exercise -->
+
+<!-- Declares document type -->
+<!DOCTYPE html>
+<!-- Root element of this page -->
+<html lang="en">
+    <!-- Contains meta information of this page -->
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css">
+
+        <!-- Sets page title, can be seen in your browser tab -->
+        <title>
+            Chapter 6
+        </title>
+    </head>
+
+    <!-- Main content -->
+    <body>
+        <!-- This tag defines a div that uses a custom class -->
+        <div class="window">
+            <!-- This tag defines a header -->
+            <h1>Petrol Calculator:</h1>
+
+            <!-- This tag defines a paragraph -->
+            <p>Cost per liter</p>
+            <!-- This tag defines a number input with min value, step size, and default value -->
+            <input type="number" id="costPerLiter" value="1.72" step="0.01" min="0">
+
+            <!-- This tag defines a paragraph -->
+            <p>Liters</p>
+            <!-- This tag defines a number input with min value, step size, and default value -->
+            <input type="number" id="liters" value="0.00" step="0.01" min="0">
+
+            <!-- Button to trigger calculation -->
+            <button id="calculateButton">Calculate Total</button>
+
+            <!-- This tag defines a break tag -->
+            <br>
+
+            <!-- This tag defines a div that uses a custom class -->
+            <div class="result">
+                <!-- This tag defines a paragraph -->
+                <p>Petrol Price: <span id="totalCost"></span></p>
+            </div>
+        </div>
+    </body>
+
+    <!-- This tag defines a script tag that loads a backend which is JavaScript -->
+    <script src="petrolCalc.js"></script>
+</html>
