@@ -1,5 +1,6 @@
-var userText = "";
-var inputMessage = "Please enter text:";
+let userText = "";
+
+let randColor;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
@@ -12,13 +13,18 @@ function draw() {
   
   textSize(50);
   
-  text(userText, 50, 100);
-  text(inputMessage, 50, 50);
+  textAlign(CENTER);
+  text(userText, width * 0.5, height * 0.25);
+  text("Please enter text:", width * 0.5, height * 0.125);
+
+  drawingContext.shadowBlur = 16;
+  drawingContext.shadowColor = randColor;
 }
 
 function keyTyped(){
   userText += key;
-  fill(random(255), random(255), random(255));
+  randColor = color(random(255), random(255), random(255));
+  fill(randColor);
 }
 
 function mousePressed(){

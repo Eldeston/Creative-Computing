@@ -1,65 +1,81 @@
-const noiseScale = 1.0;
-const pointCount = 16;
+// Disables friendly error to increase performance
+p5.disableFriendlyErrors = true;
 
-let seed = 0;
-let pointCoords = [];
+const particles = 4096;
+const particleSize = 1;
+const particleSpeed = 1.0;
 
-function squared(x){
-  return x * x;
-}
+const noiseSpeed = 0.03125;
+const noiseScale = 1 / 256;
+const noiseRotations = 3 * Math.PI;
 
-function mix(x, y, z){
-  return x + (y - x) *z;
-}
+let currTime = 0;
+let timeSine = 0;
+let particleList = [];
 
-function coordFract(x, axis){
-  // return x;
-  return fract(x / axis) * axis;
-}
+class particle{
+  constructor(position, velocity){
+    // Upon construction of variable, store variables to this class
+    this.position = position;
+    this.velocity = velocity;
+  }
 
-function perlinCustom(x){
-  return noise(x) * 2.0 - 1.0;
-}
+  updateParticle(){
+    // Multiply velocity by particleSpeed and add to position to update and move the particle
+    this.position.add(this.velocity.mult(particleSpeed));
 
-function setup(){
-  createCanvas(windowWidth, windowHeight);
-  
-  background(0);
-}
+    // Calculate new velocity vector based on perlin noise
+    let angle = noise((this.position.x - mouseX) * noiseScale, (this.position.y - mouseY) * noiseScale, currTime) * noiseRotations;
+    // Create a 2D vector and assign new velocity
+    this.velocity.set(Math.sin(angle), Math.cos(angle));
 
-function draw(){
-  background(0, 0, 0, exp(-frameCount * 0.01));
-  
-  noStroke();
-  
-  let secondTime = millis() * 0.001;
+    // Finally, color the particle according to current velocity and time
+    stroke(Math.abs(this.velocity.x) * 255, Math.abs(this.velocity.y) * 255, timeSine);
 
-  for(let i = 0; i < pointCoords.length; i++){
-    let currPointX = pointCoords[i][0];
-    let currPointY = pointCoords[i][1];
-    
-    currPointX += secondTime * 128.0;
-    currPointY += map(noise(secondTime * 0.125 + pointCoords[i][2] * 128.0), 0, 1, -256, 256);
-  
-    stroke(0, 0, 0, 0);
-    fill(pointCoords[i][4], pointCoords[i][5], pointCoords[i][6]);
-    circle(
-      coordFract(currPointX, width),
-      coordFract(currPointY, height),
-      4
-    );
+    // Check if particle goes outside the window borders and reset position
+    if(this.position.x > windowWidth || this.position.x < 0 || this.position.y > windowHeight || this.position.y < 0) this.position.set(Math.random() * windowWidth, Math.random() * windowHeight);
+  }
+
+  displayParticle(){
+    // Simply display the particle with a point
+    point(this.position.x, this.position.y);
   }
 }
 
-function mousePressed(){
-  for(let i = 0; i < pointCount; i++){
-    let currPointX = random(windowWidth);
-    let currPointY = random(windowHeight * 0.4, windowHeight * 0.6);
+function setup(){
+  // Utilize full window size
+  createCanvas(windowWidth, windowHeight);
+  // Set stroke thickness
+  strokeWeight(particleSize);
+  // Don't use fill
+  noFill();
 
-    let colorR = random(255.0);
-    let colorG = random(255.0);
-    let colorB = random(255.0);
+  // Set initial background white
+  background(0, 0, 0)
 
-    pointCoords.push([currPointX, currPointY, random(-1.0, 1.0), 0, colorR, colorG, colorB]);
+  // Generate new particles first on setup
+  for(let i = 0; i < particles; i++){
+    particleList[i] = new particle(createVector(0, 0), createVector(-1, 0));
+  }
+}
+
+function windowResized(){
+  // Keeps window responsive
+  resizeCanvas(windowWidth, windowHeight);
+}
+
+function draw(){
+  // Calculate time per frame and not per particle to save performance
+  currTime = millis() * 0.001 * noiseSpeed;
+  // Calculate sine wave with time per frame
+  timeSine = Math.sin(currTime) * 128 + 128;
+
+  // Set alpha to 8 to create trails
+  background(0, 0, 0, 8);
+
+  // Load, update, and display particles
+  for(let i = 0; i < particleList.length; i++){
+    particleList[i].updateParticle();
+    particleList[i].displayParticle();
   }
 }

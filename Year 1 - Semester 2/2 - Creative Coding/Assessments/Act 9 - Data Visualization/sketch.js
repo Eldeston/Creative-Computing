@@ -1,14 +1,10 @@
 let tableList = [];
 
-let testTable;
-
 function preload(){
   tableList[0] = loadTable('emissionsCHN.csv', 'csv', 'header');
   tableList[1] = loadTable('emissionsDEU.csv', 'csv', 'header');
   tableList[2] = loadTable('emissionsIND.csv', 'csv', 'header');
   tableList[3] = loadTable('emissionsUS.csv', 'csv', 'header');
-  
-  testTable = loadTable('emissionsCHN.csv', 'csv', 'header');
 }
 
 function setup(){
@@ -16,8 +12,9 @@ function setup(){
 }
 
 function draw(){
-  const padding = width * 0.05;
-  const graphScaleX = 0.9;
+  const padding = width * 0.125;
+  const graphScaleX = 0.825;
+  const graphScaleY = 0.5;
 
   // Set background
   background(0, 0, 0, 255);
@@ -39,27 +36,33 @@ function draw(){
     beginShape();
   
     for(let data = 0; data < tableRowCounts; data++){
-      const emissions = tableList[table].getNum(data, 'Emissions');
-
-      vertex(data * widthColumns * graphScaleX + padding, height - emissions * 0.00000005 - height * 0.25);
+      const emissions = (tableList[table].getNum(data, 'Emissions') / 10000000000) * height * graphScaleY;
+      vertex(data * widthColumns * graphScaleX + padding, height * 0.75 - emissions);
     }
 
     endShape();
   }
 
-  const decadeRowCount = 11;
-  const widthColumnsDecade = width / 11;
+  const decadeColumns = 11;
+  const widthColumnDecade = width / decadeColumns;
 
   fill(255);
   noStroke();
   textSize(16);
   textAlign(CENTER);
 
-  for(let decades = 0; decades <= decadeRowCount; decades++){
-    text(1910 + decades * 10, decades * widthColumnsDecade * graphScaleX + padding, height * 0.8)
+  for(let decades = 0; decades <= decadeColumns; decades++){
+    text(1910 + decades * 10, decades * widthColumnDecade * graphScaleX + padding, height * 0.8)
   }
 
-  const labelX = width * 0.0625;
+  const carbonTonRows = 10;
+  const heightRowCarbonTon = (height * graphScaleY) / carbonTonRows;
+
+  for(let carbonTon = 0; carbonTon <= carbonTonRows; carbonTon++){
+    text(carbonTon + ' Billion T', padding * 0.5, height * 0.75 - carbonTon * heightRowCarbonTon)
+  }
+
+  const labelX = width * 0.031225;
   const labelY = height * 0.0625;
 
   textAlign(LEFT);
@@ -75,5 +78,5 @@ function draw(){
 
   fill(255);
   textAlign(CENTER);
-  text('Carbon Emissions from 1910-2020', width * 0.5, height * 0.9);
+  text('Annual CO₂ Emissions from 1910-2020', width * 0.5, height * 0.9);
 }

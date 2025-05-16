@@ -3,10 +3,11 @@ function setup(){
   // Create initial canvas with specified sizes
   // Takes additional parameters to enable WebGL
   // NOTE: Enabling WEBGL transforms coordinate space from screen space (range: 0:1) to clip space (-1:1)
+  // This also renders everything in the GPU instead of the CPU
   createCanvas(512, 512);
 }
 
-// Wheel function
+// Wheel function, allows me to reuse the wheels
 function wheel(coordX, coordY, outer, inner){
   fill(0)
   circle(coordX, coordY, outer)
@@ -23,6 +24,7 @@ function wheel(coordX, coordY, outer, inner){
 }
 
 // Foundation function
+// Contains the basic shapes for the base of the car
 function foundation(coordX, coordY, foundationWidth, foundationHeight){
   let foundationOriginX = coordX - foundationWidth * 0.5
   let foundationOriginY = coordY - foundationHeight * 0.5
@@ -34,6 +36,8 @@ function foundation(coordX, coordY, foundationWidth, foundationHeight){
   rect(foundationOriginX, foundationOriginY + 15, foundationWidth, foundationHeight * 0.1)
 }
 
+// Hood function
+// Contains the basic shapes for the hood of the car
 function hood(coordX, coordY, hoodWidth, hoodHeight, hoodHoof, windowScale){
   fill(15, 180, 30)
   quad(
