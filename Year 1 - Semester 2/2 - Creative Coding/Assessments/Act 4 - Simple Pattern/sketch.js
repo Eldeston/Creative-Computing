@@ -1,32 +1,31 @@
 function setup(){
-  createCanvas(512, 512);
+  // Utilizw entire screen
+  createCanvas(windowWidth, windowHeight);
   
+  // Utilize framerate to make a slide show of random patterns
   frameRate(1);
 }
 
 function draw(){
   background(0);
   
-  let columns = 64;
-  let rows = 64;
+  // Calculate the size of the grid
+  const rows = 64;
+  const columns = 64;
   
-  let widthStep = width / columns;
-  let heightStep = height / rows;
+  // Calculates the size of the cell based on the canvas size and number of rows and columns
+  const widthStep = width / columns;
+  const heightStep = height / rows;
   
+  // Create a grid
   for(let coordX = 0; coordX < columns; coordX++){
     for(let coordY = 0; coordY < columns; coordY++){
-      let axisX = map(coordX, 0, columns, 0, 255);
-      let axisY = map(coordY, 0, columns, 0, 255);
-      
-      // stroke(255);
-      
-      let scaledX = coordX * widthStep;
-      let scaledY = coordY * heightStep;
-      
-      // fill(axisX, axisY, 255);
-      // square(scaledX, scaledY, min(widthStep, heightStep));
-      
-      let randShape = random([0, 1, 2]);
+      const scaledX = coordX * widthStep;
+      const scaledY = coordY * heightStep;
+
+      // Randomize from a set list
+      // Using this to render different shapes and colors
+      const randShape = random([0, 1, 2]);
       
       if(randShape == 0){
         fill(random(255), random(255), random(255));

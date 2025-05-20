@@ -50,8 +50,8 @@ function setup(){
   // Don't use fill
   noFill();
 
-  // Set initial background white
-  background(0, 0, 0)
+  // Set initial background black
+  background(0, 0, 0, 255)
 
   // Generate new particles first on setup
   for(let i = 0; i < particles; i++){
