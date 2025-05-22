@@ -3,17 +3,6 @@ const noiseSpeed = 2.0 * 0.001;
 
 let mic;
 
-// FPS counter
-function fpsCounter(x, y, z){
-  let fps = frameCount / z;
-  let fpsG = 1.0 - exp(-fps * 0.125);
-  let fpsB = 1.0 - exp(-fps * 0.015625);
-
-  fill(255, fpsG * 255, fpsB * 255);
-  textAlign(CENTER);
-  text(fps, x, y);
-}
-
 // Flow line using vertices
 function flowLine(currTime, crestHeight, z, w){
   // Get half of width
@@ -42,7 +31,7 @@ function flowLine(currTime, crestHeight, z, w){
     // Get noise depending on the x axis
     let noise0 = noise(currStep + timeEighth);
     let noise1 = noise(currStep - timeFourth);
-    let noise2 = noise(currStep * 2.0 + currTime);
+    let noise2 = noise(currStep, currTime);
   
     // Draw vertex node
     vertex(i, (noise0 + noise1 + noise2 - 1.5) * halfHeight + w);
@@ -94,8 +83,4 @@ function draw(){
     stroke(0, 255, 0, 64);
     flowLine(secondTime, micIncrement, 977, 0);
   }
-
-  // Reset stroke color
-  // stroke(0, 0, 0, 0);
-  // fpsCounter(0, height * 0.125, secondTime);
 }
