@@ -1,4 +1,5 @@
 function mix(valueX, valueY, mixA){
+  // Linear interpolation from GLSL's mix() function
   return (valueY - valueX) * mixA + valueX;
 }
 

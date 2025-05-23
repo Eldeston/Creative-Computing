@@ -47,8 +47,8 @@ function draw(){
   }
 
   // Render a black text to reveal a hidden message at the end
-  fill(0);
+  fill(255);
   textSize(32);
   textAlign(CENTER,CENTER);
-  text("The Bokeh Effect", width * 0.5, height * 0.5);
+  text("The Bokeh (Pointellism) \nEffect", width * 0.5, height * 0.9);
 }

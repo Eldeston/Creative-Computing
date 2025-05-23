@@ -1,33 +1,41 @@
-// Set up function
-function setup(){
-  // Create initial canvas with specified sizes
-  // Takes additional parameters to enable WebGL
-  // NOTE: Enabling WEBGL transforms coordinate space from screen space (range: 0:1) to clip space (-1:1)
-  // This also renders everything in the GPU instead of the CPU
-  createCanvas(512, 512);
-}
-
 // Wheel function, allows me to reuse the wheels
 function wheel(coordX, coordY, outer, inner){
-  fill(0)
-  circle(coordX, coordY, outer)
+  // Saves the current transformation
+  // This is to reset the position and don't need to undo the transformations for each wheel
+  push();
 
+  // Translate origin for the position of the wheel
+  translate(coordX, coordY);
+  // Rotate wheel at 100 times a second
+  rotate(-millis() * 0.01)
+
+  // Tiyre of the wheel
+  fill(0)
+  circle(0, 0, outer)
+
+  // Rim of the wheel
   fill(90)
-  circle(coordX, coordY, inner)
+  circle(0, 0, inner)
   
+  // Designs the rim by using asterisk
   fill(45)
+  textAlign(CENTER);
   textSize(outer * 1.8)
-  text('*', coordX - 14 * 1.8, coordY + 42 * 1.8)
+  text('*', 0, 42 * 1.8)
   
+  // Designs the rim by using circle
   fill(255)
-  circle(coordX, coordY, inner * 0.5)
+  circle(0, 0, inner * 0.33333333)
+
+  // Resets to last transformation saved
+  pop();
 }
 
 // Foundation function
 // Contains the basic shapes for the base of the car
 function foundation(coordX, coordY, foundationWidth, foundationHeight){
-  let foundationOriginX = coordX - foundationWidth * 0.5
-  let foundationOriginY = coordY - foundationHeight * 0.5
+  const foundationOriginX = coordX - foundationWidth * 0.5
+  const foundationOriginY = coordY - foundationHeight * 0.5
   
   fill(15, 180, 30)
   rect(foundationOriginX, foundationOriginY, foundationWidth, foundationHeight)
@@ -60,6 +68,12 @@ function hood(coordX, coordY, hoodWidth, hoodHeight, hoodHoof, windowScale){
   )
 }
 
+// Set up function
+function setup(){
+  // Create initial canvas with specified sizes
+  createCanvas(windowWidth, windowHeight);
+}
+
 // Draw function
 function draw(){
   // Shape layering depends on code order
@@ -79,14 +93,14 @@ function draw(){
   background(255);
   
   // Translate orgin to 0, 0
-  translate(height / 2, width / 2)
+  // translate(height / 2, width / 2)
   
   // Disable strokes
   noStroke()
   
   // Set car origin
-  let carOriginX = 0
-  let carOriginY = 0
+  const carOriginX = width / 2;
+  const carOriginY = height / 2
   
   hood(carOriginX - 75, carOriginY - 90, 90, 60, 45, 0.8)
   foundation(carOriginX, carOriginY, 360, 75)
