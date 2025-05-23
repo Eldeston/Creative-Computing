@@ -19,8 +19,8 @@ function setup(){
   noStroke();
 
   // Calculates the size of the cell based on the canvas size and number of rows and columns
-  const widthStep = windowWidth / columns;
-  const heightStep = windowHeight / rows;
+  const widthStep = width / columns;
+  const heightStep = height / rows;
 
   // Create a grid
   for(let coordX = 0; coordX < columns; coordX++){
@@ -39,21 +39,22 @@ function setup(){
 }
 
 function draw(){
-  background(0, 0, 0, 64);
+  background(0, 0, 0, 16);
 
   // Calculate noise scale
   const noiseScale = 1 / 128;
 
   // Calculates the size of the cell based on the canvas size and number of rows and columns
-  const widthStep = windowWidth / columns;
-  const heightStep = windowHeight / rows;
+  const widthStep = width / columns;
+  const heightStep = height / rows;
   
   // Calculate min and max steps
   const maxStep = Math.max(widthStep, heightStep);
   const minStep = Math.min(widthStep, heightStep);
 
   // Get time for animation
-  let time = millis() * 0.1;
+  let time = millis() * 0.125;
+  let scaledZ = time * noiseScale * 0.5;
   
   // Create a grid
   for(let iterations = 0; iterations < listNum; iterations++){
@@ -61,12 +62,12 @@ function draw(){
     let scaledY = cellData[iterations][1];
 
     // Get 2 types of perlin noise to offset the X and Y directions to create a wave like motion by offsetting any of the axis by time
-    let noiseX = noise(scaledX * noiseScale, (scaledY + time) * noiseScale, -time * 0.01);
-    let noiseY = noise((scaledX + time * 0.5) * noiseScale, scaledY * noiseScale, time * 0.01);
+    let noiseX = noise(scaledX * noiseScale, (scaledY + time) * noiseScale, -scaledZ);
+    let noiseY = noise((scaledX + time * 0.5) * noiseScale, scaledY * noiseScale, scaledZ);
 
     // Change the ranges of these noises from [0, 1] to [-1, 1] and multiply by the maximum step
-    scaledX += (noiseX * 2.0 - 1.0) * maxStep;
-    scaledY += (noiseY * 2.0 - 1.0) * maxStep;
+    scaledX += (noiseX * 4.0 - 2.0) * maxStep;
+    scaledY += (noiseY * 4.0 - 2.0) * maxStep;
 
     // Find the distance between the shape and mouse position and use an exponent function to change its range from [0, infinity] to [1, 1 / infinity]
     let mouseLength = -Math.exp(-dist(scaledX, scaledY, mouseX, mouseY) * noiseScale);
