@@ -1,94 +1,31 @@
-let isUp = false;
-let isDown = false;
-let isLeft = false;
-let isRight = false;
+// Calculate the size of the grid
+const rows = 64;
+const columns = 64;
 
-const cellSize = 32;
-const gridSizeX = 10;
-const gridSizeY = 24;
+let listSize = 0;
+let cellData = [];
 
-let playField = [
-  [0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-];
+function createArray(){
+  // Calculates the size of the cell based on the canvas size and number of rows and columns
+  const widthStep = width / columns;
+  const heightStep = height / rows;
 
-let blocks = [
-  // I
-  [
-    1, 0, 0, 0,
-    1, 0, 0, 0,
-    1, 0, 0, 0,
-    1, 0, 0, 0
-  ],
-  // L
-  [
-    1, 0, 0, 0,
-    1, 0, 0, 0,
-    1, 1, 0, 0,
-    0, 0, 0, 0
-  ],
-  // J
-  [
-    0, 1, 0, 0,
-    0, 1, 0, 0,
-    1, 1, 0, 0,
-    0, 0, 0, 0
-  ],
-  // O
-  [
-    0, 0, 0, 0,
-    1, 1, 0, 0,
-    1, 1, 0, 0,
-    0, 0, 0, 0
-  ],
-  // T
-  [
-    0, 0, 0, 0,
-    1, 1, 1, 0,
-    0, 1, 0, 0,
-    0, 0, 0, 0
-  ]
-]
+  // Calculate min and max steps
+  const maxStep = Math.max(widthStep, heightStep);
+  const minStep = Math.min(widthStep, heightStep);
 
-function displayPlayField(){
-  const paddingX = width * 0.0625;
-  const paddingY = height * 0.0625;
+  // Create a grid
+  for(let coordX = 0; coordX < columns; coordX++){
+    for(let coordY = 0; coordY < columns; coordY++){
+      // Calculate the grid coordinates on the screen
+      const scaledX = coordX * widthStep;
+      const scaledY = coordY * heightStep;
 
-  for(let x = 0; x < gridSizeX; x++){
-    for(let y = 0; y < gridSizeY; y++){
-      // Scan the play field
-      let cellValue = playField[y][x];
+      // Assign position and a random number from the list
+      cellData[listSize] = [scaledX, scaledY, random([0, 1, 1, 2])];
 
-      // Default color
-      fill(16);
-
-      // Check if cell has a value
-      if(cellValue >= 1) fill(255);
-
-      // Display grid cells
-      square(x * cellSize + paddingX, y * cellSize + paddingY, cellSize);
+      // Iterate to the next cell
+      listSize++;
     }
   }
 }
@@ -100,12 +37,12 @@ function setup(){
 function draw(){
   background(0);
 
-  displayPlayField();
-}
+  // Create a grid
+  for(let iterations = 0; iterations < listSize; iterations++){
+    let scaledX = cellData[iterations][0];
+    let scaledY = cellData[iterations][1];
 
-function keyPressed(){
-  isUp = key == 'w';
-  isDown = key == 's';
-  isLeft = key == 'a';
-  isRight = key == 'd';
+    fill(255);
+    square(scaledX, scaledY, minStep);
+  }
 }
