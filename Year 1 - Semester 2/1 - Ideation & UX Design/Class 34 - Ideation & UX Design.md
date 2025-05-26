@@ -24,6 +24,8 @@ teacher: Mr. Subhan Ali
 - 10 million users
 ### Cons
 - Subscription based service
+# Reading Week
+## Be Case-Insensitive #43
 
 ----------------------------------------------------------------
 # Editor's Notes
