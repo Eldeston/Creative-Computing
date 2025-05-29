@@ -65,11 +65,15 @@ function draw(){
   // Thicken stroke by 4
   strokeWeight(4);
 
+  // Get mic level
+  let micLevel = mic.getLevel();
+
   // Loop and calculate 8 lines for 3 bands of lines
   for(let i = -2; i < 2; i++){
     // Store wave size increment as a constant
-    const sizeIncrement = 4.0 + i;
-    let micIncrement = mic.getLevel() * sizeIncrement;
+    const sizeIncrement = (4.0 + i) * 2.0;
+    // Get mic increment
+    let micIncrement = micLevel * sizeIncrement;
 
     // Set red stroke color with transparency
     stroke(255, 128, 0, 64);
