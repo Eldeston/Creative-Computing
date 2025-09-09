@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7f271e532f764c1d",
+        "id": "e1671338398297a8",
         "type": "tabs",
         "children": [
           {
-            "id": "7ddc9bd8a2ac3bb2",
+            "id": "318192825a07df3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 1 - Semester 2/1 - Ideation & UX Design/Class 34 - Ideation & UX Design.md",
+                "file": "Year 2 - Semester 1/1 - Responsive Web/Class 01 - Responsive Web.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Class 34 - Ideation & UX Design"
+              "title": "Class 01 - Responsive Web"
             }
           }
         ]
@@ -197,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,10 +212,18 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "7ddc9bd8a2ac3bb2",
+  "active": "318192825a07df3b",
   "lastOpenFiles": [
-    "Year 1 - Semester 2/1 - Ideation & UX Design/Class 31 - Ideation & UX Design.md",
+    "Year 1 - Semester 2/3 - Web programming/Class 33 - Web Programming.md",
+    "Year 1 - Semester 2/3 - Web programming/Class 03 - Web Programming.md",
+    "Year 2 - Semester 1/1 - Responsive Web/Class 01 - Responsive Web.md",
     "Year 1 - Semester 2/1 - Ideation & UX Design/Class 34 - Ideation & UX Design.md",
+    "Year 2 - Semester 1/1 - Responsive Web/Documents",
+    "Year 2 - Semester 1/1 - Responsive Web/Assessments",
+    "Year 2 - Semester 1/1 - Responsive Web/Activities",
+    "Year 2 - Semester 1/1 - Responsive Web",
+    "Year 2 - Semester 1",
+    "Year 1 - Semester 2/1 - Ideation & UX Design/Class 31 - Ideation & UX Design.md",
     "Year 1 - Semester 2/2 - Creative Coding/Class 14 - Creative Coding.md",
     "Year 1 - Semester 2/2 - Creative Coding/Class 17 - Creative Coding.md",
     "Year 1 - Semester 2/2 - Creative Coding/Class 20 - Creative Coding.md",
@@ -231,13 +238,7 @@
     "Year 1 - Semester 2/2 - Creative Coding/Assessments/Act 09 - Data Visualization/sketch.js",
     "Year 1 - Semester 2/2 - Creative Coding/Assessments/Act 09 - Data Visualization/p5.js",
     "Year 1 - Semester 2/2 - Creative Coding/Assessments/Act 09 - Data Visualization/p5.sound.min.js",
-    "Year 1 - Semester 2/2 - Creative Coding/Assessments/Act 09 - Data Visualization/index.html",
-    "Year 1 - Semester 2/2 - Creative Coding/Assessments/Act 09 - Data Visualization/emissionsIND.csv",
-    "Year 1 - Semester 2/2 - Creative Coding/Assessments/Act 09 - Data Visualization/emissionsDEU.csv",
-    "Year 1 - Semester 2/2 - Creative Coding/Assessments/Act 09 - Data Visualization/emissionsCHN.csv",
-    "Year 1 - Semester 2/2 - Creative Coding/Assessments/Act 09 - Data Visualization",
     "Year 1 - Semester 2/2 - Creative Coding/Assessments/Act 03 - Working with Images/desertNight.jpg",
-    "Year 1 - Semester 2/3 - Web programming/Class 33 - Web Programming.md",
     "Year 1 - Semester 2/3 - Web programming/Class 30 - Web Programming.md",
     "Year 1 - Semester 2/3 - Web programming/Class 27 - Web Programming.md",
     "Year 1 - Semester 2/1 - Ideation & UX Design/Class 28 - Ideation & UX Design.md",
@@ -257,10 +258,8 @@
     "Year 1 - Semester 2/3 - Web programming/Assessments/Assessment 1/Chapter 1/tablea.jpg",
     "Year 1 - Semester 2/3 - Web programming/Assessments/Assessment 1/Chapter 1/kitchen.png",
     "Year 1 - Semester 2/3 - Web programming/Assessments/Assessment 1/Chapter 1/champorado.png",
-    "Year 1 - Semester 2/3 - Web programming/Class 03 - Web Programming.md",
     "Year 1 - Semester 2/3 - Web programming/Assessments/Chapter 1 Bonus/markdownSample.md",
     "Year 1 - Semester 2/3 - Web programming/Class 06 - Web Programming.md",
-    "Year 1 - Semester 2/3 - Web programming/Class 09 - Web Programming.md",
     "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/Untitled.canvas",
     "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/flowchart.canvas",
     "Year 1/03 - Intro to Programming/Assessments/Untitled.canvas",
