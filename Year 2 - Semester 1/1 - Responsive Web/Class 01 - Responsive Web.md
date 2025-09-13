@@ -18,10 +18,10 @@ oliver@metaverse.ae
 - Understand the features of HTML5, CSS3, and Javascript. Develop HTML5
 - document, structure and declaration, tags, elements, div tag, headings, attributes of tags, versions HTML
 ## Assessments
-| Assessment Name.             | Percentage | Assessment Description | Deadline                       |
-| ---------------------------- | ---------- | ---------------------- | ------------------------------ |
-| 1 - Clone Tasks              | 50%        |                        | 27 October - 9 Novermber, 2025 |
-| 2 - Multi-Device Application | 50%        |                        | January 12 - 16, 2026          |
+| Assessment Name.             | Percentage | Deadline             |
+| ---------------------------- | ---------- | -------------------- |
+| 1 - Clone Tasks              | 50%        | 27 Oct - 9 Nov, 2025 |
+| 2 - Multi-Device Application | 50%        | Jan 12 - 16, 2026    |
 
 ----------------------------------------------------------------
 # Editor's Notes

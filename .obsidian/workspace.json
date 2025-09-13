@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e1671338398297a8",
+        "id": "de5b0f5ffd3a8825",
         "type": "tabs",
         "children": [
           {
-            "id": "318192825a07df3b",
+            "id": "14733d8c25c6d8e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2 - Semester 1/1 - Responsive Web/Class 01 - Responsive Web.md",
+                "file": "Year 2 - Semester 1/2 - Games Engine & Scripting/Class 02 - Games Engine & Scripting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Class 01 - Responsive Web"
-            }
-          },
-          {
-            "id": "b4631ac351adc58c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "title": "Class 02 - Games Engine & Scripting"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,17 +214,24 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "b4631ac351adc58c",
+  "active": "14733d8c25c6d8e9",
   "lastOpenFiles": [
+    "Year 2 - Semester 1/1 - Responsive Web/Class 01 - Responsive Web.md",
+    "Year 2 - Semester 1/2 - Games Engine & Scripting/Class 02 - Games Engine & Scripting.md",
+    "Year 1 - CC L4 Cohort 1 & 2.pdf",
+    "Important/Progression Policy October 2023 - Metaverse.pdf",
+    "Year 2 - Semester 1/2 - Games Engine & Scripting/Documents",
+    "Year 2 - Semester 1/2 - Games Engine & Scripting/Assessments",
+    "Year 2 - Semester 1/2 - Games Engine & Scripting/Activities",
+    "Year 2 - Semester 1/2 - Game Engine & Scripting/Untitled.canvas",
+    "Year 2 - Semester 1/2 - Games Engine & Scripting",
     "Year 1 - Semester 2/3 - Web programming/Class 33 - Web Programming.md",
     "Year 1 - Semester 2/3 - Web programming/Class 03 - Web Programming.md",
-    "Year 2 - Semester 1/1 - Responsive Web/Class 01 - Responsive Web.md",
     "Year 1 - Semester 2/1 - Ideation & UX Design/Class 34 - Ideation & UX Design.md",
     "Year 2 - Semester 1/1 - Responsive Web/Documents",
     "Year 2 - Semester 1/1 - Responsive Web/Assessments",
     "Year 2 - Semester 1/1 - Responsive Web/Activities",
     "Year 2 - Semester 1/1 - Responsive Web",
-    "Year 2 - Semester 1",
     "Year 1 - Semester 2/1 - Ideation & UX Design/Class 31 - Ideation & UX Design.md",
     "Year 1 - Semester 2/2 - Creative Coding/Class 14 - Creative Coding.md",
     "Year 1 - Semester 2/2 - Creative Coding/Class 17 - Creative Coding.md",
@@ -248,11 +242,6 @@
     "Year 1 - Semester 2/2 - Creative Coding/Class 32 - Creative Coding.md",
     "Important/Company Internship Information.md",
     "Important/Personal CV.md",
-    "Year 1 - Semester 2/2 - Creative Coding/Assessments/Act 09 - Data Visualization/emissionsUS.csv",
-    "Year 1 - Semester 2/2 - Creative Coding/Assessments/Act 09 - Data Visualization/style.css",
-    "Year 1 - Semester 2/2 - Creative Coding/Assessments/Act 09 - Data Visualization/sketch.js",
-    "Year 1 - Semester 2/2 - Creative Coding/Assessments/Act 09 - Data Visualization/p5.js",
-    "Year 1 - Semester 2/2 - Creative Coding/Assessments/Act 09 - Data Visualization/p5.sound.min.js",
     "Year 1 - Semester 2/2 - Creative Coding/Assessments/Act 03 - Working with Images/desertNight.jpg",
     "Year 1 - Semester 2/3 - Web programming/Class 30 - Web Programming.md",
     "Year 1 - Semester 2/3 - Web programming/Class 27 - Web Programming.md",
@@ -273,8 +262,6 @@
     "Year 1 - Semester 2/3 - Web programming/Assessments/Assessment 1/Chapter 1/tablea.jpg",
     "Year 1 - Semester 2/3 - Web programming/Assessments/Assessment 1/Chapter 1/kitchen.png",
     "Year 1 - Semester 2/3 - Web programming/Assessments/Assessment 1/Chapter 1/champorado.png",
-    "Year 1 - Semester 2/3 - Web programming/Assessments/Chapter 1 Bonus/markdownSample.md",
-    "Year 1 - Semester 2/3 - Web programming/Class 06 - Web Programming.md",
     "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/Untitled.canvas",
     "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/flowchart.canvas",
     "Year 1/03 - Intro to Programming/Assessments/Untitled.canvas",
