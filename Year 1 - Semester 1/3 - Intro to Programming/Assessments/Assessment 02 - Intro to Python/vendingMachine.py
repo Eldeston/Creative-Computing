@@ -6,7 +6,7 @@ import time
 # -------------------------------- # Debugging Settings # -------------------------------- #
 
 # Display console
-displayConsole = True
+displayConsole = False
 
 # Define common durations
 # This determines the length of animations
