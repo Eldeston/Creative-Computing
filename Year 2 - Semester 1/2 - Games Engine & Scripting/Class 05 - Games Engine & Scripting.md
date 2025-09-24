@@ -1,8 +1,8 @@
 ---
 tags:
   - template
-date: 
-teacher:
+date: 2025-09-17
+teacher: Mr. Oliver
 ---
 # Games Engine & Scripting 2
 ## Stages of Game Development
@@ -51,6 +51,11 @@ teacher:
 - Visual Studio Code
 - .NET SDK
 - C# Dev Kit Extension for VS Code
+
+To run the code, start first in terminal
+```terminal
+
+```
 # Group Members
 - Vince
 - Xavier

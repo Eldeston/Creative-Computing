@@ -10,10 +10,10 @@ teacher: Mr. Oliver
 ## Learning Outcomes
 ## Assessments
 
-| Assessments  | Percentage | Deadline             |
-| ------------ | ---------- | -------------------- |
-| Presentation | 20%        | 27 Oct - 9 Nov, 2025 |
-| 2D Game      | 80%        | 12 - 18 Jan, 2026    |
+| Assessments  | Percentage | Deadline    |
+| ------------ | ---------- | ----------- |
+| Presentation | 20%        | Oct 24 2025 |
+| 2D Game      | 80%        | Jan 4 2026  |
 ### Indie Candidates for Assessment 1
 - Stardew
 - Hollow Knight
