@@ -44,5 +44,15 @@ class Program{
 }
 ```
 
+## What is Unity?
+- A game engine for making 2D, 3D, VR, and AR games
+- Used by beginners and professionals
+- Free for students to use
+## Why use Unity?
+- Beginner friendly
+- Drag-and-drop interface
+- Powerful scription with C#
+- Huge community and free assets
+
 ----------------------------------------------------------------
 # Editor's Notes
