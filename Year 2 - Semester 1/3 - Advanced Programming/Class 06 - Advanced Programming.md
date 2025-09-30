@@ -14,5 +14,7 @@ for variable in sequence
 ## Data Structures
 Data structures are "containers" that organize and group data according to type.
 
+[amrithadhanesh09@gmail.com](mailto:amrit%68%61%64h%61%6e%65%73h0%39@gm%61%69%6c%2e%63om)
+
 ----------------------------------------------------------------
 # Editor's Notes
