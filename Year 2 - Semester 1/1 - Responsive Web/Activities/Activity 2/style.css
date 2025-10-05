@@ -1,0 +1,140 @@
+html, body{
+    padding: 0;
+    margin: 0;
+
+    background-color: black;
+}
+
+/* Flexbox demonstration */
+.container{
+    /* Height needed to see the effects of alignment attributes */
+    height: 100vh;
+
+    /* Enables flex for div class */
+    display: flex;
+
+    /* Can swap from row to column or their reverse counterparts */
+    flex-direction: row;
+
+    /* Allows contents to wrap itself, can swap to nowrap, wrap or its reverse counterpart */
+    flex-wrap: wrap;
+    
+    /* Combines the 2 attributes above in shorthand form */
+    /* flex-flow: row nowrap; */
+
+    /* Aligns content horizontally if on main axis, and vertically if cross axis.
+    Can swap to flex-start, flex-end, center, space-between, space-around, space-evenly */
+    justify-content: space-between;
+
+    /* Aligns content vertically if on cross axis, and horizontally if main axis.
+    Can swap to stretch, flex-start, flex-end, center, baseline */
+    align-items: stretch;
+
+    /* Aligns content vertically if on cross axis, and horizontally if main axis.
+    Best use-case is in multi-line contents and not in single line contents
+    Can swap to stretch, flex-start, flex-end, center, space-between, space-around, space-evenly */
+    align-content: space-between;
+}
+
+.box0, .box1, .box2, .box3, .box4, .box5{
+    width: 200px;
+    height: 200px;
+
+    padding: 20px;
+    margin: 10px;
+
+    /* Property exclusive to text elements.
+    Functions like flex boxes */
+    text-align: center;
+
+    /* Changes font style */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box0{
+    order: 0;
+
+    /* Flex grow and shrink changes */
+    flex-grow: 6;
+    flex-shrink: 0;
+    flex-basis: auto;
+
+    /* Shorthand ver. */
+    /* flex: 0 0 auto; */
+
+    background-color: red;
+}
+
+.box1{
+    order: 1;
+
+    /* Flex grow and shrink changes */
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: auto;
+
+    /* Shorthand ver. */
+    /* flex: 0 0 auto; */
+
+    background-color: green;
+}
+
+.box2{
+    order: 2;
+
+    /* Flex grow and shrink changes */
+    flex-grow: 0;
+    flex-shrink: 6;
+    flex-basis: auto;
+
+    /* Shorthand ver. */
+    /* flex: 0 0 auto; */
+
+    background-color: blue;
+}
+
+.box3{
+    order: 3;
+
+    /* Flex grow and shrink changes */
+    flex-grow: 0;
+    flex-shrink: 6;
+    flex-basis: auto;
+
+    /* Shorthand ver. */
+    /* flex: 0 0 auto; */
+
+    background-color: yellow;
+}
+
+.box4{
+    order: 4;
+
+    /* Flex grow and shrink changes */
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: auto;
+
+    /* Shorthand ver. */
+    /* flex: 0 0 auto; */
+
+    background-color: purple;
+}
+
+.box5{
+    order: 5;
+
+    /* Flex grow and shrink changes */
+    flex-grow: 6;
+    flex-shrink: 0;
+    flex-basis: auto;
+
+    /* Shorthand ver. */
+    /* flex: 0 0 auto; */
+
+    background-color: orange;
+
+    /* Sets vertical alignment of a single item
+    Can swap to auto, stretch, flex-start, flex-end, center, baseline */
+    /* align-self: stretch; */
+}

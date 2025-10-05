@@ -1,0 +1,105 @@
+html, body{
+    padding: 0;
+    margin: 0;
+}
+
+#header0{
+    width: 100%;
+    height: 45vh;
+    padding: 8px;
+    /* Property exclusive to text elements.
+    Functions like flex boxes */
+    text-align: center;
+    /* Color stuff */
+    color: white;
+    background-color: green;
+}
+
+#container0{
+    width: 100%;
+    height: 45vh;
+    /* Enables flex for div class */
+    display: flex;
+}
+
+#sidebar0{
+    padding: 8px;
+    /* Color stuff */
+    background-color: lightgrey;
+    /* Sets flex grow priority */
+    flex: 1 0 auto;
+}
+
+#container1{
+    padding: 8px;
+    /* Enables flex for div class */
+    display: flex;
+    /* Aligns content horizontally if on main axis, and vertically if cross axis.
+    Can swap to flex-start, flex-end, center, space-between, space-around, space-evenly */
+    justify-content: space-between;
+    /* Aligns content vertically if on cross axis, and horizontally if main axis.
+    Can swap to stretch, flex-start, flex-end, center, baseline */
+    align-items: flex-start;
+    /* Sets flex grow priority */
+    flex: 1 0 auto;
+}
+
+#widget0, #widget1, #widget2{
+    padding: 16px;
+    margin: 8px;
+    /* Property exclusive to text elements.
+    Functions like flex boxes */
+    text-align: center;
+    /* Color stuff */
+    color: white;
+    background-color: blue;
+}
+
+#widget0{
+    order: 1;
+    /* Sets flex grow priority */
+    flex: 2 0 auto;
+}
+
+#widget1{
+    order: 2;
+    /* Sets flex grow priority */
+    flex: 1 0 auto;
+}
+
+#widget2{
+    order: 3;
+    /* Sets flex grow priority */
+    flex: 1 0 auto;
+}
+
+@media (max-width: 600px){
+    #header0{
+        /* Sets flex grow priority */
+        height: auto;
+    }
+
+    #container0{
+        flex-flow: column nowrap;
+    }
+
+    #container1{
+        width: 100%;
+        flex-flow: column nowrap;
+        /* Aligns content vertically if on cross axis, and horizontally if main axis.
+        Can swap to stretch, flex-start, flex-end, center, baseline */
+        align-items: center;
+    }
+
+    #sidebar0{
+        width: 100%;
+        /* Sets flex grow priority */
+        flex: 0 0 auto;
+    }
+
+    #widget2{
+        order: 0;
+        /* Sets flex grow priority */
+        flex: 2 0 auto;
+    }
+}
