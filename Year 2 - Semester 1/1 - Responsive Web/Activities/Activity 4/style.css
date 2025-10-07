@@ -1,0 +1,51 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+.theGriddy{
+    width: 100%;
+    height: 100vh;
+    display: grid;
+
+    /* grid-template-rows: auto auto auto;
+    grid-template-columns: minmax(64px, 2fr) 1fr 1fr; */
+
+    grid-template-areas: 
+        "header header header header"
+        "sidebar main main stats"
+        "sidebar main main stats"
+        "footer footer footer footer";
+}
+
+#header{
+    padding: 16px;
+    grid-area: header;
+    background-color: green;
+    font-size: xx-large;
+}
+
+#sidebar{
+    padding: 16px;
+    grid-area: sidebar;
+    background-color: gray;
+}
+
+#main{
+    padding: 16px;
+    grid-area: main;
+    background-color: lightgray;
+}
+
+#stats{
+    padding: 16px;
+    grid-area: stats;
+    background-color: white;
+}
+
+#footer{
+    padding: 16px;
+    grid-area: footer;
+    background-color: blue;
+    color: white;
+}

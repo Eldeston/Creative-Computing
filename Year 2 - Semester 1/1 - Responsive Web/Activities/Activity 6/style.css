@@ -1,0 +1,68 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+.theGriddy{
+    width: 100%;
+    height: 100vh;
+    display: grid;
+
+    grid-template-rows: auto auto auto;
+    grid-template-columns: auto auto auto;
+
+    justify-items: center;
+	align-items: center;
+}
+
+#box0, #box1, #box2, #box3, #box4, #box5, #box6, #box7, #box8{
+    width: 256px;
+    height: 256px;
+    display: block;
+    background-size: 100%;
+}
+
+#box0{
+    background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/002/704/169/007.png);
+    background-color: burlywood;
+}
+
+#box1{
+    background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/002/704/170/6e6.png);
+    background-color: violet;
+}
+
+#box2{
+    background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/002/704/171/a2b.png);
+    background-color: lime;
+}
+
+#box3{
+    background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/002/704/170/6e6.png);
+    background-color: yellow;
+}
+
+#box4{
+    background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/002/704/171/a2b.png);
+    background-color: orange;
+}
+
+#box5{
+    background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/002/704/169/007.png);
+    background-color: blue;
+}
+
+#box6{
+    background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/002/704/171/a2b.png);
+    background-color: indigo;
+}
+
+#box7{
+    background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/002/704/169/007.png);
+    background-color: red;
+}
+
+#box8{
+    background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/002/704/170/6e6.png);
+    background-color: brown;
+}

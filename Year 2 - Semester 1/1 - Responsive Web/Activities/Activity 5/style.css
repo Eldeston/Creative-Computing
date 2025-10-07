@@ -1,0 +1,82 @@
+.theGriddy{
+    width: 100%;
+    height: 800px;
+    display: grid;
+    gap: 16px;
+
+    /* grid-template-rows: auto auto auto;
+    grid-template-columns: minmax(64px, 2fr) 1fr 1fr; */
+
+    grid-template-areas: 
+        "box0 box3 box3 box2"
+        "box0 box1 box5 box7"
+        "box0 box4 box6 box7";
+}
+
+#box0, #box1, #box2, #box3, #box4, #box5, #box6, #box7, #box8{
+    display: block;
+    background-size: 100%;
+}
+
+#box0{
+    background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/002/704/169/007.png);
+    background-color: burlywood;
+    grid-area: box0;
+}
+
+#box1{
+    background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/002/704/170/6e6.png);
+    background-color: violet;
+    grid-area: box1;
+}
+
+#box2{
+    background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/002/704/171/a2b.png);
+    background-color: lime;
+    grid-area: box2;
+}
+
+#box3{
+    background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/002/704/170/6e6.png);
+    background-color: yellow;
+    grid-area: box3;
+}
+
+#box4{
+    background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/002/704/171/a2b.png);
+    background-color: orange;
+    grid-area: box4;
+}
+
+#box5{
+    background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/002/704/169/007.png);
+    background-color: blue;
+    grid-area: box5;
+}
+
+#box6{
+    background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/002/704/171/a2b.png);
+    background-color: indigo;
+    grid-area: box6;
+}
+
+#box7{
+    background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/002/704/169/007.png);
+    background-color: red;
+    grid-area: box7;
+}
+
+/* #box8{
+    background-image: url(https://i.kym-cdn.com/photos/images/newsfeed/002/704/170/6e6.png);
+    background-color: brown;
+    grid-area: box8;
+} */
+
+@media (max-width: 500px){
+    .theGriddy{
+        display: grid;
+        gap: 16px;
+        grid-template-rows: auto auto;
+        grid-template-columns: auto auto;
+    }
+}
