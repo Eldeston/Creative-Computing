@@ -9,7 +9,6 @@ html, body{
     display: grid;
 
     grid-template-rows: 1fr 4fr 4fr 1fr;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
 
     grid-template-areas: 
         "header header header header"
@@ -18,45 +17,44 @@ html, body{
         "footer footer footer footer";
 }
 
-#header{
+#header, #sidebar, #main, #content0, #content1, #content2, #footer{
     padding: 16px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#header{
     grid-area: header;
     background-color: green;
     font-size: xx-large;
 }
 
 #sidebar{
-    padding: 16px;
     grid-area: sidebar;
     background-color: gray;
 }
 
 #main{
-    padding: 16px;
     grid-area: main;
     background-color: lightgray;
 }
 
 #content0{
-    padding: 16px;
     grid-area: content0;
     background-color: white;
 }
 
 #content1{
-    padding: 16px;
     grid-area: content1;
     background-color: white;
 }
 
 #content2{
-    padding: 16px;
     grid-area: content2;
     background-color: white;
 }
 
 #footer{
-    padding: 16px;
     grid-area: footer;
     background-color: blue;
     color: white;
@@ -64,6 +62,9 @@ html, body{
 
 @media (max-width: 768px){
     .theGriddy{
+        grid-template-rows: 1fr 1fr 4fr 4fr 4fr 4fr 1fr;
+        grid-template-columns: 1fr;
+
         grid-template-areas: 
             "header"
             "sidebar"
