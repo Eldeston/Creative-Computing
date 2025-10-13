@@ -21,6 +21,7 @@ teacher: Ms. Preeti Tyagi
 - [Class 32 - Digital Storytelling](Class%2032%20-%20Digital%20Storytelling.md)
 - [Class 35 - Digital Storytelling](Class%2035%20-%20Digital%20Storytelling.md)
 - [Class 38 - Digital Storytelling](Class%2038%20-%20Digital%20Storytelling.md)
+- [Class 41 - Digital Storytelling](Class%2041%20-%20Digital%20Storytelling.md)
 # Assessments
 - [Assessment 01 - The Beginning of an Engineer's Journey](Assessments/Assessment%2001/Assessment%2001%20-%20The%20Beginning%20of%20an%20Engineer's%20Journey.md) - Sep 29
 # References
