@@ -1,5 +1,5 @@
 ## The Vision
-The vision for this club is to create a cozy environment for creative computing students to sharpen each other's skills in study groups and challenge ourselves in extracurricular activities.
+The vision for this club is to create and protect a comfy environment for creative computing students to make connections, sharpen each other's skills, join in study groups, and challenge ourselves in extracurricular activities.
 
 | Members          | Role                 | Course                | Email                         |
 | ---------------- | -------------------- | --------------------- | ----------------------------- |
@@ -10,8 +10,8 @@ The vision for this club is to create a cozy environment for creative computing 
 | Gayl Ragunjan    | Secretary            | Creative Computing L4 | eggcities@gmail.com           |
 | John Yumul       | Secretary            | Cybersecurity L4      | jgkcyumul10@gmail.com         |
 | Vince Caballero  | Activity Coordinator | Creative Computing L5 | vincemcaballero2006@gmail.com |
-| Rameen Akram     | Activity Coordinator | Cybersecurity L5      |                               |
-| Rida Rashid      | Creative Director    | Creative Computing L5 | Rii.ae71@gmail.com            |
+| Rameen Akram     | Activity Coordinator | Cybersecurity L5      | akram_rm@icloud.com           |
+| Rida Rashid[]    | Creative Director    | Creative Computing L5 | Rii.ae71@gmail.com            |
 | Lanz Austria     | Creative Director    | Cybersecurity L4      |                               |
 | Jan Ricalde      | Creative Director    | Cybersecurity L4      | Ricaldejanmichael@gmail.com   |
 ## Club Names
@@ -29,7 +29,16 @@ With introductions out of the way, I have now compiled the final list of names f
 - Using VSCode Color Palette
 - Using Coffee Color Palette
 ## Meeting Topics
-- Club name
-- Club logo design
-- Communication efficiency
-- 
+- Finalizing Club Name
+- Finalizing Club Logo Design
+	- Guidelines
+	- Creative Directors
+- Club Activities
+	- Guidelines
+	- Club Coordinators
+- Communications efficiency
+	- Meetings
+	- WhatsApp
+	- Gmail
+- Constitution
+- Other Topics
