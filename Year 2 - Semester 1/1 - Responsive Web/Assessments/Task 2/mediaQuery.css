@@ -1,0 +1,49 @@
+/* Small Mobile */
+@media (min-width: 360px){
+}
+
+/* Mobile Tablet */
+@media (min-width: 720px){
+    :root{
+        --large-spacing: 32px;
+    }
+
+    nav{
+        display: block;
+    }
+
+    main{
+        grid-template-areas: 
+            "article0 article1"
+            "article2 article3"
+            "article4 article5";
+    }
+
+    #websiteName{
+        font-size: 3em;
+    }
+}
+
+/* Desktop */
+@media (min-width: 1024px){
+    :root{
+        --large-spacing: 48px;
+    }
+
+    main{
+        grid-template-areas: 
+            "article0 article0"
+            "article1 article2"
+            "article3 article3"
+            "article4 article4"
+            "article5 article5";
+    }
+
+    #article0 section{
+        flex-direction: row;
+    }
+
+    #article3, #article4, #article5{
+        flex-direction: row;
+    }
+}
