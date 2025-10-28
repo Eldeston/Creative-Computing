@@ -1,0 +1,87 @@
+/* Small Mobile */
+@media (min-width: 360px){
+}
+
+/* Large Mobile */
+@media (min-width: 540px){
+    nav{
+        padding: 20px
+    }
+
+    #logo{
+        padding: 20px 0 0 0;
+    }
+
+    #mainArticle, #authorInfo{
+        margin: 20px;
+    }
+}
+
+/* Mobile Tablet */
+@media (min-width: 720px){
+    nav{
+        width: 720px;
+    }
+
+    main{
+        width: 720px;
+    }
+
+    #logo{
+        padding: 30px 0 0 0;
+    }
+
+    #mainArticle, #authorInfo{
+        margin: 30px;
+    }
+
+    #imageGrid{
+        display: grid;
+        grid-template-areas: 
+            "album0 album1"
+            "album2 album3";
+    }
+
+    #authorInfo{
+        flex-direction: row;
+    }
+}
+
+/* Desktop */
+@media (min-width: 1024px){
+    h1, h2{
+        text-align: left;
+    }
+
+    #logo{
+        width: 200px;
+        padding: 50px 0 0 0;
+    }
+
+    #bigHeading, #smallHeading{
+        display: block;
+    }
+
+    #defaultHeading{
+        display: none;
+    }
+
+    #mainArticle, #authorInfo{
+        margin: 50px;
+    }
+
+    #mainContent{
+        column-count: 3;
+    }
+
+    #imageGrid{
+        display: grid;
+        grid-template-areas: 
+            "album0 album0 album1 album2"
+            "album0 album0 album3 album4";
+    }
+
+    #album4{
+        display: block;
+    }
+}

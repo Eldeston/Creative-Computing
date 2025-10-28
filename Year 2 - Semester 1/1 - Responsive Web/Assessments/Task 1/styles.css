@@ -1,0 +1,144 @@
+/* Import fonts as per requirement */
+
+/* Protest Guerrilla */
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Protest+Guerrilla&display=swap');
+/* Josefin Sans */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Protest+Guerrilla&display=swap');
+
+/* Reset paddding & margin */
+html, body{
+    padding: 0;
+    margin: 0;
+}
+
+/* ---------------- Layout Rulesets ----------------*/
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: lightgray;
+    font-family: "PT Sans", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+a{
+    padding: 12px;
+    color: black;
+    text-decoration: none;
+}
+
+h1, h2{
+    text-align: center;
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+main{
+    border: 1px solid black;
+    background-color: white;
+}
+
+footer{
+    padding: 12px;
+    text-align: center;
+}
+
+/* -------- Logo -------- */
+
+#logo{
+    width: 80px;
+    padding: 12px 0 0 0;
+}
+
+/* -------- Main Content -------- */
+
+#bigHeading, #smallHeading{
+    display: none;
+}
+
+#bigHeading{
+    padding: 0;
+    margin: 0;
+    font-size: 4em;
+}
+
+#mainArticle{
+    padding: 12px;
+}
+
+/* -------- Image Grid -------- */
+
+#imageGrid{
+    display: grid;
+    grid-template-areas: 
+        "album0"
+        "album1"
+        "album2"
+        "album3";
+}
+
+#album0, #album1, #album2, #album3, #album4{
+    width: 100%;
+}
+
+#album0{
+    grid-area: album0;
+}
+
+#album1{
+    grid-area: album1;
+}
+
+#album2{
+    grid-area: album2;
+}
+
+#album3{
+    grid-area: album3;
+}
+
+#album4{
+    display: none;
+    grid-area: album4;
+}
+
+/* -------- Author Info -------- */
+
+#authorInfo{
+    padding: 12px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#authorPfp{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+#authorDesc{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#authorDesc h1{
+    display: inline;
+}
