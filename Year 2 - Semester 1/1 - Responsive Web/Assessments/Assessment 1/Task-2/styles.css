@@ -45,6 +45,7 @@ header{
 
 button{
     padding: var(--small-spacing);
+    border-radius: var(--small-spacing);
 }
 
 button, h1, p{
@@ -80,6 +81,8 @@ main{
 article{
     display: flex;
     flex-direction: column;
+    overflow: hidden;
+    border-radius: var(--small-spacing);
 }
 
 img{
@@ -138,6 +141,11 @@ body{
     color: #FFFFFF;
     background-color: #070410;
     font-family: "Lato", sans-serif;
+    text-shadow: 0 2px 2px #070410;
+}
+
+header{
+    box-shadow: 0 0 8px 0 #070410;
 }
 
 h1{
@@ -159,11 +167,17 @@ button{
     background-color: #EEF36A;
     border: none;
     transition-duration: 0.5s;
+    box-shadow: 0 4px 4px #070410;
 }
 
 h1, button{
     font-size: 2em;
     font-family: "Teko", sans-serif;
+}
+
+button:active{
+    translate: 0 4px;
+    box-shadow: none;
 }
 
 button:hover{
