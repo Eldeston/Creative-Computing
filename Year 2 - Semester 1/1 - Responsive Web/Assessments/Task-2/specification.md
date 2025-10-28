@@ -1,3 +1,5 @@
+*Completed Task 2 on October 27.*
+
 # Clone Task 2: Advanced Layout
 
 Your task is to create the website for 'watch.it', a made-up movie streaming service. 

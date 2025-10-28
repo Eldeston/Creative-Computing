@@ -1,4 +1,4 @@
-*Project created by Frem Patalinghug, prepared for Assessment 1 of Responsive Web.*
+*Project created by Frem Patalinghug, prepared for Assessment 1 of Responsive Web. The completed tasks are in folders ['Task 1'](Task-1) and ['Task 2'](Task-2).*
 
 # S1: Clone Tasks
 

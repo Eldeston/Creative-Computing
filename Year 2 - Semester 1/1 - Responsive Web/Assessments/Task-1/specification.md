@@ -1,3 +1,5 @@
+*Completed Task 1 on October 7.*
+
 # Clone Task 1: Layout and Typography
 
 Your task is to create the website for a blog post about the Erased Tapes Records music label. 
