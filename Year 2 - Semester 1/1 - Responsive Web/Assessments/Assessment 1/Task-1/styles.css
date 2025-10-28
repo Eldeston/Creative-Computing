@@ -5,13 +5,18 @@
 /* Josefin Sans */
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Protest+Guerrilla&display=swap');
 
+/* Enable smooth scrolling behavior */
+html{
+    scroll-behavior: smooth;
+}
+
 /* Reset paddding & margin */
 html, body{
     padding: 0;
     margin: 0;
 }
 
-/* ---------------- Layout Rulesets ----------------*/
+/* ---------------- Layout Rulesets ---------------- */
 
 body{
     display: flex;
@@ -58,14 +63,16 @@ footer{
     text-align: center;
 }
 
-/* -------- Logo -------- */
+/* ---------------- ID Rulesets ---------------- */
+
+/* Logo */
 
 #logo{
     width: 80px;
     padding: 12px 0 0 0;
 }
 
-/* -------- Main Content -------- */
+/* Main Content */
 
 #bigHeading, #smallHeading{
     display: none;
@@ -81,7 +88,7 @@ footer{
     padding: 12px;
 }
 
-/* -------- Image Grid -------- */
+/* Image Grid */
 
 #imageGrid{
     display: grid;
@@ -117,7 +124,7 @@ footer{
     grid-area: album4;
 }
 
-/* -------- Author Info -------- */
+/* Author Info */
 
 #authorInfo{
     padding: 12px;

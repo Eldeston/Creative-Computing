@@ -11,13 +11,18 @@
     --large-spacing: 16px;
 }
 
+/* Enable smooth scrolling behavior */
+html{
+    scroll-behavior: smooth;
+}
+
 /* Reset paddding & margin */
 html, body{
     padding: 0;
     margin: 0;
 }
 
-/* ---------------- Layout Rulesets ----------------*/
+/* ---------------- Layout Rulesets ---------------- */
 
 /* Turn body into a flex, set to column, and center items.
 Use the "Lato" as our initial font. This will apply to the elements inside body. */
@@ -90,7 +95,7 @@ section{
     justify-content: space-between;
 }
 
-/* ---------------- ID Rulesets ----------------*/
+/* ---------------- ID Rulesets ---------------- */
 
 #article0{
     grid-area: article0;
@@ -116,7 +121,7 @@ section{
     grid-area: article5;
 }
 
-/* ---------------- Styling Rulesets ----------------*/
+/* ---------------- Styling Rulesets ---------------- */
 
 /* 
 
