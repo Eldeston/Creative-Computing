@@ -4,21 +4,18 @@ from tkinter import *
 # Will be needed to randomize the selected jokes
 import random
 
+# -------------------------------- Main Window -------------------------------- #
+
 # Initializes a main TKinter window
 mainWindow = Tk()
 
 # Sets the window's name/title
 mainWindow.title("Exercise 1: Math Quiz")
 
-# Gets window size
-screenWidth = mainWindow.winfo_screenwidth()
-screenHeight = mainWindow.winfo_screenheight()
+# Starts maximized
+mainWindow.after(1, mainWindow.wm_state, 'zoomed')
 
-halfWidth = int(screenWidth * 0.5)
-halfHeight = int(screenHeight * 0.5)
-
-# Sets window size
-mainWindow.geometry(f"{halfWidth}x{halfHeight}")
+# -------------------------------- Main Loop -------------------------------- #
 
 # Required at the end
 mainWindow.mainloop()
