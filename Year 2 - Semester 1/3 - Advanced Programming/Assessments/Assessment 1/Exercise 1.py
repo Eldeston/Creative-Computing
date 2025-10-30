@@ -13,7 +13,7 @@ scores = 0
 def clearFrame() :
     for widget in frame0.winfo_children() : widget.pack_forget()
 
-# -------------------------------- Main Functions -------------------------------- #
+# -------------------------------- Core Functions -------------------------------- #
 
 # A function that determines the values used in each question. The min and max values of the numbers should be based on the difficulty level chosen as described above.
 def randomInt(digits) :
@@ -74,7 +74,6 @@ def displayProblem(level) :
     if level == 4 : problemo = f"{num0} {decideOperation()} {randomInt(3)} {decideOperation()} {randomInt(3)}"
     
     solution = eval(problemo)
-
     entry0 = Entry(frame0, font = ("Arial", 16, "bold"))
 
     Label(frame0, text = problemo, font = ("Arial", 16, "bold"), bg = "light gray").pack()
@@ -90,7 +89,7 @@ def displayMenu() :
     Button(frame0, text = "Beginner", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayProblem(1)).pack()
     Button(frame0, text = "Moderate", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayProblem(2)).pack()
     Button(frame0, text = "Advanced", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayProblem(3)).pack()
-    Button(frame0, text = "Insane", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayProblem(4)).pack()
+    Button(frame0, text = "Insanity", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayProblem(4)).pack()
 
 # -------------------------------- Main Window -------------------------------- #
 
