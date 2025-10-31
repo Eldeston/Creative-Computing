@@ -6,7 +6,7 @@ from tkinter import ttk as ttk
 
 # The basic text interface
 def recordInterface(record) :
-    return f"""ID: {record["ID"]}\nName: {record["Name"]}\nMath: {record["Math"]}\nEnglish: {record["English"]}\nScience: {record["Science"]}\nExam: {record["Exam"]}%\nPercentage: {record["Percentage"]}%\nGrade: {record["Grade"]}"""
+    return f"""ID: {record["ID"]}\nName: {record["Name"]}\nMath: {record["Math"]}\nEnglish: {record["English"]}\nScience: {record["Science"]}\nCourse Total: {record["Course Total"]}\nExam Percentage: {record["Exam Percentage"]}%\nTotal Percentage: {record["Total Percentage"]}%\nGrade: {record["Grade"]}"""
 
 # Shows all records
 def showAllRecords(textWidget, records) :
@@ -22,8 +22,8 @@ def showHighestScore(textWidget, records) :
     textContent = "Unknown Student"
     textWidget.delete("1.0", END)
 
-    maxPercentage = max(info.get("Percentage") for info in records)
-    highStudents = [info for info in records if info.get("Percentage") == maxPercentage]
+    maxPercentage = max(info.get("Total Percentage") for info in records)
+    highStudents = [info for info in records if info.get("Total Percentage") == maxPercentage]
 
     textContent = f"Highest Percentage: {maxPercentage}%\n\n[ ---- Section ---- ]\n\n"
     textContent += "\n\n[ ---- Section ---- ]\n\n".join(recordInterface(info) for info in highStudents)
@@ -34,8 +34,8 @@ def showLowestScore(textWidget, records) :
     textContent = "Unknown Student"
     textWidget.delete("1.0", END)
 
-    minPercentage = min(info.get("Percentage") for info in records)
-    lowStudents = [info for info in records if info.get("Percentage") == minPercentage]
+    minPercentage = min(info.get("Total Percentage") for info in records)
+    lowStudents = [info for info in records if info.get("Total Percentage") == minPercentage]
 
     textContent = f"Lowest Percentage: {minPercentage}%\n\n[ ---- Section ---- ]\n\n"
     textContent += "\n\n[ ---- Section ---- ]\n\n".join(recordInterface(info) for info in lowStudents)
@@ -72,8 +72,8 @@ def compileRecords() :
             course2 = int(course2)
             exam = float(exam)
 
-            totalMarks = course0 + course1 + course2 + exam
-            percentage = round(totalMarks / 1.6, 1)
+            totalMarks = course0 + course1 + course2
+            percentage = round((totalMarks + exam) / 1.6, 1)
 
             grade = "F"
 
@@ -89,8 +89,9 @@ def compileRecords() :
                     "Math" : course0,
                     "English" : course1,
                     "Science" : course2,
-                    "Exam" : exam,
-                    "Percentage" : percentage,
+                    "Course Total" : totalMarks,
+                    "Exam Percentage" : exam,
+                    "Total Percentage" : percentage,
                     "Grade" : grade
                 }
             ]
