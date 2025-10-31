@@ -1,5 +1,6 @@
 # Imports graphical window
 from tkinter import *
+from tkinter import ttk as ttk
 
 # Will be needed for randomInt()
 from random import *
@@ -107,7 +108,8 @@ mainWindow.after(1, mainWindow.wm_state, 'zoomed')
 
 # -------------------------------- Main Frame -------------------------------- #
 
-frame0 = Frame(mainWindow, bg = "light gray")
+ttk.Style().configure("frame0.TFrame", background = "light gray")
+frame0 = ttk.Frame(mainWindow, style = "frame0.TFrame", padding = 32)
 
 # Initial frame to contain all the elements
 frame0.place(relx = 0.5, rely = 0.5, anchor = "center")
