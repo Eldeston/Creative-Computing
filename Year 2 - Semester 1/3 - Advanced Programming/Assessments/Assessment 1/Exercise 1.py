@@ -11,7 +11,7 @@ scores = 0
 
 # Clears frame
 def clearFrame() :
-    for widget in frame0.winfo_children() : widget.pack_forget()
+    for widget in frame0.winfo_children() : widget.grid_forget()
 
 # -------------------------------- Core Functions -------------------------------- #
 
@@ -29,21 +29,21 @@ def isCorrect(userInput, solution, level) :
     clearFrame()
 
     if not userInput.isdigit() :
-        Label(frame0, text = "Please enter in digits", font = ("Arial", 16, "bold"), bg = "light gray").pack()
-        Button(frame0, text = "Continue", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayProblem(level)).pack()
+        Label(frame0, text = "Please enter in digits", font = ("Arial", 16, "bold"), bg = "light gray").grid(column = 0, row = 0, sticky = "EW")
+        Button(frame0, text = "Continue", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayProblem(level)).grid(column = 0, row = 1, sticky = "EW")
         return
 
     count += 1
 
-    Label(frame0, text = f"Solution: {solution}\nYour Answer: {userInput}", font = ("Arial", 16, "bold"), bg = "light gray").pack()
+    Label(frame0, text = f"Solution: {solution}\nYour Answer: {userInput}", font = ("Arial", 16, "bold"), bg = "light gray").grid(column = 0, row = 0, sticky = "EW")
 
     if int(userInput) == solution : scores += level
 
     if count < level * 4 :
-        Button(frame0, text = "Continue", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayProblem(level)).pack()
+        Button(frame0, text = "Continue", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayProblem(level)).grid(column = 0, row = 1, sticky = "EW")
         return
 
-    Button(frame0, text = "Results", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayResults(scores)).pack()
+    Button(frame0, text = "Results", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayResults(scores)).grid(column = 0, row = 1, sticky = "EW")
 
 # function that outputs the users final score out of a possible 100 and ranks the user based on their score (e.g. A+ for a score over 90)
 def displayResults(scores) :
@@ -51,8 +51,8 @@ def displayResults(scores) :
 
     clearFrame()
 
-    Label(frame0, text = f"Score: {scores}\nSolved: {count}", font = ("Arial", 16, "bold"), bg = "light gray").pack()
-    Button(frame0, text = "Menu", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayMenu()).pack()
+    Label(frame0, text = f"Score: {scores}\nSolved: {count}", font = ("Arial", 16, "bold"), bg = "light gray").grid(column = 0, row = 0, sticky = "EW")
+    Button(frame0, text = "Menu", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayMenu()).grid(column = 0, row = 1, sticky = "EW")
 
     # Resets counter
     count = 0
@@ -76,20 +76,20 @@ def displayProblem(level) :
     solution = eval(problemo)
     entry0 = Entry(frame0, font = ("Arial", 16, "bold"))
 
-    Label(frame0, text = problemo, font = ("Arial", 16, "bold"), bg = "light gray").pack()
-    entry0.pack()
+    Label(frame0, text = problemo, font = ("Arial", 16, "bold"), bg = "light gray").grid(column = 0, row = 0, sticky = "EW")
+    entry0.grid(column = 0, row = 1, sticky = "EW")
 
-    Button(frame0, text = "Check", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: isCorrect(entry0.get(), solution, level)).pack()
+    Button(frame0, text = "Check", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: isCorrect(entry0.get(), solution, level)).grid(column = 0, row = 2, sticky = "EW")
 
 # A function that displays the difficulty level menu at the beginning of the quiz.
 def displayMenu() :
     clearFrame()
 
-    Label(frame0, text = "Math Quize' 9000", font = ("Arial", 16, "bold"), bg = "light gray").pack()
-    Button(frame0, text = "Beginner", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayProblem(1)).pack()
-    Button(frame0, text = "Moderate", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayProblem(2)).pack()
-    Button(frame0, text = "Advanced", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayProblem(3)).pack()
-    Button(frame0, text = "Insanity", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayProblem(4)).pack()
+    Label(frame0, text = "Math Quize' 9000", font = ("Arial", 16, "bold"), bg = "light gray").grid(column = 0, row = 0, sticky = "EW")
+    Button(frame0, text = "Beginner", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayProblem(1)).grid(column = 0, row = 1, sticky = "EW")
+    Button(frame0, text = "Moderate", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayProblem(2)).grid(column = 0, row = 2, sticky = "EW")
+    Button(frame0, text = "Advanced", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayProblem(3)).grid(column = 0, row = 3, sticky = "EW")
+    Button(frame0, text = "Insanity", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayProblem(4)).grid(column = 0, row = 4, sticky = "EW")
 
 # -------------------------------- Main Window -------------------------------- #
 
