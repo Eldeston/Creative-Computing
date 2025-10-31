@@ -6,14 +6,14 @@ from tkinter import ttk as ttk
 
 # The basic text interface
 def recordInterface(record) :
-    return f"""ID: {record["ID"]}\nName: {record["Name"]}\nMath: {record["Math"]}\nEnglish: {record["English"]}\nScience: {record["Science"]}\nExam: {record["Exam"]}%\nPercentage: {record["Percentage"]}%"""
+    return f"""ID: {record["ID"]}\nName: {record["Name"]}\nMath: {record["Math"]}\nEnglish: {record["English"]}\nScience: {record["Science"]}\nExam: {record["Exam"]}%\nPercentage: {record["Percentage"]}%\nGrade: {record["Grade"]}"""
 
 # Shows all records
 def showAllRecords(textWidget, records) :
     textContent = ""
     textWidget.delete("1.0", END)
 
-    for info in records : textContent += recordInterface(info) + "\n\n"
+    for info in records : textContent += recordInterface(info) + "\n\n[ ---- Section ---- ]\n\n"
 
     textWidget.insert(END, textContent)
 
@@ -25,8 +25,8 @@ def showHighestScore(textWidget, records) :
     maxPercentage = max(info.get("Percentage") for info in records)
     highStudents = [info for info in records if info.get("Percentage") == maxPercentage]
 
-    textContent = f"Highest Percentage: {maxPercentage}%\n\n"
-    textContent += "\n\n".join(recordInterface(info) for info in highStudents)
+    textContent = f"Highest Percentage: {maxPercentage}%\n\n[ ---- Section ---- ]\n\n"
+    textContent += "\n\n[ ---- Section ---- ]\n\n".join(recordInterface(info) for info in highStudents)
     textWidget.insert(END, textContent)
 
 # Finds the lowest scoring student
@@ -37,8 +37,8 @@ def showLowestScore(textWidget, records) :
     minPercentage = min(info.get("Percentage") for info in records)
     lowStudents = [info for info in records if info.get("Percentage") == minPercentage]
 
-    textContent = f"Lowest Percentage: {minPercentage}%\n\n"
-    textContent += "\n\n".join(recordInterface(info) for info in lowStudents)
+    textContent = f"Lowest Percentage: {minPercentage}%\n\n[ ---- Section ---- ]\n\n"
+    textContent += "\n\n[ ---- Section ---- ]\n\n".join(recordInterface(info) for info in lowStudents)
     textWidget.insert(END, textContent)
 
 # Shows the individual student
@@ -52,7 +52,7 @@ def showIndividual(textWidget, records, nameList, name) :
 
     selectStudent = [info for info in records if info.get("Name") == name]
 
-    textContent = f"Selected Student: {name}\n\n{recordInterface(selectStudent[0])}"
+    textContent = f"Selected Student: {name}\n\n[ ---- Section ---- ]\n\n{recordInterface(selectStudent[0])}"
     textWidget.insert(END, textContent)
 
 def compileRecords() :
@@ -75,6 +75,13 @@ def compileRecords() :
             totalMarks = course0 + course1 + course2 + exam
             percentage = round(totalMarks / 1.6, 1)
 
+            grade = "F"
+
+            if percentage > 40 : grade = "D"
+            if percentage > 50 : grade = "C"
+            if percentage > 60 : grade = "B"
+            if percentage > 70 : grade = "A"
+
             recordBook += [
                 {
                     "ID" : studentId,
@@ -83,7 +90,8 @@ def compileRecords() :
                     "English" : course1,
                     "Science" : course2,
                     "Exam" : exam,
-                    "Percentage" : percentage
+                    "Percentage" : percentage,
+                    "Grade" : grade
                 }
             ]
 
