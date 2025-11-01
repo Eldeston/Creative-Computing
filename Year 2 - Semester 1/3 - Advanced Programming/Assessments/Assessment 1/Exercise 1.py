@@ -38,7 +38,7 @@ def isCorrect(userInput, solution, level) :
 
     Label(frame0, text = f"Solution: {solution}\nYour Answer: {userInput}", font = ("Arial", 16, "bold"), bg = "light gray").grid(column = 0, row = 0, sticky = "EW")
 
-    if int(userInput) == solution : scores += level
+    if int(userInput) == solution : scores += level * 10
 
     if count < level * 4 :
         Button(frame0, text = "Continue", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: displayProblem(level)).grid(column = 0, row = 1, sticky = "EW")
