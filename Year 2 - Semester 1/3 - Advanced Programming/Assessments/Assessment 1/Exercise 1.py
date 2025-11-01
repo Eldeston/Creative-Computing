@@ -77,7 +77,7 @@ def displayProblem(level) :
     solution = eval(problemo)
     entry0 = Entry(frame0, font = ("Arial", 16, "bold"))
 
-    Label(frame0, text = problemo, font = ("Arial", 16, "bold"), bg = "light gray").grid(column = 0, row = 0, sticky = "EW")
+    Label(frame0, text = problemo, font = ("Arial", 32, "bold"), bg = "light gray").grid(column = 0, row = 0, sticky = "EW")
     entry0.grid(column = 0, row = 1, sticky = "EW")
 
     Button(frame0, text = "Check", font = ("Arial", 16, "bold"), fg = "white", bg = "black", command = lambda: isCorrect(entry0.get(), solution, level)).grid(column = 0, row = 2, sticky = "EW")
