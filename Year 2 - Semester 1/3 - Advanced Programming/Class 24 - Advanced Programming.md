@@ -6,8 +6,7 @@ teacher: Ms. Amritha
 ---
 # Advanced Programming 8
 ## Something About Classes
-```python
-class car
+```
 ```
 
 ----------------------------------------------------------------

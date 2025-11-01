@@ -73,7 +73,7 @@ def compileRecords() :
             exam = float(exam)
 
             totalMarks = course0 + course1 + course2
-            percentage = round((totalMarks + exam) / 1.6)
+            percentage = round((totalMarks + exam) / 1.6, 1)
 
             grade = "D" if percentage > 40 else "F"
             grade = "C" if percentage > 50 else grade
