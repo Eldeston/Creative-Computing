@@ -56,13 +56,10 @@ def displayMenu() :
 
 # Initializes a main TKinter window
 mainWindow = Tk()
-
 # Sets the window's name/title
 mainWindow.title("Exercise 1: Math Quiz")
-
 # Set window size
 mainWindow.geometry(f"360x360")
-
 # Starts maximized
 mainWindow.after(1, mainWindow.wm_state, 'zoomed')
 
@@ -70,7 +67,6 @@ mainWindow.after(1, mainWindow.wm_state, 'zoomed')
 
 ttk.Style().configure("frame0.TFrame", background = "light gray")
 frame0 = ttk.Frame(mainWindow, style = "frame0.TFrame", padding = 32)
-
 # Initial frame to contain all the elements
 frame0.place(relx = 0.5, rely = 0.5, anchor = "center")
 

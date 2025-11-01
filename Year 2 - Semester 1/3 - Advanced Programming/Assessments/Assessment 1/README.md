@@ -16,8 +16,9 @@ You should commit changes in your repository often and use descriptive messages 
 
 In addition to completing the exercises listed below you should complete the following online courses. Completion of these courses is worth 20% of the assessment marks. 
 &nbsp;
-- SoloLearn - Intermediate Python https://www.sololearn.com/en/learn/courses/python-intermediate
-- Great Learning - Python Tkinter - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-tkinter#fpc-section
+- SoloLearn - Intermediate Python : https://www.sololearn.com/en/learn/courses/python-intermediate
+- Cisco - Python Essentials 2 : https://www.netacad.com/courses/python-essentials-2?courseLang=en-US
+~~- Great Learning - Python Tkinter : https://www.mygreatlearning.com/academy/learn-for-free/courses/python-tkinter#fpc-section~~
 
 
 &nbsp;
@@ -36,8 +37,9 @@ Evaluates the validity of your solutions based on the following factors:
 Have you saved your exercises to the correct location and made appropriate use of commits (e.g. per task with descriptive messages)
 ### Extended Learning (20%)
 Independent study is a crucial element of university study and helps solidify and extend learning. Additional marks are available for the completion of the following online courses on 
-- SoloLearn - Intermediate Python https://www.sololearn.com/en/learn/courses/python-intermediate
-- Great Learning - Python Tkinter - https://www.mygreatlearning.com/academy/learn-for-free/courses/python-tkinter#fpc-section
+- SoloLearn - Intermediate Python : https://www.sololearn.com/en/learn/courses/python-intermediate
+- Cisco - Python Essentials 2 : https://www.netacad.com/courses/python-essentials-2?courseLang=en-US
+~~- Great Learning - Python Tkinter : https://www.mygreatlearning.com/academy/learn-for-free/courses/python-tkinter#fpc-section~~
 
 &nbsp;
 Please refer to Minerva for the full brief including marking criteria...

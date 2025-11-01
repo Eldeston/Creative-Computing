@@ -73,14 +73,12 @@ def compileRecords() :
             exam = float(exam)
 
             totalMarks = course0 + course1 + course2
-            percentage = round((totalMarks + exam) / 1.6, 1)
+            percentage = round((totalMarks + exam) / 1.6)
 
-            grade = "F"
-
-            if percentage > 40 : grade = "D"
-            if percentage > 50 : grade = "C"
-            if percentage > 60 : grade = "B"
-            if percentage > 70 : grade = "A"
+            grade = "D" if percentage > 40 else "F"
+            grade = "C" if percentage > 50 else grade
+            grade = "B" if percentage > 60 else grade
+            grade = "A" if percentage > 70 else grade
 
             recordBook += [
                 {
@@ -129,13 +127,10 @@ def displayMenu() :
 
 # Initializes a main TKinter window
 mainWindow = Tk()
-
 # Sets the window's name/title
 mainWindow.title("Exercise 1: Math Quiz")
-
 # Set window size
 mainWindow.geometry(f"360x360")
-
 # Starts maximized
 mainWindow.after(1, mainWindow.wm_state, 'zoomed')
 
@@ -143,7 +138,6 @@ mainWindow.after(1, mainWindow.wm_state, 'zoomed')
 
 ttk.Style().configure("frame0.TFrame", background = "light gray")
 frame0 = ttk.Frame(mainWindow, style = "frame0.TFrame", padding = 32)
-
 # Initial frame to contain all the elements
 frame0.place(relx = 0.5, rely = 0.5, anchor = "center")
 
