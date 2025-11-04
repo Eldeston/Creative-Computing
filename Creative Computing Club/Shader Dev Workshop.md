@@ -9,5 +9,7 @@ Shaders are powerful programs used to communicate with the GPU.
 - Learning how to write shaders in shadertoy.com
 - Expanding your creativity through mathematics
 - Improving your problem solving skills in optimization and design
-# Outline
-- 
+# What is a GPU?
+Graphical Processing Units (GPUs) are chips used to display graphics on your screen while Central Processing Units (CPUs) are used to do tasks behind the scenes. Both chips use multiple cores but the difference between them in architecture is that a GPU uses smaller but more cores and a CPU has larger and fewer cores.
+
+Activity: 4 participants separated to one individual and a group of 3
