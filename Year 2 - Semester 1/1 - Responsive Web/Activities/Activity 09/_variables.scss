@@ -1,0 +1,34 @@
+$mainTheme: light;
+
+$mainLightColor: orange;
+$mainDarkColor: darkBlue;
+
+$fontLightColor: black;
+$fontDarkColor: white;
+
+$basePadding: 10px 20px;
+$baseBorder: solid 2px;
+
+@mixin buildBaseTheme($mainColor, $mainPadding, $mainBorder){
+    padding: $mainPadding;
+    border: $mainBorder;
+    background-color: $mainColor;
+}
+
+// Conditional mixin example
+@mixin buildSwitchTheme($name){
+  @if $name == light {
+    @include buildBaseTheme($mainLightColor, $basePadding, $baseBorder);
+  } @else {
+    @include buildBaseTheme($mainDarkColor, $basePadding, $baseBorder);
+  }
+}
+
+// Conditional mixin example
+@mixin buildSwitchFont($name){
+  @if $name == light {
+    color: $fontLightColor;
+  } @else {
+    color: $fontDarkColor;
+  }
+}

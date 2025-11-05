@@ -1,0 +1,17 @@
+$primaryColor: #004574;
+$secondaryColor: #F39C12;
+$mainFont: "Helvetica";
+$buttonPadding: 10px 20px;
+
+@function px2Rem($px){
+    @return $px / 16 + rem;
+}
+
+// Blueprint of a button
+// May or may not include a parameter
+@mixin baseButton($bgColor){
+    background-color: $bgColor;
+    font-family: $mainFont;
+    padding: $buttonPadding;
+    border-radius: px2Rem(5px);
+}

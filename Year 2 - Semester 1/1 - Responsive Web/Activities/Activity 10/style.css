@@ -1,0 +1,157 @@
+/* Import fonts as per requirement */
+/* Teko */
+@import url("https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap");
+/* Lato */
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+/* Make use of variables for easier management */
+:root {
+  --small-spacing: 16px;
+  --large-spacing: 16px;
+}
+
+/* Enable smooth scrolling behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Reset paddding & margin */
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+/* ---------------- Layout Rulesets ---------------- */
+/* Turn body into a flex, set to column, and center items.
+Use the "Lato" as our initial font. This will apply to the elements inside body. */
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Header is made sticky and placed on top to preserve its space in the page. */
+header {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  padding: var(--small-spacing);
+  border-radius: var(--small-spacing);
+}
+
+button, h1, p {
+  margin: var(--small-spacing);
+}
+
+nav {
+  display: none;
+}
+
+a {
+  margin: 0 var(--small-spacing);
+  text-decoration: none;
+}
+
+main {
+  max-width: 900px;
+  display: grid;
+  grid-gap: var(--large-spacing);
+  grid-template-areas: "article0" "article1" "article2" "article3" "article4" "article5";
+  margin: var(--large-spacing) 0;
+}
+
+article {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border-radius: var(--small-spacing);
+}
+
+img {
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+section {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* ---------------- Styling Rulesets ---------------- */
+/* 
+
+Required colors:
+- #070410
+- #231651
+- #4DCCBD
+- #EEF36A
+- #FFFFFF
+
+*/
+body {
+  color: #FFFFFF;
+  background-color: #070410;
+  font-family: "Lato", sans-serif;
+  text-shadow: 0 2px 2px #070410;
+}
+
+header {
+  box-shadow: 0 0 8px 0 #070410;
+}
+
+h1 {
+  color: #EEF36A;
+}
+
+a {
+  color: #FFFFFF;
+  transition-duration: 0.5s;
+}
+
+a:hover {
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+button {
+  color: #070410;
+  background-color: #EEF36A;
+  border: none;
+  transition-duration: 0.5s;
+  box-shadow: 0 4px 4px #070410;
+}
+
+h1, button {
+  font-size: 2em;
+  font-family: "Teko", sans-serif;
+}
+
+button:active {
+  translate: 0 4px;
+  box-shadow: none;
+}
+
+button:hover {
+  color: #EEF36A;
+  background-color: #070410;
+  font-weight: 600;
+  border: white 2px solid;
+}
+
+header, article {
+  background-color: #231651;
+}
+
+#websiteName {
+  font-size: 2em;
+  font-family: "Teko", sans-serif;
+}/*# sourceMappingURL=style.css.map */

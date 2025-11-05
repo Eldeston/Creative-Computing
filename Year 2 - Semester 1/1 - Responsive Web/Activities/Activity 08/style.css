@@ -1,0 +1,20 @@
+section {
+  display: flex;
+  flex-direction: column;
+}
+section #primaryButton {
+  background-color: #004574;
+  font-family: "Helvetica";
+  padding: 10px 20px;
+  border-radius: 0.3125pxrem;
+  color: white;
+}
+section #secondaryButton, section #tertiaryButton {
+  background-color: #F39C12;
+  font-family: "Helvetica";
+  padding: 10px 20px;
+  border-radius: 0.3125pxrem;
+}
+section #tertiaryButton {
+  background-color: lime;
+}/*# sourceMappingURL=style.css.map */

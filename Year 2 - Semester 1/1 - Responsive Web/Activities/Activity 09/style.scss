@@ -1,0 +1,17 @@
+// Imports variables
+@use "_variables" as var;
+
+// Alternative method
+// @use "_variables" as *;
+
+#profile{
+    @include var.buildSwitchTheme(var.$mainTheme);
+
+    h2{
+        @include var.buildSwitchFont(var.$mainTheme);
+    }
+
+    p{
+        @extend h2;
+    }
+}

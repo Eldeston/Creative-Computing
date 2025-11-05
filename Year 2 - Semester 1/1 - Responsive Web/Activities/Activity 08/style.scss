@@ -1,0 +1,26 @@
+// Imports variables
+@use "_variables" as var;
+
+// Alternative method
+// @use "_variables" as *;
+
+section{
+    display: flex;
+    flex-direction: column;
+
+    #primaryButton{
+        @include var.baseButton(var.$primaryColor);
+
+        color: white;
+    }
+
+    #secondaryButton{
+        @include var.baseButton(var.$secondaryColor);
+    }
+
+    #tertiaryButton{
+        @extend #secondaryButton;
+
+        background-color: lime;
+    }
+}

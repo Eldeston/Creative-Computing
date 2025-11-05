@@ -28,11 +28,17 @@ Shaders are powerful API programs used to communicate with the GPU to render gra
 
 > [!NOTE] Question: What is a GPU? What is the difference between a GPU and a CPU?
 
-Graphical Processing Units (GPUs) are chips used to display graphics on your screen while Central Processing Units (CPUs) are used to do tasks behind the scenes. Both chips use multiple cores but the difference between them in architecture is that a GPU uses smaller but more cores and a CPU has larger and fewer cores.
+Graphical Processing Units (GPUs) are chips used to display graphics on your screen while Central Processing Units (CPUs) are used to do tasks behind the scenes.
+
+![CPU Pipeline](https://thebookofshaders.com/01/03.jpeg)
+
+Both chips use multiple cores but the difference between them in architecture is that a GPU uses smaller but more cores and a CPU has larger and fewer cores.
+
+![GPU Pipeline](https://thebookofshaders.com/01/04.jpeg)
 
 > [!NOTE] Activity: 4 participants separated to one individual and a group of 3.
 
-The GPUs' architecture is built for parallel processing. Parallel processing is a method used in graphics to process a large amount of processes - all at the same time! Imagine this, a CPU is only able to process 1-16 tasks one at a time depending on the amount of cores, but the most powerful GPUs today can render a full 4K screen (3840 x 2160). In other words, the GPU can render 8,294,400 individual pixels in real-time!
+The GPUs' architecture is built for parallel processing. Parallel processing is a method used in graphics to process a large amount of processes - all at the same time! Imagine this, a CPU is only able to process 1-16 tasks one at a time depending on the amount of cores, but the most powerful GPUs today can render a full 4K screen (3840 x 2160). In other words, the GPU can calculate and process 8,294,400 individual pixels in real-time!
 
 GPUs are also really good at solving math, in fact their architecture is optimized for it. Which is why in this lecture linear algebra will become a very important tool in your arsenal.
 # Introduction to Shader Toy
