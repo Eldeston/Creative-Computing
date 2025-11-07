@@ -4,8 +4,8 @@ I. Introduction to Shader Dev
 	B. Learning Outcomes
 II. What is a GPU?
 III. Introduction to Shader Toy
-# Introduction to Shader Dev
-Before computers were invented, the art process is made through layers of paint that take a lot of time and effort. In this age, computers can make art from years to a second in real-time through the GPU.
+# Shader Dev Introduction
+Before computers were invented, the art process is made through layers of paint that take a lot of time and effort. In this age, computers can make art from years to less than a second in real-time through the GPU.
 
 ![The Starry Night](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
 *Source: Wikipedia.com*
@@ -24,7 +24,7 @@ Shaders are powerful API programs used to communicate with the GPU to render gra
 - Learning how to write shaders in shadertoy.com
 - Expanding your creativity through mathematics
 - Improving your problem solving skills in optimization and design
-# What is a GPU?
+# What Is A GPU?
 
 > [!NOTE] Question: What is a GPU? What is the difference between a GPU and a CPU?
 
@@ -41,5 +41,8 @@ Both chips use multiple cores but the difference between them in architecture is
 The GPUs' architecture is built for parallel processing. Parallel processing is a method used in graphics to process a large amount of processes - all at the same time! Imagine this, a CPU is only able to process 1-16 tasks one at a time depending on the amount of cores, but the most powerful GPUs today can render a full 4K screen (3840 x 2160). In other words, the GPU can calculate and process 8,294,400 individual pixels in real-time!
 
 GPUs are also really good at solving math, in fact their architecture is optimized for it. Which is why in this lecture linear algebra will become a very important tool in your arsenal.
-# Introduction to Shader Toy
+# Shader Toy Introduction
 Shadertoy is a website for creative coders where people make art through shaders. The shaders are powered by WebGL and in our lecture will be mostly focusing on fragment shader programs to write your first shader.
+# Main References
+- [The Book of Shaders](https://thebookofshaders.com/)
+- [LearnOpenGL - Introduction](https://learnopengl.com/Introduction)
