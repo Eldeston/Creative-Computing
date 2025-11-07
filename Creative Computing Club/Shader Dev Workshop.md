@@ -42,7 +42,16 @@ The GPUs' architecture is built for parallel processing. Parallel processing is 
 
 GPUs are also really good at solving math, in fact their architecture is optimized for it. Which is why in this lecture linear algebra will become a very important tool in your arsenal.
 # Shader Toy Introduction
-Shadertoy is a website for creative coders where people make art through shaders. The shaders are powered by WebGL and in our lecture will be mostly focusing on fragment shader programs to write your first shader.
+Shadertoy is a website for creative coders where people make art through shaders. These shaders are powered by WebGL and in our lecture will be mostly focusing on fragment shader programs to write your first shader.
+## Variables Types
+- `float, int, bool` are the main variables you will want to use in shader dev
+- `vec4, vec3, vec2` are vector variables that can either contain a direction or a color (RGBA or XYZW)
+## WebGL Parameters
+- `fragColor` is where you will output your final result of the pixel unto your canvas in RGBA in low dynamic range (LDR) of [0.0 - 1.0]
+- `fragCoord` contains the position of each pixel in the range of [0 - Maximum width/height of your screen]
+## ShaderToy Uniforms
+- `iResolution` contains the maximum width and height of your canvas [maxWidth, maxHeight]
+- `iTime` contains the amount of time passed since the first frame
 # Main References
 - [The Book of Shaders](https://thebookofshaders.com/)
 - [LearnOpenGL - Introduction](https://learnopengl.com/Introduction)
