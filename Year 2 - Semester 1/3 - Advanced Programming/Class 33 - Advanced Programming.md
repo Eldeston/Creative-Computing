@@ -6,7 +6,9 @@ teacher: Ms. Amritha
 ---
 # Advanced Programming 11
 ## API Time
+Ez mode
 ## Exam On Saturday
+Revisit SoloLearn
 
 ----------------------------------------------------------------
 # Editor's Notes
