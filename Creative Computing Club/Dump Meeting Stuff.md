@@ -12,4 +12,3 @@
 - New Club Officer Lavinha - Event Coordinator CYL5
 - Add in activities in filling in missing gaps in our college curriculum
 - Make a document for Computing Department Day preparations
-- 
