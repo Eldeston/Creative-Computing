@@ -15,13 +15,13 @@ Separate Registration Forms for:
 # Poster Graphics (Creative Directors)
 - Main Poster - Instagram
 - Main Poster - Landscape 16:9
-- Day 1 First 3 Games - Instagram
-- Day 1 Robot Making - Instagram
-- Day 2 Debug Dome - Instagram
+- Day 1 First 3 Games - Instagram (Optional)
+- Day 1 Robot Making - Instagram (Optional)
+- Day 2 Debug Dome - Instagram (Optional)
 # Certificate Graphics (Creative Directors)
 - Certificate of Recognition
 - Certificate of Participation
-# Decorations & Events Setup (Event Coordinators)
+# Decorations & Events Setup (Event Coordinators & Club Moderators)
 To enhance the overall atmosphere and visual impact of CYBERSPARK 2026, thematic decorations will be prepared to reflect the event’s focus on computing, cybersecurity, innovation, and gaming. These decorations will help create an engaging environment and reinforce the event’s identity.
 
 **Decoration Theme**
@@ -30,7 +30,7 @@ To enhance the overall atmosphere and visual impact of CYBERSPARK 2026, thematic
 - Gaming and e-sports elements
 
 **Decoration Inclusions**
-- Printed tarpaulin / backdrop with CYBERSPARK 2026 branding
+- ~~Printed tarpaulin / backdrop with CYBERSPARK 2026 branding~~
 - Game-area signage (Game 1, Game 2, Robotics Area, COD Zone)
 - Cyber-themed posters and standees
 - Balloons and LED accents (blue, black, green color theme)
