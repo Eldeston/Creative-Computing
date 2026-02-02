@@ -8,12 +8,12 @@ Take note of the timeline, and the amount of participants (the more the better)
 Forms should give the participants options to register one of the 6 activities for Computing Department Day.
 
 Separate Registration Forms for:
-- Day 1 Activities - Open January 26th - Deadline February 11th
-- Day 1 Robot Building - Open January 26th - Deadline February 9th
-- ~~Day 2 Scrimmage (IFS managed)~~
+- Day 1 Activities - Open January 27th - Deadline February 11th
+- Day 1 Robot Building - Open January 27th - Deadline February 9th
+- ~~Day 2 Scrimmage (IFS managed)~~ - Open January 27th - Deadline February 11th
 - Day 2 Debug Dome - Open January 27th - Deadline February 12th
 # Poster Graphics (Creative Directors)
-- Main Poster - Instagram
+- ~~Main Poster - Instagram~~
 - Main Poster - Landscape 16:9
 - Day 1 First 3 Games - Instagram (Optional)
 - Day 1 Robot Making - Instagram (Optional)
@@ -42,8 +42,8 @@ To enhance the overall atmosphere and visual impact of CYBERSPARK 2026, thematic
 - Robot Making & Design Exhibit area
 - Call of Duty Scrimmage gaming zone
 # Day 1 Activities
-Winner: 1 Team
 Team Count: 4
+Winner: 1 Team
 Team Members: 5
 Rewards : 15 medals (5 each game, 1 each member), Certificate of Recognition
 ## Cyber Lockdown: 45 Minutes
@@ -205,9 +205,9 @@ Time bonus: +10 pts for early completion
 | Medals              | 25    |
 | Certificates        | ∞     |
 
-| Items                            | Budget  |
-| -------------------------------- | ------- |
-| 5 Trophies                       | AED 55  |
-| Balloons, Hanging Decorations    | AED 20  |
-| 2 Gift Cards from Steam (20 AED) | AED 40  |
-| Total                            | AED 115 |
+| Items                               | Budget  |
+| ----------------------------------- | ------- |
+| 5 Trophies                          | AED 55  |
+| Balloons, Hanging Decorations       | AED 20  |
+| 2 Digital Steam Gift Cards (20 AED) | AED 40  |
+| Total                               | AED 115 |
