@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creative Computing Club/Computing Department Day.md",
+                "file": "Year 2 - Semester 2/1 - Mobile App Dev/Class 01 - Mobile App Dev.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Computing Department Day"
+              "title": "Class 01 - Mobile App Dev"
+            }
+          },
+          {
+            "id": "b72168e02b515214",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 1 - Semester 1/1 - Digital Visual Design/Class 01 - Digital Visual Design.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Class 01 - Digital Visual Design"
             }
           }
         ]
@@ -216,8 +240,14 @@
   },
   "active": "4dbc682bfa86b2ae",
   "lastOpenFiles": [
-    "Creative Computing Club/Dump Meeting Stuff.md",
+    "Year 1 - Semester 1/1 - Digital Visual Design/Class 01 - Digital Visual Design.md",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Class 01 - Mobile App Dev.md",
     "Creative Computing Club/Computing Department Day.md",
+    "Year 2 - Semester 2/Untitled",
+    "Year 2 - Semester 2/1 - Mobile App Dev",
+    "Year 2 - Semester 2",
+    "Creative Computing Club/Mandatory Coordination Meeting.md",
+    "Creative Computing Club/Dump Meeting Stuff.md",
     "Year 2 - Semester 1/1 - Responsive Web/Class 01 - Responsive Web.md",
     "Year 2 - Semester 1/2 - Games Engine & Scripting/Class 02 - Games Engine & Scripting.md",
     "Year 2 - Semester 1/3 - Advanced Programming/Class 03 - Advanced Programming.md",
@@ -246,12 +276,6 @@
     "Year 2 - Semester 1/2 - Games Engine & Scripting/Class 23 - Games Engine & Scripting.md",
     "Year 2 - Semester 1/2 - Games Engine & Scripting/Class 20 - Games Engine & Scripting.md",
     "Year 2 - Semester 1/2 - Games Engine & Scripting/Class 17 - Games Engine & Scripting.md",
-    "Year 2 - Semester 1/2 - Games Engine & Scripting/Class 14 - Games Engine & Scripting.md",
-    "Year 2 - Semester 1/2 - Games Engine & Scripting/Class 11 - Games Engine & Scripting.md",
-    "Year 2 - Semester 1/2 - Games Engine & Scripting/Class 08 - Games Engine & Scripting.md",
-    "Year 2 - Semester 1/Timetable - Morning.pdf",
-    "Year 2 - Semester 1/1 - Responsive Web/Activities/Activity 11/style.css",
-    "Year 2 - Semester 1/1 - Responsive Web/Activities/Activity 11/script.js",
     "Year 2 - Semester 1/1 - Responsive Web/Activities/Activity 01/rayquaza.jpg",
     "Year 2 - Semester 1/1 - Responsive Web/Activities/Activity 01/jirachi.jpg",
     "Year 2 - Semester 1/1 - Responsive Web/Activities/Activity 01/deoxys.jpg",
