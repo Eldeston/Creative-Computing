@@ -30,15 +30,15 @@ To enhance the overall atmosphere and visual impact of CYBERSPARK 2026, thematic
 - Gaming and e-sports elements
 
 **Decoration Inclusions**
-- ~~Printed tarpaulin / backdrop with CYBERSPARK 2026 branding~~
-- Game-area signage (Game 1, Game 2, Robotics Area, COD Zone)
-- Cyber-themed posters and standees
+- Landscape with QR codes for Computing Department Day
+- Event signage (Game 1, Game 2, Robotics Area, COD Zone)
 - Balloons and LED accents (blue, black, green color theme)
+- Cyber-themed posters and standees
 - Table labels and directional signs
 
 **Decoration Areas**
-- Main Room / opening program area
 - Cybersecurity game stations
+- Main Room / opening program area
 - Robot Making & Design Exhibit area
 - Call of Duty Scrimmage gaming zone
 # Day 1 Activities
@@ -47,24 +47,28 @@ Winner: 1 Team
 Team Members: 5
 Rewards : 15 medals (5 each game, 1 each member), Certificate of Recognition
 ## Cyber Lockdown: 45 Minutes
+**Organizer:**
+
 **Description:**
 Teams solve cybersecurity-themed puzzles to “escape” a simulated cyber attack.
 
 **Mechanics:**
-- Each team receives clues related to phishing, malware, encryption, and safe browsing
 - Correct answers unlock the next clue
 - The first teams to complete all puzzles win
+- Each team receives clues related to phishing, malware, encryption, and safe browsing
 
 **Materials Needed:**
-- Printed puzzle sheets
-- Envelopes with clues
 - Timer
 - Whiteboard
+- Envelopes with clues
+- Printed puzzle sheets
 
 **Manpower:**
 - 2 Game Marshals
 - 1 Timekeeper
 ## Password Relay: 40 Minutes
+**Organizer:**
+
 **Description:**
 A physical and mental relay game focusing on password security and best practices.
 
@@ -82,6 +86,8 @@ A physical and mental relay game focusing on password security and best practice
 - 2 Facilitators
 - 1 Scorekeeper
 ## Digital Forensics: 30 Minutes
+**Organizer:**
+
 **Description:**
 A scavenger hunt where teams investigate a simulated cybercrime.
 
@@ -100,6 +106,8 @@ A scavenger hunt where teams investigate a simulated cybercrime.
 - 1 Technical Assistant
 
 ## Robot Making (Arts & Crafts)
+**Organizer:**
+
 Participants: Individual or group (maximum 3 members)
 Rewards: 3 trophies, 1 Gift Card (AED 20), Certificate of Recognition, Certificate of Participation
 
@@ -128,9 +136,11 @@ An open creative activity for students passionate about innovation, design, and 
 # Day 2 Activities
 Participants Target: 20
 ## Scrimmage - Call of Duty (IFS) 
+**Organizer:**
+
 Team Count: 4
 Team Members: 5
-Prizes: 5 Medals, Certificate of Participation
+Prizes: 5 Medals, 1 Trophy, Certificate of Participation
 
 **Description:**  
 The call of duty Scrim is a friendly yet competitive tournament among the players. This scrim aims to strengthen camaraderie, promote teamwork, and showcase members’ gaming skills in a fair and exciting competition.
@@ -158,8 +168,10 @@ Open to all Metaverse Computing, Cybersecurity, and IFS students across all leve
 - 5 certificates 
 - 1 trophy
 ## Debug Dome: Python Cyber Debug Challenge
+**Organizer:**
+
 Participants: Individuals (maximum 15 individuals), Creative Computing, Cybersecurity
-Prizes: 2 Trophies, 1 Gift Card (AED 20), Certificate of Participation
+Prizes: 1 Trophies, 1 Gift Card (AED 20), Certificate of Participation
 
 DEBUG DOME is a cybersecurity-themed Python debugging competition where students act as Cyber Defense Engineers tasked with fixing vulnerable and broken Python programs before a simulated cyber attack causes system failure.
 
