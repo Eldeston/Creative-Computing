@@ -55,7 +55,8 @@
               "title": "Computing Department Day"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,7 +239,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ce3dfadea31e0a27",
+  "active": "058feba1114511d5",
   "lastOpenFiles": [
     "Year 2 - Semester 2/3 - Emerging Technologies/Class 03 - Emerging Technologies.md",
     "Year 2 - Semester 2/3 - Emerging Technologies",
