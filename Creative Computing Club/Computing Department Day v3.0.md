@@ -24,20 +24,21 @@ List of games to manage:
 - Password Relay
 - Digital Forensics
 
-| Officers         | Role              | Course                | Managing |
-| ---------------- | ----------------- | --------------------- | -------- |
-| Frem Patalinghug | President         | Creative Computing L5 |          |
-| Reyn Santos      | President         | Cybersecurity L5      |          |
-| Dexter Hingada   | Vice President    | Creative Computing L4 |          |
-| Eshan Patel      | Vice President    | Cybersecurity L4      |          |
-| Gayl Ragunjan    | Secretary         | Creative Computing L4 |          |
-| John Yumul       | Secretary         | Cybersecurity L4      |          |
-| Vince Caballero  | Event Coordinator | Creative Computing L5 |          |
-| Rameen Akram     | Event Coordinator | Cybersecurity L5      |          |
-| Lavhinia Joice   | Event Coordinator | Cybersecurity L5      |          |
-| Rida Rashid      | Creative Director | Creative Computing L5 |          |
-| Lanz Austria     | Creative Director | Cybersecurity L4      |          |
-| Jan Ricalde      | Creative Director | Cybersecurity L4      |          |
+| Officers            | Role              | Course                | Managing          |
+| ------------------- | ----------------- | --------------------- | ----------------- |
+| Frem Patalinghug    | President         | Creative Computing L5 |                   |
+| Reyn Santos         | President         | Cybersecurity L5      |                   |
+| Dexter Hingada      | Vice President    | Creative Computing L4 |                   |
+| Eshan Patel         | Vice President    | Cybersecurity L4      |                   |
+| Gayl Ragunjan       | Secretary         | Creative Computing L4 |                   |
+| John Yumul          | Secretary         | Cybersecurity L4      |                   |
+| Vince Caballero     | Event Coordinator | Creative Computing L5 | Cyber Lockdown    |
+| Rameen Akram        | Event Coordinator | Cybersecurity L5      | Digital Forensics |
+| Lavhinia Joice      | Event Coordinator | Cybersecurity L5      | Password Relay    |
+| Rida Rashid         | Creative Director | Creative Computing L5 |                   |
+| Maudric Patalinghug | Creative Director | Creative Computing L5 |                   |
+| Lanz Austria        | Creative Director | Cybersecurity L4      |                   |
+| Jan Ricalde         | Creative Director | Cybersecurity L4      |                   |
 
 | Judges             | Role       |
 | ------------------ | ---------- |
@@ -70,7 +71,6 @@ To enhance the overall atmosphere and visual impact of CYBERSPARK 2026, thematic
 **Decoration Inclusions**
 - [ ] Event signage (Game 1, Game 2, Robotics Area, COD Zone)
 - [ ] Landscape with QR codes for Computing Department Day
-- [ ] Balloons and LED accents (blue, black, green color theme)
 - [ ] Table labels and directional signs
 
 **Decoration Areas**
@@ -78,6 +78,36 @@ To enhance the overall atmosphere and visual impact of CYBERSPARK 2026, thematic
 - [ ] Main Room/Opening Program area
 - [ ] Robot Making & Design Exhibit area
 - [ ] Call of Duty Scrimmage gaming zone
+# Reward Specifications
+
+| Medals | Trophies | Certificate of Recognition | Certificate of Participation |
+| ------ | -------- | -------------------------- | ---------------------------- |
+| 29     | 5        | 24                         | 18                           |
+
+| Activities        | Rewards                                                          |
+| ----------------- | ---------------------------------------------------------------- |
+| Cyber Lockdown    | 5 Medals, 5 Certificate of Recognition                           |
+| Password Relay    | 5 Medals, 5 Certificate of Recognition                           |
+| Digital Forensics | 5 Medals, 5 Certificate of Recognition                           |
+| CODM Scrimmage    | 1 Trophy, 5 medals, 5 Certificate of Recognition                 |
+| Debug Dome        | 2 Trophy, 1 Gift Card, 11 Certificate of Participation           |
+| Robot Making      | 2 Trophy, 1 Gift Card, 11 Certificate of Participation, 9 Medals |
+
+## Medal Sticker Specifications
+**Size:**
+4 Centimeters in diameter
+
+**Material:**
+Gloss paper
+Matte paper sticker
+## Trophy Sticker Specifications
+**Size:**
+4 Centimeters in width
+3 Centimeters in height
+
+**Material:**
+Gloss paper
+Matte paper sticker
 # Day 1 Activities
 Team Count: 4
 Winner: 1 Team
@@ -242,7 +272,7 @@ Time bonus: +10 pts for early completion
 
 | Items                               | Budget  |
 | ----------------------------------- | ------- |
-| 5 Trophies                          | AED 55  |
-| Balloons, Hanging Decorations       | AED 20  |
-| 2 Digital Steam Gift Cards (20 AED) | AED 40  |
+| 5 Trophies                          | AED 50  |
+| Hanging Decorations                 | AED 29  |
+| 2 Digital Steam Gift Cards (20 AED) | AED 36  |
 | Total                               | AED 115 |

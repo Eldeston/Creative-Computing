@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "058feba1114511d5",
+            "id": "78c1be34b48dd370",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creative Computing Club/Computing Department Day v2.0.md",
+                "file": "Creative Computing Club/Computing Department Day v3.0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Computing Department Day v2.0"
+              "title": "Computing Department Day v3.0"
             }
           }
         ]
@@ -214,20 +214,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "058feba1114511d5",
+  "active": "78c1be34b48dd370",
   "lastOpenFiles": [
+    "Creative Computing Club/Dump Meeting Stuff.md",
+    "Creative Computing Club/Computing Department Day Rewards.md",
+    "Creative Computing Club/Members.md",
+    "Creative Computing Club/Computing Department Day v3.0.md",
     "Creative Computing Club/Computing Department Day v1.0.md",
-    "Creative Computing Club/Computing Department Day v2.0.md",
     "Creative Computing Club/Frame 1.png",
     "Creative Computing Club/Landscape 16_9.png",
-    "Creative Computing Club/Members.md",
     "Creative Computing Club/Programs.md",
     "Year 2 - Semester 2/3 - Emerging Technologies/Class 03 - Emerging Technologies.md",
     "Year 2 - Semester 2/3 - Emerging Technologies",
     "Creative Computing Club/Graphics Designer Handbook.md",
     "Creative Computing Club/The Constitution.md",
     "Creative Computing Club/Shader Dev Workshop.md",
-    "Creative Computing Club/Dump Meeting Stuff.md",
     "Year 2 - Semester 2/2 - Creative Industry/Entry Log/Learning Log.md",
     "Year 2 - Semester 2/2 - Creative Industry/Class 02 - Creative Industry Challenges.md",
     "Year 2 - Semester 2/2 - Creative Industry/Entry Log",
