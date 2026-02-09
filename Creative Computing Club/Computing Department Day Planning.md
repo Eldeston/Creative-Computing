@@ -1,2 +1,0 @@
-# Registration Form
-# Poster Graphics
