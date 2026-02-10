@@ -24,21 +24,21 @@ List of games to manage:
 - Password Relay
 - Digital Forensics
 
-| Officers            | Role              | Course                | Managing          |
-| ------------------- | ----------------- | --------------------- | ----------------- |
-| Frem Patalinghug    | President         | Creative Computing L5 |                   |
-| Reyn Santos         | President         | Cybersecurity L5      |                   |
-| Dexter Hingada      | Vice President    | Creative Computing L4 |                   |
-| Eshan Patel         | Vice President    | Cybersecurity L4      |                   |
-| Gayl Ragunjan       | Secretary         | Creative Computing L4 |                   |
-| John Yumul          | Secretary         | Cybersecurity L4      |                   |
-| Vince Caballero     | Event Coordinator | Creative Computing L5 | Cyber Lockdown    |
-| Rameen Akram        | Event Coordinator | Cybersecurity L5      | Digital Forensics |
-| Lavhinia Joice      | Event Coordinator | Cybersecurity L5      | Password Relay    |
-| Rida Rashid         | Creative Director | Creative Computing L5 |                   |
-| Maudric Patalinghug | Creative Director | Creative Computing L5 |                   |
-| Lanz Austria        | Creative Director | Cybersecurity L4      |                   |
-| Jan Ricalde         | Creative Director | Cybersecurity L4      |                   |
+| Officers            | Role              | Course                | Managing                         |
+| ------------------- | ----------------- | --------------------- | -------------------------------- |
+| Frem Patalinghug    | President         | Creative Computing L5 |                                  |
+| Reyn Santos         | President         | Cybersecurity L5      |                                  |
+| Dexter Hingada      | Vice President    | Creative Computing L4 |                                  |
+| Eshan Patel         | Vice President    | Cybersecurity L4      |                                  |
+| Gayl Ragunjan       | Secretary         | Creative Computing L4 |                                  |
+| John Yumul          | Secretary         | Cybersecurity L4      |                                  |
+| Vince Caballero     | Event Coordinator | Creative Computing L5 | Cyber Lockdown                   |
+| Rameen Akram        | Event Coordinator | Cybersecurity L5      | Password Relay/Digital Forensics |
+| Lavhinia Joice      | Event Coordinator | Cybersecurity L5      | Password Relay                   |
+| Rida Rashid         | Creative Director | Creative Computing L5 | Host                             |
+| Maudric Patalinghug | Creative Director | Creative Computing L5 |                                  |
+| Lanz Austria        | Creative Director | Cybersecurity L4      |                                  |
+| Jan Ricalde         | Creative Director | Cybersecurity L4      |                                  |
 
 | Judges             | Role       |
 | ------------------ | ---------- |
@@ -177,15 +177,16 @@ An open creative activity for students passionate about innovation, design, and 
 - Designs may be:
 - Physical models (recycled materials, basic kits)
 - Concept boards, sketches, labeled diagrams
-
-**Output & Display:**
+### Output & Display
 - All robot designs will be displayed along school hallways as a Technology & Innovation Exhibit
+### Scoring System
 
-**Judging Criteria:**
-- Creativity and originality
-- Design and functionality
-- Problem-solving concept
-- Presentation and explanation
+| Criteria                     | Points |
+| ---------------------------- | ------ |
+| Creativity and originality   | 40 pts |
+| Design and functionality     | 20 pts |
+| Problem-solving concept      | 20 pts |
+| Presentation and explanation | 20 pts |
 
 **Awards:**
 - 3 Official Winners
@@ -226,7 +227,7 @@ Open to all Metaverse Computing, Cybersecurity, and IFS students across all leve
 Participants: Individuals (maximum 15 individuals), Creative Computing, Cybersecurity
 Prizes: 1 Trophies, 1 Gift Card (AED 20), Certificate of Participation
 
-DEBUG DOME is a cybersecurity-themed Python debugging competition where students act as Cyber Defense Engineers tasked with fixing vulnerable and broken Python programs before a simulated cyber attack causes system failure.
+Debug Dome is a cybersecurity-themed Python debugging competition where students act as Cyber Defense Engineers tasked with fixing vulnerable and broken Python programs before a simulated cyber attack causes system failure.
 
 Instead of writing code from scratch, participants must analyze, debug, and secure existing Python programs, making the challenge accessible to both 1st and 2nd year students while still testing logical thinking, syntax knowledge, and cybersecurity awareness.
 ### Objectives
