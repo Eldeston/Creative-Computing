@@ -84,14 +84,14 @@ To enhance the overall atmosphere and visual impact of CYBERSPARK 2026, thematic
 | ------ | -------- | -------------------------- | ---------------------------- |
 | 29     | 5        | 24                         | 18                           |
 
-| Activities        | Rewards                                                          |
-| ----------------- | ---------------------------------------------------------------- |
-| Cyber Lockdown    | 5 Medals, 5 Certificate of Recognition                           |
-| Password Relay    | 5 Medals, 5 Certificate of Recognition                           |
-| Digital Forensics | 5 Medals, 5 Certificate of Recognition                           |
-| CODM Scrimmage    | 1 Trophy, 5 medals, 5 Certificate of Recognition                 |
-| Debug Dome        | 2 Trophy, 1 Gift Card, 11 Certificate of Participation           |
-| Robot Making      | 2 Trophy, 1 Gift Card, 11 Certificate of Participation, 9 Medals |
+| Activities        | Rewards                                                         |
+| ----------------- | --------------------------------------------------------------- |
+| Cyber Lockdown    | 5 Medals, 5 Certificate of Recognition                          |
+| Password Relay    | 5 Medals, 5 Certificate of Recognition                          |
+| Digital Forensics | 5 Medals, 5 Certificate of Recognition                          |
+| CODM Scrimmage    | 1 Trophy, 5 medals, 5 Certificate of Recognition                |
+| Robot Making      | 2 Trophy, 1 Gift Card, 9 Certificate of Participation, 9 Medals |
+| Debug Dome        | 2 Trophy, 1 Gift Card, 9 Certificate of Participation           |
 ## Medal Sticker Specifications
 **Size:**
 4 Centimeters in diameter
@@ -269,10 +269,19 @@ Time bonus: +10 pts for early completion
 | ------------------- | ----- |
 | Medals              | 25    |
 | Certificates        | ∞     |
+## Projected Budget
 
 | Items                               | Budget  |
 | ----------------------------------- | ------- |
 | 5 Trophies                          | AED 50  |
-| Hanging Decorations                 | AED 29  |
 | 2 Digital Steam Gift Cards (20 AED) | AED 36  |
+| Hanging Decorations                 | AED 29  |
 | Total                               | AED 115 |
+## Actual Budget
+
+| Items                               | Budget  |
+| ----------------------------------- | ------- |
+| 5 Trophies                          | AED 50  |
+| 2 Digital Steam Gift Cards (20 AED) | AED 36  |
+| Sticker Printers                    | AED 18  |
+| Total                               | AED 104 |
