@@ -92,7 +92,6 @@ To enhance the overall atmosphere and visual impact of CYBERSPARK 2026, thematic
 | CODM Scrimmage    | 1 Trophy, 5 medals, 5 Certificate of Recognition                 |
 | Debug Dome        | 2 Trophy, 1 Gift Card, 11 Certificate of Participation           |
 | Robot Making      | 2 Trophy, 1 Gift Card, 11 Certificate of Participation, 9 Medals |
-
 ## Medal Sticker Specifications
 **Size:**
 4 Centimeters in diameter
