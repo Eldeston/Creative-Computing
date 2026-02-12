@@ -82,16 +82,16 @@ To enhance the overall atmosphere and visual impact of CYBERSPARK 2026, thematic
 
 | Medals | Trophies | Certificate of Recognition | Certificate of Participation |
 | ------ | -------- | -------------------------- | ---------------------------- |
-| 29     | 5        | 24                         | 18                           |
+| 33     | 5        | 24                         | 26/5                         |
 
-| Activities        | Rewards                                                         |
-| ----------------- | --------------------------------------------------------------- |
-| Cyber Lockdown    | 5 Medals, 5 Certificate of Recognition                          |
-| Password Relay    | 5 Medals, 5 Certificate of Recognition                          |
-| Digital Forensics | 5 Medals, 5 Certificate of Recognition                          |
-| CODM Scrimmage    | 1 Trophy, 5 medals, 5 Certificate of Recognition                |
-| Robot Making      | 2 Trophy, 1 Gift Card, 9 Certificate of Participation, 9 Medals |
-| Debug Dome        | 2 Trophy, 1 Gift Card, 9 Certificate of Participation           |
+| Activities        | Rewards                                                           |
+| ----------------- | ----------------------------------------------------------------- |
+| Cyber Lockdown    | 5 Medals, 5 Certificate of Recognition                            |
+| Password Relay    | 5 Medals, 5 Certificate of Recognition                            |
+| Digital Forensics | 5 Medals, 5 Certificate of Recognition                            |
+| CODM Scrimmage    | 1 Trophy, 5 medals, 5 Certificate of Recognition                  |
+| Robot Making      | 2 Trophy, 1 Gift Card, 13 Certificate of Participation, 13 Medals |
+| Debug Dome        | 2 Trophy, 1 Gift Card, 13 Certificate of Participation            |
 ## Medal Sticker Specifications
 **Size:**
 4 Centimeters in diameter
