@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ac485ca714a24bdd",
+        "id": "4bd878e9a556a96a",
         "type": "tabs",
         "children": [
           {
-            "id": "78c1be34b48dd370",
+            "id": "fca47591547bfb93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creative Computing Club/Computing Department Day v4.0.md",
+                "file": "Year 2 - Semester 2/3 - Emerging Technologies/Class 06 - Emerging Technologies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Computing Department Day v4.0"
-            }
-          },
-          {
-            "id": "3bb3ffb01c71cd85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Creative Computing Club/Computing Department Day Winners.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Computing Department Day Winners"
+              "title": "Class 06 - Emerging Technologies"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,13 +214,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3bb3ffb01c71cd85",
+  "active": "fca47591547bfb93",
   "lastOpenFiles": [
+    "Year 2 - Semester 2/1 - Mobile App Dev/Class 04 - Mobile App Dev.md",
+    "Year 2 - Semester 2/2 - Creative Industry/Class 05 - Creative Industry Challenges.md",
+    "Year 2 - Semester 2/2 - Creative Industry/Class 02 - Creative Industry Challenges.md",
+    "Year 2 - Semester 2/3 - Emerging Technologies/Class 06 - Emerging Technologies.md",
+    "Year 2 - Semester 2/3 - Emerging Technologies/Class 03 - Emerging Technologies.md",
     "Creative Computing Club/Computing Department Day v4.0.md",
     "Creative Computing Club/Computing Department Day Winners.md",
     "Creative Computing Club/Computing Department Day Judges.md",
-    "Year 2 - Semester 2/2 - Creative Industry/Class 05 - Creative Industry Challenges.md",
-    "Year 2 - Semester 2/1 - Mobile App Dev/Class 04 - Mobile App Dev.md",
     "Creative Computing Club/Dump Meeting Stuff.md",
     "Creative Computing Club/Computing Department Day v1.0.md",
     "Creative Computing Club/Computing Department Day Rewards.md",
@@ -253,13 +231,11 @@
     "Creative Computing Club/Frame 1.png",
     "Creative Computing Club/Landscape 16_9.png",
     "Creative Computing Club/Programs.md",
-    "Year 2 - Semester 2/3 - Emerging Technologies/Class 03 - Emerging Technologies.md",
     "Year 2 - Semester 2/3 - Emerging Technologies",
     "Creative Computing Club/Graphics Designer Handbook.md",
     "Creative Computing Club/The Constitution.md",
     "Creative Computing Club/Shader Dev Workshop.md",
     "Year 2 - Semester 2/2 - Creative Industry/Entry Log/Learning Log.md",
-    "Year 2 - Semester 2/2 - Creative Industry/Class 02 - Creative Industry Challenges.md",
     "Year 2 - Semester 2/2 - Creative Industry/Entry Log",
     "Untitled.base",
     "Year 2 - Semester 2/1 - Mobile App Dev/Class 01 - Mobile App Dev.md",
@@ -274,7 +250,6 @@
     "Year 2 - Semester 1/3 - Advanced Programming/Class 06 - Advanced Programming.md",
     "Year 2 - Semester 1/3 - Advanced Programming/Class 09 - Advanced Programming.md",
     "Year 2 - Semester 1/3 - Advanced Programming/Class 12 - Advanced Programming.md",
-    "Year 2 - Semester 1/3 - Advanced Programming/Class 15 - Advanced Programming.md",
     "Year 2 - Semester 1/Timetable - Evening.pdf",
     "Year 2 - Semester 1/3 - Advanced Programming/Activities/Activity 10/movieDB.py",
     "Year 2 - Semester 1/3 - Advanced Programming/Activities/Activity 10/weatherMap.py",
