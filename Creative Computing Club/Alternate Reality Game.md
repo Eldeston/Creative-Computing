@@ -7,8 +7,9 @@ The objective of this ARG is to engage a collaborative environment and encourage
 - Mr. Oliver's Birthday
 - End of Year Party
 # Puzzle Ideas
-- Cyber Lockdown & Digital Forensics (CyberSpark 2026)
-	- Codes hidden in websites
-	- Codes hidden in the campus
+Most of these ideas were taken from the last activities, Cyber Lockdown & Digital Forensics from this year's CyberSpark 2026 in February.
+- Codes hidden in images
+- Codes hidden in websites
+- Clues hidden in the campus
+- Clues hidden in campus events
 - Redacted Texts (Highlighted Black Texts)
-- 
