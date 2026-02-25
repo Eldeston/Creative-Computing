@@ -23,12 +23,24 @@
             "id": "fca47591547bfb93",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 3.pdf"
+                "file": "Year 2 - Semester 2/2 - Creative Industry/Class 11 - Creative Industry Challenges.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Mobile App Development - Lesson 3"
+              "icon": "lucide-file",
+              "title": "Class 11 - Creative Industry Challenges"
             }
           },
           {
@@ -241,19 +253,20 @@
   },
   "active": "fca47591547bfb93",
   "lastOpenFiles": [
-    "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 1.pdf",
-    "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 3.pdf",
-    "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 2.pdf",
-    "Year 2 - Semester 2/1 - Mobile App Dev/Class 10 - Mobile App Dev.md",
-    "Year 2 - Semester 2/1 - Mobile App Dev/Class 07 - Mobile App Dev.md",
+    "Year 2 - Semester 2/2 - Creative Industry/Class 05 - Creative Industry Challenges.md",
     "Year 2 - Semester 2/2 - Creative Industry/Class 08 - Creative Industry Challenges.md",
+    "Year 2 - Semester 2/2 - Creative Industry/Class 11 - Creative Industry Challenges.md",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Class 10 - Mobile App Dev.md",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 3.pdf",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 1.pdf",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 2.pdf",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Class 07 - Mobile App Dev.md",
     "Year 2 - Semester 2/3 - Emerging Technologies/Class 09 - Emerging Technologies.md",
     "Creative Computing Club/Computing Department Day v4.0.md",
     "Creative Computing Club/Computing Department Day v1.0.md",
     "Creative Computing Club/Computing Department Day Judges.md",
     "Creative Computing Club/Alternate Reality Game.md",
     "Year 2 - Semester 2/1 - Mobile App Dev/Class 04 - Mobile App Dev.md",
-    "Year 2 - Semester 2/2 - Creative Industry/Class 05 - Creative Industry Challenges.md",
     "Year 2 - Semester 2/2 - Creative Industry/Class 02 - Creative Industry Challenges.md",
     "Year 2 - Semester 2/3 - Emerging Technologies/Class 06 - Emerging Technologies.md",
     "Year 2 - Semester 2/3 - Emerging Technologies/Class 03 - Emerging Technologies.md",
