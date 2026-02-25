@@ -8,36 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fca47591547bfb93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2 - Semester 2/3 - Emerging Technologies/Class 09 - Emerging Technologies.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Class 09 - Emerging Technologies"
-            }
-          },
-          {
             "id": "ec00e6776415b75b",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Mobile App Development - Lesson 1"
+            }
+          },
+          {
+            "id": "fca47591547bfb93",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Mobile App Development - Lesson 3"
+            }
+          },
+          {
+            "id": "ff16a373b85e6452",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Creative Computing Club/Computing Department Day v4.0.md",
+                "file": "Year 2 - Semester 2/1 - Mobile App Dev/Class 10 - Mobile App Dev.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Computing Department Day v4.0"
+              "title": "Class 10 - Mobile App Dev"
             }
           }
         ],
@@ -239,16 +239,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ec00e6776415b75b",
+  "active": "fca47591547bfb93",
   "lastOpenFiles": [
-    "Creative Computing Club/Computing Department Day v1.0.md",
-    "Creative Computing Club/Computing Department Day v4.0.md",
-    "Creative Computing Club/Computing Department Day Judges.md",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 1.pdf",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 3.pdf",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 2.pdf",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Class 10 - Mobile App Dev.md",
     "Year 2 - Semester 2/1 - Mobile App Dev/Class 07 - Mobile App Dev.md",
+    "Year 2 - Semester 2/2 - Creative Industry/Class 08 - Creative Industry Challenges.md",
     "Year 2 - Semester 2/3 - Emerging Technologies/Class 09 - Emerging Technologies.md",
+    "Creative Computing Club/Computing Department Day v4.0.md",
+    "Creative Computing Club/Computing Department Day v1.0.md",
+    "Creative Computing Club/Computing Department Day Judges.md",
     "Creative Computing Club/Alternate Reality Game.md",
     "Year 2 - Semester 2/1 - Mobile App Dev/Class 04 - Mobile App Dev.md",
-    "Year 2 - Semester 2/2 - Creative Industry/Class 08 - Creative Industry Challenges.md",
     "Year 2 - Semester 2/2 - Creative Industry/Class 05 - Creative Industry Challenges.md",
     "Year 2 - Semester 2/2 - Creative Industry/Class 02 - Creative Industry Challenges.md",
     "Year 2 - Semester 2/3 - Emerging Technologies/Class 06 - Emerging Technologies.md",
@@ -273,11 +277,7 @@
     "Year 2 - Semester 2/1 - Mobile App Dev",
     "Year 2 - Semester 2",
     "Creative Computing Club/Mandatory Coordination Meeting.md",
-    "Year 2 - Semester 1/1 - Responsive Web/Class 01 - Responsive Web.md",
     "Year 2 - Semester 1/Timetable - Evening.pdf",
-    "Year 2 - Semester 1/3 - Advanced Programming/Activities/Activity 10/movieDB.py",
-    "Year 2 - Semester 1/3 - Advanced Programming/Activities/Activity 10/weatherMap.py",
-    "Year 2 - Semester 1/3 - Advanced Programming/Activities/Activity 10",
     "Year 2 - Semester 1/1 - Responsive Web/Activities/Activity 01/rayquaza.jpg",
     "Year 2 - Semester 1/1 - Responsive Web/Activities/Activity 01/jirachi.jpg",
     "Year 2 - Semester 1/1 - Responsive Web/Activities/Activity 01/deoxys.jpg",
