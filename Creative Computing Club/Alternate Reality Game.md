@@ -6,6 +6,7 @@ The objective of this ARG is to engage a collaborative environment and encourage
 - Connecting it with other events
 - Mr. Oliver's Birthday
 - End of Year Party
+- April fools
 # Puzzle Ideas
 Most of these ideas were taken from the last activities, Cyber Lockdown & Digital Forensics from this year's CyberSpark 2026 in February.
 - Codes hidden in images

@@ -18,57 +18,8 @@
               "icon": "lucide-file-text",
               "title": "Mobile App Development - Lesson 1"
             }
-          },
-          {
-            "id": "fca47591547bfb93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2 - Semester 2/2 - Creative Industry/Class 11 - Creative Industry Challenges.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Class 11 - Creative Industry Challenges"
-            }
-          },
-          {
-            "id": "ff16a373b85e6452",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2 - Semester 2/1 - Mobile App Dev/Class 10 - Mobile App Dev.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Class 10 - Mobile App Dev"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,45 +202,44 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fca47591547bfb93",
+  "active": "ec00e6776415b75b",
   "lastOpenFiles": [
+    "Creative Computing Club/Alternate Reality Game.md",
+    "Creative Computing Club/Meeting Agendas.md",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 1.pdf",
+    "Creative Computing Club/Computing Department Day v4.0.md",
+    "Creative Computing Club/Computing Department Day Winners.md",
+    "Creative Computing Club/Dump Meeting Stuff.md",
+    "Creative Computing Club/Computing Department Day v1.0.md",
+    "Creative Computing Club/Computing Department Day Judges.md",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Class 10 - Mobile App Dev.md",
+    "Creative Computing Club/Shader Dev Workshop.md",
+    "Creative Computing Club/Frame 1.png",
+    "Year 2 - Semester 2/2 - Creative Industry/Class 11 - Creative Industry Challenges.md",
     "Year 2 - Semester 2/2 - Creative Industry/Class 05 - Creative Industry Challenges.md",
     "Year 2 - Semester 2/2 - Creative Industry/Class 08 - Creative Industry Challenges.md",
-    "Year 2 - Semester 2/2 - Creative Industry/Class 11 - Creative Industry Challenges.md",
-    "Year 2 - Semester 2/1 - Mobile App Dev/Class 10 - Mobile App Dev.md",
     "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 3.pdf",
-    "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 1.pdf",
     "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 2.pdf",
     "Year 2 - Semester 2/1 - Mobile App Dev/Class 07 - Mobile App Dev.md",
     "Year 2 - Semester 2/3 - Emerging Technologies/Class 09 - Emerging Technologies.md",
-    "Creative Computing Club/Computing Department Day v4.0.md",
-    "Creative Computing Club/Computing Department Day v1.0.md",
-    "Creative Computing Club/Computing Department Day Judges.md",
-    "Creative Computing Club/Alternate Reality Game.md",
     "Year 2 - Semester 2/1 - Mobile App Dev/Class 04 - Mobile App Dev.md",
     "Year 2 - Semester 2/2 - Creative Industry/Class 02 - Creative Industry Challenges.md",
     "Year 2 - Semester 2/3 - Emerging Technologies/Class 06 - Emerging Technologies.md",
     "Year 2 - Semester 2/3 - Emerging Technologies/Class 03 - Emerging Technologies.md",
-    "Creative Computing Club/Computing Department Day Winners.md",
-    "Creative Computing Club/Dump Meeting Stuff.md",
     "Creative Computing Club/Computing Department Day Rewards.md",
     "Creative Computing Club/Members.md",
-    "Creative Computing Club/Frame 1.png",
     "Creative Computing Club/Landscape 16_9.png",
     "Creative Computing Club/Programs.md",
     "Year 2 - Semester 2/3 - Emerging Technologies",
     "Creative Computing Club/Graphics Designer Handbook.md",
     "Creative Computing Club/The Constitution.md",
-    "Creative Computing Club/Shader Dev Workshop.md",
     "Year 2 - Semester 2/2 - Creative Industry/Entry Log/Learning Log.md",
     "Year 2 - Semester 2/2 - Creative Industry/Entry Log",
     "Untitled.base",
     "Year 2 - Semester 2/1 - Mobile App Dev/Class 01 - Mobile App Dev.md",
     "Year 2 - Semester 2/2 - Creative Industry",
-    "Year 1 - Semester 1/1 - Digital Visual Design/Class 01 - Digital Visual Design.md",
     "Year 2 - Semester 2/1 - Mobile App Dev",
     "Year 2 - Semester 2",
-    "Creative Computing Club/Mandatory Coordination Meeting.md",
     "Year 2 - Semester 1/Timetable - Evening.pdf",
     "Year 2 - Semester 1/1 - Responsive Web/Activities/Activity 01/rayquaza.jpg",
     "Year 2 - Semester 1/1 - Responsive Web/Activities/Activity 01/jirachi.jpg",
