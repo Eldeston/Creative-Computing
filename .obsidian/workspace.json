@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2 - Semester 2/3 - Emerging Technologies/Class 12 - Emerging Technologies.md",
+                "file": "Year 2 - Semester 2/3 - Emerging Technologies/Class 09 - Emerging Technologies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Class 12 - Emerging Technologies"
+              "title": "Class 09 - Emerging Technologies"
+            }
+          },
+          {
+            "id": "79551a00278fd4b7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
         ]
@@ -216,8 +228,8 @@
   },
   "active": "ec00e6776415b75b",
   "lastOpenFiles": [
-    "Year 2 - Semester 2/3 - Emerging Technologies/Class 09 - Emerging Technologies.md",
     "Year 2 - Semester 2/3 - Emerging Technologies/Class 12 - Emerging Technologies.md",
+    "Year 2 - Semester 2/3 - Emerging Technologies/Class 09 - Emerging Technologies.md",
     "Year 2 - Semester 2/1 - Mobile App Dev/Class 10 - Mobile App Dev.md",
     "Year 2 - Semester 2/1 - Mobile App Dev/Class 07 - Mobile App Dev.md",
     "Year 2 - Semester 2/1 - Mobile App Dev/Class 04 - Mobile App Dev.md",
