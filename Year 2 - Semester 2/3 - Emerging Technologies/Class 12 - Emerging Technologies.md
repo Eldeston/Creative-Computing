@@ -1,11 +1,12 @@
 ---
 tags:
   - incomplete
-date: 2026-02-24
-teacher: Mr. Oliver
+date: 2026-02-26
+teacher: Ms. Zainab
 ---
-# Mobile App Dev 4
-# Obsidian - Note Taking App Analysis
+# Emerging Technologies 4
+## March 12-19 Live Debate
+15 minutes per group
 
 ----------------------------------------------------------------
 # Editor's Notes
