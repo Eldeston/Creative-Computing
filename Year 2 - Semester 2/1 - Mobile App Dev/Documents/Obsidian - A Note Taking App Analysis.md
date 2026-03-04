@@ -5,6 +5,8 @@ Obsidian is a note taking app that utilizes Markdown.
 ## Problem & Solution
 ## History of Markdown
 # Function
+## Touch Gesture
+## User Guidance
 # Aesthetics
 
 # Architecture
