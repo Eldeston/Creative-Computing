@@ -8,7 +8,7 @@ Obsidian is a note taking app that utilizes Markdown.
 
 # Architecture - What is its layout?
 ## Navigation Menu
-# ~~Function - Does it have errors?~~
+# ~~Function - Does it work?~~
 ## Touch Gesture
 ## User Guidance
 
