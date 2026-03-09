@@ -1,16 +1,16 @@
 # Introduction
 Obsidian is a note taking app that utilizes Markdown.
-# Purpose
+# Purpose - Who is it for?
 ## Targeted Audience
 ## Problem & Solution
 ## History of Markdown
-# Function
+# Aesthetics - How does it look?
+
+# Architecture - What is its layout?
+## Navigation Menu
+# ~~Function - Does it have errors?~~
 ## Touch Gesture
 ## User Guidance
-# Aesthetics
-
-# Architecture
-## Navigation Menu
 
 ---
 # 3 Dimensions
