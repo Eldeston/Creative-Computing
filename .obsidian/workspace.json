@@ -223,8 +223,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -258,8 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,11 +276,11 @@
   },
   "active": "2e8cbe988203e2a9",
   "lastOpenFiles": [
-    "Year 2 - Semester 2/3 - Emerging Technologies/Documents/corporate-investment-in-artificial-intelligence-by-type.png",
-    "Year 2 - Semester 2/3 - Emerging Technologies/Documents/corporate-investment-in-artificial-intelligence-by-type.svg",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Class 13 - Mobile App Dev.md",
     "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 1.pdf",
     "Year 2 - Semester 2/3 - Emerging Technologies/Documents/Assessment 1 - Live Debate.md",
-    "Year 2 - Semester 2/1 - Mobile App Dev/Class 13 - Mobile App Dev.md",
+    "Year 2 - Semester 2/3 - Emerging Technologies/Documents/corporate-investment-in-artificial-intelligence-by-type.png",
+    "Year 2 - Semester 2/3 - Emerging Technologies/Documents/corporate-investment-in-artificial-intelligence-by-type.svg",
     "Year 2 - Semester 2/3 - Emerging Technologies/Documents",
     "Year 2 - Semester 2/1 - Mobile App Dev/Class 10 - Mobile App Dev.md",
     "Year 2 - Semester 2/3 - Emerging Technologies/Class 12 - Emerging Technologies.md",
@@ -322,7 +321,6 @@
     "Creative Computing Club/Pasted image 20251104123154.png",
     "Creative Computing Club/Pasted image 20251104130534.png",
     "Creative Computing Club/Pasted image 20251104130039.png",
-    "Year 2 - Semester 1/3 - Advanced Programming/Activities/Activity 04/hollowKnight.jpg",
     "Year 2 - Semester 1/2 - Game Engine & Scripting/Untitled.canvas",
     "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/Untitled.canvas",
     "Year 1/03 - Intro to Programming/Assessments/Assessment 02 - Intro to Python/flowchart.canvas",
