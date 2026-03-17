@@ -36,6 +36,12 @@ FDR Events is an event management company that focuses on creating events with t
 FDR Sports Academy is a sports training company with a focus on training the next generation’s athletes with values and discipline.
 # Client Brief
 *(Xavier: 1 minute)*
+
+After talking to our client and FDR representative Kuya Dave about the history of FDR Sports Academy, how their website was made, and what the vision for their website is, both parties agreed that "Orion" our team should present and propose 2-3 different website prototypes for the redesign of their website, this way the client can choose which from our vision for their website fits more in line with their vision for their website.
+
+The 3 prototypes were gonna focus on a Fun Design, a Corporate Design, and a Combination of the two, respectively. But as you will see later on, the team decided to cut it down to 2 prototypes so as to not overwork ourselves. This decision was made while in the process of making the low fidelity of the 3 prototypes for the website design.
+
+And also, though not a requirement provided by the client, we wanted to make a unique branding for the Sports Academy branch of FDR so that it reflects the “sports” part of the branch but also make it faithful enough to the original so as to not abandon the original vision for their branding.
 # Design Process
 *(Maudric: 1 minute)*
 
@@ -46,7 +52,7 @@ Before we built our prototypes, we started with *critical observation* and *desi
 
 Two DAD documents, each stand as Developer Analysis Document & Designer Analysis Document, were made to assess what FDR had with their *Sports Academy website* with both their design and code.
 
-The documents helped us address the issues in the website’s front-end design (helping us be thoughtful in our critiques)
+The documents helped us address the issues in the website’s front-end design (helping us be thoughtful in our critiques).
 
 Through the document, we were able to oversee challenges ahead when it comes to building the website by code. (such as the fact that the website is built with Word Press bringing a hassle)
 
@@ -62,10 +68,22 @@ Furthermore, we included a wireframe of the current website. This helps us see t
 
 > [!NOTE]
 > Present the Lo-Fi and Hi-Fi of Project Alnilam, the presentation will be alt tabbed to Figma, with the presenter explaining, on their own, each frame and their design choice.
-## Lo-Fi Showcase
 
-## Hi-Fi Showcase
+To express the funness in this iteration, the low fidelity prototype started off with a lot of rounded corners to showcase a more bubbly and bouncy feel.
 
+By the time we started work on the high-fidelity prototype, we turned down the frequency and intensity of these rounded edges and began making use of vibrant colors, gradients, and shadows to create depth.
+
+This design principle is also visible in the way that the FDR Sports Academy logo is redesigned for Alnilam:
+- Original is simple and with neutral colors
+- Redesign uses more vibrant and saturated colors
+- Emphasized the 3-dimensional look, resembling a ball
+- To display character, the ball displays movement through spinning
+- The “FDR” text has a less formal feel and looks more handmade
+
+Lastly, the website takes a lot of reference from real-world objects
+- Envelope for the contact form
+- Bulletin or corkboard in the gallery
+- Sports equipment scattered across the website
 # Prototype Bellatrix
 *(Frem: 4 minutes)*
 
@@ -73,19 +91,19 @@ Furthermore, we included a wireframe of the current website. This helps us see t
 > Present the Lo-Fi and Hi-Fi of Project Bellatrix, the presentation will be alt tabbed to Figma, with the presenter explaining, on their own, each frame and their design choice.
 
 Prototype Bellatrix follows a more conventional format as opposed to Alnilam. Bellatrix's overall style is more formal and corporate. Bellatrix maintains the same color palette as Project Alnilam and maintains solid colors and simpler shapes.
-## Lo-Fi Showcase
+
 In the low fidelity version of this prototype, we used a more conventional layout that are focused on delivering information effectively to the customer/visitor. Reducing clutter and formally welcoming the customer/visitor.
-## Hi-Fi Showcase
+
 Moving on to the high fidelity iteration of Bellatrix, we've maintained solid colors while using dark green as our main accent color and as opposed to Project Alnilam, it uses less gradients. We used light green for key elements such as our navigation bar and highlights.
 
-Lastly, we also used a revamped FDR's logo that uses a more simpler and corporate design.
+Lastly, Prototype Bellatrix also uses a revamped version of FDR's logo that uses a more simpler and corporate design.
 # Project Roadmap
 *(Arham: 1 minute, 30 seconds)*
 
 > [!NOTE]
 > Explaining the future steps that will be taken for the development process with the client.
 
-Going ahead, I will share a detailed and organized roadmap that describes our intended development process to the client, guaranteeing complete transparency and alignment throughout each phase. With both the low-fidelity and high-fidelity prototype designs successfully finalized, we are now well-prepared to initiate the implementation phase. At this point, we will start creating the design that the client ultimately chooses, while keeping a flexible and iterative method. This indicates that any client feedback, modifications, or extra specifications can be easily integrated into the development workflow without hindering advancement. 
+Going ahead, I will share a detailed and organized roadmap that describes our intended development process to the client, guaranteeing complete transparency and alignment throughout each phase. With both the low-fidelity and high-fidelity prototype designs successfully finalized, we are now well-prepared to initiate the implementation phase. At this point, we will start creating the design that the client ultimately chooses, while keeping a flexible and iterative method. This indicates that any client feedback, modifications, or extra specifications can be easily integrated into the development workflow without hindering advancement.
 
 Regarding the development platform, the existing website has been created with WordPress, offering a user-friendly and well-supported base. We are receptive to ongoing development in this setting to uphold consistency and effectiveness. Nonetheless, we acknowledge that different development methods might provide enhanced flexibility, performance, or scalability. Thus, we will engage with the client to find out if they wish to stick with WordPress or investigate alternative technologies that might align more closely with their long-term objectives.
 
