@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2 - Semester 2/2 - Creative Industry/Documents/Orion Script Presentation.md",
+                "file": "Year 2 - Semester 2/2 - Creative Industry/Documents/Orion Script Presentation v1.0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +88,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Orion Script Presentation"
+              "title": "Orion Script Presentation v1.0"
             }
           }
         ],
@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "30cd0d9ae5a340a6",
@@ -258,7 +259,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,7 +279,7 @@
   "active": "2e8cbe988203e2a9",
   "lastOpenFiles": [
     "Year 2 - Semester 2/3 - Emerging Technologies/Documents/Assessment 1 - Live Debate.md",
-    "Year 2 - Semester 2/2 - Creative Industry/Documents/Orion Script Presentation.md",
+    "Year 2 - Semester 2/2 - Creative Industry/Documents/Orion Script Presentation v1.0.md",
     "Year 2 - Semester 2/2 - Creative Industry/Documents",
     "Year 2 - Semester 2/2 - Creative Industry/Untitled.md",
     "Year 2 - Semester 2/1 - Mobile App Dev/Class 13 - Mobile App Dev.md",
