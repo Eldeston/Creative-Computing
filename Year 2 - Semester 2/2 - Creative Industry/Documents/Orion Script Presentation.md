@@ -19,11 +19,13 @@ Presenting ourselves and our roles and positions in the team.
 # Design Process
 *(Maudric: 1 minute)*
 
-Explain both the brand identities of both projects, talking about influences, colors, terms, etc.
+> [!NOTE]
+> Explain both the brand identities of both projects, talking about influences, colors, terms, etc.
 # Prototype Alnilam
 *(Vince: 4 minutes)*
 
-Present the Lo-Fi and Hi-Fi of Project Alnilam, the presentation will be alt tabbed to Figma, with the presenter explaining, on their own, each frame and their design choice.
+> [!NOTE]
+> Present the Lo-Fi and Hi-Fi of Project Alnilam, the presentation will be alt tabbed to Figma, with the presenter explaining, on their own, each frame and their design choice.
 ## Lo-Fi Showcase
 
 ## Hi-Fi Showcase
@@ -31,11 +33,16 @@ Present the Lo-Fi and Hi-Fi of Project Alnilam, the presentation will be alt tab
 # Prototype Bellatrix
 *(Frem: 4 minutes)*
 
-Present the Lo-Fi and Hi-Fi of Project Bellatrix, the presentation will be alt tabbed to Figma, with the presenter explaining, on their own, each frame and their design choice.
+> [!NOTE]
+> Present the Lo-Fi and Hi-Fi of Project Bellatrix, the presentation will be alt tabbed to Figma, with the presenter explaining, on their own, each frame and their design choice.
+
+Prototype Bellatrix follows a more conventional format as opposed to Alnilam. Bellatrix's overall style is more formal and corporate. Bellatrix maintains the same color palette as Project Alnilam and maintains solid colors and simpler shapes.
 ## Lo-Fi Showcase
+In the low fidelity version of this prototype, we used more conventional layouts that are focused on delivering information effectively to the customer.
+
 
 ## Hi-Fi Showcase
-
+In the high fidelity version of this prototype, 
 # Project Roadmap
 *(Arham: 1 minute, 30 seconds)*
 
