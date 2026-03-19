@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "c19e831a87c65af5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2 - Semester 2/1 - Mobile App Dev/Class 13 - Mobile App Dev.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Class 13 - Mobile App Dev"
-            }
-          },
-          {
             "id": "30d40574e18c88be",
             "type": "leaf",
             "state": {
@@ -91,8 +67,7 @@
               "title": "Orion Script Presentation v1.0"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,14 +251,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2e8cbe988203e2a9",
+  "active": "ec00e6776415b75b",
   "lastOpenFiles": [
-    "Year 2 - Semester 2/3 - Emerging Technologies/Documents/Assessment 1 - Live Debate.md",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 1.pdf",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Class 13 - Mobile App Dev.md",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Obsidian - A Note Taking App Analysis.md",
     "Year 2 - Semester 2/2 - Creative Industry/Documents/Orion Script Presentation v1.0.md",
+    "Year 2 - Semester 2/3 - Emerging Technologies/Documents/Assessment 1 - Live Debate.md",
     "Year 2 - Semester 2/2 - Creative Industry/Documents",
     "Year 2 - Semester 2/2 - Creative Industry/Untitled.md",
-    "Year 2 - Semester 2/1 - Mobile App Dev/Class 13 - Mobile App Dev.md",
-    "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 1.pdf",
     "Year 2 - Semester 2/3 - Emerging Technologies/Documents/corporate-investment-in-artificial-intelligence-by-type.png",
     "Year 2 - Semester 2/3 - Emerging Technologies/Documents/corporate-investment-in-artificial-intelligence-by-type.svg",
     "Year 2 - Semester 2/3 - Emerging Technologies/Documents",
@@ -292,7 +268,6 @@
     "Year 2 - Semester 2/3 - Emerging Technologies/Class 06 - Emerging Technologies.md",
     "Year 2 - Semester 2/3 - Emerging Technologies/Class 09 - Emerging Technologies.md",
     "Year 2 - Semester 2/2 - Creative Industry/Class 11 - Creative Industry Challenges.md",
-    "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Obsidian - A Note Taking App Analysis.md",
     "Year 2 - Semester 2/2 - Creative Industry/Class 14 - Creative Industry Challenges.md",
     "Year 2 - Semester 2/2 - Creative Industry/Class 08 - Creative Industry Challenges.md",
     "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 2.pdf",
@@ -311,7 +286,6 @@
     "Creative Computing Club/Frame 1.png",
     "Year 2 - Semester 2/2 - Creative Industry/Class 05 - Creative Industry Challenges.md",
     "Year 2 - Semester 2/2 - Creative Industry/Class 02 - Creative Industry Challenges.md",
-    "Year 2 - Semester 2/3 - Emerging Technologies/Class 03 - Emerging Technologies.md",
     "Creative Computing Club/Landscape 16_9.png",
     "Year 2 - Semester 2/3 - Emerging Technologies",
     "Year 2 - Semester 2/2 - Creative Industry/Entry Log",
