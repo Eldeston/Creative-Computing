@@ -23,7 +23,7 @@ Team Introductions:
 - Xavier Bernardo : Documenter, Designer
 - Vince Caballero : Designer, Developer
 
-Orion is a team of six individuals, equipped with their knowledge and expertise to collaborate and develop online solutions to working clients and companies. Orion evolves to become an organization pursuing creativity and knowledge.
+Orion is a team of six individuals, equipped with their knowledge and expertise to collaborate and develop online solutions to working clients and companies. Orion constantly evolves to become an organization pursuing creativity and knowledge and to point others towards the same creativity and knowledge.
 # Who Is FDR Sports Academy?
 *(Brent: 1 minute)*
 
