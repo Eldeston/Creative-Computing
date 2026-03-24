@@ -191,3 +191,19 @@ Artificial intelligence inevitably will shape the future, but it should never re
 # Debate References
 - [Debate world champion explains how to argue | Bo Seo](https://www.youtube.com/watch?v=2pVdSEp-tT8)
 - [Oxford-Style Debate, Explained](https://www.youtube.com/watch?v=xVmShH0-9xY)
+
+Giattino, C., Mathieu, E., Samborska, V. and Roser, M. (2023). _Artificial Intelligence_. [online] Our World in Data. Available at: https://ourworldindata.org/artificial-intelligence [Accessed 24 Mar. 2026].
+
+Hayward, E. (2025). _Klarna goes on recruitment drive after ditching AI-first policy_. [online] Mind the Product. Available at: https://www.mindtheproduct.com/klarna-goes-on-recruitment-drive-after-ditching-ai-first-policy/ [Accessed 23 Mar. 2026].
+
+Hill, J.J. (2025). _How creative backlash over AI systems training on stolen art styles sparked an artist-run platform | Milwaukee Independent_. [online] Milwaukee Independent. Available at: https://www.milwaukeeindependent.com/explainers/creative-backlash-ai-systems-training-stolen-art-styles-sparked-artist-run-platform/ [Accessed 24 Mar. 2026].
+
+Irwin, K. (2024). _Adobe Is Changing Its Terms of Use Again After Backlash_. [online] PCMAG. Available at: https://www.pcmag.com/news/adobe-changing-terms-of-use-again-after-backlash [Accessed 24 Mar. 2026].
+
+Orgvue (2025). _55% of businesses admit wrong decisions in making employees redundant when bringing AI into the workforce_. [online] Orgvue. Available at: https://www.orgvue.com/news/55-of-businesses-admit-wrong-decisions-in-making-employees-redundant-when-bringing-ai-into-the-workforce/ [Accessed 20 Mar. 2026].
+
+Roser, M. (2023). _Artificial Intelligence Has Advanced despite Having Few Resources Dedicated to Its Development – Now Investments Have Increased Substantially_. [online] Our World in Data. Available at: https://ourworldindata.org/ai-investments [Accessed 11 Mar. 2026].
+
+Sadler, D. (2025). _Companies backtrack after going all in on AI_. [online] Information Age. Available at: https://ia.acs.org.au/article/2025/companies-backtrack-after-going-all-in-on-ai.html [Accessed 20 Mar. 2026].
+
+Snyder, J. (2025). MIT Finds 95% Of GenAI Pilots Fail Because Companies Avoid Friction. _Forbes_. [online] 26 Aug. Available at: https://www.forbes.com/sites/jasonsnyder/2025/08/26/mit-finds-95-of-genai-pilots-fail-because-companies-avoid-friction/ [Accessed 20 Mar. 2026].
