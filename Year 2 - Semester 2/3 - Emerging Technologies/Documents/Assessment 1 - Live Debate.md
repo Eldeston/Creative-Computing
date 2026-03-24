@@ -4,6 +4,8 @@ Artificial intelligence has rapidly moved from a futuristic idea to a force shap
 
 We will find out today how **artificial intelligence threatens to take over too many aspects of our lives that should be left to humans**, and how we as humans can stay informed and be responsible for it. This is not a debate about whether AI is useful; it is about where we draw the line when it comes to using it. Ethical boundaries on AI is not optional—it is necessary.
 
+Giattino, C., Mathieu, E., Samborska, V. and Roser, M. (2023). _Artificial Intelligence_. [online] Our World in Data. Available at: https://ourworldindata.org/artificial-intelligence.
+
 ![Investment Chart](corporate-investment-in-artificial-intelligence-by-type.png)
 Roser, M. (2023). _Artificial Intelligence Has Advanced despite Having Few Resources Dedicated to Its Development – Now Investments Have Increased Substantially_. \[online\] Our World in Data. Available at: https://ourworldindata.org/ai-investments \[Accessed 11 Mar. 2026\].
 ### What you should know about this chart
