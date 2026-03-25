@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "b9f870c92ccd112a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
+          },
+          {
             "id": "30d40574e18c88be",
             "type": "leaf",
             "state": {
@@ -67,7 +79,8 @@
               "title": "Orion Script Presentation v1.0"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,7 +263,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ec00e6776415b75b",
+  "active": "b9f870c92ccd112a",
   "lastOpenFiles": [
     "Year 2 - Semester 2/3 - Emerging Technologies/Documents/Assessment 1 - Draft 1.md",
     "Year 2 - Semester 2/3 - Emerging Technologies/Documents/Assessment 1 - Draft 2.md",
