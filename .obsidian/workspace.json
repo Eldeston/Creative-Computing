@@ -32,27 +32,27 @@
             }
           },
           {
-            "id": "b9f870c92ccd112a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
-          },
-          {
             "id": "30d40574e18c88be",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 1.pdf"
+                "file": "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Obsidian - A Note Taking App Analysis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Mobile App Development - Lesson 1"
+              "icon": "lucide-file",
+              "title": "Obsidian - A Note Taking App Analysis"
             }
           },
           {
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -263,14 +263,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b9f870c92ccd112a",
+  "active": "2e8cbe988203e2a9",
   "lastOpenFiles": [
-    "Year 2 - Semester 2/3 - Emerging Technologies/Documents/Assessment 1 - Draft 1.md",
-    "Year 2 - Semester 2/3 - Emerging Technologies/Documents/Assessment 1 - Draft 2.md",
+    "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Obsidian - A Note Taking App Analysis.md",
     "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 1.pdf",
+    "Year 2 - Semester 2/3 - Emerging Technologies/Documents/Assessment 1 - Draft 2.md",
+    "Year 2 - Semester 2/3 - Emerging Technologies/Documents/Assessment 1 - Draft 1.md",
     "Year 2 - Semester 2/3 - Emerging Technologies/Documents/Assessment 1 - Live Debate.md",
     "Year 2 - Semester 2/2 - Creative Industry/Documents/Orion Script Presentation v1.0.md",
-    "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Obsidian - A Note Taking App Analysis.md",
     "Year 2 - Semester 2/1 - Mobile App Dev/Class 13 - Mobile App Dev.md",
     "Year 2 - Semester 2/2 - Creative Industry/Documents",
     "Year 2 - Semester 2/2 - Creative Industry/Untitled.md",
