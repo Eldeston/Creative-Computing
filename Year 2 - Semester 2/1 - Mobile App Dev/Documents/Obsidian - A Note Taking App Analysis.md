@@ -17,9 +17,7 @@ The common problem with modern notetaking apps is that these notes can be easily
 
 Obsidian solves both problems by using Markdown. Markdown is an open text file format that can be accessed as plaintext and ends in .md. Meaning it can be accessed by any ordinary text editor. It also exists as a file that can be easily transferred via cloud and can be accessed in any device completely offline.
 
-## History of Markdown
-
-
+## ~~History of Markdown~~
 
 # Aesthetics - How does it look?
 
