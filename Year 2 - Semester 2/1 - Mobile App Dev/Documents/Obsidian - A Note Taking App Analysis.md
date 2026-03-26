@@ -1,7 +1,12 @@
 # Introduction
-Obsidian is a note taking app that utilizes Markdown.
+
+Obsidian is a highly customizable note taking app that utilizes Markdown to write down notes efficiently.
+
 # Purpose - Who is it for?
 ## Targeted Audience
+
+Obsidian can be for individuals who are new to note writing but want a more robust and customizable experience. Obsidian can also be for programmers who've had experience with documentation with Markdown in Github.
+
 ## Problem & Solution
 ## History of Markdown
 # Aesthetics - How does it look?
