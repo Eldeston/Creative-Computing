@@ -1,6 +1,6 @@
 # Introduction
 
-Obsidian is a free, powerful, and customizable note taking app that utilizes Markdown to write down notes efficiently. Note takers write their notes using the Markdown pipeline to write efficiently while offering great customization.
+Obsidian. Obsidian is a free, powerful, and customizable note taking app that utilizes Markdown to write down notes . Note takers write their notes using the Markdown pipeline to write efficiently while offering great customization.
 
 Obsidian offers a wide variety of features to the user on top of the existing Markdown pipeline. The Markdown pipeline features basic styles for text as well as for 6 heading levels, unordered and ordered lists, quotation blocks, code blocks, tables, and more. The key feature of Obsidian is its graph view, similar to a mind map which will be discussed later.
 
