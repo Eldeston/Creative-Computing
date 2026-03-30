@@ -30,30 +30,6 @@
               "icon": "lucide-file",
               "title": "Obsidian - A Note Taking App Analysis"
             }
-          },
-          {
-            "id": "2e8cbe988203e2a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2 - Semester 2/2 - Creative Industry/Documents/Orion Script Presentation v1.0.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Orion Script Presentation v1.0"
-            }
           }
         ]
       }
@@ -112,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "30cd0d9ae5a340a6",
@@ -240,9 +217,9 @@
   },
   "active": "ec00e6776415b75b",
   "lastOpenFiles": [
-    "Year 2 - Semester 2/3 - Emerging Technologies/Documents/Assessment 1 - Draft 2.md",
     "Year 2 - Semester 2/2 - Creative Industry/Documents/Orion Script Presentation v1.0.md",
     "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Obsidian - A Note Taking App Analysis.md",
+    "Year 2 - Semester 2/3 - Emerging Technologies/Documents/Assessment 1 - Draft 2.md",
     "Year 2 - Semester 2/1 - Mobile App Dev/Documents/Mobile App Development - Lesson 1.pdf",
     "Year 2 - Semester 2/3 - Emerging Technologies/Documents/Assessment 1 - Draft 1.md",
     "Year 2 - Semester 2/3 - Emerging Technologies/Documents/Assessment 1 - Live Debate.md",
