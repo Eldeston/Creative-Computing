@@ -2,34 +2,44 @@
 
 Obsidian. Obsidian is a free, powerful, and customizable note taking app that utilizes Markdown to write down notes . Note takers write their notes using the Markdown pipeline to write efficiently while offering great customization.
 
-Obsidian offers a wide variety of features to the user on top of the existing Markdown pipeline. The Markdown pipeline features basic styles for text as well as for 6 heading levels, unordered and ordered lists, quotation blocks, code blocks, tables, and more. The key feature of Obsidian is its graph view, similar to a mind map which will be discussed later.
-
 Obsidian is available in iOS, Android, Mac, Windows, and Linux systems. Obsidian has paid plans for device synchronization cross platform. Obsidian can use plugins to add on top of the existing features Obsidian has or make one yourself anywhere on any device.
 
 # Purpose - Who is it for?
 ## Targeted Audience
 
-Obsidian can be for individuals who are new to note writing but want a more robust and customizable experience. Obsidian can also be for programmers who've had experience with documentation with Markdown in Github.
+Obsidian can be for individuals who are new to note writing but want a more customization. Obsidian can also be for programmers who've had experience with documentation with Markdown in Github.
 
-## Problem & Solution
+## Problem
 
-The common problem with modern notetaking apps is that these notes can be easily lost when you move into a new device or platform. Users would have to move them manually before they completely move on to their new device. Modern notetaking apps also often keep notes online, making them inaccessible offline. Another problem is the format. There was no universal format for note taking apps. In other words, you'd require an external app to open an read the notes.
+The common problem with modern notetaking apps is that these notes can be easily lost when you move into a new device or platform. Users would have to move them manually before they completely move on to their new device. These apps often keep notes online, making them inaccessible offline. Another problem is that there was no universal file format for notes. In other words, you'd require a specific app to open and read the notes.
 
-Obsidian solves both problems by using Markdown. Markdown is an open text file format that can be accessed as plaintext and ends in .md. Meaning it can be accessed by any ordinary text editor. It also exists as a file that can be easily transferred via cloud and can be accessed in any device completely offline.
+## Solution
 
-## ~~History of Markdown~~
+Obsidian solves both through Markdown. Markdown is an open text file format that can be accessed as plaintext . It can be accessed by any ordinary text editor. It also exists as a file that can be easily transferred via cloud and can be accessed in any device completely offline.
+
+Obsidian also brings other features to the table. Key features such as its canvas view, command palette, and its graph view which gives users more ways to organize their notes and formulate ideas.
 
 # Aesthetics - How does it look?
 
+Obsidian's aesthetics offers great customization thanks to its Markdown pipeline. Because of the Markdown pipeline, the texts can be easily styled and sized appropriately across different device layouts.
+
+On top of this, it also offers great customization options for the user through downloadable themes made by Obsidian or creators from its community. The themes can be installed and used for each Obsidian vault allowing separate themes for separate workspaces. Obsidian offers all these customization options while also offering a plug-and-play setup.
+
 # Architecture - What is its layout?
+
+Obsidian maintains consistent aesthetics while optimizing for screen size for accessibility purposes. For tablets, while similar to desktop view, the file drawer is opened by default  to get an overview of your notes and can be opened or closed while writing. For phones, the drawer is closed and the writing view is optimized to use the entire screen. Both devices are optimized for touch gestures.
+
+## Note Menu
+
+Obsidian is optimized to use a responsive layout for mobile, tablets, and desktop screens. For mobile phones, it features a drawer button to access all your notes. It also features reading mode and menu options for the note that you're editing in.
+
 ## Navigation Menu
-# ~~Function - Does it work?~~
-## Touch Gesture
-## User Guidance
+
+Obsidian also features a navigation menu for your note that lets you search for keywords, seeing previously opened notes, and creating a new note. The navigation menu also lets you open/create other interfaces such as your canvas view, graph view, base view, your daily notes, inserting templates, or the command palette.
 
 # Conclusion
 
-I use Obsidian as a daily drive on my Windows laptop and my Android phone to write notes during class especially when it comes to documentation and programming. My notes can synchronize across devices via Github without the need to pay for the Obsidian's sync service. The script for this video is made with Obsidian too.
+I use Obsidian as a daily drive on my Windows laptop and my Android phone to write notes during class especially when it comes to documentation and programming. My notes can synchronize across devices via Github without the need to pay for the Obsidian's sync service. Overall Obsidian is a great tool for dumping all your ideas and organizing them later to form links and references with other ideas.
 
 ---
 # 3 Dimensions
