@@ -1,6 +1,6 @@
 # Introduction
 
-Obsidian. Obsidian is a free, powerful, and customizable note taking app that utilizes Markdown to write down notes . Note takers write their notes using the Markdown pipeline to write efficiently while offering great customization. Obsidian is available in iOS, Android, Mac, Windows, and Linux systems.
+Obsidian. Obsidian is a free, powerful, and customizable note taking app that utilizes Markdown to write down notes. Note takers write their notes using the Markdown pipeline to write efficiently while offering great customization. Obsidian is available in iOS, Android, Mac, Windows, and Linux systems.
 
 # Purpose - Who is it for?
 ## Targeted Audience
