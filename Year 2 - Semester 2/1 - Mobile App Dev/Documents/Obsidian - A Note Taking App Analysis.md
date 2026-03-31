@@ -39,6 +39,9 @@ Obsidian also features a navigation menu for your note that lets you search for 
 
 I use Obsidian as a daily drive on my Windows laptop and my Android phone to write notes during class especially when it comes to documentation and programming. Overall Obsidian is a great tool for dumping all your ideas and organizing them later to form links and references with other ideas as well as remembering all the important points your professors made during class.
 
+> [!NOTE]
+> Don't have a tablet, have this desktop view instead.
+
 ---
 # 3 Dimensions
 - Architecture: Describe the architecture. How is the overall design and flow of the app constructed? Are there any elements that seem out of place? 
