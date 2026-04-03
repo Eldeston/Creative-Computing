@@ -1,7 +1,7 @@
 ---
 tags:
   - incomplete
-date: 2026-02-25
+date: 2026-04-01
 teacher: Mr. Oliver
 ---
 # Creative Industry Challenges 6

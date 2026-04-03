@@ -1,10 +1,10 @@
 ---
 tags:
   - incomplete
-date: 2026-03-31
-teacher: Mr. Oliver
+date: 2026-04-02
+teacher: Ms. Zainab
 ---
-# Mobile App Dev 6
+# Emerging Technologies 5
 
 
 ----------------------------------------------------------------
