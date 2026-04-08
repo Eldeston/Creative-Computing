@@ -5,3 +5,8 @@
 ## April 27 - Onwards
 # Managed Game
 ## Chess
+# Collaborated With BSU
+## Hosted on Weekends
+
+- We need a livestream hoster
+- Schedules will be listed on Challonges
