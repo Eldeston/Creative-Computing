@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "Clash of Champions 2026 - BSU x MATI Collab eSports"
             }
+          },
+          {
+            "id": "4c38eb89d16de5c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2 - Semester 2/2 - Creative Industry/Documents/FDR Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "FDR Notes"
+            }
           }
         ]
       }
@@ -88,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "30cd0d9ae5a340a6",
@@ -216,15 +241,15 @@
   },
   "active": "2c439adb668db98a",
   "lastOpenFiles": [
-    "Important/Metaverse Training Institute - Recorded Transcript.md",
     "Year 2 - Semester 2/2 - Creative Industry/Documents/FDR Notes.md",
+    "Important/Clash of Champions 2026 - BSU x MATI Collab eSports.md",
+    "Important/Metaverse Training Institute - Recorded Transcript.md",
     "Year 2 - Semester 2/2 - Creative Industry/Documents/Pasted image 20260409124934.png",
     "Year 2 - Semester 2/2 - Creative Industry/Documents/Orion Script Presentation v1.0.md",
     "Year 2 - Semester 2/2 - Creative Industry/Class 11 - Creative Industry Challenges.md",
     "Year 2 - Semester 2/2 - Creative Industry/Class 14 - Creative Industry Challenges.md",
     "Year 2 - Semester 2/2 - Creative Industry/Class 17 - Creative Industry Challenges.md",
     "Year 2 - Semester 2/2 - Creative Industry/Class 08 - Creative Industry Challenges.md",
-    "Important/Clash of Champions 2026 - BSU x MATI Collab eSports.md",
     "Creative Computing Club/404 Found SMP Proposal.md",
     "Year 2 - Semester 2/3 - Emerging Technologies/Class 18 - Emerging Technologies 1.md",
     "Year 2 - Semester 2/3 - Emerging Technologies/Class 12 - Emerging Technologies.md",
