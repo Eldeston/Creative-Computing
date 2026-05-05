@@ -15,13 +15,14 @@ Core mods that are required to join the server.
 | Cobblemon Fight or Flight Reborn                       |        |
 | Cobblemon Integrations                                 |        |
 | Cobblemon Journey Mounts                               |        |
+| Cobblemon Leaderboards                                 |        |
 | Cobblemon Pokemon Badges                               |        |
 | Cobblemon Pokenav                                      |        |
 | Cobblemon Raid Dens                                    |        |
 | Cobblemon Size Variation                               |        |
 | Cobblemon: Legends Untold                              |        |
 | Cobblemon: Mega Showdown                               |        |
-| Complete Cobblemon Collection w Legendary Spawns       |        |
+| Complete Cobblemon Collection w/ Legendary Spawns      |        |
 | Corpse                                                 |        |
 | Create                                                 |        |
 | Create: Central Kitchen                                |        |
@@ -50,38 +51,39 @@ Core mods that are required to join the server.
 ## Client Only Default Mods
 Optional mods to enhance gameplay.
 
-| Client Mods                                | Status |
-| ------------------------------------------ | ------ |
-| AmbientSounds                              |        |
-| BetterF3                                   |        |
-| Chat Heads                                 |        |
-| Cobblemon Battle Extras                    |        |
-| Controlling                                |        |
-| Cubes Without Borders                      |        |
-| Discord & Chat Images                      |        |
-| Distant Horizons                           |        |
-| Distraction Free Recipes (EMI / REI / JEI) |        |
-| EMI                                        |        |
-| Fancy World Animations                     |        |
-| FancyMenu                                  |        |
-| Freecam                                    |        |
-| Iris                                       |        |
-| Jade                                       |        |
-| Jade Addons                                |        |
-| Just Zoom                                  |        |
-| LambDynamicLights                          |        |
-| MoreCobblemonTweaks                        |        |
-| Particular Reforged                        |        |
-| Raised                                     |        |
-| Reese’s Sodium Options                     |        |
-| Reforgedplaymod                            |        |
-| Screenshot Viewer                          |        |
-| Searchables                                |        |
-| Sound Physics Remastered                   |        |
-| Wakes Reforged                             |        |
-| Xaero’s Minimap                            |        |
-| Xaero’s World Map                          |        |
-| XaeroPlus                                  |        |
+| Client Mods              | Status |
+| ------------------------ | ------ |
+| AmbientSounds            |        |
+| BetterF3                 |        |
+| Chat Heads               |        |
+| Cobblemon Battle Extras  |        |
+| Controlling              |        |
+| Cubes Without Borders    |        |
+| Discord & Chat Images    |        |
+| Distant Horizons         |        |
+| EMI                      |        |
+| Fancy World Animations   |        |
+| FancyMenu                |        |
+| Freecam                  |        |
+| Iris                     |        |
+| Jade                     |        |
+| Jade Addons              |        |
+| Just Zoom                |        |
+| LambDynamicLights        |        |
+| MoreCobblemonTweaks      |        |
+| Particular Reforged      |        |
+| Raised                   |        |
+| Reese’s Sodium Options   |        |
+| Reforgedplaymod          |        |
+| RenderScale              |        |
+| Screenshot Viewer        |        |
+| Searchables              |        |
+| Simple Voice Chat        |        |
+| Sound Physics Remastered |        |
+| Wakes Reforged           |        |
+| Xaero’s Minimap          |        |
+| Xaero’s World Map        |        |
+| XaeroPlus                |        |
 
 ## Server Only Default Mods
 Optional mods to match singleplayer gameplay with server gameplay.
@@ -123,21 +125,22 @@ Optimization mods that are required on both client & server.
 ## Client Only Optimization Mods
 Optimization mods that are required on client only. Cannot be installed on server because of redundancy.
 
-| Client Mods                       | Status |
-| --------------------------------- | ------ |
-| BadOptimizations                  |        |
-| Better Biome Reblend              |        |
-| Colorwheel                        |        |
-| Colorwheel Patcher                |        |
-| CreateBetterFps                   |        |
-| Dynamic FPS                       |        |
-| Enhanced Block Entities NEOFORGED |        |
-| Entity Culling                    |        |
-| ImmediatelyFast                   |        |
-| More Culling                      |        |
-| Particle Core                     |        |
-| Sodium                            |        |
-| Sodium Extra                      |        |
+| Client Mods                                | Status |
+| ------------------------------------------ | ------ |
+| BadOptimizations                           |        |
+| Better Biome Reblend                       |        |
+| Colorwheel                                 |        |
+| Colorwheel Patcher                         |        |
+| CreateBetterFps                            |        |
+| Distraction Free Recipes (EMI / REI / JEI) |        |
+| Dynamic FPS                                |        |
+| Enhanced Block Entities NEOFORGED          |        |
+| Entity Culling                             |        |
+| ImmediatelyFast                            |        |
+| More Culling                               |        |
+| Particle Core                              |        |
+| Sodium                                     |        |
+| Sodium Extra                               |        |
 
 ## Server Only Optimization Mods
 Optimization mods that are required on server only. Can be installed for pure singleplayer performance.

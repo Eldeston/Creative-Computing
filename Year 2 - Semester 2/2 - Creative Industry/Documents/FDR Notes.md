@@ -8,7 +8,6 @@
 - Color Palette provided by FDR
 
 # May 6!
-
 Fill, Dave, Rose
 
 # Visit?

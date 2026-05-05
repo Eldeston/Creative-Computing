@@ -135,6 +135,7 @@
 | Searchables                                            |                             |
 | Server Core                                            |                             |
 | ShatterLib \| OctoLib                                  |                             |
+| Simple Voice Chat                                      |                             |
 | Skin Restorer                                          |                             |
 | Sodium                                                 |                             |
 | Sodium Extra                                           |                             |
