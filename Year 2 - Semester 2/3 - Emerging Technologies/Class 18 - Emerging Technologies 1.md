@@ -27,7 +27,21 @@ teacher: Ms. Zainab
 	- Social Media
 	- Games
 # Dialogflow Agent
-Dungeons & Dragons
+
+## Intents
+
+- Fallback
+- Default
+- Timings
+- Buy
+- Sell
+
+## Entities
+
+- RAM
+- SSD
+- GPU
+- CPU
 # Outline Structure
 
 **I. Introduction**
