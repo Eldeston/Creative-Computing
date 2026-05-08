@@ -15,11 +15,15 @@ teacher: Ms. Zainab
 - [How-To Videos | Tableau Public](https://public.tableau.com/app/learn/how-to-videos)
 - [Find Open Datasets for AI and Research | Kaggle](https://www.kaggle.com/datasets)
 # Topics 2 Pick
-- [Global installed renewable energy capacity by technology](https://ourworldindata.org/grapher/installed-global-renewable-energy-capacity-by-technology)
-- [Chile produced 9.4% of its primary energy from solar in 2023 — the highest in any country that year - Our World in Data](https://ourworldindata.org/data-insights/chile-produced-94-of-its-primary-energy-from-solar-in-2023-the-highest-in-any-country-that-year)
+- [History of Technology Timeline | Evolution, Digital, Medical, Information, Education, & Communication | Britannica](https://www.britannica.com/story/history-of-technology-timeline)
+
+- [Computational capacity of the fastest supercomputers](https://ourworldindata.org/grapher/supercomputer-power-flops)
+- [Historical price of computer memory and storage](https://ourworldindata.org/grapher/historical-cost-of-computer-memory-and-storage)
 - [Adoption of communication technologies per 100 people, World](https://ourworldindata.org/grapher/ict-adoption-per-100-people)
 - [India went from 15% to 70% Internet access in a decade, mostly through mobile phones - Our World in Data](https://ourworldindata.org/data-insights/india-went-from-15-to-70-internet-access-in-a-decade-mostly-through-mobile-phones)
 - [The brief history of artificial intelligence: the world has changed fast — what might be next? - Our World in Data](https://ourworldindata.org/brief-history-of-ai)
+
+- [Global installed renewable energy capacity by technology](https://ourworldindata.org/grapher/installed-global-renewable-energy-capacity-by-technology)
 
 - Technology
 	- Mobiles
