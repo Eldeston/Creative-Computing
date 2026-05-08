@@ -16,14 +16,15 @@ teacher: Ms. Zainab
 - [Find Open Datasets for AI and Research | Kaggle](https://www.kaggle.com/datasets)
 # Topics 2 Pick
 - [History of Technology Timeline | Evolution, Digital, Medical, Information, Education, & Communication | Britannica](https://www.britannica.com/story/history-of-technology-timeline)
+- [SEA-ME-WE 3 - Wikipedia](https://en.wikipedia.org/wiki/SEA-ME-WE_3)
+- [Optical fiber - Wikipedia](https://en.wikipedia.org/wiki/Optical_fiber)
+- [Dubai Fountain, The Dancing Water Fountain – UAE - Traveldigg.com](https://traveldigg.com/dubai-fountain/)
 
-- [Computational capacity of the fastest supercomputers](https://ourworldindata.org/grapher/supercomputer-power-flops)
-- [Historical price of computer memory and storage](https://ourworldindata.org/grapher/historical-cost-of-computer-memory-and-storage)
-- [Adoption of communication technologies per 100 people, World](https://ourworldindata.org/grapher/ict-adoption-per-100-people)
-- [India went from 15% to 70% Internet access in a decade, mostly through mobile phones - Our World in Data](https://ourworldindata.org/data-insights/india-went-from-15-to-70-internet-access-in-a-decade-mostly-through-mobile-phones)
-- [The brief history of artificial intelligence: the world has changed fast — what might be next? - Our World in Data](https://ourworldindata.org/brief-history-of-ai)
-
-- [Global installed renewable energy capacity by technology](https://ourworldindata.org/grapher/installed-global-renewable-energy-capacity-by-technology)
+- [x] [Computational capacity of the fastest supercomputers](https://ourworldindata.org/grapher/supercomputer-power-flops)
+- [x] [Historical price of computer memory and storage](https://ourworldindata.org/grapher/historical-cost-of-computer-memory-and-storage)
+- [x] [Adoption of communication technologies per 100 people, World](https://ourworldindata.org/grapher/ict-adoption-per-100-people)
+- [x] [Computation used to train notable artificial intelligence systems, by domain](https://ourworldindata.org/grapher/artificial-intelligence-training-computation?time=1950-07-02..2026-02-17)
+- [x] [Artificial intelligence: Performance on knowledge tests vs. training computation](https://ourworldindata.org/grapher/ai-performance-knowledge-tests-vs-training-computation)
 
 - Technology
 	- Mobiles
