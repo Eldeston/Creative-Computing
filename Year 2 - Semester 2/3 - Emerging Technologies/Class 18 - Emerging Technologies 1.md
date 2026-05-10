@@ -40,20 +40,103 @@ teacher: Ms. Zainab
 	- Games
 # Dialogflow Agent
 
-## Intents
+```mermaid
+flowchart TB
 
-- Fallback
-- Default
-- Timings
-- Buy
-- Sell
+    %% =========================
+    %% INTENTS (VERTICAL GROUP)
+    %% =========================
 
-## Entities
+    subgraph INTENTS[Intents]
+    
+        direction TB
 
-- RAM
-- SSD
-- GPU
-- CPU
+        B["Default Intent"]
+        C["Fallback Intent"]
+
+        D["Sell Intent\nexpects @sell_item"]
+        
+            D1["Sell PC Intent\nexpects @pc"]
+            D1A["Fulfillment Action:\nFetch PC Price"]
+            D1 --> D1A
+
+            D2["Sell Component Intent\nexpects @component"]
+            D2A["Fulfillment Action:\nFetch Component Price"]
+            D2 --> D2A
+
+        D --> D1
+        D --> D2
+
+        E["Order Intent\nexpects @order_item"]
+        
+            E1["Buy PC Intent\nexpects @pc"]
+            E1A["Fulfillment Action:\nFetch PC Product"]
+            E1 --> E1A
+
+            E2["Buy Component Intent\nexpects @component"]
+            E2A["Fulfillment Action:\nFetch Component Product"]
+            E2 --> E2A
+
+        E --> E1
+        E --> E2
+
+    end
+
+    %% =========================
+    %% ENTITIES (VERTICAL GROUP)
+    %% =========================
+
+    subgraph ENTITIES[Entities]
+    
+        direction TB
+
+        G["PC"]
+
+            G1["Gaming PC"]
+            G2["Home PC"]
+            G3["Old PC"]
+            G4["Office PC"]
+
+            G --> G1
+            G --> G2
+            G --> G3
+            G --> G4
+
+        H["Components"]
+
+            H1["RAM"]
+            H2["SSD"]
+            H3["CPU"]
+            H4["GPU"]
+
+            H --> H1
+            H --> H2
+            H --> H3
+            H --> H4
+
+        I["Sell Items"]
+
+            I1["PC"]
+            I2["Component"]
+
+            I --> I1
+            I --> I2
+
+  
+
+        J["Order Items"]
+
+            J1["PC"]
+            J2["Component"]
+
+            J --> J1
+            J --> J2
+
+    end
+
+    %% CONNECT INTENTS TO ENTITIES BLOCK
+    INTENTS --> ENTITIES
+```
 # Outline Structure
 
 **I. Introduction**
