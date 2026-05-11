@@ -40,3 +40,20 @@
 | **Dajuan Lorbes**             | Maudric Mitchel Baring Patalinghug | Bobdolomew       | _(none)_               | 0561121901      |
 | **Jael Inigo Data Reyes**     | Aidan Matthew Data Tayag           | Robuxcheesepizza | Planet_of_the_apes1234 | 0523687881      |
 | **Joshua Gabriel Data Reyes** | Aidan Matthew Data Tayag           | Krxls            | _(none)_               | 0503045799      |
+
+- Updated **ModernFix** to **5.27.4+mc1.21.1**
+- Updated **Distant Horizons** to **3.0.2-b-1.21.1**
+- Updated **Sophisticated Core** to **1.21.1-1.4.35.1823**
+- Updated **Moonlight Lib** to **1.21.1-3.0.4**
+- Updated **Lootr** to **1.21.1-1.11.37.119**
+- Updated **Fancy World Animations** to **1.2.15.1**
+- Updated **AmbientSounds** to **6.3.7**
+- Updated **XaeroPlus** to **2.31.1+neoforge-1.21.1**
+- Updated **Waystones** to **21.1.30+neoforge-1.21.1**
+- Updated **Balm** to **21.0.57+neoforge-1.21.1**
+- Updated **Colorwheel** to **1.2.4+mc1.21.1**
+- Updated **Simple Voice Chat** to **1.21.1-2.6.16**
+- Updated **Entity Culling** to **1.10.1**
+- Updated **Xaero's World Map** to **1.21.1-1.40.11**
+- Updated **Xaero's Minimap** to **1.21.1-25.3.10**
+- Updated **ShatterLib / OctoLib** to **0.6.1**
