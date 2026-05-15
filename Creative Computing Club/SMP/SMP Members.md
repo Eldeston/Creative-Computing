@@ -57,3 +57,61 @@
 - Updated **Xaero's World Map** to **1.21.1-1.40.11**
 - Updated **Xaero's Minimap** to **1.21.1-25.3.10**
 - Updated **ShatterLib / OctoLib** to **0.6.1**
+
+| Invitee                     |
+| --------------------------- |
+| rokysalt                    |
+| XDKaioden                   |
+| shikinburger                |
+| Katrus                      |
+| TAWASMAFIA                  |
+| mysticpenguin21             |
+| Ro_obin                     |
+| sw_n_                       |
+| r_alp                       |
+| MikezDaR0N1N                |
+| Bobdolomew                  |
+| Robuxcheesepizza            |
+| Krxls                       |
+| Jezyplaze                   |
+| Jezyplaze3207 (Alt Account) |
+| Vvvhiv                      |
+| edgelordrequiem             |
+| ClammySaltPP                |
+| KickeBoxeBanana             |
+| Peckinetic                  |
+
+| Students        |
+| --------------- |
+| Sch1z07         |
+| shia            |
+| SevPhynx        |
+| JamBloxify      |
+| Peapau          |
+| Eldeston        |
+| spunkert_       |
+| Mayoidasu       |
+| ely.qtyy        |
+| ainslvr         |
+| winter          |
+| Bonatly         |
+| F1mmie          |
+| Twodragon786    |
+| KazuyoMC        |
+| Mellowchromical |
+| beansebrrr      |
+| TuRnIpMaybe     |
+| HeroicMiner     |
+| TheAnonymousMau |
+| Sectorskuller   |
+| Milk_monkey     |
+| Jezyplaze       |
+| TheSupplier     |
+| kyloei          |
+| C4yr3x3         |
+| N/A (???)       |
+| maehii          |
+| Altah1r         |
+| Trobz22         |
+| Aydee_01        |
+| hopii_          |
